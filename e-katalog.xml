@@ -1,4 +1,4 @@
-<yml_catalog date="2023-02-27 13:35">
+<yml_catalog date="2023-02-28 11:35">
 <shop>
 <name>TeraFlops Store</name>
 <url>https://tera-flops.com.ua/</url>
@@ -9,6 +9,7 @@
 <categories>
 <category id="85328850">Комплектуючі для ПК</category>
 <category id="85328986" parentId="85328850">Відеокарти</category>
+<category id="85364244" parentId="85328850">Материнські плати</category>
 </categories>
 <offers>
 <offer id="1641506541" available="true">
@@ -19,8 +20,8 @@
 <picture>https://www.gigabyte.com/FileUpload/Global/KeyFeature/1763/innergigabyteimages/kf-img.png</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<brand>Gigabyte</brand>
 <name>Відеокарта AMD Radeon RX 6700 XT 12GB GIGABYTE EAGLE (GV-R67XTEAGLE-12GD)</name>
+<vendor>Gigabyte</vendor>
 <vendorCode>GV-R67XTEAGLE-12GD</vendorCode>
 <guarantee type="shop">24 міс</guarantee>
 </offer>
@@ -32,8 +33,8 @@
 <picture>https://www.manli.com/upload/2020/11/03/s[1]_1nx5fez0sdgbr1604381965.png</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<brand>Manli</brand>
 <name>Відеокарта RTX 3090 24GB Manli (M-NRTX3090/6RHHPPP-M3478)</name>
+<vendor>Manli</vendor>
 <vendorCode>M-NRTX3090/6RHHPPP-M3478</vendorCode>
 <guarantee type="shop">24 міс</guarantee>
 </offer>
@@ -45,8 +46,8 @@
 <picture>https://content.rozetka.com.ua/goods/images/big/244885518.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<brand>PNY</brand>
 <name>Відеокарта RTX 3060 Ti 8GB PNY REVEL EPIC-X RGB (VCG3060T8LDFXPPB)</name>
+<vendor>PNY</vendor>
 <vendorCode>VCG3060T8LDFXPPB</vendorCode>
 <guarantee type="shop">24 міс</guarantee>
 </offer>
@@ -58,8 +59,8 @@
 <picture>https://hotline.ua/img/tx/286/2867428785.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<brand>Gigabyte</brand>
 <name>Відеокарта RTX 3070 8GB GIGABYTE AORUS MASTER (GV-N3070AORUS M-8GD)</name>
+<vendor>Gigabyte</vendor>
 <vendorCode>GV-N3070AORUS M-8GD</vendorCode>
 <guarantee type="shop">24 міс</guarantee>
 </offer>
@@ -71,8 +72,8 @@
 <picture>https://img.moyo.ua/img/gallery/5235/44/1553042_middle.jpg?1676879021</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<brand>MSI</brand>
 <name>Відеокарта RTX 3060 12GB MSI GAMING Z TRIO (912-V390-255)</name>
+<vendor>MSI</vendor>
 <vendorCode>912-V390-255</vendorCode>
 <guarantee type="shop">24 міс</guarantee>
 </offer>
@@ -84,8 +85,8 @@
 <picture>https://www.inno3d.com/assets/files/product_image/image/3060TiX2_set_v2.png</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<brand>Inno3D</brand>
 <name>Відеокарта RTX 3060 TI 8GB Inno3D Twin X2 (N306T2-08D6X-119032)</name>
+<vendor>Inno3D</vendor>
 <vendorCode>N306T2-08D6X-119032</vendorCode>
 <guarantee type="shop">24 міс</guarantee>
 </offer>
@@ -97,8 +98,8 @@
 <picture>https://dlcdnwebimgs.asus.com/gain/e4ae0c15-6bd8-482b-aa5b-47506dff16fc/</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<brand>Asus</brand>
 <name>Відеокарта RTX 3060 Ti 8GB Asus Dual Mini (DUAL-RTX30TI-8G-MINI-V2)</name>
+<vendor>Asus</vendor>
 <vendorCode>DUAL-RTX3060TI-8G-MINI-V2</vendorCode>
 <guarantee type="shop">24 міс</guarantee>
 </offer>
@@ -110,9 +111,152 @@
 <picture>https://gzhls.at/i/42/88/2664288-n0.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<brand>Palit</brand>
 <name>Відеокарта RTX 3080 10GB Palit GAMINGPRO (NED3080019IA-132AA)</name>
+<vendor>Palit</vendor>
 <vendorCode>NED3080019IA-132AA</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
+<offer id="1641745560" available="true">
+<url>https://tera-flops.com.ua/ua/p1641745560-materinska-plata-msi.html</url>
+<price>4580</price>
+<currencyId>UAH</currencyId>
+<categoryId>85364244</categoryId>
+<picture>https://content.rozetka.com.ua/goods/images/big/247626965.png</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Материнська плата MSI PRO B660M-G DDR4 1700 (PRO B660M-G DDR4)</name>
+<vendor>MSI</vendor>
+<vendorCode>PRO B660M-G DDR4</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
+<offer id="1673510567" available="true">
+<url>https://tera-flops.com.ua/ua/p1673510567-materinska-plata-gigabyte.html</url>
+<price>3980</price>
+<currencyId>UAH</currencyId>
+<categoryId>85364244</categoryId>
+<picture>https://content.rozetka.com.ua/goods/images/big/56496588.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Материнська плата GIGABYTE B450 AORUS ELITE V2 (B450 AORUS ELITE V2)</name>
+<vendor>Gigabyte</vendor>
+<vendorCode>B450 AORUS ELITE V2</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
+<offer id="1673512466" available="true">
+<url>https://tera-flops.com.ua/ua/p1673512466-materinska-plata-gigabyte.html</url>
+<price>5010</price>
+<currencyId>UAH</currencyId>
+<categoryId>85364244</categoryId>
+<picture>https://content2.rozetka.com.ua/goods/images/big/121207676.png</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Материнська плата GIGABYTE B550 GAMING X V2 (B550 GAMING X V2)</name>
+<vendor>Gigabyte</vendor>
+<vendorCode>B550 GAMING X V2</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
+<offer id="1673524644" available="true">
+<url>https://tera-flops.com.ua/ua/p1673524644-materinska-plata-gigabyte.html</url>
+<price>6060</price>
+<currencyId>UAH</currencyId>
+<categoryId>85364244</categoryId>
+<picture>https://content1.rozetka.com.ua/goods/images/big/180835076.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Материнська плата GIGABYTE B550 AORUS ELITE V2 (B550 AORUS ELITE V2)</name>
+<vendor>Gigabyte</vendor>
+<vendorCode>B550 AORUS ELITE V2</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
+<offer id="1673529257" available="true">
+<url>https://tera-flops.com.ua/ua/p1673529257-materinska-plata-gigabyte.html</url>
+<price>5700</price>
+<currencyId>UAH</currencyId>
+<categoryId>85364244</categoryId>
+<picture>https://content1.rozetka.com.ua/goods/images/big/271257750.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Материнська плата GIGABYTE B660M GAMING X DDR4 (B660M GAMING X DDR4)</name>
+<vendor>Gigabyte</vendor>
+<vendorCode>B660M GAMING X DDR4</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
+<offer id="1683806132" available="true">
+<url>https://tera-flops.com.ua/ua/p1683806132-materinska-plata-asrock.html</url>
+<price>2490</price>
+<currencyId>UAH</currencyId>
+<categoryId>85364244</categoryId>
+<picture>https://photo.kvshop.com.ua/products/187/187394/asrock-h510m-hdv-r2-0.o.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Материнська плата ASRock H510M-HDV R2.0 Socket 1200 (H510M-HDV R2.0)</name>
+<vendor>ASRock</vendor>
+<vendorCode>H510M-HDV R2.0</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
+<offer id="1684881581" available="true">
+<url>https://tera-flops.com.ua/ua/p1684881581-materinskaya-plata-asus.html</url>
+<price>4190</price>
+<currencyId>UAH</currencyId>
+<categoryId>85364244</categoryId>
+<picture>https://content2.rozetka.com.ua/goods/images/big/246380538.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Материнская плата Asus Prime H610M-A D4 Socket 1700 (PRIME H610M-A D4)</name>
+<vendor>Asus</vendor>
+<vendorCode>PRIME H610M-A D4</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
+<offer id="1711254865" available="true">
+<url>https://tera-flops.com.ua/ua/p1711254865-materinska-plata-colorful.html</url>
+<price>3150</price>
+<currencyId>UAH</currencyId>
+<categoryId>85364244</categoryId>
+<picture>https://i.can.ua/images/700x700/goods/10609/10609033.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Материнська плата Colorful H610M-D M.2 V20 LGA 1700 (H610M-D M.2 V20)</name>
+<vendor>Colorful</vendor>
+<vendorCode>H610M-D M.2 V20</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
+<offer id="1734386251" available="true">
+<url>https://tera-flops.com.ua/ua/p1734386251-materinska-plata-asus.html</url>
+<price>2740</price>
+<currencyId>UAH</currencyId>
+<categoryId>85364244</categoryId>
+<picture>https://content.rozetka.com.ua/goods/images/big/180575730.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Материнська плата ASUS PRIME H510M-K Socket 1200 (PRIME H510M-K)</name>
+<vendor>Asus</vendor>
+<vendorCode>PRIME H510M-K</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
+<offer id="1734974166" available="true">
+<url>https://tera-flops.com.ua/ua/p1734974166-materinska-plata-asus.html</url>
+<price>2860</price>
+<currencyId>UAH</currencyId>
+<categoryId>85364244</categoryId>
+<picture>https://content2.rozetka.com.ua/goods/images/big/267410865.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Материнська плата Asus Prime H510M-R-SI Socket 1200 (PRIME H510M-R-SI)</name>
+<vendor>Asus</vendor>
+<vendorCode>PRIME H510M-R-SI</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
+<offer id="1766109763" available="true">
+<url>https://tera-flops.com.ua/ua/p1766109763-materinska-plata-asrock.html</url>
+<price>2500</price>
+<currencyId>UAH</currencyId>
+<categoryId>85364244</categoryId>
+<picture>https://www.asrock.com/mb/photo/H470M-HDV(M1).png</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Материнська плата ASRock H470M-HDV LGA 1200 (H470M-HDV)</name>
+<vendor>ASRock</vendor>
+<vendorCode>H470M-HDV</vendorCode>
 <guarantee type="shop">24 міс</guarantee>
 </offer>
 </offers>
