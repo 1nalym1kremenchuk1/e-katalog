@@ -246,6 +246,19 @@
 <vendorCode>H470M-HDV</vendorCode>
 <guarantee type="shop">24 міс</guarantee>
 </offer>
+<offer id="1641488880" available="true">
+<url>https://tera-flops.com.ua/ua/p1641488880-videokarta-amd-radeon.html</url>
+<price>17100</price>
+<currencyId>UAH</currencyId>
+<categoryId>85328986</categoryId>
+<picture>https://microtron.ua/image/cache/catalog/products/p230730-8762-700x700.png</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Відеокарта AMD Radeon RX 6600 XT 8GB GIGABYTE GAMING OC PRO (GV-R66XTGAMINGOC PRO-8GD)</name>
+<vendor>Gigabyte</vendor>
+<vendorCode>GV-R66XTGAMINGOC PRO-8GD</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
 </offers>
 </shop>
 </yml_catalog>
