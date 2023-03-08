@@ -285,6 +285,32 @@
 <vendorCode>DUAL-RX6600-8G</vendorCode>
 <guarantee type="shop">24 міс</guarantee>
 </offer>
+<offer id="1672986238" available="true">
+<url>https://tera-flops.com.ua/ua/p1672986238-videokarta-gigabyte-nvidia.html</url>
+<price>30930</price>
+<currencyId>UAH</currencyId>
+<categoryId>85328986</categoryId>
+<picture>https://content2.rozetka.com.ua/goods/images/big/288136584.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Відеокарта GIGABYTE nVIDIA RTX 3070TI 8GB DDR6X (GV-N307TEAGLE OC-8GD)</name>
+<vendor>Gigabyte</vendor>
+<vendorCode>GV-N307TEAGLE OC-8GD</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
+<offer id="1673038571" available="true">
+<url>https://tera-flops.com.ua/ua/p1673038571-videokarta-palit-rtx3070ti.html</url>
+<price>29230</price>
+<currencyId>UAH</currencyId>
+<categoryId>85328986</categoryId>
+<picture>https://hotline.ua/img/tx/282/2826300775.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Відеокарта PALIT RTX3070Ti GAMEROCK OC 8GB (NED307T19P2-1047G)</name>
+<vendor>Palit</vendor>
+<vendorCode>NED307TT19P2-1047G</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
 </offers>
 </shop>
 </yml_catalog>
