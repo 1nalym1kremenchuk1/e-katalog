@@ -311,19 +311,6 @@
 <vendorCode>NED307TT19P2-1047G</vendorCode>
 <guarantee type="shop">24 міс</guarantee>
 </offer>
-<offer id="1688945808" available="true">
-<url>https://tera-flops.com.ua/ua/p1688945808-videokarta-rtx-3060.html</url>
-<price>17300</price>
-<currencyId>UAH</currencyId>
-<categoryId>85328986</categoryId>
-<picture>https://content2.rozetka.com.ua/goods/images/big/292642936.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Відеокарта RTX 3060 12GB GIGABYTE (GV-N3060WF2OC-12GD)</name>
-<vendor>Gigabyte</vendor>
-<vendorCode>GV-N3060WF2OC-12GD</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
-</offer>
 </offers>
 </shop>
 </yml_catalog>
