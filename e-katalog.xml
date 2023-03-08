@@ -337,58 +337,6 @@
 <vendorCode>912-V397-051</vendorCode>
 <guarantee type="shop">24 міс</guarantee>
 </offer>
-<offer id="1688945808" available="true">
-<url>https://tera-flops.com.ua/ua/p1688945808-videokarta-rtx-3060.html</url>
-<price>17300</price>
-<currencyId>UAH</currencyId>
-<categoryId>85328986</categoryId>
-<picture>https://content2.rozetka.com.ua/goods/images/big/292642936.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Відеокарта RTX 3060 12GB GIGABYTE (GV-N3060WF2OC-12GD)</name>
-<vendor>Gigabyte</vendor>
-<vendorCode>GV-N3060WF2OC-12GD</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
-</offer>
-<offer id="1688962126" available="true">
-<url>https://tera-flops.com.ua/ua/p1688962126-videokarta-rtx-3060.html</url>
-<price>20270</price>
-<currencyId>UAH</currencyId>
-<categoryId>85328986</categoryId>
-<picture>https://hotline.ua/img/tx/244/2442548795.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Відеокарта RTX 3060 Ti 8GB Palit Dual (NE6306T019P2-190AD)</name>
-<vendor>Palit</vendor>
-<vendorCode>NE6306T019P2-190AD</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
-</offer>
-<offer id="1689025717" available="true">
-<url>https://tera-flops.com.ua/ua/p1689025717-videokarta-rtx-3070.html</url>
-<price>32480</price>
-<currencyId>UAH</currencyId>
-<categoryId>85328986</categoryId>
-<picture>https://static-media.laptopoutlet.co.uk/catalog/product/9/3/93809272_5547942892.jpg?store=default&image-type=image</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Відеокарта RTX 3070 Ti 8GB MSI Gaming X Trio (912-V505-011)</name>
-<vendor>MSI</vendor>
-<vendorCode>912-V505-011</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
-</offer>
-<offer id="1641506541" available="true">
-<url>https://tera-flops.com.ua/ua/p1641506541-videokarta-amd-radeon.html</url>
-<price>19890</price>
-<currencyId>UAH</currencyId>
-<categoryId>85328986</categoryId>
-<picture>https://www.gigabyte.com/FileUpload/Global/KeyFeature/1763/innergigabyteimages/kf-img.png</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Відеокарта AMD Radeon RX 6700 XT 12GB GIGABYTE EAGLE (GV-R67XTEAGLE-12GD)</name>
-<vendor>Gigabyte</vendor>
-<vendorCode>GV-R67XTEAGLE-12GD</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
-</offer>
 </offers>
 </shop>
 </yml_catalog>
