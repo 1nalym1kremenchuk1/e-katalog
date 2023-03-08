@@ -259,6 +259,32 @@
 <vendorCode>GV-R66XTGAMINGOC PRO-8GD</vendorCode>
 <guarantee type="shop">24 міс</guarantee>
 </offer>
+<offer id="1641921246" available="true">
+<url>https://tera-flops.com.ua/ua/p1641921246-videokarta-gtx-1660.html</url>
+<price>12530</price>
+<currencyId>UAH</currencyId>
+<categoryId>85328986</categoryId>
+<picture>https://img.moyo.ua/img/products/5261/54_1500.jpg?1675176945</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Відеокарта GTX 1660 SUPER 6GB ASUS TUF Gaming (TUF-GTX1660S-O6G-GAMING)</name>
+<vendor>Asus</vendor>
+<vendorCode>TUF-GTX1660S-O6G-GAMING</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
+<offer id="1641935012" available="true">
+<url>https://tera-flops.com.ua/ua/p1641935012-videokarta-amd-radeon.html</url>
+<price>13720</price>
+<currencyId>UAH</currencyId>
+<categoryId>85328986</categoryId>
+<picture>https://content.rozetka.com.ua/goods/images/big/234117497.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Відеокарта AMD Radeon RX 6600 8GB ASUS DUAL (DUAL-RX6600-8G)</name>
+<vendor>Asus</vendor>
+<vendorCode>DUAL-RX6600-8G</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
 </offers>
 </shop>
 </yml_catalog>
