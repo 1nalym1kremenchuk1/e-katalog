@@ -12,7 +12,7 @@
 <category id="85364244" parentId="85328850">Материнські плати</category>
 </categories>
 <offers>
-<offer id="1671212957" available="true">
+<offer id="1671212957" available="false">
 <url>https://tera-flops.com.ua/ua/p1671212957-videokarta-rtx-3090.html</url>
 <price>42150</price>
 <currencyId>UAH</currencyId>
@@ -90,7 +90,7 @@
 <vendorCode>DUAL-RTX3060TI-8G-MINI-V2</vendorCode>
 <guarantee type="shop">24 міс</guarantee>
 </offer>
-<offer id="1776733579" available="true">
+<offer id="1776733579" available="false">
 <url>https://tera-flops.com.ua/ua/p1776733579-videokarta-rtx-3080.html</url>
 <price>30820</price>
 <currencyId>UAH</currencyId>
@@ -116,7 +116,7 @@
 <vendorCode>PRO B660M-G DDR4</vendorCode>
 <guarantee type="shop">24 міс</guarantee>
 </offer>
-<offer id="1673510567" available="true">
+<offer id="1673510567" available="false">
 <url>https://tera-flops.com.ua/ua/p1673510567-materinska-plata-gigabyte.html</url>
 <price>3980</price>
 <currencyId>UAH</currencyId>
@@ -194,7 +194,7 @@
 <vendorCode>PRIME H610M-A D4</vendorCode>
 <guarantee type="shop">24 міс</guarantee>
 </offer>
-<offer id="1711254865" available="true">
+<offer id="1711254865" available="false">
 <url>https://tera-flops.com.ua/ua/p1711254865-materinska-plata-colorful.html</url>
 <price>3150</price>
 <currencyId>UAH</currencyId>
