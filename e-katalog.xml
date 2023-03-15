@@ -18,7 +18,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>85328986</categoryId>
 <picture>https://www.manli.com/upload/2020/11/03/s[1]_1nx5fez0sdgbr1604381965.png</picture>
-<pickup>false</pickup>
+<stock>не в наявності</stock>
 <delivery>true</delivery>
 <name>Відеокарта RTX 3090 24GB Manli (M-NRTX3090/6RHHPPP-M3478)</name>
 <vendor>Manli</vendor>
@@ -31,7 +31,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>85328986</categoryId>
 <picture>https://content.rozetka.com.ua/goods/images/big/244885518.jpg</picture>
-<pickup>true</pickup>
+<stock>в наявності</stock>
 <delivery>true</delivery>
 <name>Відеокарта RTX 3060 Ti 8GB PNY REVEL EPIC-X RGB (VCG3060T8LDFXPPB)</name>
 <vendor>PNY</vendor>
@@ -44,7 +44,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>85328986</categoryId>
 <picture>https://hotline.ua/img/tx/286/2867428785.jpg</picture>
-<pickup>true</pickup>
+<stock>в наявності</stock>
 <delivery>true</delivery>
 <name>Відеокарта RTX 3070 8GB GIGABYTE AORUS MASTER (GV-N3070AORUS M-8GD)</name>
 <vendor>Gigabyte</vendor>
@@ -57,7 +57,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>85328986</categoryId>
 <picture>https://img.moyo.ua/img/gallery/5235/44/1553042_middle.jpg?1676879021</picture>
-<pickup>true</pickup>
+<stock>в наявності</stock>
 <delivery>true</delivery>
 <name>Відеокарта RTX 3060 12GB MSI GAMING Z TRIO (912-V390-255)</name>
 <vendor>MSI</vendor>
@@ -70,7 +70,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>85328986</categoryId>
 <picture>https://www.inno3d.com/assets/files/product_image/image/3060TiX2_set_v2.png</picture>
-<pickup>true</pickup>
+<stock>в наявності</stock>
 <delivery>true</delivery>
 <name>Відеокарта RTX 3060 TI 8GB Inno3D Twin X2 (N306T2-08D6X-119032)</name>
 <vendor>Inno3D</vendor>
@@ -83,7 +83,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>85328986</categoryId>
 <picture>https://dlcdnwebimgs.asus.com/gain/e4ae0c15-6bd8-482b-aa5b-47506dff16fc/</picture>
-<pickup>true</pickup>
+<stock>в наявності</stock>
 <delivery>true</delivery>
 <name>Відеокарта RTX 3060 Ti 8GB Asus Dual Mini (DUAL-RTX30TI-8G-MINI-V2)</name>
 <vendor>Asus</vendor>
@@ -96,7 +96,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>85328986</categoryId>
 <picture>https://gzhls.at/i/42/88/2664288-n0.jpg</picture>
-<pickup>false</pickup>
+<stock>не в наявності</stock>
 <delivery>true</delivery>
 <name>Відеокарта RTX 3080 10GB Palit GAMINGPRO (NED3080019IA-132AA)</name>
 <vendor>Palit</vendor>
@@ -109,7 +109,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>85364244</categoryId>
 <picture>https://content.rozetka.com.ua/goods/images/big/247626965.png</picture>
-<pickup>true</pickup>
+<stock>в наявності</stock>
 <delivery>true</delivery>
 <name>Материнська плата MSI PRO B660M-G DDR4 1700 (PRO B660M-G DDR4)</name>
 <vendor>MSI</vendor>
@@ -122,7 +122,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>85364244</categoryId>
 <picture>https://content.rozetka.com.ua/goods/images/big/56496588.jpg</picture>
-<pickup>false</pickup>
+<stock>не в наявності</stock>
 <delivery>true</delivery>
 <name>Материнська плата GIGABYTE B450 AORUS ELITE V2 (B450 AORUS ELITE V2)</name>
 <vendor>Gigabyte</vendor>
@@ -135,7 +135,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>85364244</categoryId>
 <picture>https://content2.rozetka.com.ua/goods/images/big/121207676.png</picture>
-<pickup>true</pickup>
+<stock>в наявності</stock>
 <delivery>true</delivery>
 <name>Материнська плата GIGABYTE B550 GAMING X V2 (B550 GAMING X V2)</name>
 <vendor>Gigabyte</vendor>
@@ -148,7 +148,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>85364244</categoryId>
 <picture>https://content1.rozetka.com.ua/goods/images/big/180835076.jpg</picture>
-<pickup>true</pickup>
+<stock>в наявності</stock>
 <delivery>true</delivery>
 <name>Материнська плата GIGABYTE B550 AORUS ELITE V2 (B550 AORUS ELITE V2)</name>
 <vendor>Gigabyte</vendor>
@@ -161,7 +161,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>85364244</categoryId>
 <picture>https://content1.rozetka.com.ua/goods/images/big/271257750.jpg</picture>
-<pickup>true</pickup>
+<stock>в наявності</stock>
 <delivery>true</delivery>
 <name>Материнська плата GIGABYTE B660M GAMING X DDR4 (B660M GAMING X DDR4)</name>
 <vendor>Gigabyte</vendor>
@@ -174,7 +174,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>85364244</categoryId>
 <picture>https://photo.kvshop.com.ua/products/187/187394/asrock-h510m-hdv-r2-0.o.jpg</picture>
-<pickup>true</pickup>
+<stock>в наявності</stock>
 <delivery>true</delivery>
 <name>Материнська плата ASRock H510M-HDV R2.0 Socket 1200 (H510M-HDV R2.0)</name>
 <vendor>ASRock</vendor>
@@ -187,7 +187,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>85364244</categoryId>
 <picture>https://content2.rozetka.com.ua/goods/images/big/246380538.jpg</picture>
-<pickup>true</pickup>
+<stock>в наявності</stock>
 <delivery>true</delivery>
 <name>Материнская плата Asus Prime H610M-A D4 Socket 1700 (PRIME H610M-A D4)</name>
 <vendor>Asus</vendor>
@@ -200,7 +200,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>85364244</categoryId>
 <picture>https://i.can.ua/images/700x700/goods/10609/10609033.jpg</picture>
-<pickup>false</pickup>
+<stock>не в наявності</stock>
 <delivery>true</delivery>
 <name>Материнська плата Colorful H610M-D M.2 V20 LGA 1700 (H610M-D M.2 V20)</name>
 <vendor>Colorful</vendor>
@@ -213,7 +213,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>85364244</categoryId>
 <picture>https://content.rozetka.com.ua/goods/images/big/180575730.jpg</picture>
-<pickup>true</pickup>
+<stock>в наявності</stock>
 <delivery>true</delivery>
 <name>Материнська плата ASUS PRIME H510M-K Socket 1200 (PRIME H510M-K)</name>
 <vendor>Asus</vendor>
@@ -226,7 +226,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>85364244</categoryId>
 <picture>https://content2.rozetka.com.ua/goods/images/big/267410865.jpg</picture>
-<pickup>true</pickup>
+<stock>в наявності</stock>
 <delivery>true</delivery>
 <name>Материнська плата Asus Prime H510M-R-SI Socket 1200 (PRIME H510M-R-SI)</name>
 <vendor>Asus</vendor>
@@ -239,7 +239,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>85364244</categoryId>
 <picture>https://www.asrock.com/mb/photo/H470M-HDV(M1).png</picture>
-<pickup>true</pickup>
+<stock>в наявності</stock>
 <delivery>true</delivery>
 <name>Материнська плата ASRock H470M-HDV LGA 1200 (H470M-HDV)</name>
 <vendor>ASRock</vendor>
@@ -252,7 +252,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>85328986</categoryId>
 <picture>https://microtron.ua/image/cache/catalog/products/p230730-8762-700x700.png</picture>
-<pickup>true</pickup>
+<stock>в наявності</stock>
 <delivery>true</delivery>
 <name>Відеокарта AMD Radeon RX 6600 XT 8GB GIGABYTE GAMING OC PRO (GV-R66XTGAMINGOC PRO-8GD)</name>
 <vendor>Gigabyte</vendor>
@@ -265,7 +265,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>85328986</categoryId>
 <picture>https://img.moyo.ua/img/products/5261/54_1500.jpg?1675176945</picture>
-<pickup>true</pickup>
+<stock>в наявності</stock>
 <delivery>true</delivery>
 <name>Відеокарта GTX 1660 SUPER 6GB ASUS TUF Gaming (TUF-GTX1660S-O6G-GAMING)</name>
 <vendor>Asus</vendor>
@@ -278,7 +278,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>85328986</categoryId>
 <picture>https://content.rozetka.com.ua/goods/images/big/234117497.jpg</picture>
-<pickup>true</pickup>
+<stock>в наявності</stock>
 <delivery>true</delivery>
 <name>Відеокарта AMD Radeon RX 6600 8GB ASUS DUAL (DUAL-RX6600-8G)</name>
 <vendor>Asus</vendor>
@@ -291,7 +291,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>85328986</categoryId>
 <picture>https://content2.rozetka.com.ua/goods/images/big/288136584.jpg</picture>
-<pickup>true</pickup>
+<stock>в наявності</stock>
 <delivery>true</delivery>
 <name>Відеокарта GIGABYTE nVIDIA RTX 3070TI 8GB DDR6X (GV-N307TEAGLE OC-8GD)</name>
 <vendor>Gigabyte</vendor>
@@ -304,7 +304,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>85328986</categoryId>
 <picture>https://hotline.ua/img/tx/282/2826300775.jpg</picture>
-<pickup>true</pickup>
+<stock>в наявності</stock>
 <delivery>true</delivery>
 <name>Відеокарта PALIT RTX3070Ti GAMEROCK OC 8GB (NED307T19P2-1047G)</name>
 <vendor>Palit</vendor>
@@ -317,7 +317,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>85328986</categoryId>
 <picture>https://hotline.ua/img/tx/244/2442548795.jpg</picture>
-<pickup>true</pickup>
+<stock>в наявності</stock>
 <delivery>true</delivery>
 <name>Відеокарта RTX 3060 Ti 8GB Palit Dual (NE6306T019P2-190AD)</name>
 <vendor>Palit</vendor>
@@ -330,7 +330,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>85328986</categoryId>
 <picture>https://static-media.laptopoutlet.co.uk/catalog/product/9/3/93809272_5547942892.jpg?store=default&image-type=image</picture>
-<pickup>true</pickup>
+<stock>в наявності</stock>
 <delivery>true</delivery>
 <name>Відеокарта RTX 3070 Ti 8GB MSI Gaming X Trio (912-V505-011)</name>
 <vendor>MSI</vendor>
@@ -343,7 +343,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>85328986</categoryId>
 <picture>https://www.gigabyte.com/FileUpload/Global/KeyFeature/1763/innergigabyteimages/kf-img.png</picture>
-<pickup>true</pickup>
+<stock>в наявності</stock>
 <delivery>true</delivery>
 <name>Відеокарта AMD Radeon RX 6700 XT 12GB GIGABYTE EAGLE (GV-R67XTEAGLE-12GD)</name>
 <vendor>Gigabyte</vendor>
