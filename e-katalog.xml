@@ -12,19 +12,6 @@
 <category id="85364244" parentId="85328850">Материнські плати</category>
 </categories>
 <offers>
-<offer id="1671212957" available="false">
-<url>https://tera-flops.com.ua/ua/p1671212957-videokarta-rtx-3090.html</url>
-<price>42150</price>
-<currencyId>UAH</currencyId>
-<categoryId>85328986</categoryId>
-<picture>https://www.manli.com/upload/2020/11/03/s[1]_1nx5fez0sdgbr1604381965.png</picture>
-<stock>не в наявності</stock>
-<delivery>true</delivery>
-<name>Відеокарта RTX 3090 24GB Manli (M-NRTX3090/6RHHPPP-M3478)</name>
-<vendor>Manli</vendor>
-<vendorCode>M-NRTX3090/6RHHPPP-M3478</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
-</offer>
 <offer id="1676336303" available="true">
 <url>https://tera-flops.com.ua/ua/p1676336303-videokarta-rtx-3060.html</url>
 <price>16750</price>
