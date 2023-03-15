@@ -18,7 +18,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>85328986</categoryId>
 <picture>https://www.manli.com/upload/2020/11/03/s[1]_1nx5fez0sdgbr1604381965.png</picture>
-<pickup>true</pickup>
+<pickup>false</pickup>
 <delivery>true</delivery>
 <name>Відеокарта RTX 3090 24GB Manli (M-NRTX3090/6RHHPPP-M3478)</name>
 <vendor>Manli</vendor>
@@ -96,7 +96,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>85328986</categoryId>
 <picture>https://gzhls.at/i/42/88/2664288-n0.jpg</picture>
-<pickup>true</pickup>
+<pickup>false</pickup>
 <delivery>true</delivery>
 <name>Відеокарта RTX 3080 10GB Palit GAMINGPRO (NED3080019IA-132AA)</name>
 <vendor>Palit</vendor>
@@ -122,7 +122,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>85364244</categoryId>
 <picture>https://content.rozetka.com.ua/goods/images/big/56496588.jpg</picture>
-<pickup>true</pickup>
+<pickup>false</pickup>
 <delivery>true</delivery>
 <name>Материнська плата GIGABYTE B450 AORUS ELITE V2 (B450 AORUS ELITE V2)</name>
 <vendor>Gigabyte</vendor>
@@ -200,7 +200,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>85364244</categoryId>
 <picture>https://i.can.ua/images/700x700/goods/10609/10609033.jpg</picture>
-<pickup>true</pickup>
+<pickup>false</pickup>
 <delivery>true</delivery>
 <name>Материнська плата Colorful H610M-D M.2 V20 LGA 1700 (H610M-D M.2 V20)</name>
 <vendor>Colorful</vendor>
