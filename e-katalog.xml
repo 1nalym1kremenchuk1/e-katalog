@@ -1,4 +1,5 @@
-<yml_catalog date="2023-03-15 16:55">
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2023-03-23 11:21">
 <shop>
 <name>TeraFlops Store</name>
 <url>https://tera-flops.com.ua/</url>
@@ -10,6 +11,7 @@
 <category id="85328850">Комплектуючі для ПК</category>
 <category id="85328986" parentId="85328850">Відеокарти</category>
 <category id="85364244" parentId="85328850">Материнські плати</category>
+<category id="97643639" parentId="85328850">SSD</category>
 </categories>
 <offers>
 <offer id="1676336303" available="true">
@@ -296,6 +298,146 @@
 <name>Відеокарта PALIT RTX3070Ti GAMEROCK OC 8GB (NED307T19P2-1047G)</name>
 <vendor>Palit</vendor>
 <vendorCode>NED307TT19P2-1047G</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
+<offer id="1506556325" available="true">
+<url>https://tera-flops.com.ua/ua/p1506556325-ssd-nakopichuvach-kingston.html</url>
+<price>1220</price>
+<currencyId>UAH</currencyId>
+<categoryId>97643639</categoryId>
+<picture>https://img.moyo.ua/img/gallery/4186/79/1146112_middle.jpg?1619166645</picture>
+<stock>в наявності</stock>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>SSD накопичувач Kingston 480gb (SA400S37/480G)</name>
+<vendor>Kingston</vendor>
+<vendorCode>SA400S37/480G</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
+<offer id="1506576510" available="true">
+<url>https://tera-flops.com.ua/ua/p1506576510-ssd-nakopichuvach-goodram.html</url>
+<price>1140</price>
+<currencyId>UAH</currencyId>
+<categoryId>97643639</categoryId>
+<picture>https://brain.com.ua/static/images/prod_img/2/3/U0420223_big.jpg</picture>
+<stock>в наявності</stock>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>SSD накопичувач GOODRAM 480gb (SSDPR-CL100-480-G3)</name>
+<vendor>GoodRAM</vendor>
+<vendorCode>SSDPR-CL100-480-G3</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
+<offer id="1506663539" available="true">
+<url>https://tera-flops.com.ua/ua/p1506663539-ssd-nakopichuvach-kioxia.html</url>
+<price>1260</price>
+<currencyId>UAH</currencyId>
+<categoryId>97643639</categoryId>
+<picture>https://click.ua/content/shop/products/39321/photos/nakopitel-ssd-480gb-kioxia-exceria-2-5-sataiii-tlc-ltc10z480gg8-800x800-a526.jpg</picture>
+<stock>в наявності</stock>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>SSD накопичувач Kioxia 480gb (LTC10Z480GG8)</name>
+<vendor>Kioxia</vendor>
+<vendorCode>LTC10Z480GG8</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
+<offer id="1530144218" available="true">
+<url>https://tera-flops.com.ua/ua/p1530144218-ssd-nakopichuvach-patriot.html</url>
+<price>1060</price>
+<currencyId>UAH</currencyId>
+<categoryId>97643639</categoryId>
+<picture>https://images.prom.ua/4062461896_w640_h640_4062461896.jpg</picture>
+<stock>в наявності</stock>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>SSD накопичувач Patriot P210 512GB (P210S512G25)</name>
+<vendor>Patriot</vendor>
+<vendorCode>P210S512G25</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
+<offer id="1530167746" available="true">
+<url>https://tera-flops.com.ua/ua/p1530167746-ssd-nakopichuvach-kingston.html</url>
+<price>2600</price>
+<currencyId>UAH</currencyId>
+<categoryId>97643639</categoryId>
+<picture>https://img.moyo.ua/img/gallery/4192/25/694523_middle.jpg?1549977455</picture>
+<stock>в наявності</stock>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>SSD накопичувач Kingston SSDNow A400 960GB (SA400S37/960G)</name>
+<vendor>Kingston</vendor>
+<vendorCode>SA400S37/960G</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
+<offer id="1530169444" available="true">
+<url>https://tera-flops.com.ua/ua/p1530169444-ssd-nakopichuvach-patriot.html</url>
+<price>1930</price>
+<currencyId>UAH</currencyId>
+<categoryId>97643639</categoryId>
+<picture>https://img.moyo.ua/img/gallery/4862/63/1070499_middle.jpg?1614239132</picture>
+<stock>в наявності</stock>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>SSD накопичувач Patriot Burst Elite 960GB (PBE960GS25SSDR)</name>
+<vendor>Patriot</vendor>
+<vendorCode>PBE960GS25SSDR</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
+<offer id="1683795481" available="true">
+<url>https://tera-flops.com.ua/ua/p1683795481-ssd-nakopichuvach-mibrand.html</url>
+<price>980</price>
+<currencyId>UAH</currencyId>
+<categoryId>97643639</categoryId>
+<picture>https://content.rozetka.com.ua/goods/images/big/250489433.jpg</picture>
+<stock>в наявності</stock>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>SSD накопичувач Mibrand Caiman 256 GB 2.5" (MI2.5SSD/CA256GB)</name>
+<vendor>Mibrand</vendor>
+<vendorCode>MI2.5SSD/CA256GB</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
+<offer id="1683796054" available="true">
+<url>https://tera-flops.com.ua/ua/p1683796054-ssd-nakopichuvach-mibrand.html</url>
+<price>1490</price>
+<currencyId>UAH</currencyId>
+<categoryId>97643639</categoryId>
+<picture>https://content.rozetka.com.ua/goods/images/big/250486631.jpg</picture>
+<stock>в наявності</stock>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>SSD накопичувач Mibrand Caiman 512 GB 2.5" (MI2.5SSD/CA512GB)</name>
+<vendor>Mibrand</vendor>
+<vendorCode>MI2.5SSD/CA512GB</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
+<offer id="1683798603" available="true">
+<url>https://tera-flops.com.ua/ua/p1683798603-ssd-nakopichuvach-mibrand.html</url>
+<price>970</price>
+<currencyId>UAH</currencyId>
+<categoryId>97643639</categoryId>
+<picture>https://photo.kvshop.com.ua/products/188/188557/mibrand-240gb-mi2-5ssd-sp240gb-188557-d3.o.jpg</picture>
+<stock>в наявності</stock>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>SSD накопичувач Mibrand Spider 240 GB 2.5" (MI2.5SSD/SP240GB)</name>
+<vendor>Mibrand</vendor>
+<vendorCode>MI2.5SSD/SP240GB</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
+<offer id="1694181020" available="true">
+<url>https://tera-flops.com.ua/ua/p1694181020-ssd-nakopichuvach-team.html</url>
+<price>3050</price>
+<currencyId>UAH</currencyId>
+<categoryId>97643639</categoryId>
+<picture>https://content2.rozetka.com.ua/goods/images/big/284160007.jpg</picture>
+<stock>в наявності</stock>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>SSD накопичувач TEAM 1 TB (T253TZ001T0C101)</name>
+<vendor>Team</vendor>
+<vendorCode>T253TZ001T0C101</vendorCode>
 <guarantee type="shop">24 міс</guarantee>
 </offer>
 </offers>
