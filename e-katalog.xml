@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2023-03-23 11:21">
+<yml_catalog date="2023-03-28 16:02">
 <shop>
 <name>TeraFlops Store</name>
 <url>https://tera-flops.com.ua/</url>
@@ -12,6 +12,7 @@
 <category id="85328986" parentId="85328850">Відеокарти</category>
 <category id="85364244" parentId="85328850">Материнські плати</category>
 <category id="97643639" parentId="85328850">SSD</category>
+<category id="85364282" parentId="85328850">Корпуси</category>
 </categories>
 <offers>
 <offer id="1676336303" available="true">
@@ -438,6 +439,146 @@
 <name>SSD накопичувач TEAM 1 TB (T253TZ001T0C101)</name>
 <vendor>Team</vendor>
 <vendorCode>T253TZ001T0C101</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
+<offer id="1644901924" available="true">
+<url>https://tera-flops.com.ua/ua/p1644901924-korpus-gamemax-diamond.html</url>
+<price>2280</price>
+<currencyId>UAH</currencyId>
+<categoryId>85364282</categoryId>
+<picture>https://hotline.ua/img/tx/240/2405287275.jpg</picture>
+<stock>в наявності</stock>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Корпус GameMax Diamond Black COC (D6931858773010)</name>
+<vendor>Gamemax</vendor>
+<vendorCode>D6931858773010</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
+<offer id="1644916838" available="true">
+<url>https://tera-flops.com.ua/ua/p1644916838-korpus-gamemax-diamond.html</url>
+<price>2280</price>
+<currencyId>UAH</currencyId>
+<categoryId>85364282</categoryId>
+<picture>https://img.telemart.ua/446662-589274-product_popup/gamemax-diamond-coc-tempered-glass-bez-bp-white.png</picture>
+<stock>в наявності</stock>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Корпус GameMax Diamond White (D6931858773027)</name>
+<vendor>Gamemax</vendor>
+<vendorCode>D6931858773027</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
+<offer id="1651636925" available="true">
+<url>https://tera-flops.com.ua/ua/p1651636925-korpus-gamemax-dark.html</url>
+<price>1890</price>
+<currencyId>UAH</currencyId>
+<categoryId>85364282</categoryId>
+<picture>https://s.ek.ua/jpg_zoom1/1931026.jpg</picture>
+<stock>в наявності</stock>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Корпус GAMEMAX Dark Ranger H605-TR (Dark Ranger H605-TR)</name>
+<vendor>Gamemax</vendor>
+<vendorCode>Dark Ranger H605-TR</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
+<offer id="1651674068" available="true">
+<url>https://tera-flops.com.ua/ua/p1651674068-korpus-gamemax-cyclops.html</url>
+<price>2000</price>
+<currencyId>UAH</currencyId>
+<categoryId>85364282</categoryId>
+<picture>https://content.rozetka.com.ua/goods/images/big/248159697.jpg</picture>
+<stock>в наявності</stock>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Корпус GAMEMAX Cyclops BG (3700098)</name>
+<vendor>Gamemax</vendor>
+<vendorCode>3700098</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
+<offer id="1688353952" available="true">
+<url>https://tera-flops.com.ua/ua/p1688353952-korpus-azza-chroma.html</url>
+<price>2700</price>
+<currencyId>UAH</currencyId>
+<categoryId>85364282</categoryId>
+<picture>https://content1.rozetka.com.ua/goods/images/big/12683350.jpg</picture>
+<stock>в наявності</stock>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Корпус AZZA CHROMA (CSAZ-410A)</name>
+<vendor>AZZA</vendor>
+<vendorCode>CSAZ-410A</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
+<offer id="1688360405" available="true">
+<url>https://tera-flops.com.ua/ua/p1688360405-korpus-azza-celesta.html</url>
+<price>2220</price>
+<currencyId>UAH</currencyId>
+<categoryId>85364282</categoryId>
+<picture>https://content2.rozetka.com.ua/goods/images/original/288197381.jpg</picture>
+<stock>в наявності</stock>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Корпус AZZA CELESTA (CSAZ-340F)</name>
+<vendor>AZZA</vendor>
+<vendorCode>CSAZ-340F</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
+<offer id="1708042606" available="true">
+<url>https://tera-flops.com.ua/ua/p1708042606-korpus-azza-noir.html</url>
+<price>1910</price>
+<currencyId>UAH</currencyId>
+<categoryId>85364282</categoryId>
+<picture>https://images.prom.ua/4074861531_korpus-azza-noir.jpg</picture>
+<stock>в наявності</stock>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Корпус AZZA Noir ARGB (CSAZ-130)</name>
+<vendor>AZZA</vendor>
+<vendorCode>CSAZ-130</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
+<offer id="1745581552" available="true">
+<url>https://tera-flops.com.ua/ua/p1745581552-korpus-xilence-xilent.html</url>
+<price>2450</price>
+<currencyId>UAH</currencyId>
+<categoryId>85364282</categoryId>
+<picture>https://files.foxtrot.com.ua/PhotoNew/img_0_22338_1182_0.jpg</picture>
+<stock>в наявності</stock>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Корпус Xilence Xilent Blade RGB X512 White (XG221_X512.W.RGB)</name>
+<vendor>Xilence</vendor>
+<vendorCode>XG221_X512.W.RGB</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
+<offer id="1747823888" available="true">
+<url>https://tera-flops.com.ua/ua/p1747823888-korpus-gamemax-brufen.html</url>
+<price>2230</price>
+<currencyId>UAH</currencyId>
+<categoryId>85364282</categoryId>
+<picture>https://content2.rozetka.com.ua/goods/images/big/73915417.jpg</picture>
+<stock>в наявності</stock>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Корпус GameMax Brufen C3 WB (Brufen C3 WB)</name>
+<vendor>Gamemax</vendor>
+<vendorCode>Brufen C3 WB</vendorCode>
+<guarantee type="shop">24 міс</guarantee>
+</offer>
+<offer id="1747831876" available="true">
+<url>https://tera-flops.com.ua/ua/p1747831876-korpus-gamemax-brufen.html</url>
+<price>2230</price>
+<currencyId>UAH</currencyId>
+<categoryId>85364282</categoryId>
+<picture>https://nkt.ua/images/detailed/313/000280341_p_l.jpg</picture>
+<stock>в наявності</stock>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Корпус GameMax Brufen C3 BG (Brufen C3 BG)</name>
+<vendor>Gamemax</vendor>
+<vendorCode>Brufen C3 BG</vendorCode>
 <guarantee type="shop">24 міс</guarantee>
 </offer>
 </offers>
