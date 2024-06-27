@@ -568,6 +568,7 @@
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Материнська плата HUANANZHI X79M PRO LGA 2011v1 (HZH-X79M PRO) (TF)</name>
+<vendor>Huananzhi</vendor>
 <vendorCode>5080</vendorCode>
 <param name="Гарантийный срок" unit="мес">0</param>
 <param name="Состояние">Новое</param>
@@ -584,6 +585,7 @@
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Материнська плата HUANANZHI X99 DUAL-F8D Plus LGA 2011v3 (HZH-X99-DUAL-F8D-PLUS) (TF)</name>
+<vendor>Huananzhi</vendor>
 <vendorCode>HZH-X99-DUAL-F8D-PLUS</vendorCode>
 <param name="Гарантийный срок" unit="мес">0</param>
 <param name="Состояние">Новое</param>
