@@ -2077,7 +2077,7 @@
 <param name="Кількість M.2" unit="">2</param>
 <param name="Чипсет" unit="">A520</param>
 </offer>
-<offer id="2266925169" available="false">
+<offer id="2266925169" available="true">
 <url>https://tera-flops.com.ua/ua/p2266925169-zaryadna-stantsiya-dji.html</url>
 <price>22900</price>
 <currencyId>UAH</currencyId>
@@ -2112,7 +2112,7 @@
 <param name="Кількість розеток (230 В)" unit="">2</param>
 <param name="Дисплей" unit="">Да</param>
 </offer>
-<offer id="2266927640" available="false">
+<offer id="2266927640" available="true">
 <url>https://tera-flops.com.ua/ua/p2266927640-zaryadna-stantsiya-bluetti.html</url>
 <price>74900</price>
 <currencyId>UAH</currencyId>
@@ -2148,7 +2148,7 @@
 <param name="Кількість розеток (230 В)" unit="">4</param>
 <param name="Дисплей" unit="">Да</param>
 </offer>
-<offer id="2266930039" available="false">
+<offer id="2266930039" available="true">
 <url>https://tera-flops.com.ua/ua/p2266930039-zaryadna-stantsiya-bluetti.html</url>
 <price>10000</price>
 <currencyId>UAH</currencyId>
@@ -2181,7 +2181,7 @@
 <param name="Функція ДБЖ" unit="">Да</param>
 <param name="Дисплей" unit="">Да</param>
 </offer>
-<offer id="2266930861" available="false">
+<offer id="2266930861" available="true">
 <url>https://tera-flops.com.ua/ua/p2266930861-zaryadna-stantsiya-bluetti.html</url>
 <price>41000</price>
 <currencyId>UAH</currencyId>
@@ -2217,7 +2217,7 @@
 <param name="Кількість розеток (230 В)" unit="">2</param>
 <param name="Дисплей" unit="">Да</param>
 </offer>
-<offer id="2266933258" available="false">
+<offer id="2266933258" available="true">
 <url>https://tera-flops.com.ua/ua/p2266933258-zaryadna-stantsiya-jackery.html</url>
 <price>79900</price>
 <currencyId>UAH</currencyId>
@@ -2253,7 +2253,7 @@
 <param name="Кількість розеток (230 В)" unit="">3</param>
 <param name="Дисплей" unit="">Да</param>
 </offer>
-<offer id="2266941152" available="false">
+<offer id="2266941152" available="true">
 <url>https://tera-flops.com.ua/ua/p2266941152-zaryadna-stantsiya-ecoflow.html</url>
 <price>40000</price>
 <currencyId>UAH</currencyId>
@@ -2292,7 +2292,7 @@
 <param name="Кількість розеток (230 В)" unit="">4</param>
 <param name="Дисплей" unit="">Да</param>
 </offer>
-<offer id="2266942658" available="false">
+<offer id="2266942658" available="true">
 <url>https://tera-flops.com.ua/ua/p2266942658-zaryadna-stantsiya-ecoflow.html</url>
 <price>19500</price>
 <currencyId>UAH</currencyId>
@@ -2327,7 +2327,7 @@
 <param name="Кількість розеток (230 В)" unit="">2</param>
 <param name="Дисплей" unit="">Да</param>
 </offer>
-<offer id="2266945474" available="false">
+<offer id="2266945474" available="true">
 <url>https://tera-flops.com.ua/ua/p2266945474-zaryadna-stantsiya-bluetti.html</url>
 <price>23500</price>
 <currencyId>UAH</currencyId>
@@ -2364,7 +2364,7 @@
 <param name="Кількість розеток (230 В)" unit="">2</param>
 <param name="Дисплей" unit="">Да</param>
 </offer>
-<offer id="2266947490" available="false">
+<offer id="2266947490" available="true">
 <url>https://tera-flops.com.ua/ua/p2266947490-zaryadna-stantsiya-bluetti.html</url>
 <price>11300</price>
 <currencyId>UAH</currencyId>
@@ -2402,7 +2402,7 @@
 <param name="Кількість розеток (230 В)" unit="">1</param>
 <param name="Дисплей" unit="">Да</param>
 </offer>
-<offer id="2266949179" available="false">
+<offer id="2266949179" available="true">
 <url>https://tera-flops.com.ua/ua/p2266949179-zaryadna-stantsiya-ecoflow.html</url>
 <price>10000</price>
 <currencyId>UAH</currencyId>
@@ -2442,7 +2442,7 @@
 <param name="Кількість розеток (230 В)" unit="">1</param>
 <param name="Дисплей" unit="">Да</param>
 </offer>
-<offer id="2267122092" available="false">
+<offer id="2267122092" available="true">
 <url>https://tera-flops.com.ua/ua/p2267122092-zaryadna-stantsiya-ecoflow.html</url>
 <price>23000</price>
 <currencyId>UAH</currencyId>
@@ -2478,7 +2478,7 @@
 <param name="Кількість розеток (230 В)" unit="">3</param>
 <param name="Дисплей" unit="">Да</param>
 </offer>
-<offer id="2267123476" available="false">
+<offer id="2267123476" available="true">
 <url>https://tera-flops.com.ua/ua/p2267123476-zaryadna-stantsiya-jackery.html</url>
 <price>50000</price>
 <currencyId>UAH</currencyId>
