@@ -2090,7 +2090,7 @@
 <delivery>true</delivery>
 <name>Зарядна станція DJI Power 500 1000W (DJI Power 500) CN (доставка авіа)</name>
 <vendor>DJI</vendor>
-<vendorCode>НФ-00039936</vendorCode>
+<vendorCode>DJI Power 500</vendorCode>
 <param name="Відвантаження зі складу">21</param>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
@@ -2125,7 +2125,7 @@
 <delivery>true</delivery>
 <name>Зарядна станція Bluetti AC200L 2400W (AC200L) CN (доставка авіа)</name>
 <vendor>Bluetti</vendor>
-<vendorCode>НФ-00039934</vendorCode>
+<vendorCode>AC200L</vendorCode>
 <param name="Тип">Зарядная станция</param>
 <param name="Тип аккумулятора">LiFePO4</param>
 <param name="Відвантаження зі складу">21</param>
@@ -2160,7 +2160,7 @@
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Зарядна станція Bluetti AC2A 300W (AC2A) CN (доставка авіа)</name>
-<vendor>Bluetti</vendor>
+<vendor>AC2A</vendor>
 <vendorCode>НФ-00039932</vendorCode>
 <param name="Тип">Зарядная станция</param>
 <param name="Тип аккумулятора">LiFePO4</param>
@@ -2195,7 +2195,7 @@
 <delivery>true</delivery>
 <name>Зарядна станція Bluetti AC180 1800W (AC180) CN (доставка авіа)</name>
 <vendor>Bluetti</vendor>
-<vendorCode>НФ-00039931</vendorCode>
+<vendorCode>AC180</vendorCode>
 <param name="Тип аккумулятора">LiFePO4</param>
 <param name="Відвантаження зі складу">21</param>
 <param name="Гарантийный срок" unit="мес">12</param>
@@ -2229,7 +2229,7 @@
 <delivery>true</delivery>
 <name>Зарядна станція Jackery 2000 Plus 3000W (JACKERY 2000PLUS) CN (доставка авіа)</name>
 <vendor>Jackery</vendor>
-<vendorCode>НФ-00039930</vendorCode>
+<vendorCode>JACKERY 2000PLUS</vendorCode>
 <param name="Тип">Зарядная станция</param>
 <param name="Тип аккумулятора">LiFePO4</param>
 <param name="Відвантаження зі складу">21</param>
@@ -2267,7 +2267,7 @@
 <delivery>true</delivery>
 <name>Зарядна станція EcoFlow Delta 2 1800W (DELTA2 1800W) CN (доставка авіа)</name>
 <vendor>EcoFlow</vendor>
-<vendorCode>НФ-00039923</vendorCode>
+<vendorCode>DELTA 2 1800W</vendorCode>
 <param name="Відвантаження зі складу">21</param>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
@@ -2304,7 +2304,7 @@
 <delivery>true</delivery>
 <name>Зарядна станція EcoFlow River 2 Max 500W (RIVER2 MAX 500W) CN (доставка авіа)</name>
 <vendor>EcoFlow</vendor>
-<vendorCode>НФ-00039921</vendorCode>
+<vendorCode>RIVER 2 MAX 500W</vendorCode>
 <param name="Відвантаження зі складу">21</param>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
@@ -2340,7 +2340,7 @@
 <delivery>true</delivery>
 <name>Зарядна станція Bluetti PowerOak EB70 1000W (EB70) CN (доставка авіа)</name>
 <vendor>Bluetti</vendor>
-<vendorCode>НФ-00002810</vendorCode>
+<vendorCode>EB70</vendorCode>
 <param name="Відвантаження зі складу">21</param>
 <param name="Тип">Зарядная станция</param>
 <param name="Тип аккумулятора">LiFePO4</param>
@@ -2378,7 +2378,7 @@
 <delivery>true</delivery>
 <name>Зарядна станція Bluetti PowerOak EB3A 600W (EB3A) CN (доставка авіа)</name>
 <vendor>Bluetti</vendor>
-<vendorCode>НФ-00002809</vendorCode>
+<vendorCode>EB3A</vendorCode>
 <param name="Відвантаження зі складу">21</param>
 <param name="Тип">Зарядная станция</param>
 <param name="Тип аккумулятора">LiFePO4</param>
@@ -2419,7 +2419,7 @@
 <delivery>true</delivery>
 <name>Зарядна станція EcoFlow River 2 300W (RIVER2 300W) CN (доставка авіа)</name>
 <vendor>EcoFlow</vendor>
-<vendorCode>НФ-00039920</vendorCode>
+<vendorCode>RIVER 2 300W</vendorCode>
 <param name="Відвантаження зі складу">21</param>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
@@ -2453,9 +2453,9 @@
 <picture>https://images.prom.ua/6024316277_zaryadna-stantsiya-ecoflow.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<name>Зарядна станція EcoFlow River 2 Pro 800W (RIVER2 PRO 800W) CN (доставка авіа)</name>
+<name>Зарядна станція EcoFlow River 2 Pro 800W (RIVER 2 PRO 800W) CN (доставка авіа)</name>
 <vendor>EcoFlow</vendor>
-<vendorCode>НФ-00039922</vendorCode>
+<vendorCode>RIVER 2 PRO 800W</vendorCode>
 <param name="Відвантаження зі складу">21</param>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
@@ -2488,7 +2488,7 @@
 <delivery>true</delivery>
 <name>Зарядна станція Jackery 1000 Plus 2000W (JACKERY 1000PLUS) CN (доставка авіа)</name>
 <vendor>Jackery</vendor>
-<vendorCode>НФ-00039928</vendorCode>
+<vendorCode>JACKERY 1000PLUS</vendorCode>
 <param name="Тип">Зарядная станция</param>
 <param name="Тип аккумулятора">LiFePO4</param>
 <param name="Відвантаження зі складу">21</param>
