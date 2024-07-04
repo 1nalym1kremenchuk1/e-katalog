@@ -2160,8 +2160,8 @@
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Зарядна станція Bluetti AC2A 300W (AC2A) CN (доставка авіа)</name>
-<vendor>AC2A</vendor>
-<vendorCode>НФ-00039932</vendorCode>
+<vendor>Bluetti</vendor>
+<vendorCode>AC2A</vendorCode>
 <param name="Тип">Зарядная станция</param>
 <param name="Тип аккумулятора">LiFePO4</param>
 <param name="Відвантаження зі складу">21</param>
