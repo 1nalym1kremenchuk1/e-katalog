@@ -2327,7 +2327,7 @@
 <param name="Кількість розеток (230 В)" unit="">2</param>
 <param name="Дисплей" unit="">Да</param>
 </offer>
-<offer id="2266945474" available="true">
+<offer id="2266945474" available="false">
 <url>https://tera-flops.com.ua/ua/p2266945474-zaryadna-stantsiya-bluetti.html</url>
 <price>23500</price>
 <currencyId>UAH</currencyId>
