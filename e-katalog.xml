@@ -2217,7 +2217,7 @@
 <param name="Кількість розеток (230 В)" unit="">2</param>
 <param name="Дисплей" unit="">Да</param>
 </offer>
-<offer id="2266933258" available="true">
+<offer id="2266933258" available="false">
 <url>https://tera-flops.com.ua/ua/p2266933258-zaryadna-stantsiya-jackery.html</url>
 <price>79900</price>
 <currencyId>UAH</currencyId>
@@ -2478,7 +2478,7 @@
 <param name="Кількість розеток (230 В)" unit="">3</param>
 <param name="Дисплей" unit="">Да</param>
 </offer>
-<offer id="2267123476" available="true">
+<offer id="2267123476" available="false">
 <url>https://tera-flops.com.ua/ua/p2267123476-zaryadna-stantsiya-jackery.html</url>
 <price>50000</price>
 <currencyId>UAH</currencyId>
