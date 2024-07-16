@@ -1,4 +1,4 @@
-<yml_catalog date="2024-07-03 14:38">
+<yml_catalog date="2024-07-16 11:42">
 <shop>
 <name>TeraFlops Store</name>
 <company>TeraFlops Store</company>
@@ -12,6 +12,18 @@
 <currency id="RON" rate="CB"/>
 </currencies>
 <categories>
+<category id="133127021">ДБЖ</category>
+<category id="132522645" parentId="112486618">Павербанки</category>
+<category id="132522449" parentId="112486618">Портативні зарядні станції</category>
+<category id="132973411" parentId="112486618">Сонячні панелі</category>
+<category id="133045619" parentId="112486618">Стабілізатори напруги</category>
+<category id="133045618" parentId="112486618">Джерела безперебійного живлення</category>
+<category id="133045617" parentId="112486618">Акумулятори</category>
+<category id="112486618">Зарядні пристрої</category>
+<category id="133007152" parentId="133007151">Килими для миші</category>
+<category id="133007151">Периферія</category>
+<category id="133000691" parentId="131918707">АКБ</category>
+<category id="132948810" parentId="132693858">Ресівери</category>
 <category id="132741360">Повербанки</category>
 <category id="132693937" parentId="131730126">FPV дрони</category>
 <category id="132693869" parentId="131730126">Зарядні пристрої</category>
@@ -19,7 +31,7 @@
 <category id="132693867" parentId="131730126">Пульти керування</category>
 <category id="132693870" parentId="132693858">Приймачі та передавачі</category>
 <category id="132693866" parentId="132693858">Інструменти</category>
-<category id="132693865" parentId="132693858">Пропеллери</category>
+<category id="132693865" parentId="132693858">Пропелери</category>
 <category id="132693864" parentId="132693858">Антена</category>
 <category id="132693863" parentId="132693858">Мотори</category>
 <category id="132693862" parentId="132693858">Камери</category>
@@ -28,8 +40,6 @@
 <category id="132693859" parentId="132693858">Рами</category>
 <category id="132693858">FPV</category>
 <category id="132526239">Зарядні станції</category>
-<category id="132522645" parentId="112486618">Павербанки</category>
-<category id="132522449" parentId="112486618">Портативні зарядні станції</category>
 <category id="132449583" parentId="131148190">TFX 390W і менше</category>
 <category id="132449582" parentId="131148189">ATX 390W і менше</category>
 <category id="85330301" parentId="85328850">Процесори</category>
@@ -185,7 +195,6 @@
 <category id="125067175" parentId="85763431">Ігрові крісла</category>
 <category id="124619026" parentId="124618909">Ремонт материнських плат</category>
 <category id="85328850">Комплектуючі для ПК</category>
-<category id="112486618">Зарядні пристрої</category>
 <category id="87698682">Послуги</category>
 <category id="85763431">Комп'ютерна периферія</category>
 <category id="89331843">Ноутбуки</category>
@@ -205,7 +214,7 @@
 <category id="110924608" parentId="85763431">Сумки і рюкзаки для ноутбуків</category>
 <category id="110893044" parentId="93563174">Концентратори (HUB)</category>
 <category id="110408895" parentId="96478524">Корпус для майнінгу</category>
-<category id="109534173" parentId="85763431">Ігрові поверхні</category>
+<category id="109534173" parentId="85763431">Килимки для миші</category>
 <category id="104675346" parentId="85364282">Кастомні корпуси</category>
 <category id="103971561" parentId="85763431">Геймпади</category>
 <category id="102528814" parentId="93563174">Кабелі живлення</category>
@@ -238,7 +247,7 @@
 <offers>
 <offer id="1468456576" available="true">
 <url>https://tera-flops.com.ua/ua/p1468456576-protsesor-intel-core.html</url>
-<price>2860</price>
+<price>2880</price>
 <currencyId>UAH</currencyId>
 <categoryId>97641447</categoryId>
 <picture>https://images.prom.ua/3298594572_protsesor-intel-core.jpg</picture>
@@ -265,6 +274,7 @@
 <price>4500</price>
 <currencyId>UAH</currencyId>
 <categoryId>97644269</categoryId>
+<picture>https://images.prom.ua/6057660821_materinska-plata-huananzhi.jpg</picture>
 <picture>https://images.prom.ua/5862419360_materinska-plata-huananzhi.jpg</picture>
 <picture>https://images.prom.ua/5862419361_materinska-plata-huananzhi.jpg</picture>
 <picture>https://images.prom.ua/5862419364_materinska-plata-huananzhi.jpg</picture>
@@ -300,6 +310,7 @@
 <categoryId>97644266</categoryId>
 <picture>https://images.prom.ua/5862419325_materinska-plata-huananzhi.jpg</picture>
 <picture>https://images.prom.ua/5862419328_materinska-plata-huananzhi.jpg</picture>
+<picture>https://images.prom.ua/6057660803_materinska-plata-huananzhi.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Материнська плата HUANANZHI X79 DUAL-8D LGA 2011v1 (X79 DUAL-8D) (TF)</name>
@@ -327,7 +338,7 @@
 </offer>
 <offer id="1610044460" available="true">
 <url>https://tera-flops.com.ua/ua/p1610044460-materinska-plata-asus.html</url>
-<price>5560</price>
+<price>5610</price>
 <currencyId>UAH</currencyId>
 <categoryId>97644299</categoryId>
 <picture>https://images.prom.ua/3758951766_materinska-plata-asus.jpg</picture>
@@ -350,9 +361,33 @@
 <param name="Форм-фактор">ATX</param>
 <param name="Чипсет">AMD B550</param>
 </offer>
+<offer id="1623323269" available="true">
+<url>https://tera-flops.com.ua/ua/p1623323269-protsesor-intel-core.html</url>
+<price>5130</price>
+<currencyId>UAH</currencyId>
+<categoryId>103891356</categoryId>
+<picture>https://images.prom.ua/3802082856_protsesor-intel-core.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Процесор Intel Core i5 12400F Socket 1700 (BX8071512400F) (D)</name>
+<vendor>Intel</vendor>
+<vendorCode>BX8071512400F</vendorCode>
+<param name="Внутренняя тактовая частота" unit="ГГц">2.5</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Интегрированная графика">Нет</param>
+<param name="Количество потоков процессора">12</param>
+<param name="Количество ядер процессора">6</param>
+<param name="Комплектация">Box</param>
+<param name="Показатель TDP" unit="Вт">65</param>
+<param name="Поколение процессора Intel">Alder Lake</param>
+<param name="Семейство процессора">Core i5</param>
+<param name="Состояние">Новое</param>
+<param name="Тепловыделение" unit="Вт">65</param>
+<param name="Разъемы" unit="">LGA1700</param>
+</offer>
 <offer id="1640860690" available="true">
 <url>https://tera-flops.com.ua/ua/p1640860690-protsesor-amd-ryzen.html</url>
-<price>3730</price>
+<price>3760</price>
 <currencyId>UAH</currencyId>
 <categoryId>97641535</categoryId>
 <picture>https://images.prom.ua/5335586887_protsesor-amd-ryzen.jpg</picture>
@@ -375,7 +410,7 @@
 </offer>
 <offer id="1657986073" available="true">
 <url>https://tera-flops.com.ua/ua/p1657986073-protsesor-intel-core.html</url>
-<price>3510</price>
+<price>3500</price>
 <currencyId>UAH</currencyId>
 <categoryId>103891356</categoryId>
 <picture>https://images.prom.ua/3916748312_protsesor-intel-core.jpg</picture>
@@ -402,7 +437,7 @@
 </offer>
 <offer id="1657991146" available="true">
 <url>https://tera-flops.com.ua/ua/p1657991146-protsesor-amd-ryzen.html</url>
-<price>5780</price>
+<price>5700</price>
 <currencyId>UAH</currencyId>
 <categoryId>97641535</categoryId>
 <picture>https://images.prom.ua/3916786981_protsesor-amd-ryzen.jpg</picture>
@@ -431,8 +466,8 @@
 <price>3700</price>
 <currencyId>UAH</currencyId>
 <categoryId>97644269</categoryId>
-<picture>https://images.prom.ua/6027660721_materinska-plata-huananzhi.jpg</picture>
-<picture>https://images.prom.ua/5983790871_materinska-plata-huananzhi.jpg</picture>
+<picture>https://images.prom.ua/6057660810_materinska-plata-huananzhi.jpg</picture>
+<picture>https://images.prom.ua/6057660814_materinska-plata-huananzhi.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Материнська плата HUANANZHI X99 QD4 LGA 2011v3 (HZH-X99-QD4) (TF)</name>
@@ -445,21 +480,21 @@
 <param name="Тип оперативной памяти">DDR4</param>
 <param name="Форм-фактор">microATX</param>
 <param name="Разъемы">LGA2011</param>
-<param name="Чипсет" unit="">X99</param>
-<param name="Видеоинтерфейс" unit="">PCI-Express 3.0</param>
-<param name="Кількість роз'ємів FAN" unit="">3</param>
-<param name="USB 2.0" unit="">4</param>
-<param name="SATA Revision 3.0" unit="">6</param>
-<param name="Роз'єм живлення процесора" unit="">4+4 pin</param>
 <param name="Audio" unit="">3</param>
+<param name="SATA Revision 3.0" unit="">6</param>
+<param name="USB 2.0" unit="">4</param>
 <param name="USB 3.0" unit="">2</param>
-<param name="Роз'єм живлення плати" unit="">20+4 pin</param>
+<param name="Видеоинтерфейс" unit="">PCI-Express 3.0</param>
 <param name="Кількість M.2" unit="">2</param>
+<param name="Кількість роз'ємів FAN" unit="">3</param>
+<param name="Роз'єм живлення плати" unit="">20+4 pin</param>
+<param name="Роз'єм живлення процесора" unit="">4+4 pin</param>
 <param name="Тип M.2" unit="">PCI-E 3.0</param>
+<param name="Чипсет" unit="">X99</param>
 </offer>
 <offer id="1677636271" available="true">
 <url>https://tera-flops.com.ua/ua/p1677636271-materinskaya-plata-asus.html</url>
-<price>3420</price>
+<price>3450</price>
 <currencyId>UAH</currencyId>
 <categoryId>103890620</categoryId>
 <picture>https://images.prom.ua/3982190207_materinskaya-plata-asus.jpg</picture>
@@ -490,7 +525,7 @@
 </offer>
 <offer id="1683564700" available="true">
 <url>https://tera-flops.com.ua/ua/p1683564700-materinskaya-plata-asus.html</url>
-<price>4320</price>
+<price>4360</price>
 <currencyId>UAH</currencyId>
 <categoryId>103890620</categoryId>
 <picture>https://images.prom.ua/3999496844_materinskaya-plata-asus.jpg</picture>
@@ -550,7 +585,7 @@
 </offer>
 <offer id="1876716324" available="true">
 <url>https://tera-flops.com.ua/ua/p1876716324-protsesor-amd-ryzen.html</url>
-<price>7220</price>
+<price>7150</price>
 <currencyId>UAH</currencyId>
 <categoryId>97641535</categoryId>
 <picture>https://images.prom.ua/4837553404_protsesor-amd-ryzen.jpg</picture>
@@ -598,7 +633,7 @@
 </offer>
 <offer id="2022517452" available="true">
 <url>https://tera-flops.com.ua/ua/p2022517452-materinska-plata-asrock.html</url>
-<price>5130</price>
+<price>5170</price>
 <currencyId>UAH</currencyId>
 <categoryId>97644299</categoryId>
 <picture>https://images.prom.ua/5117104471_materinska-plata-asrock.jpg</picture>
@@ -626,7 +661,7 @@
 </offer>
 <offer id="2022521060" available="true">
 <url>https://tera-flops.com.ua/ua/p2022521060-materinska-plata-asrock.html</url>
-<price>3030</price>
+<price>3060</price>
 <currencyId>UAH</currencyId>
 <categoryId>97644299</categoryId>
 <picture>https://images.prom.ua/5117110884_materinska-plata-asrock.jpg</picture>
@@ -654,7 +689,7 @@
 </offer>
 <offer id="2022566633" available="true">
 <url>https://tera-flops.com.ua/ua/p2022566633-materinska-plata-asus.html</url>
-<price>7180</price>
+<price>7240</price>
 <currencyId>UAH</currencyId>
 <categoryId>97644299</categoryId>
 <picture>https://images.prom.ua/5117248592_materinska-plata-asus.jpg</picture>
@@ -682,7 +717,7 @@
 </offer>
 <offer id="2022697860" available="true">
 <url>https://tera-flops.com.ua/ua/p2022697860-protsesor-amd-ryzen.html</url>
-<price>5170</price>
+<price>4910</price>
 <currencyId>UAH</currencyId>
 <categoryId>97641535</categoryId>
 <picture>https://images.prom.ua/5117733833_protsesor-amd-ryzen.jpg</picture>
@@ -706,7 +741,7 @@
 </offer>
 <offer id="2022712065" available="true">
 <url>https://tera-flops.com.ua/ua/p2022712065-protsesor-amd-ryzen.html</url>
-<price>13030</price>
+<price>12790</price>
 <currencyId>UAH</currencyId>
 <categoryId>111523592</categoryId>
 <picture>https://images.prom.ua/5117809605_protsesor-amd-ryzen.jpg</picture>
@@ -730,7 +765,7 @@
 </offer>
 <offer id="2022717354" available="true">
 <url>https://tera-flops.com.ua/ua/p2022717354-protsesor-amd-ryzen.html</url>
-<price>11280</price>
+<price>10810</price>
 <currencyId>UAH</currencyId>
 <categoryId>97641535</categoryId>
 <picture>https://images.prom.ua/5117828729_protsesor-amd-ryzen.jpg</picture>
@@ -754,7 +789,7 @@
 </offer>
 <offer id="2022723001" available="true">
 <url>https://tera-flops.com.ua/ua/p2022723001-protsesor-amd-ryzen.html</url>
-<price>25070</price>
+<price>24760</price>
 <currencyId>UAH</currencyId>
 <categoryId>111523592</categoryId>
 <picture>https://images.prom.ua/5117852133_protsesor-amd-ryzen.jpg</picture>
@@ -778,7 +813,7 @@
 </offer>
 <offer id="2026341659" available="true">
 <url>https://tera-flops.com.ua/ua/p2026341659-materinska-plata-asus.html</url>
-<price>5820</price>
+<price>5870</price>
 <currencyId>UAH</currencyId>
 <categoryId>103890620</categoryId>
 <picture>https://images.prom.ua/5131794861_materinska-plata-asus.jpg</picture>
@@ -806,7 +841,7 @@
 </offer>
 <offer id="2026345243" available="true">
 <url>https://tera-flops.com.ua/ua/p2026345243-materinska-plata-asus.html</url>
-<price>5000</price>
+<price>5040</price>
 <currencyId>UAH</currencyId>
 <categoryId>103890620</categoryId>
 <picture>https://images.prom.ua/5131814963_materinska-plata-asus.jpg</picture>
@@ -834,7 +869,7 @@
 </offer>
 <offer id="2026422043" available="true">
 <url>https://tera-flops.com.ua/ua/p2026422043-materinska-plata-gigabyte.html</url>
-<price>7880</price>
+<price>7950</price>
 <currencyId>UAH</currencyId>
 <categoryId>103890620</categoryId>
 <picture>https://images.prom.ua/5132156015_materinska-plata-gigabyte.jpg</picture>
@@ -862,7 +897,7 @@
 </offer>
 <offer id="2026433276" available="true">
 <url>https://tera-flops.com.ua/ua/p2026433276-materinska-plata-gigabyte.html</url>
-<price>3520</price>
+<price>3550</price>
 <currencyId>UAH</currencyId>
 <categoryId>103890620</categoryId>
 <picture>https://images.prom.ua/5132217513_materinska-plata-gigabyte.jpg</picture>
@@ -918,7 +953,7 @@
 </offer>
 <offer id="2026480647" available="true">
 <url>https://tera-flops.com.ua/ua/p2026480647-materinska-plata-gigabyte.html</url>
-<price>9310</price>
+<price>9390</price>
 <currencyId>UAH</currencyId>
 <categoryId>103890620</categoryId>
 <picture>https://images.prom.ua/5132385526_materinska-plata-gigabyte.jpg</picture>
@@ -946,7 +981,7 @@
 </offer>
 <offer id="2026488477" available="true">
 <url>https://tera-flops.com.ua/ua/p2026488477-materinska-plata-msi.html</url>
-<price>4780</price>
+<price>4770</price>
 <currencyId>UAH</currencyId>
 <categoryId>103890620</categoryId>
 <picture>https://images.prom.ua/5132412701_materinska-plata-msi.jpg</picture>
@@ -1026,7 +1061,7 @@
 </offer>
 <offer id="2026515201" available="true">
 <url>https://tera-flops.com.ua/ua/p2026515201-protsesor-intel-core.html</url>
-<price>6920</price>
+<price>6490</price>
 <currencyId>UAH</currencyId>
 <categoryId>103891356</categoryId>
 <picture>https://images.prom.ua/5132494619_protsesor-intel-core.jpg</picture>
@@ -1048,33 +1083,9 @@
 <param name="Состояние">Новое</param>
 <param name="Количество потоков процессора">12</param>
 </offer>
-<offer id="2026546771" available="true">
-<url>https://tera-flops.com.ua/ua/p2026546771-protsesor-intel-core.html</url>
-<price>25420</price>
-<currencyId>UAH</currencyId>
-<categoryId>103891356</categoryId>
-<picture>https://images.prom.ua/5132575280_protsesor-intel-core.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Процесор Intel Core i9 14900KF Socket 1700 (BX8071514900KF) (D)</name>
-<vendor>Intel</vendor>
-<vendorCode>BX8071514900KF</vendorCode>
-<param name="Назначение">Для настольного ПК</param>
-<param name="Семейство процессора">Intel Core i9</param>
-<param name="Комплектация">Box</param>
-<param name="Разъемы">S1700</param>
-<param name="Внутренняя тактовая частота" unit="ГГц">3.2</param>
-<param name="Количество ядер процессора">24</param>
-<param name="Тепловыделение" unit="Вт">125</param>
-<param name="Интегрированная графика">Да</param>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Показатель TDP" unit="Вт">125</param>
-<param name="Состояние">Новое</param>
-<param name="Количество потоков процессора">32</param>
-</offer>
 <offer id="2026547766" available="true">
 <url>https://tera-flops.com.ua/ua/p2026547766-protsesor-intel-core.html</url>
-<price>6300</price>
+<price>6270</price>
 <currencyId>UAH</currencyId>
 <categoryId>103891356</categoryId>
 <picture>https://images.prom.ua/5354430922_protsesor-intel-core.jpg</picture>
@@ -1098,7 +1109,7 @@
 </offer>
 <offer id="2030883198" available="true">
 <url>https://tera-flops.com.ua/ua/p2030883198-materinska-plata-asus.html</url>
-<price>3250</price>
+<price>3280</price>
 <currencyId>UAH</currencyId>
 <categoryId>97644244</categoryId>
 <picture>https://images.prom.ua/5148499182_materinska-plata-asus.jpg</picture>
@@ -1125,7 +1136,7 @@
 </offer>
 <offer id="2030883942" available="true">
 <url>https://tera-flops.com.ua/ua/p2030883942-materinska-plata-asus.html</url>
-<price>3030</price>
+<price>3060</price>
 <currencyId>UAH</currencyId>
 <categoryId>97644244</categoryId>
 <picture>https://images.prom.ua/5148504452_materinska-plata-asus.jpg</picture>
@@ -1152,7 +1163,7 @@
 </offer>
 <offer id="2030895283" available="true">
 <url>https://tera-flops.com.ua/ua/p2030895283-materinska-plata-gigabyte.html</url>
-<price>2550</price>
+<price>2570</price>
 <currencyId>UAH</currencyId>
 <categoryId>97644244</categoryId>
 <picture>https://images.prom.ua/5148530762_materinska-plata-gigabyte.jpg</picture>
@@ -1179,7 +1190,7 @@
 </offer>
 <offer id="2030896323" available="true">
 <url>https://tera-flops.com.ua/ua/p2030896323-materinska-plata-gigabyte.html</url>
-<price>2960</price>
+<price>2980</price>
 <currencyId>UAH</currencyId>
 <categoryId>97644244</categoryId>
 <picture>https://images.prom.ua/5148535920_materinska-plata-gigabyte.jpg</picture>
@@ -1206,7 +1217,7 @@
 </offer>
 <offer id="2031880215" available="true">
 <url>https://tera-flops.com.ua/ua/p2031880215-povitryane-oholodzhennya-deepcool.html</url>
-<price>4080</price>
+<price>4000</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649259</categoryId>
 <picture>https://images.prom.ua/5151961168_povitryane-oholodzhennya-deepcool.jpg</picture>
@@ -1236,7 +1247,7 @@
 </offer>
 <offer id="2031940642" available="true">
 <url>https://tera-flops.com.ua/ua/p2031940642-povitryane-oholodzhennya-cooling.html</url>
-<price>1480</price>
+<price>1490</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649259</categoryId>
 <picture>https://images.prom.ua/5152107149_povitryane-oholodzhennya-id-cooling.jpg</picture>
@@ -1266,7 +1277,7 @@
 </offer>
 <offer id="2031969321" available="true">
 <url>https://tera-flops.com.ua/ua/p2031969321-povitryane-oholodzhennya-cooling.html</url>
-<price>1460</price>
+<price>1470</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649259</categoryId>
 <picture>https://images.prom.ua/5152171600_povitryane-oholodzhennya-id-cooling.jpg</picture>
@@ -1296,7 +1307,7 @@
 </offer>
 <offer id="2032116277" available="true">
 <url>https://tera-flops.com.ua/ua/p2032116277-vodyane-oholodzhennya-cooling.html</url>
-<price>2360</price>
+<price>2380</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649259</categoryId>
 <picture>https://images.prom.ua/5152648593_vodyane-oholodzhennya-id-cooling.jpg</picture>
@@ -1323,7 +1334,7 @@
 </offer>
 <offer id="2032117999" available="true">
 <url>https://tera-flops.com.ua/ua/p2032117999-vodyane-oholodzhennya-cooling.html</url>
-<price>2900</price>
+<price>2930</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649259</categoryId>
 <picture>https://images.prom.ua/5152654462_vodyane-oholodzhennya-id-cooling.jpg</picture>
@@ -1377,7 +1388,7 @@
 </offer>
 <offer id="2032153664" available="true">
 <url>https://tera-flops.com.ua/ua/p2032153664-vodyane-oholodzhennya-msi.html</url>
-<price>4360</price>
+<price>4400</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649259</categoryId>
 <picture>https://images.prom.ua/5152857066_vodyane-oholodzhennya-msi.jpg</picture>
@@ -1404,7 +1415,7 @@
 </offer>
 <offer id="2032154511" available="true">
 <url>https://tera-flops.com.ua/ua/p2032154511-vodyane-oholodzhennya-msi.html</url>
-<price>3940</price>
+<price>3980</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649259</categoryId>
 <picture>https://images.prom.ua/5152861840_vodyane-oholodzhennya-msi.jpg</picture>
@@ -1431,7 +1442,7 @@
 </offer>
 <offer id="2038571788" available="true">
 <url>https://tera-flops.com.ua/ua/p2038571788-videokarta-amd-radeon.html</url>
-<price>20750</price>
+<price>20930</price>
 <currencyId>UAH</currencyId>
 <categoryId>85328986</categoryId>
 <picture>https://images.prom.ua/5176443619_videokarta-amd-radeon.jpg</picture>
@@ -1485,7 +1496,7 @@
 </offer>
 <offer id="2038608802" available="true">
 <url>https://tera-flops.com.ua/ua/p2038608802-videokarta-geforce-rtx.html</url>
-<price>13460</price>
+<price>13180</price>
 <currencyId>UAH</currencyId>
 <categoryId>85328986</categoryId>
 <picture>https://images.prom.ua/5176619252_videokarta-geforce-rtx.jpg</picture>
@@ -1512,7 +1523,7 @@
 </offer>
 <offer id="2038608994" available="true">
 <url>https://tera-flops.com.ua/ua/p2038608994-videokarta-geforce-rtx.html</url>
-<price>16210</price>
+<price>16350</price>
 <currencyId>UAH</currencyId>
 <categoryId>85328986</categoryId>
 <picture>https://images.prom.ua/5176624942_videokarta-geforce-rtx.jpg</picture>
@@ -1569,7 +1580,6 @@
 <price>9500</price>
 <currencyId>UAH</currencyId>
 <categoryId>97644269</categoryId>
-<picture>https://images.prom.ua/5961574021_materinska-plata-huananzhi.jpg</picture>
 <picture>https://images.prom.ua/5983790891_materinska-plata-huananzhi.jpg</picture>
 <picture>https://images.prom.ua/5983790892_materinska-plata-huananzhi.jpg</picture>
 <picture>https://images.prom.ua/5983790893_materinska-plata-huananzhi.jpg</picture>
@@ -1601,44 +1611,13 @@
 <param name="Форм-фактор" unit="">E-ATX</param>
 <param name="Чипсет" unit="">X99</param>
 </offer>
-<offer id="2076632120" available="true" group_id="441786238">
-<url>https://tera-flops.com.ua/ua/p2076632120-materinska-plata-huananzhi.html</url>
-<price>1900</price>
-<currencyId>UAH</currencyId>
-<categoryId>97644239</categoryId>
-<picture>https://images.prom.ua/5961577405_materinska-plata-huananzhi.jpg</picture>
-<picture>https://images.prom.ua/5961577406_materinska-plata-huananzhi.jpg</picture>
-<picture>https://images.prom.ua/5961577408_materinska-plata-huananzhi.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Материнська плата Huananzhi H61M-VH LGA 1155 (HZH-H61M-VH) (TF)</name>
-<vendor>Huananzhi</vendor>
-<vendorCode>HZH-H61M-VH</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество слотов памяти">2</param>
-<param name="Разъемы">LGA1155</param>
-<param name="Состояние">Новое</param>
-<param name="Тип оперативной памяти">DDR3</param>
-<param name="Форм-фактор">microATX</param>
-<param name="Aудіокодек" unit="">Realtek High Definition</param>
-<param name="Ethernet" unit="">Gigabit Ethernet</param>
-<param name="SATA II" unit="">4</param>
-<param name="USB 2.0" unit="">6</param>
-<param name="Видеоинтерфейс" unit="">PCI-Express 3.0</param>
-<param name="Интерфейсы" unit="">Display Port</param>
-<param name="Кількість M.2" unit="">1</param>
-<param name="Роз'єм живлення плати" unit="">24</param>
-<param name="Роз'єм живлення процесора" unit="">8 pin</param>
-<param name="Чипсет" unit="">H61</param>
-</offer>
 <offer id="2078027691" available="true">
 <url>https://tera-flops.com.ua/ua/p2078027691-materinska-plata-huananzhi.html</url>
 <price>2300</price>
 <currencyId>UAH</currencyId>
 <categoryId>97644299</categoryId>
-<picture>https://images.prom.ua/5983790802_materinska-plata-huananzhi.jpg</picture>
 <picture>https://images.prom.ua/5321327016_materinska-plata-huananzhi.jpg</picture>
-<picture>https://images.prom.ua/5983790803_materinska-plata-huananzhi.jpg</picture>
+<picture>https://images.prom.ua/5983790802_materinska-plata-huananzhi.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Материнська плата Huananzhi A320-D4 Socket AM4 (HZH-A320-D4) (TF)</name>
@@ -1652,17 +1631,17 @@
 <param name="Тип оперативной памяти">DDR4</param>
 <param name="Форм-фактор">microATX</param>
 <param name="Разъемы">AM4</param>
-<param name="Чипсет" unit="">A320</param>
-<param name="Видеоинтерфейс" unit="">PCI-Express 3.0</param>
-<param name="Кількість роз'ємів FAN" unit="">3</param>
-<param name="USB 3.2 Gen 2" unit="">4</param>
-<param name="USB 2.0" unit="">2</param>
-<param name="SATA Revision 3.0" unit="">4</param>
-<param name="Роз'єм живлення процесора" unit="">4+4 pin</param>
 <param name="Audio" unit="">3</param>
-<param name="Роз'єм живлення плати" unit="">20+4 pin</param>
+<param name="SATA Revision 3.0" unit="">4</param>
+<param name="USB 2.0" unit="">2</param>
+<param name="USB 3.2 Gen 2" unit="">4</param>
+<param name="Видеоинтерфейс" unit="">PCI-Express 3.0</param>
 <param name="Кількість M.2" unit="">1</param>
+<param name="Кількість роз'ємів FAN" unit="">3</param>
+<param name="Роз'єм живлення плати" unit="">20+4 pin</param>
+<param name="Роз'єм живлення процесора" unit="">4+4 pin</param>
 <param name="Тип M.2" unit="">PCI-E 3.0</param>
+<param name="Чипсет" unit="">A320</param>
 </offer>
 <offer id="2078047104" available="true" group_id="159894003">
 <url>https://tera-flops.com.ua/ua/p2078047104-materinskaya-plata-huananzhi.html</url>
@@ -1670,8 +1649,8 @@
 <currencyId>UAH</currencyId>
 <categoryId>97644244</categoryId>
 <picture>https://images.prom.ua/5961577482_materinskaya-plata-huananzhi.jpg</picture>
-<picture>https://images.prom.ua/5961577483_materinskaya-plata-huananzhi.jpg</picture>
 <picture>https://images.prom.ua/5961577484_materinskaya-plata-huananzhi.jpg</picture>
+<picture>https://images.prom.ua/6057671914_materinskaya-plata-huananzhi.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Материнская плата Huananzhi H510M-I LGA 1200 (HZH-H510M-I) (TF)</name>
@@ -1706,6 +1685,7 @@
 <categoryId>103890620</categoryId>
 <picture>https://images.prom.ua/5321412748_materinska-plata-huananzhi.jpg</picture>
 <picture>https://images.prom.ua/5321412746_materinska-plata-huananzhi.jpg</picture>
+<picture>https://images.prom.ua/6057660912_materinska-plata-huananzhi.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Материнська плата Huananzhi B660M-ITX DDR4 LGA 1700 (HZH-B660M-ITX) (TF)</name>
@@ -1740,8 +1720,6 @@
 <currencyId>UAH</currencyId>
 <categoryId>103890620</categoryId>
 <picture>https://images.prom.ua/5961577495_materinska-plata-huananzhi.jpg</picture>
-<picture>https://images.prom.ua/5961577496_materinska-plata-huananzhi.jpg</picture>
-<picture>https://images.prom.ua/5961577497_materinska-plata-huananzhi.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Материнська плата Huananzhi H610M-VH-B DDR4 LGA 1700 (HZH-H610M-VH-B) (TF)</name>
@@ -1803,7 +1781,7 @@
 </offer>
 <offer id="2081547977" available="true">
 <url>https://tera-flops.com.ua/ua/p2081547977-videokarta-geforce-rtx.html</url>
-<price>29920</price>
+<price>30170</price>
 <currencyId>UAH</currencyId>
 <categoryId>85328986</categoryId>
 <picture>https://images.prom.ua/5335027988_videokarta-geforce-rtx.jpg</picture>
@@ -1838,6 +1816,7 @@
 <picture>https://images.prom.ua/5961577416_materinska-plata-jginyue.jpg</picture>
 <picture>https://images.prom.ua/5961577420_materinska-plata-jginyue.jpg</picture>
 <picture>https://images.prom.ua/5961577424_materinska-plata-jginyue.jpg</picture>
+<picture>https://images.prom.ua/6057671788_materinska-plata-jginyue.jpg</picture>
 <picture>https://images.prom.ua/5961577429_materinska-plata-jginyue.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
@@ -1868,7 +1847,7 @@
 </offer>
 <offer id="2128186591" available="true">
 <url>https://tera-flops.com.ua/ua/p2128186591-povitryane-oholodzhennya-cooling.html</url>
-<price>2940</price>
+<price>2970</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649259</categoryId>
 <picture>https://images.prom.ua/5521035272_povitryane-oholodzhennya-id-cooling.jpg</picture>
@@ -1900,7 +1879,7 @@
 </offer>
 <offer id="2133920001" available="true">
 <url>https://tera-flops.com.ua/ua/p2133920001-protsesor-amd-ryzen.html</url>
-<price>12240</price>
+<price>12210</price>
 <currencyId>UAH</currencyId>
 <categoryId>111523592</categoryId>
 <picture>https://images.prom.ua/5544875428_protsesor-amd-ryzen.jpg</picture>
@@ -1929,6 +1908,7 @@
 <categoryId>103890620</categoryId>
 <picture>https://images.prom.ua/5862419749_materinska-plata-onda.jpg</picture>
 <picture>https://images.prom.ua/5862419750_materinska-plata-onda.jpg</picture>
+<picture>https://images.prom.ua/6057671960_materinska-plata-onda.jpg</picture>
 <picture>https://images.prom.ua/5983791551_materinska-plata-onda.jpg</picture>
 <picture>https://images.prom.ua/5983791552_materinska-plata-onda.jpg</picture>
 <pickup>true</pickup>
@@ -1956,43 +1936,11 @@
 <param name="Роз'єм живлення процесора" unit="">4+4 pin</param>
 <param name="Тип M.2" unit="">PCI-E 3.0</param>
 </offer>
-<offer id="2173191402" available="true">
-<url>https://tera-flops.com.ua/ua/p2173191402-materinska-plata-onda.html</url>
-<price>2500</price>
-<currencyId>UAH</currencyId>
-<categoryId>103890620</categoryId>
-<picture>https://images.prom.ua/5987243077_materinska-plata-onda.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Материнська плата Onda H610M-VH4 DDR4 White LGA 1700 (OND-H610M-VH4-W) (TF)</name>
-<vendor>Onda</vendor>
-<vendorCode>OND-H610M-VH4-W</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Интерфейсы">HDMI</param>
-<param name="Количество LAN-портов">1</param>
-<param name="Количество слотов памяти">2</param>
-<param name="Состояние">Новое</param>
-<param name="Тип оперативной памяти">DDR4</param>
-<param name="Форм-фактор">microATX</param>
-<param name="Чипсет">H610</param>
-<param name="Разъемы">LGA1700</param>
-<param name="Видеоинтерфейс" unit="">PCI-Express 3.0</param>
-<param name="Кількість роз'ємів FAN" unit="">2</param>
-<param name="USB 2.0" unit="">4</param>
-<param name="SATA Revision 3.0" unit="">4</param>
-<param name="Роз'єм живлення процесора" unit="">4+4 pin</param>
-<param name="Audio" unit="">3</param>
-<param name="USB 3.0" unit="">2</param>
-<param name="Роз'єм живлення плати" unit="">20+4 pin</param>
-<param name="Кількість M.2" unit="">2</param>
-<param name="Тип M.2" unit="">PCI-E 3.0</param>
-</offer>
 <offer id="2173195990" available="true">
 <url>https://tera-flops.com.ua/ua/p2173195990-materinska-plata-onda.html</url>
 <price>2800</price>
 <currencyId>UAH</currencyId>
 <categoryId>103890620</categoryId>
-<picture>https://images.prom.ua/5987245662_materinska-plata-onda.jpg</picture>
 <picture>https://images.prom.ua/5983790831_materinska-plata-onda.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
@@ -2008,15 +1956,15 @@
 <param name="Форм-фактор">microATX</param>
 <param name="Чипсет">H610</param>
 <param name="Разъемы">LGA1700</param>
-<param name="Видеоинтерфейс" unit="">PCI-Express 3.0</param>
-<param name="Кількість роз'ємів FAN" unit="">2</param>
-<param name="USB 2.0" unit="">4</param>
-<param name="SATA Revision 3.0" unit="">3</param>
-<param name="Роз'єм живлення процесора" unit="">4+4 pin</param>
 <param name="Audio" unit="">3</param>
+<param name="SATA Revision 3.0" unit="">3</param>
+<param name="USB 2.0" unit="">4</param>
 <param name="USB 3.0" unit="">2</param>
-<param name="Роз'єм живлення плати" unit="">20+4 pin</param>
+<param name="Видеоинтерфейс" unit="">PCI-Express 3.0</param>
 <param name="Кількість M.2" unit="">2</param>
+<param name="Кількість роз'ємів FAN" unit="">2</param>
+<param name="Роз'єм живлення плати" unit="">20+4 pin</param>
+<param name="Роз'єм живлення процесора" unit="">4+4 pin</param>
 <param name="Тип M.2" unit="">PCI-E 3.0</param>
 </offer>
 <offer id="2173201423" available="true">
@@ -2025,6 +1973,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>103890620</categoryId>
 <picture>https://images.prom.ua/5983790927_materinska-plata-onda.jpg</picture>
+<picture>https://images.prom.ua/6057671819_materinska-plata-onda.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Материнська плата Onda H610M-VH5 DDR5 White LGA 1700 (OND-H610M-VH5-W) (TF)</name>
@@ -2056,7 +2005,6 @@
 <currencyId>UAH</currencyId>
 <categoryId>97644299</categoryId>
 <picture>https://images.prom.ua/5983790867_materinskaya-plata-onda.jpg</picture>
-<picture>https://images.prom.ua/5961574004_materinskaya-plata-onda.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Материнская плата Onda A520+W Socket AM4 (A520+W)</name>
@@ -2076,6 +2024,39 @@
 <param name="Видеоинтерфейс" unit="">PCI-Express 3.0</param>
 <param name="Кількість M.2" unit="">2</param>
 <param name="Чипсет" unit="">A520</param>
+</offer>
+<offer id="2266901386" available="true">
+<url>https://tera-flops.com.ua/ua/p2266901386-zaryadna-stantsiya-dji.html</url>
+<price>38900</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6023557793_zaryadna-stantsiya-dji.jpg</picture>
+<picture>https://images.prom.ua/6023557795_zaryadna-stantsiya-dji.jpg</picture>
+<picture>https://images.prom.ua/6023557796_zaryadna-stantsiya-dji.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція DJI Power 1000 2600W (DJI Power 1000) CN (доставка авіа)</name>
+<vendor>DJI</vendor>
+<vendorCode>DJI Power 1000</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">LiFePO4</param>
+<param name="Габариты (мм)" unit="">230x448x225</param>
+<param name="Час зарядки (розетка)" unit="">50 хв</param>
+<param name="Вес (кг)" unit="">13</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Пиковая мощность" unit="">2200 Вт</param>
+<param name="Час зарядки (сонячна панель)" unit="">172 хв</param>
+<param name="USB-A (швидкої зарядки)" unit="">2 шт, 5В/3A, 9В/2A, 12В/1.5A, 24 Вт</param>
+<param name="Номинальная мощность" unit="">1000 Вт</param>
+<param name="USB type C" unit="">2 шт, 5 A, 100 Вт</param>
+<param name="Підключення дод. батареї" unit="">Да</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
+<param name="Функція ДБЖ" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Дисплей" unit="">Да</param>
 </offer>
 <offer id="2266925169" available="true">
 <url>https://tera-flops.com.ua/ua/p2266925169-zaryadna-stantsiya-dji.html</url>
@@ -2126,9 +2107,9 @@
 <name>Зарядна станція Bluetti AC200L 2400W (AC200L) CN (доставка авіа)</name>
 <vendor>Bluetti</vendor>
 <vendorCode>AC200L</vendorCode>
+<param name="Відвантаження зі складу">21</param>
 <param name="Тип">Зарядная станция</param>
 <param name="Тип аккумулятора">LiFePO4</param>
-<param name="Відвантаження зі складу">21</param>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
 <param name="Габариты (мм)" unit="">367x420x280</param>
@@ -2162,9 +2143,9 @@
 <name>Зарядна станція Bluetti AC2A 300W (AC2A) CN (доставка авіа)</name>
 <vendor>Bluetti</vendor>
 <vendorCode>AC2A</vendorCode>
+<param name="Відвантаження зі складу">21</param>
 <param name="Тип">Зарядная станция</param>
 <param name="Тип аккумулятора">LiFePO4</param>
-<param name="Відвантаження зі складу">21</param>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
 <param name="Габариты (мм)" unit="">250x156,5x174,5</param>
@@ -2196,8 +2177,8 @@
 <name>Зарядна станція Bluetti AC180 1800W (AC180) CN (доставка авіа)</name>
 <vendor>Bluetti</vendor>
 <vendorCode>AC180</vendorCode>
-<param name="Тип аккумулятора">LiFePO4</param>
 <param name="Відвантаження зі складу">21</param>
+<param name="Тип аккумулятора">LiFePO4</param>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
 <param name="Габариты (мм)" unit="">340x247x317</param>
@@ -2210,153 +2191,6 @@
 <param name="Час зарядки (сонячна панель)" unit="">200 хв</param>
 <param name="Номинальная мощность" unit="">1800 Вт</param>
 <param name="USB type C" unit="">1 шт, 3 A, 5 A, 100 Вт</param>
-<param name="Підключення дод. батареї" unit="">Да</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
-<param name="Функція ДБЖ" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">2</param>
-<param name="Дисплей" unit="">Да</param>
-</offer>
-<offer id="2266933258" available="false">
-<url>https://tera-flops.com.ua/ua/p2266933258-zaryadna-stantsiya-jackery.html</url>
-<price>79900</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6023726916_zaryadna-stantsiya-jackery.jpg</picture>
-<picture>https://images.prom.ua/6023726919_zaryadna-stantsiya-jackery.jpg</picture>
-<picture>https://images.prom.ua/6023726921_zaryadna-stantsiya-jackery.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція Jackery 2000 Plus 3000W (JACKERY 2000PLUS) CN (доставка авіа)</name>
-<vendor>Jackery</vendor>
-<vendorCode>JACKERY 2000PLUS</vendorCode>
-<param name="Тип">Зарядная станция</param>
-<param name="Тип аккумулятора">LiFePO4</param>
-<param name="Відвантаження зі складу">21</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="Габариты (мм)" unit="">473x359x374</param>
-<param name="Час зарядки (розетка)" unit="">100 хв</param>
-<param name="Вес (кг)" unit="">27.9</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Вихід DC" unit="">2 шт DC8020 (17.5 – 60 В / 12 А)</param>
-<param name="Пиковая мощность" unit="">6000 Вт</param>
-<param name="Час зарядки (сонячна панель)" unit="">120 хв</param>
-<param name="USB-A (швидкої зарядки)" unit="">2шт, 5В/3A, 9В/2A, 12В/1.5A, 18 Вт</param>
-<param name="Номинальная мощность" unit="">3000 Вт</param>
-<param name="Вхід XT60" unit="">Да</param>
-<param name="USB type C" unit="">2 ш, 3 A, 5 A, 100 Вт</param>
-<param name="Підключення дод. батареї" unit="">Да</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
-<param name="Функція ДБЖ" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">3</param>
-<param name="Дисплей" unit="">Да</param>
-</offer>
-<offer id="2266941152" available="true">
-<url>https://tera-flops.com.ua/ua/p2266941152-zaryadna-stantsiya-ecoflow.html</url>
-<price>40000</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6023754195_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6023754196_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6023754197_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6023754198_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6023754199_zaryadna-stantsiya-ecoflow.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція EcoFlow Delta 2 1800W (DELTA2 1800W) CN (доставка авіа)</name>
-<vendor>EcoFlow</vendor>
-<vendorCode>DELTA 2 1800W</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="Тип аккумулятора">LiFePO4</param>
-<param name="Габариты (мм)" unit="">281x211x400</param>
-<param name="Час зарядки (розетка)" unit="">80 хв</param>
-<param name="Вес (кг)" unit="">12</param>
-<param name="USB A" unit="">2 шт, 5В/2.4А, 12 Вт</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Вихід DC" unit="">2 шт DC5521 (12.6 В / 3 A / 38 Вт)</param>
-<param name="Пиковая мощность" unit="">2700 Вт</param>
-<param name="Час зарядки (сонячна панель)" unit="">180 хв</param>
-<param name="USB-A (швидкої зарядки)" unit="">2 шт, 5В/2.4A, 9В/2A, 12В/1.5A,18 Вт</param>
-<param name="Номинальная мощность" unit="">1800 Вт</param>
-<param name="Вхід XT60" unit="">Да</param>
-<param name="USB type C" unit="">2 шт, 5 A, 100 Вт</param>
-<param name="Підключення дод. батареї" unit="">Да</param>
-<param name="Додаткові входи" unit="">Х-Stream port (C13/14)</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
-<param name="Функція ДБЖ" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">4</param>
-<param name="Дисплей" unit="">Да</param>
-</offer>
-<offer id="2266942658" available="true">
-<url>https://tera-flops.com.ua/ua/p2266942658-zaryadna-stantsiya-ecoflow.html</url>
-<price>19500</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6023761615_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6023761617_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6023761619_zaryadna-stantsiya-ecoflow.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція EcoFlow River 2 Max 500W (RIVER2 MAX 500W) CN (доставка авіа)</name>
-<vendor>EcoFlow</vendor>
-<vendorCode>RIVER 2 MAX 500W</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="Тип аккумулятора">LiFePO4</param>
-<param name="Габариты (мм)" unit="">196x270x260</param>
-<param name="Час зарядки (розетка)" unit="">60 хв</param>
-<param name="Вес (кг)" unit="">6</param>
-<param name="USB A" unit="">3 шт, 5В/2.4А, 12 Вт</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Вихід DC" unit="">2 шт DC5521 (12.6 В / 3 A / 36 Вт)</param>
-<param name="Пиковая мощность" unit="">1000 Вт</param>
-<param name="Час зарядки (сонячна панель)" unit="">180 хв</param>
-<param name="Номинальная мощность" unit="">500 Вт</param>
-<param name="Вхід XT60" unit="">Да</param>
-<param name="USB type C" unit="">1 шт, 5 A, 100 Вт</param>
-<param name="Підключення дод. батареї" unit="">Да</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
-<param name="Функція ДБЖ" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">2</param>
-<param name="Дисплей" unit="">Да</param>
-</offer>
-<offer id="2266945474" available="false">
-<url>https://tera-flops.com.ua/ua/p2266945474-zaryadna-stantsiya-bluetti.html</url>
-<price>23500</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6023765852_zaryadna-stantsiya-bluetti.jpg</picture>
-<picture>https://images.prom.ua/6023765854_zaryadna-stantsiya-bluetti.jpg</picture>
-<picture>https://images.prom.ua/6023765855_zaryadna-stantsiya-bluetti.jpg</picture>
-<picture>https://images.prom.ua/6023765856_zaryadna-stantsiya-bluetti.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція Bluetti PowerOak EB70 1000W (EB70) CN (доставка авіа)</name>
-<vendor>Bluetti</vendor>
-<vendorCode>EB70</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Тип">Зарядная станция</param>
-<param name="Тип аккумулятора">LiFePO4</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="Габариты (мм)" unit="">221x320x216</param>
-<param name="Час зарядки (розетка)" unit="">240 хв</param>
-<param name="Вес (кг)" unit="">9.6</param>
-<param name="USB A" unit="">2 шт, 5В/3A, 15 Вт</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Вихід DC" unit="">2 шт DC5521 (12 В / 10 A)</param>
-<param name="Пиковая мощность" unit="">1400 Вт</param>
-<param name="Час зарядки (сонячна панель)" unit="">360 хв</param>
-<param name="Номинальная мощность" unit="">1000 Вт</param>
-<param name="Вхід XT60" unit="">Да</param>
-<param name="USB type C" unit="">2 шт, 3 A, 5 A, 100 Вт</param>
 <param name="Підключення дод. батареї" unit="">Да</param>
 <param name="Вихід на автомобільний прикурювач" unit="">Да</param>
 <param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
@@ -2402,115 +2236,1005 @@
 <param name="Кількість розеток (230 В)" unit="">1</param>
 <param name="Дисплей" unit="">Да</param>
 </offer>
-<offer id="2266949179" available="true">
-<url>https://tera-flops.com.ua/ua/p2266949179-zaryadna-stantsiya-ecoflow.html</url>
+<offer id="2275480870" available="true">
+<url>https://tera-flops.com.ua/ua/p2275480870-zaryadna-stantsiya-xin.html</url>
+<price>6000</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360873_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi 300W (XCS 180-300-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>XCS 180-300-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Габариты (мм)" unit="">250x185x68</param>
+<param name="Вес (кг)" unit="">2</param>
+<param name="USB A" unit="">2</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Пиковая мощность" unit="">400</param>
+<param name="Номинальная мощность" unit="">300</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Ємність батареї (Вт*год)" unit="">180Вт*год</param>
+</offer>
+<offer id="2275480871" available="true">
+<url>https://tera-flops.com.ua/ua/p2275480871-zaryadna-stantsiya-xin.html</url>
+<price>6500</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360874_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi 400W (XCS 200-400-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>XCS 200-400-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Габариты (мм)" unit="">250x185x68</param>
+<param name="Вес (кг)" unit="">2.1</param>
+<param name="USB A" unit="">2</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Пиковая мощность" unit="">500</param>
+<param name="Номинальная мощность" unit="">400</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Ємність батареї (Вт*год)" unit="">200</param>
+</offer>
+<offer id="2275480872" available="true">
+<url>https://tera-flops.com.ua/ua/p2275480872-zaryadna-stantsiya-xin.html</url>
+<price>7500</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360875_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi 400W (XCS 300-400-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>XCS 300-400-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="USB A" unit="">2</param>
+<param name="Ємність батареї (Вт*год)" unit="">300</param>
+<param name="Вес (кг)" unit="">2.8</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">250x185x68</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Номинальная мощность" unit="">400</param>
+<param name="Пиковая мощность" unit="">500</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+</offer>
+<offer id="2275480873" available="true">
+<url>https://tera-flops.com.ua/ua/p2275480873-zaryadna-stantsiya-xin.html</url>
 <price>10000</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6023776423_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6023776426_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6023776430_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6023776433_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6023776436_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6023776447_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6023776453_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6023776455_zaryadna-stantsiya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/6053360876_zaryadna-stantsiya-xin.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<name>Зарядна станція EcoFlow River 2 300W (RIVER2 300W) CN (доставка авіа)</name>
-<vendor>EcoFlow</vendor>
-<vendorCode>RIVER 2 300W</vendorCode>
+<name>Зарядна станція Xin Chi Shi 600W (XCS 360-600-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>XCS 360-600-220</vendorCode>
 <param name="Відвантаження зі складу">21</param>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
-<param name="Тип аккумулятора">LiFePO4</param>
-<param name="Габариты (мм)" unit="">142x245x214</param>
-<param name="Час зарядки (розетка)" unit="">60 хв</param>
-<param name="Вес (кг)" unit="">3.5</param>
-<param name="USB A" unit="">2 шт, 5В/2.4А, 12 Вт</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Вихід DC" unit="">1 шт (12.6 В / 8 А / 100 Вт)</param>
-<param name="Пиковая мощность" unit="">600 Вт</param>
-<param name="Час зарядки (сонячна панель)" unit="">180 хв</param>
-<param name="Номинальная мощность" unit="">300 Вт</param>
-<param name="Вхід XT60" unit="">Да</param>
-<param name="USB type C" unit="">1 шт, 3 A, 60 Вт</param>
-<param name="Підключення дод. батареї" unit="">Да</param>
+<param name="USB A" unit="">4</param>
+<param name="Ємність батареї (Вт*год)" unit="">360</param>
+<param name="Вес (кг)" unit="">4.5</param>
 <param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
-<param name="Функція ДБЖ" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">1</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">300x225x75</param>
 <param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Номинальная мощность" unit="">600</param>
+<param name="Пиковая мощность" unit="">700</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
 </offer>
-<offer id="2267122092" available="true">
-<url>https://tera-flops.com.ua/ua/p2267122092-zaryadna-stantsiya-ecoflow.html</url>
-<price>23000</price>
+<offer id="2275480874" available="true">
+<url>https://tera-flops.com.ua/ua/p2275480874-zaryadna-stantsiya-xin.html</url>
+<price>10500</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6024316268_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6024316270_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6024316275_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6024316277_zaryadna-stantsiya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/6053360878_zaryadna-stantsiya-xin.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<name>Зарядна станція EcoFlow River 2 Pro 800W (RIVER 2 PRO 800W) CN (доставка авіа)</name>
-<vendor>EcoFlow</vendor>
-<vendorCode>RIVER 2 PRO 800W</vendorCode>
+<name>Зарядна станція Xin Chi Shi 600W (XCS 440-600-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>XCS 440-600-220</vendorCode>
 <param name="Відвантаження зі складу">21</param>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
-<param name="Тип аккумулятора">LiFePO4</param>
-<param name="Габариты (мм)" unit="">226x270x260</param>
-<param name="Час зарядки (розетка)" unit="">70 хв</param>
-<param name="Вес (кг)" unit="">7.8</param>
-<param name="USB A" unit="">3 шт, 5В/2.4А, 12 Вт</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Вихід DC" unit="">2 шт DC5521 (12.6 В / 3 A / 36 Вт)</param>
-<param name="Пиковая мощность" unit="">1600 Вт</param>
-<param name="Час зарядки (сонячна панель)" unit="">210 хв</param>
-<param name="Номинальная мощность" unit="">800 Вт</param>
-<param name="Вхід XT60" unit="">Да</param>
-<param name="USB type C" unit="">1 шт, 5 A, 100 Вт</param>
-<param name="Підключення дод. батареї" unit="">Да</param>
+<param name="USB A" unit="">4</param>
+<param name="Ємність батареї (Вт*год)" unit="">440</param>
+<param name="Вес (кг)" unit="">4.7</param>
 <param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
-<param name="Функція ДБЖ" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">3</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">300x225x75</param>
 <param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Номинальная мощность" unit="">600</param>
+<param name="Пиковая мощность" unit="">700</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
 </offer>
-<offer id="2267123476" available="false">
-<url>https://tera-flops.com.ua/ua/p2267123476-zaryadna-stantsiya-jackery.html</url>
-<price>50000</price>
+<offer id="2275480875" available="true">
+<url>https://tera-flops.com.ua/ua/p2275480875-zaryadna-stantsiya-xin.html</url>
+<price>11000</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6024321894_zaryadna-stantsiya-jackery.jpg</picture>
+<picture>https://images.prom.ua/6053360879_zaryadna-stantsiya-xin.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<name>Зарядна станція Jackery 1000 Plus 2000W (JACKERY 1000PLUS) CN (доставка авіа)</name>
-<vendor>Jackery</vendor>
-<vendorCode>JACKERY 1000PLUS</vendorCode>
-<param name="Тип">Зарядная станция</param>
-<param name="Тип аккумулятора">LiFePO4</param>
+<name>Зарядна станція Xin Chi Shi 600W (XCS 560-600-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>XCS 560-600-220</vendorCode>
 <param name="Відвантаження зі складу">21</param>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
-<param name="Габариты (мм)" unit="">260x356x283</param>
-<param name="Час зарядки (розетка)" unit="">100 хв</param>
-<param name="Вес (кг)" unit="">14.5</param>
-<param name="USB A" unit="">2 шт, 5В/3A, 9В/2A, 12В/1.5A, 18 Вт</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Вихід DC" unit="">2 шт DC8020 (12 – 60 В / 11 А / 400 Вт)</param>
-<param name="Пиковая мощность" unit="">4000 Вт</param>
-<param name="Час зарядки (сонячна панель)" unit="">120 хв</param>
-<param name="Номинальная мощность" unit="">2000 Вт</param>
-<param name="Вхід XT60" unit="">Да</param>
-<param name="USB type C" unit="">2 шт, 3 A, 5 A, 100 Вт</param>
-<param name="Підключення дод. батареї" unit="">Да</param>
+<param name="USB A" unit="">4</param>
+<param name="Ємність батареї (Вт*год)" unit="">560</param>
+<param name="Вес (кг)" unit="">5</param>
 <param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
-<param name="Функція ДБЖ" unit="">Да</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">300x225x75</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Номинальная мощность" unit="">600</param>
+<param name="Пиковая мощность" unit="">700</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+</offer>
+<offer id="2275480876" available="true">
+<url>https://tera-flops.com.ua/ua/p2275480876-zaryadna-stantsiya-xin.html</url>
+<price>14000</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360880_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi 1000W (XCS 560-1000-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>XCS 560-1000-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="USB A" unit="">3</param>
+<param name="USB type C" unit="">1</param>
+<param name="Ємність батареї (Вт*год)" unit="">560</param>
+<param name="Вес (кг)" unit="">6.5</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">350x260x80</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Номинальная мощность" unit="">1000</param>
+<param name="Пиковая мощность" unit="">1500</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+</offer>
+<offer id="2275480877" available="true">
+<url>https://tera-flops.com.ua/ua/p2275480877-zaryadna-stantsiya-xin.html</url>
+<price>15500</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360881_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi 1000W (XCS 640-1000-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>XCS 640-1000-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="USB A" unit="">3</param>
+<param name="USB type C" unit="">1</param>
+<param name="Ємність батареї (Вт*год)" unit="">640</param>
+<param name="Вес (кг)" unit="">7.4</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">350x260x80</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Номинальная мощность" unit="">1000</param>
+<param name="Пиковая мощность" unit="">1500</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+</offer>
+<offer id="2275480878" available="true">
+<url>https://tera-flops.com.ua/ua/p2275480878-zaryadna-stantsiya-xin.html</url>
+<price>19500</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360883_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi 1000W (XCS 860-1000-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>XCS 860-1000-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="USB A" unit="">3</param>
+<param name="USB type C" unit="">1</param>
+<param name="Ємність батареї (Вт*год)" unit="">860</param>
+<param name="Вес (кг)" unit="">7.6</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">350x260x80</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Номинальная мощность" unit="">1000</param>
+<param name="Пиковая мощность" unit="">1500</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+</offer>
+<offer id="2275480879" available="true">
+<url>https://tera-flops.com.ua/ua/p2275480879-zaryadna-stantsiya-xin.html</url>
+<price>31000</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360885_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi 1500W (XCS 1400-1500-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>XCS 1400-1500-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="USB A" unit="">2</param>
+<param name="USB type C" unit="">2</param>
+<param name="Ємність батареї (Вт*год)" unit="">1440</param>
+<param name="Вес (кг)" unit="">12</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">400x225x223</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">4</param>
+<param name="Номинальная мощность" unit="">1500</param>
+<param name="Пиковая мощность" unit="">1800</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+</offer>
+<offer id="2275480880" available="true">
+<url>https://tera-flops.com.ua/ua/p2275480880-zaryadna-stantsiya-xin.html</url>
+<price>38500</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360887_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi 1500W (XCS 1800-1500-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>XCS 1800-1500-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="USB A" unit="">2</param>
+<param name="USB type C" unit="">2</param>
+<param name="Ємність батареї (Вт*год)" unit="">1824</param>
+<param name="Вес (кг)" unit="">17</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">400x225x223</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">4</param>
+<param name="Номинальная мощность" unit="">1500</param>
+<param name="Пиковая мощность" unit="">1800</param>
+</offer>
+<offer id="2275480881" available="true">
+<url>https://tera-flops.com.ua/ua/p2275480881-zaryadna-stantsiya-xin.html</url>
+<price>60000</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053415984_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi 3000W (XCS 3840-3000-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>XCS 3840-3000-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Габариты (мм)" unit="">400x225x272</param>
+<param name="Вес (кг)" unit="">20</param>
+<param name="USB A" unit="">2</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Пиковая мощность" unit="">3500</param>
+<param name="Номинальная мощность" unit="">3000</param>
+<param name="USB type C" unit="">2</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+<param name="Кількість розеток (230 В)" unit="">4</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Ємність батареї (Вт*год)" unit="">3840</param>
+</offer>
+<offer id="2275480882" available="true">
+<url>https://tera-flops.com.ua/ua/p2275480882-zaryadna-stantsiya-xin.html</url>
+<price>6000</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360889_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi FG-300 300W (FG-200-300-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>FG-200-300-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="USB A" unit="">3</param>
+<param name="USB type C" unit="">1</param>
+<param name="Ємність батареї (Вт*год)" unit="">200</param>
+<param name="Вес (кг)" unit="">2.3</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">250x185x68</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Номинальная мощность" unit="">300</param>
+<param name="Пиковая мощность" unit="">300</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+</offer>
+<offer id="2275480883" available="true">
+<url>https://tera-flops.com.ua/ua/p2275480883-zaryadna-stantsiya-xin.html</url>
+<price>7000</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053415751_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi FG-300 300W (FG-300-300-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>FG-300-300-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Вес (кг)" unit="">3</param>
+<param name="USB A" unit="">3</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Пиковая мощность" unit="">300</param>
+<param name="Номинальная мощность" unit="">300</param>
+<param name="USB type C" unit="">1</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
 <param name="Кількість розеток (230 В)" unit="">2</param>
 <param name="Дисплей" unit="">Да</param>
+<param name="Ємність батареї (Вт*год)" unit="">300</param>
+</offer>
+<offer id="2275480884" available="true">
+<url>https://tera-flops.com.ua/ua/p2275480884-zaryadna-stantsiya-xin.html</url>
+<price>10000</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360891_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi FG-600 600W (FG-360-600-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>FG-360-600-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Б/У</param>
+<param name="USB A" unit="">3</param>
+<param name="USB type C" unit="">1</param>
+<param name="Ємність батареї (Вт*год)" unit="">360</param>
+<param name="Вес (кг)" unit="">3.8</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">280x210x82</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Номинальная мощность" unit="">600</param>
+<param name="Пиковая мощность" unit="">600</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+</offer>
+<offer id="2275480885" available="true">
+<url>https://tera-flops.com.ua/ua/p2275480885-zaryadna-stantsiya-xin.html</url>
+<price>11500</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360892_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi FG-600 600W (FG-480-600-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>FG-480-600-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Б/У</param>
+<param name="USB A" unit="">3</param>
+<param name="USB type C" unit="">1</param>
+<param name="Ємність батареї (Вт*год)" unit="">480</param>
+<param name="Вес (кг)" unit="">4.6</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">280x210x82</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Номинальная мощность" unit="">600</param>
+<param name="Пиковая мощность" unit="">600</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+</offer>
+<offer id="2275480886" available="true">
+<url>https://tera-flops.com.ua/ua/p2275480886-zaryadna-stantsiya-xin.html</url>
+<price>17000</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360893_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi FG-1000 1000W (FG-640-1000-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>FG-640-1000-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="USB A" unit="">2</param>
+<param name="USB type C" unit="">2</param>
+<param name="Ємність батареї (Вт*год)" unit="">640</param>
+<param name="Вес (кг)" unit="">8</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">350x260x80</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">3</param>
+<param name="Номинальная мощность" unit="">1000</param>
+<param name="Пиковая мощность" unit="">1000</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+</offer>
+<offer id="2275480887" available="true">
+<url>https://tera-flops.com.ua/ua/p2275480887-zaryadna-stantsiya-xin.html</url>
+<price>21000</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360894_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi FG-1000 1000W (FG-860-1000-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>FG-860-1000-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="USB A" unit="">2</param>
+<param name="USB type C" unit="">2</param>
+<param name="Ємність батареї (Вт*год)" unit="">860</param>
+<param name="Вес (кг)" unit="">8.8</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">350x260x88</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">3</param>
+<param name="Номинальная мощность" unit="">1000</param>
+<param name="Пиковая мощность" unit="">1000</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+</offer>
+<offer id="2275480888" available="true">
+<url>https://tera-flops.com.ua/ua/p2275480888-zaryadna-stantsiya-xin.html</url>
+<price>5500</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360895_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi FF-200 200W (FF-120-200-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>FF-120-200-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="USB A" unit="">4</param>
+<param name="Ємність батареї (Вт*год)" unit="">120</param>
+<param name="Вес (кг)" unit="">1.3</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">206x127x77</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">1</param>
+<param name="Номинальная мощность" unit="">200</param>
+<param name="Пиковая мощность" unit="">200</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+</offer>
+<offer id="2275480892" available="true">
+<url>https://tera-flops.com.ua/ua/p2275480892-zaryadna-stantsiya-xin.html</url>
+<price>6000</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360906_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi FF-300 300W (FF-160-300-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>FF-160-300-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="USB A" unit="">4</param>
+<param name="Ємність батареї (Вт*год)" unit="">160</param>
+<param name="Вес (кг)" unit="">1.7</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">206x127x77</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">1</param>
+<param name="Номинальная мощность" unit="">300</param>
+<param name="Пиковая мощность" unit="">300</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+</offer>
+<offer id="2275480893" available="true">
+<url>https://tera-flops.com.ua/ua/p2275480893-zaryadna-stantsiya-xin.html</url>
+<price>7500</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360912_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi FF-300 300W (FF-231-300-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>FF-231-300-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="USB A" unit="">4</param>
+<param name="Ємність батареї (Вт*год)" unit="">231</param>
+<param name="Вес (кг)" unit="">1.8</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">206x127x77</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">1</param>
+<param name="Номинальная мощность" unit="">300</param>
+<param name="Пиковая мощность" unit="">300</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+</offer>
+<offer id="2276778921" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778921-kilimok-dlya-mishi.html</url>
+<price>950</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6061878047_kilimok-dlya-mishi.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші з підсвіткою RGB Republic of Gamers 900x400mm (ROG-39)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>ROG-39</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Особенности" unit="">RGB підсвічування</param>
+<param name="Цвет" unit="">різнокольоровий</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Розмір, мм" unit="">900x400</param>
+</offer>
+<offer id="2276778922" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778922-kilimok-dlya-mishi.html</url>
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6061878036_kilimok-dlya-mishi.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші з підсвіткою RGB Republic of Gamers 300x250mm (ROG-35)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>ROG-35</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Особенности" unit="">RGB підсвічування</param>
+<param name="Розмір, мм" unit="">300x250</param>
+<param name="Цвет" unit="">різнокольоровий</param>
+</offer>
+<offer id="2276778923" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778923-kilimok-dlya-mishi.html</url>
+<price>950</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6061878028_kilimok-dlya-mishi.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші з підсвіткою RGB Republic of Gamers 900x400mm (ROG-79)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>ROG-79</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Особенности" unit="">RGB підсвічування</param>
+<param name="Розмір, мм" unit="">900x400</param>
+<param name="Цвет" unit="">різнокольоровий</param>
+</offer>
+<offer id="2276778924" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778924-kilimok-dlya-mishi.html</url>
+<price>850</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6061878046_kilimok-dlya-mishi.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші з підсвіткою RGB Republic of Gamers 800x300mm (ROG-101)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>ROG-101</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет">Черный</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Особенности" unit="">RGB підсвічування</param>
+<param name="Розмір, мм" unit="">800x300</param>
+</offer>
+<offer id="2276778925" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778925-kilimok-dlya-mishi.html</url>
+<price>450</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6061878048_kilimok-dlya-mishi.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші з підсвіткою RGB Republic of Gamers 300x250mm (ROG-148)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>ROG-148</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Особенности" unit="">RGB підсвічування</param>
+<param name="Цвет" unit="">різнокольоровий</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Розмір, мм" unit="">300x250</param>
+</offer>
+<offer id="2276778926" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778926-kilimok-dlya-mishi.html</url>
+<price>550</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6061878037_kilimok-dlya-mishi.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші PUBG 800x300mm (PUBG-21)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>PUBG-21</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Розмір, мм" unit="">800x300</param>
+<param name="Цвет" unit="">різнокольоровий</param>
+</offer>
+<offer id="2276778927" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778927-kilimok-dlya-mishi.html</url>
+<price>350</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6061878041_kilimok-dlya-mishi.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші PUBG 300x250mm (PUBG-21)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>PUBG-21</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Розмір, мм" unit="">300x250</param>
+<param name="Цвет" unit="">різнокольоровий</param>
+</offer>
+<offer id="2276778928" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778928-kilimok-dlya-mishi.html</url>
+<price>600</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6061878030_kilimok-dlya-mishi.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші PUBG 800x300mm (PUBG-62)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>PUBG-62</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Розмір, мм" unit="">800x300</param>
+<param name="Цвет" unit="">різнокольоровий</param>
+</offer>
+<offer id="2276778929" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778929-kilimok-dlya-mishi.html</url>
+<price>600</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6061878034_kilimok-dlya-mishi.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші PUBG 800x300mm (PUBG-77)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>PUBG-77</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Особенности" unit="">RGB підсвічування</param>
+<param name="Розмір, мм" unit="">800x300</param>
+<param name="Цвет" unit="">різнокольоровий</param>
+</offer>
+<offer id="2276778930" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778930-kilimok-dlya-mishi.html</url>
+<price>550</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6061878044_kilimok-dlya-mishi.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші Halo 800x300mm (HALO-66)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>HALO-66</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Розмір, мм" unit="">800x300</param>
+<param name="Цвет" unit="">різнокольоровий</param>
+</offer>
+<offer id="2276778931" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778931-kilimok-dlya-mishi.html</url>
+<price>800</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6061878031_kilimok-dlya-mishi.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші з підсвіткою RGB League of Legends: Kaisa fan art 800x300mm (Fanhua-10)</name>
+<vendor>Fanhua</vendor>
+<vendorCode>Fanhua-10</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет">Синий</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Особенности" unit="">RGB підсвічування</param>
+<param name="Розмір, мм" unit="">800x300</param>
+</offer>
+<offer id="2276778932" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778932-kilimok-dlya-mishi.html</url>
+<price>300</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6061878049_kilimok-dlya-mishi.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші Cyberpunk: Edgerunners 300x250mm (Edgerunners-08)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>Edgerunners-08</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет" unit="">різнокольоровий</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Розмір, мм" unit="">300x250</param>
+</offer>
+<offer id="2276778933" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778933-kilimok-dlya-mishi.html</url>
+<price>750</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6061889213_kilimok-dlya-mishi.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші з підсвіткою RGB Apex Legends 800x300mm (APEX-12)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>APEX-12</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Особенности" unit="">RGB підсвічування</param>
+<param name="Цвет" unit="">різнокольоровий</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Розмір, мм" unit="">800x300</param>
+</offer>
+<offer id="2276778934" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778934-kilimok-dlya-mishi.html</url>
+<price>750</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6061878039_kilimok-dlya-mishi.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші з підсвіткою RGB Apex Legends 800x300mm (APEX-22)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>APEX-22</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Особенности" unit="">RGB підсвічування</param>
+<param name="Розмір, мм" unit="">800x300</param>
+<param name="Цвет" unit="">різнокольоровий</param>
+</offer>
+<offer id="2276778935" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778935-kilimok-dlya-mishi.html</url>
+<price>400</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6061878024_kilimok-dlya-mishi.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші з підсвіткою RGB Hexagon 300x250mm (Hexagon-14)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>Hexagon-14</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет">Черный</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Особенности" unit="">RGB підсвічування</param>
+<param name="Розмір, мм" unit="">300x250</param>
+</offer>
+<offer id="2276778936" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778936-kilimok-dlya-mishi.html</url>
+<price>800</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6061878027_kilimok-dlya-mishi.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші з підсвіткою RGB Hexagon 800x300mm (Hexagon-18)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>Hexagon-18</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет">Черный</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Особенности" unit="">RGB підсвічування</param>
+<param name="Розмір, мм" unit="">800x300</param>
+</offer>
+<offer id="2276778937" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778937-kilimok-dlya-mishi.html</url>
+<price>850</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6061878043_kilimok-dlya-mishi.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші з підсвіткою RGB Neko Yu Shizuku 800x300mm (Neko Yu Shizuku-011)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>Neko Yu Shizuku-011</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Особенности" unit="">RGB підсвічування</param>
+<param name="Розмір, мм" unit="">800x300</param>
+<param name="Цвет" unit="">різнокольоровий</param>
+</offer>
+<offer id="2276778938" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778938-kilimok-dlya-mishi.html</url>
+<price>550</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6061878026_kilimok-dlya-mishi.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші з підсвіткою RGB Cyberpunk 300x250mm (Cyberpunk-154)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>Cyberpunk-154</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Особенности" unit="">RGB підсвічування</param>
+<param name="Розмір, мм" unit="">300x250</param>
+<param name="Цвет" unit="">різнокольоровий</param>
+</offer>
+<offer id="2276778939" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778939-kilimok-dlya-mishi.html</url>
+<price>450</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6061878029_kilimok-dlya-mishi.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші з підсвіткою RGB Cyberpunk 300x250mm (Cyberpunk-151)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>Cyberpunk-151</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Особенности" unit="">RGB підсвічування</param>
+<param name="Розмір, мм" unit="">300x250</param>
+<param name="Цвет" unit="">різнокольоровий</param>
+</offer>
+<offer id="2276778940" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778940-kilimok-dlya-mishi.html</url>
+<price>450</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6061878032_kilimok-dlya-mishi.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші з підсвіткою RGB Cyberpunk 300x250mm (Cyberpunk-155)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>Cyberpunk-155</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Особенности" unit="">RGB підсвічування</param>
+<param name="Розмір, мм" unit="">300x250</param>
+<param name="Цвет" unit="">різнокольоровий</param>
+</offer>
+<offer id="2276778941" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778941-kilimok-dlya-mishi.html</url>
+<price>850</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6061878033_kilimok-dlya-mishi.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші з підсвіткою RGB Genshin Impact 800x300mm (Genshin Impact-79)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>Genshin Impact-79</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Особенности" unit="">RGB підсвічування</param>
+<param name="Розмір, мм" unit="">800x300</param>
+<param name="Цвет" unit="">різнокольоровий</param>
+</offer>
+<offer id="2276778942" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778942-kilimok-dlya-mishi.html</url>
+<price>850</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6061878040_kilimok-dlya-mishi.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші з підсвіткою RGB Genshin Impact 800x300mm (Genshin Impact-98)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>Genshin Impact-98</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет">Зелёный</param>
+<param name="Особенности" unit="">RGB підсвічування</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Розмір, мм" unit="">800x300</param>
+</offer>
+<offer id="2276778943" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778943-kilimok-dlya-mishi.html</url>
+<price>800</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6061878042_kilimok-dlya-mishi.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші з підсвіткою RGB Space 800x300mm (Space-67)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>Space-67</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Особенности" unit="">RGB підсвічування</param>
+<param name="Розмір, мм" unit="">800x300</param>
+<param name="Цвет" unit="">різнокольоровий</param>
+</offer>
+<offer id="2276778944" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778944-kilimok-dlya-mishi.html</url>
+<price>700</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6061878045_kilimok-dlya-mishi.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші з підсвіткою RGB Clear Black 800x300mm (Black-01)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>Black-01</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет">Черный</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Особенности" unit="">RGB підсвічування</param>
+<param name="Розмір, мм" unit="">800x300</param>
+</offer>
+<offer id="2276778945" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778945-kilimok-dlya-mishi.html</url>
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6061878025_kilimok-dlya-mishi.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші з підсвіткою RGB Neko Yu Shizuku 300x250mm (Neko Yu Shizuku-01)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>Neko Yu Shizuku-01</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Особенности" unit="">RGB підсвічування</param>
+<param name="Цвет" unit="">різнокольоровий</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Розмір, мм" unit="">300x250</param>
 </offer>
 </offers>
 </shop>
