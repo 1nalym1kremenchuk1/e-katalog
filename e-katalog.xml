@@ -2025,772 +2025,6 @@
 <param name="Кількість M.2" unit="">2</param>
 <param name="Чипсет" unit="">A520</param>
 </offer>
-<offer id="2266901386" available="true">
-<url>https://tera-flops.com.ua/ua/p2266901386-zaryadna-stantsiya-dji.html</url>
-<price>38900</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6023557793_zaryadna-stantsiya-dji.jpg</picture>
-<picture>https://images.prom.ua/6023557795_zaryadna-stantsiya-dji.jpg</picture>
-<picture>https://images.prom.ua/6023557796_zaryadna-stantsiya-dji.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція DJI Power 1000 2600W (DJI Power 1000) CN (доставка авіа)</name>
-<vendor>DJI</vendor>
-<vendorCode>DJI Power 1000</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="Тип аккумулятора">LiFePO4</param>
-<param name="Габариты (мм)" unit="">230x448x225</param>
-<param name="Час зарядки (розетка)" unit="">50 хв</param>
-<param name="Вес (кг)" unit="">13</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Пиковая мощность" unit="">2200 Вт</param>
-<param name="Час зарядки (сонячна панель)" unit="">172 хв</param>
-<param name="USB-A (швидкої зарядки)" unit="">2 шт, 5В/3A, 9В/2A, 12В/1.5A, 24 Вт</param>
-<param name="Номинальная мощность" unit="">1000 Вт</param>
-<param name="USB type C" unit="">2 шт, 5 A, 100 Вт</param>
-<param name="Підключення дод. батареї" unit="">Да</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
-<param name="Функція ДБЖ" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">2</param>
-<param name="Дисплей" unit="">Да</param>
-</offer>
-<offer id="2266925169" available="true">
-<url>https://tera-flops.com.ua/ua/p2266925169-zaryadna-stantsiya-dji.html</url>
-<price>22900</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6023675324_zaryadna-stantsiya-dji.jpg</picture>
-<picture>https://images.prom.ua/6023675326_zaryadna-stantsiya-dji.jpg</picture>
-<picture>https://images.prom.ua/6023675327_zaryadna-stantsiya-dji.jpg</picture>
-<picture>https://images.prom.ua/6023675328_zaryadna-stantsiya-dji.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція DJI Power 500 1000W (DJI Power 500) CN (доставка авіа)</name>
-<vendor>DJI</vendor>
-<vendorCode>DJI Power 500</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="Тип аккумулятора">LiFePO4</param>
-<param name="Габариты (мм)" unit="">177x207x305</param>
-<param name="Час зарядки (розетка)" unit="">50 хв</param>
-<param name="Вес (кг)" unit="">7.3</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Пиковая мощность" unit="">1000 Вт</param>
-<param name="Час зарядки (сонячна панель)" unit="">240 хв</param>
-<param name="USB-A (швидкої зарядки)" unit="">2 шт, 5В/3A, 9В/2A, 12В/1.5A, 24 Вт</param>
-<param name="Номинальная мощность" unit="">500 Вт</param>
-<param name="USB type C" unit="">2 шт, 5 A, 100 Вт</param>
-<param name="Підключення дод. батареї" unit="">Да</param>
-<param name="Додаткові входи" unit="">SDC Lite In/Out (22.4 – 29.2 В / 10 А 300 Вт)</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
-<param name="Функція ДБЖ" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">2</param>
-<param name="Дисплей" unit="">Да</param>
-</offer>
-<offer id="2266927640" available="true">
-<url>https://tera-flops.com.ua/ua/p2266927640-zaryadna-stantsiya-bluetti.html</url>
-<price>74900</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6026840662_zaryadna-stantsiya-bluetti.jpg</picture>
-<picture>https://images.prom.ua/6026840664_zaryadna-stantsiya-bluetti.jpg</picture>
-<picture>https://images.prom.ua/6026840665_zaryadna-stantsiya-bluetti.jpg</picture>
-<picture>https://images.prom.ua/6026840704_zaryadna-stantsiya-bluetti.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція Bluetti AC200L 2400W (AC200L) CN (доставка авіа)</name>
-<vendor>Bluetti</vendor>
-<vendorCode>AC200L</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Тип">Зарядная станция</param>
-<param name="Тип аккумулятора">LiFePO4</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="Габариты (мм)" unit="">367x420x280</param>
-<param name="Час зарядки (розетка)" unit="">60 хв</param>
-<param name="Вес (кг)" unit="">28.3</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Вихід DC" unit="">2-pin Aviation Socket (12 – 145 В / 15 А / 1200 Вт)</param>
-<param name="Пиковая мощность" unit="">3600 Вт</param>
-<param name="Час зарядки (сонячна панель)" unit="">168 хв</param>
-<param name="USB-A (швидкої зарядки)" unit="">2шт, 5В/3A, 9В/2A, 12В/1.5A,18 Вт</param>
-<param name="Номинальная мощность" unit="">2400 Вт</param>
-<param name="USB type C" unit="">2 шт, 3 A, 5 A, 100 Вт</param>
-<param name="Додаткові входи" unit="">RV (48 В / 8 А)</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
-<param name="Функція ДБЖ" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">4</param>
-<param name="Дисплей" unit="">Да</param>
-</offer>
-<offer id="2266930039" available="true">
-<url>https://tera-flops.com.ua/ua/p2266930039-zaryadna-stantsiya-bluetti.html</url>
-<price>10000</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6023711564_zaryadna-stantsiya-bluetti.jpg</picture>
-<picture>https://images.prom.ua/6023711565_zaryadna-stantsiya-bluetti.jpg</picture>
-<picture>https://images.prom.ua/6023711566_zaryadna-stantsiya-bluetti.jpg</picture>
-<picture>https://images.prom.ua/6023711567_zaryadna-stantsiya-bluetti.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція Bluetti AC2A 300W (AC2A) CN (доставка авіа)</name>
-<vendor>Bluetti</vendor>
-<vendorCode>AC2A</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Тип">Зарядная станция</param>
-<param name="Тип аккумулятора">LiFePO4</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="Габариты (мм)" unit="">250x156,5x174,5</param>
-<param name="Час зарядки (розетка)" unit="">70 хв</param>
-<param name="Вес (кг)" unit="">3.6</param>
-<param name="USB A" unit="">2шт</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Пиковая мощность" unit="">600 Вт</param>
-<param name="Час зарядки (сонячна панель)" unit="">90 хв</param>
-<param name="Номинальная мощность" unit="">300 Вт</param>
-<param name="USB type C" unit="">1шт</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
-<param name="Функція ДБЖ" unit="">Да</param>
-<param name="Дисплей" unit="">Да</param>
-</offer>
-<offer id="2266930861" available="true">
-<url>https://tera-flops.com.ua/ua/p2266930861-zaryadna-stantsiya-bluetti.html</url>
-<price>41000</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6023717687_zaryadna-stantsiya-bluetti.jpg</picture>
-<picture>https://images.prom.ua/6023717688_zaryadna-stantsiya-bluetti.jpg</picture>
-<picture>https://images.prom.ua/6023717689_zaryadna-stantsiya-bluetti.jpg</picture>
-<picture>https://images.prom.ua/6023717690_zaryadna-stantsiya-bluetti.jpg</picture>
-<picture>https://images.prom.ua/6023717691_zaryadna-stantsiya-bluetti.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція Bluetti AC180 1800W (AC180) CN (доставка авіа)</name>
-<vendor>Bluetti</vendor>
-<vendorCode>AC180</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Тип аккумулятора">LiFePO4</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="Габариты (мм)" unit="">340x247x317</param>
-<param name="Час зарядки (розетка)" unit="">110 хв</param>
-<param name="Вес (кг)" unit="">16</param>
-<param name="USB A" unit="">4 шт, 5В/3A, 15 Вт</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Вихід DC" unit="">1 шт DC7909 (12 – 60 В / 10 А / 500 Вт)</param>
-<param name="Пиковая мощность" unit="">2700 Вт</param>
-<param name="Час зарядки (сонячна панель)" unit="">200 хв</param>
-<param name="Номинальная мощность" unit="">1800 Вт</param>
-<param name="USB type C" unit="">1 шт, 3 A, 5 A, 100 Вт</param>
-<param name="Підключення дод. батареї" unit="">Да</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
-<param name="Функція ДБЖ" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">2</param>
-<param name="Дисплей" unit="">Да</param>
-</offer>
-<offer id="2266947490" available="true">
-<url>https://tera-flops.com.ua/ua/p2266947490-zaryadna-stantsiya-bluetti.html</url>
-<price>11300</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6023770657_zaryadna-stantsiya-bluetti.jpg</picture>
-<picture>https://images.prom.ua/6023770659_zaryadna-stantsiya-bluetti.jpg</picture>
-<picture>https://images.prom.ua/6023770661_zaryadna-stantsiya-bluetti.jpg</picture>
-<picture>https://images.prom.ua/6023770665_zaryadna-stantsiya-bluetti.jpg</picture>
-<picture>https://images.prom.ua/6023770669_zaryadna-stantsiya-bluetti.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція Bluetti PowerOak EB3A 600W (EB3A) CN (доставка авіа)</name>
-<vendor>Bluetti</vendor>
-<vendorCode>EB3A</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Тип">Зарядная станция</param>
-<param name="Тип аккумулятора">LiFePO4</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="Габариты (мм)" unit="">183x255x180</param>
-<param name="Час зарядки (розетка)" unit="">90 хв</param>
-<param name="Вес (кг)" unit="">4.6</param>
-<param name="USB A" unit="">2 шт, 5В/3A, 15 Вт</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Вихід DC" unit="">2 шт DC5521 (12 В / 10 A)</param>
-<param name="Пиковая мощность" unit="">1200 Вт</param>
-<param name="Час зарядки (сонячна панель)" unit="">120 хв</param>
-<param name="Номинальная мощность" unit="">600 Вт</param>
-<param name="Вхід XT60" unit="">Да</param>
-<param name="USB type C" unit="">1 шт, 5 A, 100 Вт</param>
-<param name="Підключення дод. батареї" unit="">Да</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
-<param name="Функція ДБЖ" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">1</param>
-<param name="Дисплей" unit="">Да</param>
-</offer>
-<offer id="2275480870" available="true">
-<url>https://tera-flops.com.ua/ua/p2275480870-zaryadna-stantsiya-xin.html</url>
-<price>6000</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6053360873_zaryadna-stantsiya-xin.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція Xin Chi Shi 300W (XCS 180-300-220) (доставка авіа)</name>
-<vendor>Xin Chi Shi</vendor>
-<vendorCode>XCS 180-300-220</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="Габариты (мм)" unit="">250x185x68</param>
-<param name="Вес (кг)" unit="">2</param>
-<param name="USB A" unit="">2</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Пиковая мощность" unit="">400</param>
-<param name="Номинальная мощность" unit="">300</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда</param>
-<param name="Кількість розеток (230 В)" unit="">2</param>
-<param name="Дисплей" unit="">Да</param>
-<param name="Ємність батареї (Вт*год)" unit="">180Вт*год</param>
-</offer>
-<offer id="2275480871" available="true">
-<url>https://tera-flops.com.ua/ua/p2275480871-zaryadna-stantsiya-xin.html</url>
-<price>6500</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6053360874_zaryadna-stantsiya-xin.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція Xin Chi Shi 400W (XCS 200-400-220) (доставка авіа)</name>
-<vendor>Xin Chi Shi</vendor>
-<vendorCode>XCS 200-400-220</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="Габариты (мм)" unit="">250x185x68</param>
-<param name="Вес (кг)" unit="">2.1</param>
-<param name="USB A" unit="">2</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Пиковая мощность" unit="">500</param>
-<param name="Номинальная мощность" unit="">400</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда</param>
-<param name="Кількість розеток (230 В)" unit="">2</param>
-<param name="Дисплей" unit="">Да</param>
-<param name="Ємність батареї (Вт*год)" unit="">200</param>
-</offer>
-<offer id="2275480872" available="true">
-<url>https://tera-flops.com.ua/ua/p2275480872-zaryadna-stantsiya-xin.html</url>
-<price>7500</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6053360875_zaryadna-stantsiya-xin.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція Xin Chi Shi 400W (XCS 300-400-220) (доставка авіа)</name>
-<vendor>Xin Chi Shi</vendor>
-<vendorCode>XCS 300-400-220</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="USB A" unit="">2</param>
-<param name="Ємність батареї (Вт*год)" unit="">300</param>
-<param name="Вес (кг)" unit="">2.8</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Габариты (мм)" unit="">250x185x68</param>
-<param name="Дисплей" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">2</param>
-<param name="Номинальная мощность" unit="">400</param>
-<param name="Пиковая мощность" unit="">500</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда</param>
-</offer>
-<offer id="2275480873" available="true">
-<url>https://tera-flops.com.ua/ua/p2275480873-zaryadna-stantsiya-xin.html</url>
-<price>10000</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6053360876_zaryadna-stantsiya-xin.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція Xin Chi Shi 600W (XCS 360-600-220) (доставка авіа)</name>
-<vendor>Xin Chi Shi</vendor>
-<vendorCode>XCS 360-600-220</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="USB A" unit="">4</param>
-<param name="Ємність батареї (Вт*год)" unit="">360</param>
-<param name="Вес (кг)" unit="">4.5</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Габариты (мм)" unit="">300x225x75</param>
-<param name="Дисплей" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">2</param>
-<param name="Номинальная мощность" unit="">600</param>
-<param name="Пиковая мощность" unit="">700</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда</param>
-</offer>
-<offer id="2275480874" available="true">
-<url>https://tera-flops.com.ua/ua/p2275480874-zaryadna-stantsiya-xin.html</url>
-<price>10500</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6053360878_zaryadna-stantsiya-xin.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція Xin Chi Shi 600W (XCS 440-600-220) (доставка авіа)</name>
-<vendor>Xin Chi Shi</vendor>
-<vendorCode>XCS 440-600-220</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="USB A" unit="">4</param>
-<param name="Ємність батареї (Вт*год)" unit="">440</param>
-<param name="Вес (кг)" unit="">4.7</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Габариты (мм)" unit="">300x225x75</param>
-<param name="Дисплей" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">2</param>
-<param name="Номинальная мощность" unit="">600</param>
-<param name="Пиковая мощность" unit="">700</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда</param>
-</offer>
-<offer id="2275480875" available="true">
-<url>https://tera-flops.com.ua/ua/p2275480875-zaryadna-stantsiya-xin.html</url>
-<price>11000</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6053360879_zaryadna-stantsiya-xin.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція Xin Chi Shi 600W (XCS 560-600-220) (доставка авіа)</name>
-<vendor>Xin Chi Shi</vendor>
-<vendorCode>XCS 560-600-220</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="USB A" unit="">4</param>
-<param name="Ємність батареї (Вт*год)" unit="">560</param>
-<param name="Вес (кг)" unit="">5</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Габариты (мм)" unit="">300x225x75</param>
-<param name="Дисплей" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">2</param>
-<param name="Номинальная мощность" unit="">600</param>
-<param name="Пиковая мощность" unit="">700</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда</param>
-</offer>
-<offer id="2275480876" available="true">
-<url>https://tera-flops.com.ua/ua/p2275480876-zaryadna-stantsiya-xin.html</url>
-<price>14000</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6053360880_zaryadna-stantsiya-xin.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція Xin Chi Shi 1000W (XCS 560-1000-220) (доставка авіа)</name>
-<vendor>Xin Chi Shi</vendor>
-<vendorCode>XCS 560-1000-220</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="USB A" unit="">3</param>
-<param name="USB type C" unit="">1</param>
-<param name="Ємність батареї (Вт*год)" unit="">560</param>
-<param name="Вес (кг)" unit="">6.5</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Габариты (мм)" unit="">350x260x80</param>
-<param name="Дисплей" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">2</param>
-<param name="Номинальная мощность" unit="">1000</param>
-<param name="Пиковая мощность" unit="">1500</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда</param>
-</offer>
-<offer id="2275480877" available="true">
-<url>https://tera-flops.com.ua/ua/p2275480877-zaryadna-stantsiya-xin.html</url>
-<price>15500</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6053360881_zaryadna-stantsiya-xin.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція Xin Chi Shi 1000W (XCS 640-1000-220) (доставка авіа)</name>
-<vendor>Xin Chi Shi</vendor>
-<vendorCode>XCS 640-1000-220</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="USB A" unit="">3</param>
-<param name="USB type C" unit="">1</param>
-<param name="Ємність батареї (Вт*год)" unit="">640</param>
-<param name="Вес (кг)" unit="">7.4</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Габариты (мм)" unit="">350x260x80</param>
-<param name="Дисплей" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">2</param>
-<param name="Номинальная мощность" unit="">1000</param>
-<param name="Пиковая мощность" unit="">1500</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда</param>
-</offer>
-<offer id="2275480878" available="true">
-<url>https://tera-flops.com.ua/ua/p2275480878-zaryadna-stantsiya-xin.html</url>
-<price>19500</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6053360883_zaryadna-stantsiya-xin.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція Xin Chi Shi 1000W (XCS 860-1000-220) (доставка авіа)</name>
-<vendor>Xin Chi Shi</vendor>
-<vendorCode>XCS 860-1000-220</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="USB A" unit="">3</param>
-<param name="USB type C" unit="">1</param>
-<param name="Ємність батареї (Вт*год)" unit="">860</param>
-<param name="Вес (кг)" unit="">7.6</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Габариты (мм)" unit="">350x260x80</param>
-<param name="Дисплей" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">2</param>
-<param name="Номинальная мощность" unit="">1000</param>
-<param name="Пиковая мощность" unit="">1500</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда</param>
-</offer>
-<offer id="2275480879" available="true">
-<url>https://tera-flops.com.ua/ua/p2275480879-zaryadna-stantsiya-xin.html</url>
-<price>31000</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6053360885_zaryadna-stantsiya-xin.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція Xin Chi Shi 1500W (XCS 1400-1500-220) (доставка авіа)</name>
-<vendor>Xin Chi Shi</vendor>
-<vendorCode>XCS 1400-1500-220</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="USB A" unit="">2</param>
-<param name="USB type C" unit="">2</param>
-<param name="Ємність батареї (Вт*год)" unit="">1440</param>
-<param name="Вес (кг)" unit="">12</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Габариты (мм)" unit="">400x225x223</param>
-<param name="Дисплей" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">4</param>
-<param name="Номинальная мощность" unit="">1500</param>
-<param name="Пиковая мощность" unit="">1800</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда</param>
-</offer>
-<offer id="2275480880" available="true">
-<url>https://tera-flops.com.ua/ua/p2275480880-zaryadna-stantsiya-xin.html</url>
-<price>38500</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6053360887_zaryadna-stantsiya-xin.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція Xin Chi Shi 1500W (XCS 1800-1500-220) (доставка авіа)</name>
-<vendor>Xin Chi Shi</vendor>
-<vendorCode>XCS 1800-1500-220</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="USB A" unit="">2</param>
-<param name="USB type C" unit="">2</param>
-<param name="Ємність батареї (Вт*год)" unit="">1824</param>
-<param name="Вес (кг)" unit="">17</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Габариты (мм)" unit="">400x225x223</param>
-<param name="Дисплей" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">4</param>
-<param name="Номинальная мощность" unit="">1500</param>
-<param name="Пиковая мощность" unit="">1800</param>
-</offer>
-<offer id="2275480881" available="true">
-<url>https://tera-flops.com.ua/ua/p2275480881-zaryadna-stantsiya-xin.html</url>
-<price>60000</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6053415984_zaryadna-stantsiya-xin.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція Xin Chi Shi 3000W (XCS 3840-3000-220) (доставка авіа)</name>
-<vendor>Xin Chi Shi</vendor>
-<vendorCode>XCS 3840-3000-220</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="Габариты (мм)" unit="">400x225x272</param>
-<param name="Вес (кг)" unit="">20</param>
-<param name="USB A" unit="">2</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Пиковая мощность" unit="">3500</param>
-<param name="Номинальная мощность" unit="">3000</param>
-<param name="USB type C" unit="">2</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда</param>
-<param name="Кількість розеток (230 В)" unit="">4</param>
-<param name="Дисплей" unit="">Да</param>
-<param name="Ємність батареї (Вт*год)" unit="">3840</param>
-</offer>
-<offer id="2275480882" available="true">
-<url>https://tera-flops.com.ua/ua/p2275480882-zaryadna-stantsiya-xin.html</url>
-<price>6000</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6053360889_zaryadna-stantsiya-xin.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція Xin Chi Shi FG-300 300W (FG-200-300-220) (доставка авіа)</name>
-<vendor>Xin Chi Shi</vendor>
-<vendorCode>FG-200-300-220</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="USB A" unit="">3</param>
-<param name="USB type C" unit="">1</param>
-<param name="Ємність батареї (Вт*год)" unit="">200</param>
-<param name="Вес (кг)" unit="">2.3</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Габариты (мм)" unit="">250x185x68</param>
-<param name="Дисплей" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">2</param>
-<param name="Номинальная мощность" unit="">300</param>
-<param name="Пиковая мощность" unit="">300</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда</param>
-</offer>
-<offer id="2275480883" available="true">
-<url>https://tera-flops.com.ua/ua/p2275480883-zaryadna-stantsiya-xin.html</url>
-<price>7000</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6053415751_zaryadna-stantsiya-xin.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція Xin Chi Shi FG-300 300W (FG-300-300-220) (доставка авіа)</name>
-<vendor>Xin Chi Shi</vendor>
-<vendorCode>FG-300-300-220</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="Вес (кг)" unit="">3</param>
-<param name="USB A" unit="">3</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Пиковая мощность" unit="">300</param>
-<param name="Номинальная мощность" unit="">300</param>
-<param name="USB type C" unit="">1</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда</param>
-<param name="Кількість розеток (230 В)" unit="">2</param>
-<param name="Дисплей" unit="">Да</param>
-<param name="Ємність батареї (Вт*год)" unit="">300</param>
-</offer>
-<offer id="2275480884" available="true">
-<url>https://tera-flops.com.ua/ua/p2275480884-zaryadna-stantsiya-xin.html</url>
-<price>10000</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6053360891_zaryadna-stantsiya-xin.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція Xin Chi Shi FG-600 600W (FG-360-600-220) (доставка авіа)</name>
-<vendor>Xin Chi Shi</vendor>
-<vendorCode>FG-360-600-220</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Б/У</param>
-<param name="USB A" unit="">3</param>
-<param name="USB type C" unit="">1</param>
-<param name="Ємність батареї (Вт*год)" unit="">360</param>
-<param name="Вес (кг)" unit="">3.8</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Габариты (мм)" unit="">280x210x82</param>
-<param name="Дисплей" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">2</param>
-<param name="Номинальная мощность" unit="">600</param>
-<param name="Пиковая мощность" unit="">600</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда</param>
-</offer>
-<offer id="2275480885" available="true">
-<url>https://tera-flops.com.ua/ua/p2275480885-zaryadna-stantsiya-xin.html</url>
-<price>11500</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6053360892_zaryadna-stantsiya-xin.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція Xin Chi Shi FG-600 600W (FG-480-600-220) (доставка авіа)</name>
-<vendor>Xin Chi Shi</vendor>
-<vendorCode>FG-480-600-220</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Б/У</param>
-<param name="USB A" unit="">3</param>
-<param name="USB type C" unit="">1</param>
-<param name="Ємність батареї (Вт*год)" unit="">480</param>
-<param name="Вес (кг)" unit="">4.6</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Габариты (мм)" unit="">280x210x82</param>
-<param name="Дисплей" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">2</param>
-<param name="Номинальная мощность" unit="">600</param>
-<param name="Пиковая мощность" unit="">600</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда</param>
-</offer>
-<offer id="2275480886" available="true">
-<url>https://tera-flops.com.ua/ua/p2275480886-zaryadna-stantsiya-xin.html</url>
-<price>17000</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6053360893_zaryadna-stantsiya-xin.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція Xin Chi Shi FG-1000 1000W (FG-640-1000-220) (доставка авіа)</name>
-<vendor>Xin Chi Shi</vendor>
-<vendorCode>FG-640-1000-220</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="USB A" unit="">2</param>
-<param name="USB type C" unit="">2</param>
-<param name="Ємність батареї (Вт*год)" unit="">640</param>
-<param name="Вес (кг)" unit="">8</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Габариты (мм)" unit="">350x260x80</param>
-<param name="Дисплей" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">3</param>
-<param name="Номинальная мощность" unit="">1000</param>
-<param name="Пиковая мощность" unit="">1000</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда</param>
-</offer>
-<offer id="2275480887" available="true">
-<url>https://tera-flops.com.ua/ua/p2275480887-zaryadna-stantsiya-xin.html</url>
-<price>21000</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6053360894_zaryadna-stantsiya-xin.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція Xin Chi Shi FG-1000 1000W (FG-860-1000-220) (доставка авіа)</name>
-<vendor>Xin Chi Shi</vendor>
-<vendorCode>FG-860-1000-220</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="USB A" unit="">2</param>
-<param name="USB type C" unit="">2</param>
-<param name="Ємність батареї (Вт*год)" unit="">860</param>
-<param name="Вес (кг)" unit="">8.8</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Габариты (мм)" unit="">350x260x88</param>
-<param name="Дисплей" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">3</param>
-<param name="Номинальная мощность" unit="">1000</param>
-<param name="Пиковая мощность" unit="">1000</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда</param>
-</offer>
-<offer id="2275480888" available="true">
-<url>https://tera-flops.com.ua/ua/p2275480888-zaryadna-stantsiya-xin.html</url>
-<price>5500</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6053360895_zaryadna-stantsiya-xin.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція Xin Chi Shi FF-200 200W (FF-120-200-220) (доставка авіа)</name>
-<vendor>Xin Chi Shi</vendor>
-<vendorCode>FF-120-200-220</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="USB A" unit="">4</param>
-<param name="Ємність батареї (Вт*год)" unit="">120</param>
-<param name="Вес (кг)" unit="">1.3</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Габариты (мм)" unit="">206x127x77</param>
-<param name="Дисплей" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">1</param>
-<param name="Номинальная мощность" unit="">200</param>
-<param name="Пиковая мощность" unit="">200</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда</param>
-</offer>
-<offer id="2275480892" available="true">
-<url>https://tera-flops.com.ua/ua/p2275480892-zaryadna-stantsiya-xin.html</url>
-<price>6000</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6053360906_zaryadna-stantsiya-xin.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція Xin Chi Shi FF-300 300W (FF-160-300-220) (доставка авіа)</name>
-<vendor>Xin Chi Shi</vendor>
-<vendorCode>FF-160-300-220</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="USB A" unit="">4</param>
-<param name="Ємність батареї (Вт*год)" unit="">160</param>
-<param name="Вес (кг)" unit="">1.7</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Габариты (мм)" unit="">206x127x77</param>
-<param name="Дисплей" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">1</param>
-<param name="Номинальная мощность" unit="">300</param>
-<param name="Пиковая мощность" unit="">300</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда</param>
-</offer>
-<offer id="2275480893" available="true">
-<url>https://tera-flops.com.ua/ua/p2275480893-zaryadna-stantsiya-xin.html</url>
-<price>7500</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6053360912_zaryadna-stantsiya-xin.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція Xin Chi Shi FF-300 300W (FF-231-300-220) (доставка авіа)</name>
-<vendor>Xin Chi Shi</vendor>
-<vendorCode>FF-231-300-220</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="USB A" unit="">4</param>
-<param name="Ємність батареї (Вт*год)" unit="">231</param>
-<param name="Вес (кг)" unit="">1.8</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Габариты (мм)" unit="">206x127x77</param>
-<param name="Дисплей" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">1</param>
-<param name="Номинальная мощность" unit="">300</param>
-<param name="Пиковая мощность" unit="">300</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда</param>
-</offer>
 <offer id="2276778921" available="true">
 <url>https://tera-flops.com.ua/ua/p2276778921-kilimok-dlya-mishi.html</url>
 <price>950</price>
@@ -3235,6 +2469,2188 @@
 <param name="Цвет" unit="">різнокольоровий</param>
 <param name="Гарантія, міс" unit="">24</param>
 <param name="Розмір, мм" unit="">300x250</param>
+</offer>
+<offer id="2280165286" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165286-dbzh-frimecom-1000.html</url>
+<price>3525</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565389_dbzh-frimecom-gs-1000.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ FrimeCom GS-1000</name>
+<vendor>FrimeCom</vendor>
+<vendorCode>НФ-00038533</vendorCode>
+<param name="Вес" unit="кг">8.48</param>
+<param name="Время переключения" unit="мс">8</param>
+<param name="Выходная мощность" unit="Вт">600</param>
+<param name="Выходное напряжение" unit="В">290</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">1000</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">2</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">7</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">140</param>
+<param name="Габариты (мм)" unit="">385х191х275</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип B (американські)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+</offer>
+<offer id="2280165291" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165291-dbzh-njoy-balder.html</url>
+<price>17458</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565416_dbzh-njoy-balder.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ NJOY Balder 1000 (UPCMCOP110HBAAZ01B)</name>
+<vendor>NJOY</vendor>
+<vendorCode>НФ-00038544</vendorCode>
+<param name="Вес" unit="кг">14.1</param>
+<param name="Время переключения" unit="мс">4</param>
+<param name="Выходная мощность" unit="Вт">1000</param>
+<param name="Выходное напряжение" unit="В">300</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">1000</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">3</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">7.2</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">110</param>
+<param name="Габариты (мм)" unit="">88x438x410</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Діапазон вхідної напруги (В)" unit="">200</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Тип ИБП" unit="">інверторне</param>
+<param name="Тип корпуса" unit="">плоский</param>
+<param name="Тип розеток" unit="">Тип B (американські)</param>
+<param name="Форма выходного напряжения" unit="">синусоїда (PSW)</param>
+</offer>
+<offer id="2280165292" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165292-dbzh-apc-smart.html</url>
+<price>38910</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565422_dbzh-apc-smart-ups.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ APC Smart-UPS 1000VA RM LCD (SMC1000I-2U)</name>
+<vendor>APC</vendor>
+<vendorCode>НФ-00038545</vendorCode>
+<param name="Вес" unit="кг">24</param>
+<param name="Выходная мощность" unit="Вт">600</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">1000</param>
+<param name="Состояние">Новое</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">180</param>
+<param name="Габариты (мм)" unit="">21.9x17.1x43.9</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Діапазон вхідної напруги (В)" unit="">220</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальний струм (А)" unit="">287</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип B (американські)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+</offer>
+<offer id="2280165294" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165294-dbzh-njoy-balder.html</url>
+<price>67560</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565428_dbzh-njoy-balder.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ NJOY Balder 10000 (PWUP-OL10KBA-AZ01B)</name>
+<vendor>NJOY</vendor>
+<vendorCode>НФ-00038546</vendorCode>
+<param name="Вес" unit="кг">20</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Состояние">Новое</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вихідна напруга (В)" unit="">300</param>
+<param name="Вхідна напруга (В)" unit="">110</param>
+<param name="Габариты (мм)" unit="">600x438x88</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Діапазон вхідної напруги (В)" unit="">208</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальная мощность" unit="кВт">10000</param>
+<param name="Номінальна вихідна потужність (Вт)" unit="">10000</param>
+<param name="Тип" unit="">інверторне</param>
+<param name="Тип розеток" unit="">Тип B (американські)</param>
+<param name="Форм-фактор" unit="">звичайний</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
+</offer>
+<offer id="2280165295" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165295-dbzh-makelsan-lionups1200kva29051.html</url>
+<price>5391</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565431_dbzh-makelsan-lionups1200kva29051.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Makelsan LionUPS1200kVA/29051</name>
+<vendor>Makelsan</vendor>
+<vendorCode>НФ-00038548</vendorCode>
+<param name="Вес" unit="кг">6.5</param>
+<param name="Время переключения" unit="мс">6</param>
+<param name="Выходная мощность" unit="Вт">700</param>
+<param name="Выходное напряжение" unit="В">280</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">1200</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">2</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">7</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">170</param>
+<param name="Габариты (мм)" unit="">150х162х353</param>
+<param name="Діапазон вхідної напруги (В)" unit="">220</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип B (американські)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+</offer>
+<offer id="2280165296" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165296-dbzh-njoy-argus.html</url>
+<price>12752</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565434_dbzh-njoy-argus.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ NJOY Argus 1200 (UPLI-LI120AG-CG01B)</name>
+<vendor>NJOY</vendor>
+<vendorCode>НФ-00038549</vendorCode>
+<param name="Вес" unit="кг">15.29</param>
+<param name="Выходная мощность" unit="Вт">720</param>
+<param name="Выходное напряжение" unit="В">290</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">1200</param>
+<param name="Состояние">Новое</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">165</param>
+<param name="Габариты (мм)" unit="">430 x 438 x 88</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип B (американські)</param>
+<param name="Форма выходного напряжения" unit="">синусоїда (PSW)</param>
+</offer>
+<offer id="2280165299" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165299-dbzh-logicpower-ul1250va.html</url>
+<price>6817</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565437_dbzh-logicpower-lp-ul1250va.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ LogicPower LP-UL1250VA RM (rack mounts) (with battery)</name>
+<vendor>FrimeCom</vendor>
+<vendorCode>НФ-00038550</vendorCode>
+<param name="Вес" unit="кг">9.8</param>
+<param name="Время переключения" unit="мс">7</param>
+<param name="Выходная мощность" unit="Вт">720</param>
+<param name="Выходное напряжение" unit="В">295</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">1250</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">2</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">7</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">145</param>
+<param name="Габариты (мм)" unit="">308x438x132</param>
+<param name="Діапазон вхідної напруги (В)" unit="">240</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Напруга підключення батареї (В)" unit="">24</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип B (американські)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+</offer>
+<offer id="2280165301" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165301-dbzh-frimecom-1500.html</url>
+<price>4945</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565441_dbzh-frimecom-gs-1500.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ FrimeCom GS-1500 LCD</name>
+<vendor>FrimeCom</vendor>
+<vendorCode>НФ-00038553</vendorCode>
+<param name="Вес" unit="кг">11.16</param>
+<param name="Время переключения" unit="мс">8</param>
+<param name="Выходная мощность" unit="Вт">900</param>
+<param name="Выходное напряжение" unit="В">290</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Максимальная мощность" unit="Вт">1500</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">2</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">9</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">140</param>
+<param name="Габариты (мм)" unit="">385х191х275</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип B (американські)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+</offer>
+<offer id="2280165302" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165302-dbzh-energenie-ups.html</url>
+<price>7506</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565446_dbzh-energenie-ups-rack-1500.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ EnerGenie UPS-RACK-1500 1500VA</name>
+<vendor>Energenie</vendor>
+<vendorCode>НФ-00038556</vendorCode>
+<param name="Время переключения" unit="мс">10</param>
+<param name="Выходная мощность" unit="Вт">900</param>
+<param name="Выходное напряжение" unit="В">275</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">1500</param>
+<param name="Состояние">Новое</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">165</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Діапазон вхідної напруги (В)" unit="">220</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип B (американські)</param>
+<param name="Форма выходного напряжения" unit="">синусоїда (PSW)</param>
+</offer>
+<offer id="2280165304" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165304-dbzh-makelsan-lionups1500kva29052.html</url>
+<price>7572</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565448_dbzh-makelsan-lionups1500kva29052.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Makelsan LionUPS1500kVA/29052</name>
+<vendor>Makelsan</vendor>
+<vendorCode>НФ-00038558</vendorCode>
+<param name="Вес" unit="кг">7.5</param>
+<param name="Время переключения" unit="мс">6</param>
+<param name="Выходная мощность" unit="Вт">900</param>
+<param name="Выходное напряжение" unit="В">280</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Максимальная мощность" unit="Вт">1500</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">2</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">9</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">170</param>
+<param name="Габариты (мм)" unit="">150x162x353</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Діапазон вхідної напруги (В)" unit="">220</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип B (американські)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+</offer>
+<offer id="2280165306" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165306-dbzh-njoy-balder.html</url>
+<price>25285</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565456_dbzh-njoy-balder.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ NJOY Balder 1500 (PWUP-OL150BA-AZ01B)</name>
+<vendor>NJOY</vendor>
+<vendorCode>НФ-00038560</vendorCode>
+<param name="Вес" unit="кг">15.5</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="кВт">1500</param>
+<param name="Состояние">Новое</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">9</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вихідна напруга (В)" unit="">300</param>
+<param name="Вхідна напруга (В)" unit="">110</param>
+<param name="Габариты (мм)" unit="">88x438x410</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Діапазон вхідної напруги (В)" unit="">200</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Макс. струм зарядки (А)" unit="">3</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Номінальна вихідна потужність (Вт)" unit="">1500</param>
+<param name="Тип" unit="">інверторне</param>
+<param name="Тип розеток" unit="">Тип B (американські)</param>
+<param name="Форм-фактор" unit="">плоский</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
+<param name="Час перемикання на батарею (мс)" unit="">3</param>
+</offer>
+<offer id="2280165307" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165307-dbzh-logicpower-ul1550va.html</url>
+<price>7514</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565460_dbzh-logicpower-lp-ul1550va.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ LogicPower LP-UL1550VA RM (rack mounts) (with battery)</name>
+<vendor>FrimeCom</vendor>
+<vendorCode>НФ-00038561</vendorCode>
+<param name="Вес" unit="кг">9.8</param>
+<param name="Время переключения" unit="мс">7</param>
+<param name="Выходная мощность" unit="Вт">900</param>
+<param name="Выходное напряжение" unit="В">295</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">1550</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">2</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">8</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">145</param>
+<param name="Габариты (мм)" unit="">308x438x132</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Діапазон вхідної напруги (В)" unit="">220</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Напруга підключення батареї (В)" unit="">24</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">плоский</param>
+<param name="Тип розеток" unit="">Тип B (американські)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+</offer>
+<offer id="2280165313" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165313-dbzh-njoy-code.html</url>
+<price>11999</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565474_dbzh-njoy-code.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ NJOY Code 2000 (UPLI-LI200CO-AZ01B)</name>
+<vendor>NJOY</vendor>
+<vendorCode>НФ-00038566</vendorCode>
+<param name="Вес" unit="кг">14.4</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="кВт">2000</param>
+<param name="Состояние">Новое</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вихідна напруга (В)" unit="">290</param>
+<param name="Вхідна напруга (В)" unit="">162</param>
+<param name="Габариты (мм)" unit="">300x438x86</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Номінальна вихідна потужність (Вт)" unit="">1200</param>
+<param name="Тип" unit="">інтерактивне</param>
+<param name="Тип розеток" unit="">Тип B (американські)</param>
+<param name="Форм-фактор" unit="">звичайний</param>
+<param name="Форма вихідного сигналу" unit="">подібна до синусоїди (апроксимована)</param>
+</offer>
+<offer id="2280165317" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165317-dbzh-apc-smart.html</url>
+<price>76659</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565479_dbzh-apc-smart-ups.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ APC Smart-UPS C RM 2000VA LCD (SMC2000I-2U)</name>
+<vendor>APC</vendor>
+<vendorCode>НФ-00038573</vendorCode>
+<param name="Вес" unit="кг">26.2</param>
+<param name="Время переключения" unit="мс">4</param>
+<param name="Выходная мощность" unit="Вт">1300</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">2000</param>
+<param name="Состояние">Новое</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">180</param>
+<param name="Габариты (мм)" unit="">89х480х470</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальний струм (А)" unit="">287</param>
+<param name="Тип розеток" unit="">Тип B (американські)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+</offer>
+<offer id="2280165319" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165319-dbzh-makelsan-lionups2200kva29054.html</url>
+<price>8238</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565483_dbzh-makelsan-lionups2200kva29054.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Makelsan LionUPS2200kVA/29054</name>
+<vendor>Makelsan</vendor>
+<vendorCode>НФ-00038575</vendorCode>
+<param name="Вес" unit="кг">7.5</param>
+<param name="Время переключения" unit="мс">6</param>
+<param name="Выходная мощность" unit="Вт">1320</param>
+<param name="Выходное напряжение" unit="В">280</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">2200</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">2</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">9</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">170</param>
+<param name="Габариты (мм)" unit="">150x162x353</param>
+<param name="Діапазон вхідної напруги (В)" unit="">220</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип B (американські)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+</offer>
+<offer id="2280165321" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165321-dbzh-njoy-aten.html</url>
+<price>25988</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565486_dbzh-njoy-aten.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ NJOY Aten Pro 3000 (PWUP-OL300AP-AZ01B)</name>
+<vendor>NJOY</vendor>
+<vendorCode>НФ-00038583</vendorCode>
+<param name="Вес" unit="кг">27.6</param>
+<param name="Выходная мощность" unit="Вт">2700</param>
+<param name="Выходное напряжение" unit="В">300</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">3000</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">6</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">9</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">120</param>
+<param name="Габариты (мм)" unit="">318x190x421</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Діапазон вхідної напруги (В)" unit="">200</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Тип ИБП" unit="">інверторне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форма выходного напряжения" unit="">синусоїда (PSW)</param>
+</offer>
+<offer id="2280165323" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165323-dbzh-logicpower-400va.html</url>
+<price>2380</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565489_dbzh-logicpower-lp-400va-3ps.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ LogicPower LP-400VA-3PS</name>
+<vendor>FrimeCom</vendor>
+<vendorCode>НФ-00038587</vendorCode>
+<param name="Вес" unit="кг">2.7</param>
+<param name="Время переключения" unit="мс">8</param>
+<param name="Выходная мощность" unit="Вт">240</param>
+<param name="Выходное напряжение" unit="В">290</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">400</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">2</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">4.5</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">145</param>
+<param name="Габариты (мм)" unit="">255x175x93</param>
+<param name="Діапазон вхідної напруги (В)" unit="">220</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип B (американські)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+</offer>
+<offer id="2280165325" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165325-dbzh-qoltec-qlt450rj45.html</url>
+<price>2048</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565491_dbzh-qoltec-qlt450rj45-5397729595.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Qoltec QLT450RJ45-53977/29595</name>
+<vendor>Qoltec</vendor>
+<vendorCode>НФ-00038589</vendorCode>
+<param name="Вес" unit="кг">5</param>
+<param name="Выходная мощность" unit="Вт">240</param>
+<param name="Выходное напряжение" unit="В">300</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">450</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">1</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">7</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">140</param>
+<param name="Габариты (мм)" unit="">286х100х144</param>
+<param name="Діапазон вхідної напруги (В)" unit="">220</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Тип ИБП" unit="">інверторне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип B (американські)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+</offer>
+<offer id="2280165326" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165326-dbzh-ritar-rtm500.html</url>
+<price>2633</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565493_dbzh-ritar-e-rtm500.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Ritar E-RTM500 ELF-L 300W (E-RTM500L/09815)</name>
+<vendor>Ritar</vendor>
+<vendorCode>НФ-00038593</vendorCode>
+<param name="Вес" unit="кг">9.6</param>
+<param name="Время переключения" unit="мс">5</param>
+<param name="Выходная мощность" unit="Вт">300</param>
+<param name="Выходное напряжение" unit="В">300</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">500</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">1</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">7</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">145</param>
+<param name="Габариты (мм)" unit="">188x120x324</param>
+<param name="Діапазон вхідної напруги (В)" unit="">220</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип B (американські)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+</offer>
+<offer id="2280165327" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165327-dbzh-real-reserve.html</url>
+<price>4499</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565497_dbzh-real-el-reserve-500.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ REAL-EL Reserve-500 (EL122100003)</name>
+<vendor>Real-el</vendor>
+<vendorCode>НФ-00038594</vendorCode>
+<param name="Вес" unit="кг">5.1</param>
+<param name="Время переключения" unit="мс">4</param>
+<param name="Выходная мощность" unit="Вт">300</param>
+<param name="Выходное напряжение" unit="В">265</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">500</param>
+<param name="Состояние">Новое</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">160</param>
+<param name="Габариты (мм)" unit="">140х180х320</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Тип ИБП" unit="">резервне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип B (американські)</param>
+<param name="Форма выходного напряжения" unit="">синусоїда (PSW)</param>
+</offer>
+<offer id="2280165331" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165331-dbzh-njoy-soter.html</url>
+<price>2749</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565504_dbzh-njoy-soter.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ NJOY Soter 600 (PWUP-LI060SR-AZ01B)</name>
+<vendor>NJOY</vendor>
+<vendorCode>НФ-00038605</vendorCode>
+<param name="Время переключения" unit="мс">6</param>
+<param name="Выходная мощность" unit="Вт">360</param>
+<param name="Выходное напряжение" unit="В">280</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">600</param>
+<param name="Состояние">Новое</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">170</param>
+<param name="Габариты (мм)" unit="">245х163х90</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+</offer>
+<offer id="2280165332" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165332-dbzh-ritar-rtm600l.html</url>
+<price>2808</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565505_dbzh-ritar-e-rtm600l-u.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Ritar E-RTM600L-U 360W (E-RTM600L-U/07860)</name>
+<vendor>Ritar</vendor>
+<vendorCode>НФ-00038606</vendorCode>
+<param name="Время переключения" unit="мс">8</param>
+<param name="Выходная мощность" unit="Вт">360</param>
+<param name="Выходное напряжение" unit="В">290</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">600</param>
+<param name="Состояние">Новое</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">145</param>
+<param name="Діапазон вхідної напруги (В)" unit="">220</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Тип ИБП" unit="">резервне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип B (американські)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+</offer>
+<offer id="2280165335" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165335-dbzh-ritar-rtp600l.html</url>
+<price>2867</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565508_dbzh-ritar-rtp600l-ux-iec.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Ritar RTP600L-UX-IEC Proxima-L 360W (RTP600L-UX-IEC/06802)</name>
+<vendor>Ritar</vendor>
+<vendorCode>НФ-00038607</vendorCode>
+<param name="Вес" unit="кг">4.6</param>
+<param name="Время переключения" unit="мс">10</param>
+<param name="Выходная мощность" unit="Вт">360</param>
+<param name="Выходное напряжение" unit="В">265</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">600</param>
+<param name="Состояние">Новое</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">175</param>
+<param name="Габариты (мм)" unit="">143x314x97</param>
+<param name="Діапазон вхідної напруги (В)" unit="">220</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип B (американські)</param>
+<param name="Форма выходного напряжения" unit="">синусоїда (PSW)</param>
+</offer>
+<offer id="2280165339" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165339-dbzh-qoltec-qlt600l.html</url>
+<price>3218</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565514_dbzh-qoltec-qlt600l-5397829581.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Qoltec QLT600L-53978/29581</name>
+<vendor>Qoltec</vendor>
+<vendorCode>НФ-00038608</vendorCode>
+<param name="Вес" unit="кг">4.5</param>
+<param name="Выходное напряжение" unit="В">300</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Состояние">Новое</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">7</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">140</param>
+<param name="Габариты (мм)" unit="">100x144x286</param>
+<param name="Діапазон вхідної напруги (В)" unit="">220</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Тип ИБП" unit="">інверторне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип B (американські)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+</offer>
+<offer id="2280165342" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165342-dbzh-njoy-token.html</url>
+<price>3469</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565517_dbzh-njoy-token.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ NJOY Token 600 (UPCSBLS660TTOAZ01B)</name>
+<vendor>NJOY</vendor>
+<vendorCode>НФ-00038609</vendorCode>
+<param name="Вес" unit="кг">5.05</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="кВт">600</param>
+<param name="Состояние">Новое</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вихідна напруга (В)" unit="">280</param>
+<param name="Вхідна напруга (В)" unit="">170</param>
+<param name="Габариты (мм)" unit="">345x200x100</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Номінальна вихідна потужність (Вт)" unit="">360</param>
+<param name="Тип" unit="">інтерактивне</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форм-фактор" unit="">звичайний</param>
+<param name="Форма вихідного сигналу" unit="">подібна до синусоїди (апроксимована)</param>
+<param name="Час перемикання на батарею (мс)" unit="">4</param>
+</offer>
+<offer id="2280165348" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165348-dbzh-njoy-aira.html</url>
+<price>6938</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565527_dbzh-njoy-aira.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Njoy Aira 600 (UPCSTLP860TAICP01B)</name>
+<vendor>NJOY</vendor>
+<vendorCode>НФ-00038613</vendorCode>
+<param name="Время переключения" unit="мс">10</param>
+<param name="Выходная мощность" unit="Вт">300</param>
+<param name="Выходное напряжение" unit="В">500</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">600</param>
+<param name="Состояние">Новое</param>
+<param name="Частота тока" unit="Гц">60</param>
+<param name="Інтерфейси управління" unit="">LAN</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">140</param>
+<param name="Вхідна частота (Гц)" unit="">50</param>
+<param name="Габариты (мм)" unit="">255х290х120</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальний струм (А)" unit="">10</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип B (американські)</param>
+<param name="Форма выходного напряжения" unit="">синусоїда (PSW)</param>
+</offer>
+<offer id="2280165350" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165350-dbzh-njoy-balder.html</url>
+<price>38396</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565530_dbzh-njoy-balder.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ NJOY Balder 6000 (PWUP-OL06KBA-AZ01B)</name>
+<vendor>NJOY</vendor>
+<vendorCode>НФ-00038615</vendorCode>
+<param name="Вес" unit="кг">17</param>
+<param name="Выходная мощность" unit="Вт">6000</param>
+<param name="Выходное напряжение" unit="В">300</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">6000</param>
+<param name="Состояние">Новое</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">110</param>
+<param name="Габариты (мм)" unit="">600x438x88</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Діапазон вхідної напруги (В)" unit="">208</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Тип ИБП" unit="">інверторне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип B (американські)</param>
+<param name="Форма выходного напряжения" unit="">синусоїда (PSW)</param>
+</offer>
+<offer id="2280165353" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165353-dbzh-makelsan-lionups650kva29049.html</url>
+<price>2808</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565533_dbzh-makelsan-lionups650kva29049.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Makelsan LionUPS650kVA/29049</name>
+<vendor>Makelsan</vendor>
+<vendorCode>НФ-00038619</vendorCode>
+<param name="Вес" unit="кг">5</param>
+<param name="Время переключения" unit="мс">6</param>
+<param name="Выходная мощность" unit="Вт">390</param>
+<param name="Выходное напряжение" unit="В">280</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">650</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">1</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">7</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">170</param>
+<param name="Габариты (мм)" unit="">101x142x298</param>
+<param name="Діапазон вхідної напруги (В)" unit="">220</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип B (американські)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+</offer>
+<offer id="2280165356" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165356-dbzh-njoy-renton.html</url>
+<price>3149</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565537_dbzh-njoy-renton.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ NJOY Renton 650 Plus (UPCSBLS665TRPCG01B)</name>
+<vendor>NJOY</vendor>
+<vendorCode>НФ-00038621</vendorCode>
+<param name="Вес" unit="кг">3.96</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="кВт">650</param>
+<param name="Состояние">Новое</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">5</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вихідна напруга (В)" unit="">290</param>
+<param name="Вхідна напруга (В)" unit="">162</param>
+<param name="Габариты (мм)" unit="">267х165х87</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Макс. струм зарядки (А)" unit="">1</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Номінальна вихідна потужність (Вт)" unit="">360</param>
+<param name="Тип" unit="">інтерактивне</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форм-фактор" unit="">звичайний</param>
+<param name="Форма вихідного сигналу" unit="">подібна до синусоїди (апроксимована)</param>
+</offer>
+<offer id="2280165359" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165359-dbzh-njoy-token.html</url>
+<price>4299</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565545_dbzh-njoy-token.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ NJOY Token 800 (UPCSBLS680TTOAZ01B)</name>
+<vendor>NJOY</vendor>
+<vendorCode>НФ-00038628</vendorCode>
+<param name="Вес" unit="кг">5.8</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="кВт">600</param>
+<param name="Состояние">Новое</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вихідна напруга (В)" unit="">280</param>
+<param name="Вхідна напруга (В)" unit="">170</param>
+<param name="Габариты (мм)" unit="">340x200x100</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Номінальна вихідна потужність (Вт)" unit="">480</param>
+<param name="Тип" unit="">інтерактивне</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форм-фактор" unit="">звичайний</param>
+<param name="Форма вихідного сигналу" unit="">подібна до синусоїди (апроксимована)</param>
+<param name="Час перемикання на батарею (мс)" unit="">6</param>
+</offer>
+<offer id="2280165371" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165371-dbzh-makelsan-lionups850kva29050.html</url>
+<price>3744</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565562_dbzh-makelsan-lionups850kva29050.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Makelsan LionUPS850kVA/29050</name>
+<vendor>Makelsan</vendor>
+<vendorCode>НФ-00038632</vendorCode>
+<param name="Вес" unit="кг">6.8</param>
+<param name="Время переключения" unit="мс">6</param>
+<param name="Выходная мощность" unit="Вт">510</param>
+<param name="Выходное напряжение" unit="В">280</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">850</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">1</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">9</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">170</param>
+<param name="Габариты (мм)" unit="">142x101x298</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип B (американські)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+</offer>
+<offer id="2280165373" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165373-dbzh-eaton-ellipse.html</url>
+<price>8255</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565257_dbzh-eaton-ellipse.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Eaton Ellipse Eco 800 USB DIN (9400-5334-00P)</name>
+<vendor>Eaton</vendor>
+<vendorCode>НФ-00038732</vendorCode>
+<param name="Вес" unit="кг">4.1</param>
+<param name="Время переключения" unit="мс">9</param>
+<param name="Выходная мощность" unit="Вт">500</param>
+<param name="Выходное напряжение" unit="В">284</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">800</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">3</param>
+<param name="Частота тока" unit="Гц">60</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">9</param>
+<param name="Інтерфейси управління" unit="">USB</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">161</param>
+<param name="Вхідна частота (Гц)" unit="">50</param>
+<param name="Габариты (мм)" unit="">81x263x235</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальний струм (А)" unit="">10</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Розеток з резервом (шт)" unit="">3</param>
+<param name="Тип ИБП" unit="">резервне</param>
+<param name="Тип корпуса" unit="">серверний (Rack)</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+</offer>
+<offer id="2280165374" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165374-dbzh-eaton-1200.html</url>
+<price>8589</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565259_dbzh-eaton-5e.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Eaton 5E 1200 USB DIN G2</name>
+<vendor>Eaton</vendor>
+<vendorCode>НФ-00038733</vendorCode>
+<param name="Вес" unit="кг">8.37</param>
+<param name="Время переключения" unit="мс">10</param>
+<param name="Выходная мощность" unit="Вт">660</param>
+<param name="Выходное напряжение" unit="В">300</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">1200</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">3</param>
+<param name="Частота тока" unit="Гц">60</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">7</param>
+<param name="Інтерфейси управління" unit="">USB</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">140</param>
+<param name="Вхідна частота (Гц)" unit="">50</param>
+<param name="Габариты (мм)" unit="">180x133x330</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальний струм (А)" unit="">10</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Розеток з резервом (шт)" unit="">4</param>
+<param name="Спотворення вихідної напруги (%)" unit="">95</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форма выходного напряжения" unit="">синусоїда (PSW)</param>
+</offer>
+<offer id="2280165375" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165375-dbzh-eaton-1600.html</url>
+<price>9686</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565260_dbzh-eaton-5e.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Eaton 5E 1600 USB DIN G2</name>
+<vendor>Eaton</vendor>
+<vendorCode>НФ-00038736</vendorCode>
+<param name="Вес" unit="кг">9.26</param>
+<param name="Время переключения" unit="мс">10</param>
+<param name="Выходная мощность" unit="Вт">900</param>
+<param name="Выходное напряжение" unit="В">300</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">1600</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">3</param>
+<param name="Частота тока" unit="Гц">60</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">7</param>
+<param name="Інтерфейси управління" unit="">USB</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">140</param>
+<param name="Вхідна частота (Гц)" unit="">50</param>
+<param name="Габариты (мм)" unit="">180x133x330</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальний струм (А)" unit="">15</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Розеток з резервом (шт)" unit="">4</param>
+<param name="Спотворення вихідної напруги (%)" unit="">95</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форма выходного напряжения" unit="">синусоїда (PSW)</param>
+</offer>
+<offer id="2280165377" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165377-dbzh-eaton-ellipse.html</url>
+<price>17577</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565262_dbzh-eaton-ellipse.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Eaton Ellipse PRO 1200 DIN (ELP1200DIN)</name>
+<vendor>Eaton</vendor>
+<vendorCode>НФ-00038740</vendorCode>
+<param name="Вес" unit="кг">9.7</param>
+<param name="Время переключения" unit="мс">5</param>
+<param name="Время работы при полной нагрузке" unit="мин">2</param>
+<param name="Выходная мощность" unit="Вт">750</param>
+<param name="Выходное напряжение" unit="В">285</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">1200</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">3</param>
+<param name="Частота тока" unit="Гц">60</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">7</param>
+<param name="Інтерфейси управління" unit="">USB</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">165</param>
+<param name="Вхідна частота (Гц)" unit="">50</param>
+<param name="Габариты (мм)" unit="">82x275x390</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальний струм (А)" unit="">10</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Розеток з резервом (шт)" unit="">4</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">серверний (Rack)</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+<param name="Час роботи при половинному навантаженні (хв)" unit="">6</param>
+</offer>
+<offer id="2280165378" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165378-dbzh-eaton-1000i.html</url>
+<price>25975</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565264_dbzh-eaton-9e.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Eaton 9E 1000i Rack2U (9E1000IR)</name>
+<vendor>Eaton</vendor>
+<vendorCode>НФ-00038742</vendorCode>
+<param name="Вес" unit="кг">9.5</param>
+<param name="Время переключения" unit="мс">5</param>
+<param name="Выходная мощность" unit="Вт">800</param>
+<param name="Выходное напряжение" unit="В">300</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">1000</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">3</param>
+<param name="Частота тока" unit="Гц">60</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">9</param>
+<param name="Інтерфейси управління" unit="">USB</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Да</param>
+<param name="Вхідна напруга (В)" unit="">100</param>
+<param name="Вхідна частота (Гц)" unit="">50</param>
+<param name="Габариты (мм)" unit="">228x144x356</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальний струм (А)" unit="">10</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Розеток з резервом (шт)" unit="">4</param>
+<param name="Спотворення вихідної напруги (%)" unit="">97.5</param>
+<param name="Тип ИБП" unit="">інверторне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форма выходного напряжения" unit="">синусоїда (PSW)</param>
+</offer>
+<offer id="2280165385" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165385-dbzh-eaton-9sx.html</url>
+<price>50530</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565275_dbzh-eaton-9sx.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Eaton 9SX 1500i</name>
+<vendor>Eaton</vendor>
+<vendorCode>НФ-00038754</vendorCode>
+<param name="Вес" unit="кг">18.5</param>
+<param name="Выходная мощность" unit="Вт">1350</param>
+<param name="Выходное напряжение" unit="В">276</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">1500</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">3</param>
+<param name="Частота тока" unit="Гц">60</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">9</param>
+<param name="Інтерфейси управління" unit="">USB</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Да</param>
+<param name="Вхідна напруга (В)" unit="">190</param>
+<param name="Вхідна частота (Гц)" unit="">50</param>
+<param name="Габариты (мм)" unit="">252x160x437</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальний струм (А)" unit="">10</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Розеток з резервом (шт)" unit="">6</param>
+<param name="Спотворення вихідної напруги (%)" unit="">93</param>
+<param name="Тип ИБП" unit="">інверторне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форма выходного напряжения" unit="">синусоїда (PSW)</param>
+</offer>
+<offer id="2280165387" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165387-dbzh-eaton-5px.html</url>
+<price>51466</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565277_dbzh-eaton-5px.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ EATON 5PX 1500I RT2U G2</name>
+<vendor>Eaton</vendor>
+<vendorCode>НФ-00038755</vendorCode>
+<param name="Вес" unit="кг">22.4</param>
+<param name="Время переключения" unit="мс">4</param>
+<param name="Выходная мощность" unit="Вт">1500</param>
+<param name="Выходное напряжение" unit="В">294</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">1500</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">3</param>
+<param name="Частота тока" unit="Гц">60</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">9</param>
+<param name="Інтерфейси управління" unit="">USB</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">150</param>
+<param name="Вхідна частота (Гц)" unit="">50</param>
+<param name="Габариты (мм)" unit="">86х438х448</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальний струм (А)" unit="">10</param>
+<param name="Напруга підключення батареї (В)" unit="">48</param>
+<param name="Розеток з резервом (шт)" unit="">8</param>
+<param name="Спотворення вихідної напруги (%)" unit="">96</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">серверний (Rack)</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форма выходного напряжения" unit="">синусоїда (PSW)</param>
+</offer>
+<offer id="2280165389" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165389-dbzh-eaton-9sx.html</url>
+<price>61993</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565281_dbzh-eaton-9sx.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Eaton 9SX 2000i</name>
+<vendor>Eaton</vendor>
+<vendorCode>НФ-00038757</vendorCode>
+<param name="Вес" unit="кг">33.3</param>
+<param name="Выходная мощность" unit="Вт">1800</param>
+<param name="Выходное напряжение" unit="В">276</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">2000</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">3</param>
+<param name="Частота тока" unit="Гц">60</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">7</param>
+<param name="Інтерфейси управління" unit="">USB</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Да</param>
+<param name="Вхідна напруга (В)" unit="">190</param>
+<param name="Вхідна частота (Гц)" unit="">50</param>
+<param name="Габариты (мм)" unit="">346x214x412</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальний струм (А)" unit="">10</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Розеток з резервом (шт)" unit="">8</param>
+<param name="Спотворення вихідної напруги (%)" unit="">93</param>
+<param name="Тип ИБП" unit="">інверторне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форма выходного напряжения" unit="">синусоїда (PSW)</param>
+</offer>
+<offer id="2280165390" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165390-dbzh-eaton-9sx.html</url>
+<price>73689</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565288_dbzh-eaton-9sx.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Eaton 9SX 2000i Rack2U</name>
+<vendor>Eaton</vendor>
+<vendorCode>НФ-00038759</vendorCode>
+<param name="Вес" unit="кг">33.3</param>
+<param name="Выходная мощность" unit="Вт">1800</param>
+<param name="Выходное напряжение" unit="В">276</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">2000</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">3</param>
+<param name="Частота тока" unit="Гц">60</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">7</param>
+<param name="Інтерфейси управління" unit="">USB</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Да</param>
+<param name="Вхідна напруга (В)" unit="">190</param>
+<param name="Вхідна частота (Гц)" unit="">50</param>
+<param name="Габариты (мм)" unit="">346x214x412</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальний струм (А)" unit="">10</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Розеток з резервом (шт)" unit="">8</param>
+<param name="Спотворення вихідної напруги (%)" unit="">93</param>
+<param name="Тип ИБП" unit="">інверторне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форма выходного напряжения" unit="">синусоїда (PSW)</param>
+</offer>
+<offer id="2280165395" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165395-dbzh-eaton-5px.html</url>
+<price>87491</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565293_dbzh-eaton-5px.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ EATON 5PX 3000I RT3U G2</name>
+<vendor>Eaton</vendor>
+<vendorCode>НФ-00038763</vendorCode>
+<param name="Вес" unit="кг">31.7</param>
+<param name="Время переключения" unit="мс">4</param>
+<param name="Выходная мощность" unit="Вт">3000</param>
+<param name="Выходное напряжение" unit="В">294</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">3000</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">3</param>
+<param name="Частота тока" unit="Гц">60</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">9</param>
+<param name="Інтерфейси управління" unit="">USB</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">150</param>
+<param name="Вхідна частота (Гц)" unit="">50</param>
+<param name="Габариты (мм)" unit="">86х438х603</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальний струм (А)" unit="">10</param>
+<param name="Напруга підключення батареї (В)" unit="">72</param>
+<param name="Розеток з резервом (шт)" unit="">8</param>
+<param name="Спотворення вихідної напруги (%)" unit="">96</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">серверний (Rack)</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форма выходного напряжения" unit="">синусоїда (PSW)</param>
+</offer>
+<offer id="2280165401" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165401-dbzh-eaton-900.html</url>
+<price>4328</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565333_dbzh-eaton-5e.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Eaton 5E 900 USB IEC G2</name>
+<vendor>Eaton</vendor>
+<vendorCode>НФ-00041585</vendorCode>
+<param name="Вес" unit="кг">5.3</param>
+<param name="Время переключения" unit="мс">10</param>
+<param name="Выходная мощность" unit="Вт">480</param>
+<param name="Выходное напряжение" unit="В">300</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">900</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">3</param>
+<param name="Частота тока" unit="Гц">60</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">9</param>
+<param name="Інтерфейси управління" unit="">USB</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">140</param>
+<param name="Вхідна частота (Гц)" unit="">50</param>
+<param name="Габариты (мм)" unit="">148x100x288</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальний струм (А)" unit="">5</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Розеток з резервом (шт)" unit="">4</param>
+<param name="Спотворення вихідної напруги (%)" unit="">95</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форма выходного напряжения" unit="">синусоїда (PSW)</param>
+</offer>
+<offer id="2280165402" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165402-dbzh-eaton-900.html</url>
+<price>4715</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565339_dbzh-eaton-5e.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Eaton 5E 900 USB DIN G2</name>
+<vendor>Eaton</vendor>
+<vendorCode>НФ-00041586</vendorCode>
+<param name="Вес" unit="кг">5.3</param>
+<param name="Время переключения" unit="мс">10</param>
+<param name="Выходная мощность" unit="Вт">480</param>
+<param name="Выходное напряжение" unit="В">300</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">900</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">3</param>
+<param name="Частота тока" unit="Гц">60</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">9</param>
+<param name="Інтерфейси управління" unit="">USB</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">140</param>
+<param name="Вхідна частота (Гц)" unit="">50</param>
+<param name="Габариты (мм)" unit="">148x100x288</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальний струм (А)" unit="">8</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Розеток з резервом (шт)" unit="">2</param>
+<param name="Спотворення вихідної напруги (%)" unit="">95</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форма выходного напряжения" unit="">синусоїда (PSW)</param>
+</offer>
+<offer id="2280165404" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165404-kabel-dlya-pidklyuchennya.html</url>
+<price>5859</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565343_kabel-dlya-pidklyuchennya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Кабель для підключення АКБ HUAWEI UPSC000U2K02</name>
+<vendor>Huawei</vendor>
+<vendorCode>НФ-00041588</vendorCode>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer id="2280165407" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165407-dbzh-eaton-ellipse.html</url>
+<price>6919</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565347_dbzh-eaton-ellipse.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Eaton Ellipse ECO 650 (EL650USBDIN)</name>
+<vendor>Eaton</vendor>
+<vendorCode>НФ-00041590</vendorCode>
+<param name="Вес" unit="кг">3.6</param>
+<param name="Время переключения" unit="мс">9</param>
+<param name="Выходная мощность" unit="Вт">400</param>
+<param name="Выходное напряжение" unit="В">284</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">650</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">3</param>
+<param name="Частота тока" unit="Гц">60</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">7</param>
+<param name="Інтерфейси управління" unit="">USB</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">161</param>
+<param name="Вхідна частота (Гц)" unit="">50</param>
+<param name="Габариты (мм)" unit="">81x263x235</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальний струм (А)" unit="">10</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Розеток з резервом (шт)" unit="">3</param>
+<param name="Тип ИБП" unit="">резервне</param>
+<param name="Тип корпуса" unit="">серверний (Rack)</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+</offer>
+<offer id="2280165408" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165408-dbzh-eaton-ellipse.html</url>
+<price>7992</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565352_dbzh-eaton-ellipse.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Eaton Ellipse PRO 650 DIN (ELP650DIN)</name>
+<vendor>Eaton</vendor>
+<vendorCode>НФ-00041591</vendorCode>
+<param name="Вес" unit="кг">6.9</param>
+<param name="Время переключения" unit="мс">5</param>
+<param name="Время работы при полной нагрузке" unit="мин">1</param>
+<param name="Выходная мощность" unit="Вт">400</param>
+<param name="Выходное напряжение" unit="В">285</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">650</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">3</param>
+<param name="Частота тока" unit="Гц">60</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">7</param>
+<param name="Інтерфейси управління" unit="">USB</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">165</param>
+<param name="Вхідна частота (Гц)" unit="">50</param>
+<param name="Габариты (мм)" unit="">82x260x285</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальний струм (А)" unit="">10</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Розеток з резервом (шт)" unit="">3</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">серверний (Rack)</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+<param name="Час роботи при половинному навантаженні (хв)" unit="">9</param>
+</offer>
+<offer id="2280165410" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165410-dbzh-eaton-ellipse.html</url>
+<price>15971</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565355_dbzh-eaton-ellipse.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Eaton Ellipse Eco 1600 USB DIN (9400-8307-00P)</name>
+<vendor>Eaton</vendor>
+<vendorCode>НФ-00041592</vendorCode>
+<param name="Вес" unit="кг">7.8</param>
+<param name="Время переключения" unit="мс">11</param>
+<param name="Выходная мощность" unit="Вт">1000</param>
+<param name="Выходное напряжение" unit="В">284</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">1600</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">3</param>
+<param name="Частота тока" unit="Гц">60</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">9</param>
+<param name="Інтерфейси управління" unit="">USB</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">161</param>
+<param name="Вхідна частота (Гц)" unit="">50</param>
+<param name="Габариты (мм)" unit="">81x305x312</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальний струм (А)" unit="">10</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Розеток з резервом (шт)" unit="">4</param>
+<param name="Тип ИБП" unit="">резервне</param>
+<param name="Тип корпуса" unit="">серверний (Rack)</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+</offer>
+<offer id="2280165411" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165411-dbzh-eaton-1500i.html</url>
+<price>18333</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565359_dbzh-eaton-5s.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Eaton 5S 1500i</name>
+<vendor>Eaton</vendor>
+<vendorCode>НФ-00041593</vendorCode>
+<param name="Вес" unit="кг">11.2</param>
+<param name="Время переключения" unit="мс">5</param>
+<param name="Время работы при полной нагрузке" unit="мин">2</param>
+<param name="Выходная мощность" unit="Вт">900</param>
+<param name="Выходное напряжение" unit="В">275</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">1500</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">3</param>
+<param name="Частота тока" unit="Гц">60</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">9</param>
+<param name="Інтерфейси управління" unit="">USB</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">175</param>
+<param name="Вхідна частота (Гц)" unit="">50</param>
+<param name="Габариты (мм)" unit="">250x87x382</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальний струм (А)" unit="">10</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Розеток з резервом (шт)" unit="">4</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+<param name="Час роботи при половинному навантаженні (хв)" unit="">11</param>
+</offer>
+<offer id="2280165418" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165418-dbzh-eaton-5sc.html</url>
+<price>39778</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565383_dbzh-eaton-5sc.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Eaton 5SC 1500i Rack2U (5SC1500IR)</name>
+<vendor>Eaton</vendor>
+<vendorCode>НФ-00041605</vendorCode>
+<param name="Вес" unit="кг">17.78</param>
+<param name="Время работы при полной нагрузке" unit="мин">5</param>
+<param name="Выходная мощность" unit="Вт">1050</param>
+<param name="Выходное напряжение" unit="В">50</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">1500</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">3</param>
+<param name="Частота тока" unit="Гц">60</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">9</param>
+<param name="Інтерфейси управління" unit="">USB</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">184</param>
+<param name="Вхідна частота (Гц)" unit="">50</param>
+<param name="Габариты (мм)" unit="">86x440x405</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальний струм (А)" unit="">10</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Розеток з резервом (шт)" unit="">8</param>
+<param name="Спотворення вихідної напруги (%)" unit="">10</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">серверний (Rack)</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форма выходного напряжения" unit="">синусоїда (PSW)</param>
+<param name="Час роботи при половинному навантаженні (хв)" unit="">14</param>
+</offer>
+<offer id="2280165420" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165420-dbzh-prologix-1000.html</url>
+<price>3349</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565295_dbzh-prologix-1000.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Prologix 1000 (PLP1000VA8LED)</name>
+<vendor>ProLogiX</vendor>
+<vendorCode>НФ-00041727</vendorCode>
+<param name="Вес" unit="кг">5.8</param>
+<param name="Время переключения" unit="мс">8</param>
+<param name="Выходная мощность" unit="Вт">600</param>
+<param name="Выходное напряжение" unit="В">295</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">1000</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">3</param>
+<param name="Частота тока" unit="Гц">60</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">9</param>
+<param name="Інтерфейси управління" unit="">USB</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">162</param>
+<param name="Вхідна частота (Гц)" unit="">50</param>
+<param name="Габариты (мм)" unit="">205x94x285</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальний струм (А)" unit="">10</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Розеток з резервом (шт)" unit="">8</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+</offer>
+<offer id="2280165422" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165422-dbzh-njoy-horus.html</url>
+<price>4649</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565298_dbzh-njoy-horus.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ NJOY Horus Plus 1000 (PWUP-LI100H1-AZ01B)</name>
+<vendor>NJOY</vendor>
+<vendorCode>НФ-00041728</vendorCode>
+<param name="Вес" unit="кг">7.8</param>
+<param name="Время работы при полной нагрузке" unit="мин">5.5</param>
+<param name="Выходная мощность" unit="Вт">600</param>
+<param name="Выходное напряжение" unit="В">280</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">1000</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">3</param>
+<param name="Частота тока" unit="Гц">60</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">7</param>
+<param name="Інтерфейси управління" unit="">USB</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">170</param>
+<param name="Вхідна частота (Гц)" unit="">50</param>
+<param name="Габариты (мм)" unit="">182x130x320</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальний струм (А)" unit="">10</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Розеток з резервом (шт)" unit="">4</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+<param name="Час роботи при половинному навантаженні (хв)" unit="">6</param>
+</offer>
+<offer id="2280165424" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165424-dbzh-frimecom-1200.html</url>
+<price>3768</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565304_dbzh-frimecom-gs-1200.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ FrimeCom GS-1200</name>
+<vendor>FrimeCom</vendor>
+<vendorCode>НФ-00041730</vendorCode>
+<param name="Вес" unit="кг">9.51</param>
+<param name="Время переключения" unit="мс">8</param>
+<param name="Выходная мощность" unit="Вт">720</param>
+<param name="Выходное напряжение" unit="В">290</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">1200</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">3</param>
+<param name="Частота тока" unit="Гц">60</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">7</param>
+<param name="Інтерфейси управління" unit="">USB</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">140</param>
+<param name="Вхідна частота (Гц)" unit="">50</param>
+<param name="Габариты (мм)" unit="">185x130x333</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальний струм (А)" unit="">10</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Розеток з резервом (шт)" unit="">4</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+</offer>
+<offer id="2280165425" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165425-dbzh-njoy-balder.html</url>
+<price>30436</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565308_dbzh-njoy-balder.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ NJOY Balder 2000 (UPCMCOP120HBAAZ01B)</name>
+<vendor>NJOY</vendor>
+<vendorCode>НФ-00041731</vendorCode>
+<param name="Вес" unit="кг">23.3</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="кВт">2000</param>
+<param name="Состояние">Новое</param>
+<param name="Частота тока" unit="Гц">60</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">7.2</param>
+<param name="Інтерфейси управління" unit="">USB</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вихідна напруга (В)" unit="">300</param>
+<param name="Вхідна напруга (В)" unit="">110</param>
+<param name="Вхідна частота (Гц)" unit="">50</param>
+<param name="Габариты (мм)" unit="">88x438x630</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Макс. струм зарядки (А)" unit="">3</param>
+<param name="Максимальний струм (А)" unit="">10</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Номінальна вихідна потужність (Вт)" unit="">2000</param>
+<param name="Розеток з резервом (шт)" unit="">8</param>
+<param name="Спотворення вихідної напруги (%)" unit="">96</param>
+<param name="Тип" unit="">інверторне</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форм-фактор" unit="">серверний (Rack)</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
+<param name="Час роботи при повному навантаженні (хв)" unit="">4</param>
+<param name="Час роботи при половинному навантаженні (хв)" unit="">13</param>
+</offer>
+<offer id="2280165428" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165428-dbzh-apc-back.html</url>
+<price>5659</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565311_dbzh-apc-back-ups.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ APC Back-UPS 500VA (BX500MI)</name>
+<vendor>APC</vendor>
+<vendorCode>НФ-00041732</vendorCode>
+<param name="Вес" unit="кг">4.6</param>
+<param name="Время переключения" unit="мс">6</param>
+<param name="Время работы при полной нагрузке" unit="мин">7.6</param>
+<param name="Выходная мощность" unit="Вт">300</param>
+<param name="Выходное напряжение" unit="В">300</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Максимальная мощность" unit="Вт">500</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">3</param>
+<param name="Частота тока" unit="Гц">60</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">7</param>
+<param name="Інтерфейси управління" unit="">USB</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">140</param>
+<param name="Вхідна частота (Гц)" unit="">50</param>
+<param name="Габариты (мм)" unit="">138x98x310</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальний струм (А)" unit="">10</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Розеток з резервом (шт)" unit="">3</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+<param name="Час роботи при половинному навантаженні (хв)" unit="">1.3</param>
+</offer>
+<offer id="2280165429" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165429-dbzh-powercom-inf.html</url>
+<price>6434</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565314_dbzh-powercom-inf-500.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Powercom INF-500 (00210197)</name>
+<vendor>Powercom</vendor>
+<vendorCode>НФ-00041733</vendorCode>
+<param name="Вес" unit="кг">5.8</param>
+<param name="Время переключения" unit="мс">4</param>
+<param name="Выходная мощность" unit="Вт">300</param>
+<param name="Выходное напряжение" unit="В">275</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">500</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">10</param>
+<param name="Частота тока" unit="Гц">60</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">20</param>
+<param name="Інтерфейси управління" unit="">USB</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">150</param>
+<param name="Вхідна частота (Гц)" unit="">50</param>
+<param name="Габариты (мм)" unit="">200x130x412</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальний струм (А)" unit="">10</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Розеток з резервом (шт)" unit="">2</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форма выходного напряжения" unit="">синусоїда (PSW)</param>
+</offer>
+<offer id="2280165430" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165430-dbzh-njoy-horus.html</url>
+<price>2649</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565316_dbzh-njoy-horus.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ NJOY Horus Plus 600 (PWUP-LI060H1-AZ01B)</name>
+<vendor>NJOY</vendor>
+<vendorCode>НФ-00041735</vendorCode>
+<param name="Вес" unit="кг">4.35</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="кВт">600</param>
+<param name="Состояние">Новое</param>
+<param name="Частота тока" unit="Гц">60</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">7</param>
+<param name="Інтерфейси управління" unit="">USB</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вихідна напруга (В)" unit="">280</param>
+<param name="Вхідна напруга (В)" unit="">170</param>
+<param name="Вхідна частота (Гц)" unit="">50</param>
+<param name="Габариты (мм)" unit="">142x101x300</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Макс. струм зарядки (А)" unit="">3</param>
+<param name="Максимальний струм (А)" unit="">10</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Номінальна вихідна потужність (Вт)" unit="">360</param>
+<param name="Розеток з резервом (шт)" unit="">2</param>
+<param name="Тип" unit="">інтерактивне</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форм-фактор" unit="">звичайний</param>
+<param name="Форма вихідного сигналу" unit="">подібна до синусоїди (апроксимована)</param>
+<param name="Час перемикання на батарею (мс)" unit="">6</param>
+<param name="Час роботи при повному навантаженні (хв)" unit="">7</param>
+</offer>
+<offer id="2280165432" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165432-dbzh-prologix-650.html</url>
+<price>2749</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565319_dbzh-prologix-650.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Prologix 650 (PLP650VA8LED)</name>
+<vendor>ProLogiX</vendor>
+<vendorCode>НФ-00041737</vendorCode>
+<param name="Вес" unit="кг">4.5</param>
+<param name="Время переключения" unit="мс">8</param>
+<param name="Выходная мощность" unit="Вт">360</param>
+<param name="Выходное напряжение" unit="В">295</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">600</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">3</param>
+<param name="Частота тока" unit="Гц">60</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">7</param>
+<param name="Інтерфейси управління" unit="">USB</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">162</param>
+<param name="Вхідна частота (Гц)" unit="">50</param>
+<param name="Габариты (мм)" unit="">205x94x285</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальний струм (А)" unit="">10</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Розеток з резервом (шт)" unit="">8</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+</offer>
+<offer id="2280165435" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165435-dbzh-njoy-keen.html</url>
+<price>2649</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565321_dbzh-njoy-keen.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ NJOY Keen 800 (UPLI-LI080KU-CG01B)</name>
+<vendor>NJOY</vendor>
+<vendorCode>НФ-00041738</vendorCode>
+<param name="Вес" unit="кг">4.4</param>
+<param name="Время переключения" unit="мс">4</param>
+<param name="Время работы при полной нагрузке" unit="мин">3</param>
+<param name="Выходная мощность" unit="Вт">480</param>
+<param name="Выходное напряжение" unit="В">290</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">800</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">3</param>
+<param name="Частота тока" unit="Гц">60</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">9</param>
+<param name="Інтерфейси управління" unit="">USB</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">162</param>
+<param name="Вхідна частота (Гц)" unit="">50</param>
+<param name="Габариты (мм)" unit="">165x87x276</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальний струм (А)" unit="">10</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Розеток з резервом (шт)" unit="">2</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+</offer>
+<offer id="2280165437" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165437-dbzh-prologix-850.html</url>
+<price>3099</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565324_dbzh-prologix-850.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Prologix 850 (PLP850VA8LED)</name>
+<vendor>ProLogiX</vendor>
+<vendorCode>НФ-00041739</vendorCode>
+<param name="Вес" unit="кг">5.5</param>
+<param name="Время переключения" unit="мс">8</param>
+<param name="Выходная мощность" unit="Вт">480</param>
+<param name="Выходное напряжение" unit="В">295</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">800</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">3</param>
+<param name="Частота тока" unit="Гц">60</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">8</param>
+<param name="Інтерфейси управління" unit="">USB</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">162</param>
+<param name="Вхідна частота (Гц)" unit="">50</param>
+<param name="Габариты (мм)" unit="">205x94x285</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальний струм (А)" unit="">10</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Розеток з резервом (шт)" unit="">8</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+</offer>
+<offer id="2280165438" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165438-dbzh-powercom-rpt.html</url>
+<price>4062</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6099193805_dbzh-powercom-rpt-1000ap.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Powercom RPT-1000AP Schuko, Lin.int., AVR, 3 x євро, USB, пластик (00210219)</name>
+<vendor>Powercom</vendor>
+<vendorCode>НФ-00042073</vendorCode>
+<param name="Вес" unit="кг">4.5</param>
+<param name="Время переключения" unit="мс">4</param>
+<param name="Выходная мощность" unit="Вт">600</param>
+<param name="Выходное напряжение" unit="В">275</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">1000</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">3</param>
+<param name="Частота тока" unit="Гц">60</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">7.2</param>
+<param name="Інтерфейси управління" unit="">USB</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">160</param>
+<param name="Вхідна частота (Гц)" unit="">50</param>
+<param name="Габариты (мм)" unit="">140x100x278</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальний струм (А)" unit="">10</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Розеток з резервом (шт)" unit="">3</param>
+<param name="Спотворення вихідної напруги (%)" unit="">5</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+</offer>
+<offer id="2280165447" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165447-dbzh-gemix-psn.html</url>
+<price>4615</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6099193806_dbzh-gemix-psn-500.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Gemix PSN-500 (PSN500VA), Lin.int., LCD, 1хEURO, метал</name>
+<vendor>Gemix</vendor>
+<vendorCode>НФ-00042077</vendorCode>
+<param name="Вес" unit="кг">5</param>
+<param name="Время переключения" unit="мс">4</param>
+<param name="Выходная мощность" unit="Вт">300</param>
+<param name="Выходное напряжение" unit="В">280</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">500</param>
+<param name="Состояние">Новое</param>
+<param name="Частота тока" unit="Гц">60</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">140</param>
+<param name="Вхідна частота (Гц)" unit="">50</param>
+<param name="Габариты (мм)" unit="">180x140x350</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальний струм (А)" unit="">10</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Розеток з резервом (шт)" unit="">1</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форма выходного напряжения" unit="">синусоїда (PSW)</param>
+</offer>
+<offer id="2288561702" available="true">
+<url>https://tera-flops.com.ua/ua/p2288561702-dbzh-powercom-wow.html</url>
+<price>5025</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6099193813_dbzh-powercom-wow-1000u.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Powercom WOW-1000U (00210088)</name>
+<vendor>Powercom</vendor>
+<vendorCode>НФ-00038535</vendorCode>
+<param name="Вес" unit="кг">3.7</param>
+<param name="Время переключения" unit="мс">4</param>
+<param name="Выходная мощность" unit="Вт">500</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">1000</param>
+<param name="Состояние">Новое</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Габариты (мм)" unit="">85х120х410</param>
+<param name="Діапазон вхідної напруги (В)" unit="">220</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Тип ИБП" unit="">резервне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип B (американські)</param>
+<param name="Форма выходного напряжения" unit="">синусоїда (PSW)</param>
+</offer>
+<offer id="2288561704" available="true">
+<url>https://tera-flops.com.ua/ua/p2288561704-dbzh-frimecom-1500.html</url>
+<price>4774</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6099193818_dbzh-frimecom-gs-1500.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ FrimeCom GS-1500</name>
+<vendor>FrimeCom</vendor>
+<vendorCode>НФ-00038552</vendorCode>
+<param name="Вес" unit="кг">11.02</param>
+<param name="Время переключения" unit="мс">8</param>
+<param name="Выходная мощность" unit="Вт">900</param>
+<param name="Выходное напряжение" unit="В">290</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">1500</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">2</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">9</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">140</param>
+<param name="Габариты (мм)" unit="">385х191х275</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип B (американські)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+</offer>
+<offer id="2288561707" available="true">
+<url>https://tera-flops.com.ua/ua/p2288561707-dbzh-yepo-smart.html</url>
+<price>2699</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6099193822_dbzh-yepo-smart.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ Yepo Smart DC-UPS 10400mAh DC-5V/9V/12V (UA-112485)</name>
+<vendor>YEPO</vendor>
+<vendorCode>НФ-00038635</vendorCode>
+<param name="Выходное напряжение" unit="В">240</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">400</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">3</param>
+<param name="Частота тока" unit="Гц">60</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">9</param>
+<param name="Інтерфейси управління" unit="">LAN</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">100</param>
+<param name="Вхідна частота (Гц)" unit="">50</param>
+<param name="Габариты (мм)" unit="">146x51x48</param>
+<param name="Діапазон вхідної напруги (В)" unit="">220</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальний струм (А)" unit="">4</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Тип ИБП" unit="">резервне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип B (американські)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+</offer>
+<offer id="2288561708" available="true">
+<url>https://tera-flops.com.ua/ua/p2288561708-dbzh-eaton-5px.html</url>
+<price>41640</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6099193807_dbzh-eaton-5px.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ EATON 5PX 1000I RT2U G2</name>
+<vendor>Eaton</vendor>
+<vendorCode>НФ-00038748</vendorCode>
+<param name="Вес" unit="кг">19.6</param>
+<param name="Время переключения" unit="мс">4</param>
+<param name="Выходная мощность" unit="Вт">1000</param>
+<param name="Выходное напряжение" unit="В">294</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">1000</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">4</param>
+<param name="Частота тока" unit="Гц">60</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">7</param>
+<param name="Інтерфейси управління" unit="">USB</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">150</param>
+<param name="Вхідна частота (Гц)" unit="">50</param>
+<param name="Габариты (мм)" unit="">86х438х448</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальний струм (А)" unit="">10</param>
+<param name="Напруга підключення батареї (В)" unit="">48</param>
+<param name="Розеток з резервом (шт)" unit="">8</param>
+<param name="Спотворення вихідної напруги (%)" unit="">96</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">серверний (Rack)</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форма выходного напряжения" unit="">синусоїда (PSW)</param>
 </offer>
 </offers>
 </shop>
