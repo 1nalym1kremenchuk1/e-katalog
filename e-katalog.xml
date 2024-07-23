@@ -2480,7 +2480,7 @@
 <delivery>true</delivery>
 <name>ДБЖ FrimeCom GS-1000</name>
 <vendor>FrimeCom</vendor>
-<vendorCode>НФ-00038533</vendorCode>
+<vendorCode>GS-1000</vendorCode>
 <param name="Вес" unit="кг">8.48</param>
 <param name="Время переключения" unit="мс">8</param>
 <param name="Выходная мощность" unit="Вт">600</param>
@@ -2512,7 +2512,7 @@
 <delivery>true</delivery>
 <name>ДБЖ NJOY Balder 1000 (UPCMCOP110HBAAZ01B)</name>
 <vendor>NJOY</vendor>
-<vendorCode>НФ-00038544</vendorCode>
+<vendorCode>UPCMCOP110HBAAZ01B</vendorCode>
 <param name="Вес" unit="кг">14.1</param>
 <param name="Время переключения" unit="мс">4</param>
 <param name="Выходная мощность" unit="Вт">1000</param>
@@ -2545,7 +2545,7 @@
 <delivery>true</delivery>
 <name>ДБЖ APC Smart-UPS 1000VA RM LCD (SMC1000I-2U)</name>
 <vendor>APC</vendor>
-<vendorCode>НФ-00038545</vendorCode>
+<vendorCode>SMC1000I-2U</vendorCode>
 <param name="Вес" unit="кг">24</param>
 <param name="Выходная мощность" unit="Вт">600</param>
 <param name="Гарантийный срок" unit="мес">24</param>
@@ -2574,7 +2574,7 @@
 <delivery>true</delivery>
 <name>ДБЖ NJOY Balder 10000 (PWUP-OL10KBA-AZ01B)</name>
 <vendor>NJOY</vendor>
-<vendorCode>НФ-00038546</vendorCode>
+<vendorCode>PWUP-OL10KBA-AZ01B</vendorCode>
 <param name="Вес" unit="кг">20</param>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Состояние">Новое</param>
@@ -2603,7 +2603,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Makelsan LionUPS1200kVA/29051</name>
 <vendor>Makelsan</vendor>
-<vendorCode>НФ-00038548</vendorCode>
+<vendorCode>LionUPS1200kVA/29051</vendorCode>
 <param name="Вес" unit="кг">6.5</param>
 <param name="Время переключения" unit="мс">6</param>
 <param name="Выходная мощность" unit="Вт">700</param>
@@ -2635,7 +2635,7 @@
 <delivery>true</delivery>
 <name>ДБЖ NJOY Argus 1200 (UPLI-LI120AG-CG01B)</name>
 <vendor>NJOY</vendor>
-<vendorCode>НФ-00038549</vendorCode>
+<vendorCode>UPLI-LI120AG-CG01B</vendorCode>
 <param name="Вес" unit="кг">15.29</param>
 <param name="Выходная мощность" unit="Вт">720</param>
 <param name="Выходное напряжение" unit="В">290</param>
@@ -2663,7 +2663,7 @@
 <delivery>true</delivery>
 <name>ДБЖ LogicPower LP-UL1250VA RM (rack mounts) (with battery)</name>
 <vendor>FrimeCom</vendor>
-<vendorCode>НФ-00038550</vendorCode>
+<vendorCode>LP-UL1250VA</vendorCode>
 <param name="Вес" unit="кг">9.8</param>
 <param name="Время переключения" unit="мс">7</param>
 <param name="Выходная мощность" unit="Вт">720</param>
@@ -2695,7 +2695,7 @@
 <delivery>true</delivery>
 <name>ДБЖ FrimeCom GS-1500 LCD</name>
 <vendor>FrimeCom</vendor>
-<vendorCode>НФ-00038553</vendorCode>
+<vendorCode>GS-1500</vendorCode>
 <param name="Вес" unit="кг">11.16</param>
 <param name="Время переключения" unit="мс">8</param>
 <param name="Выходная мощность" unit="Вт">900</param>
@@ -2728,7 +2728,7 @@
 <delivery>true</delivery>
 <name>ДБЖ EnerGenie UPS-RACK-1500 1500VA</name>
 <vendor>Energenie</vendor>
-<vendorCode>НФ-00038556</vendorCode>
+<vendorCode>UPS-RACK-1500</vendorCode>
 <param name="Время переключения" unit="мс">10</param>
 <param name="Выходная мощность" unit="Вт">900</param>
 <param name="Выходное напряжение" unit="В">275</param>
@@ -2756,7 +2756,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Makelsan LionUPS1500kVA/29052</name>
 <vendor>Makelsan</vendor>
-<vendorCode>НФ-00038558</vendorCode>
+<vendorCode>LionUPS1500kVA/29052</vendorCode>
 <param name="Вес" unit="кг">7.5</param>
 <param name="Время переключения" unit="мс">6</param>
 <param name="Выходная мощность" unit="Вт">900</param>
@@ -2789,7 +2789,7 @@
 <delivery>true</delivery>
 <name>ДБЖ NJOY Balder 1500 (PWUP-OL150BA-AZ01B)</name>
 <vendor>NJOY</vendor>
-<vendorCode>НФ-00038560</vendorCode>
+<vendorCode>PWUP-OL150BA-AZ01B</vendorCode>
 <param name="Вес" unit="кг">15.5</param>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Максимальная мощность" unit="кВт">1500</param>
@@ -2822,7 +2822,7 @@
 <delivery>true</delivery>
 <name>ДБЖ LogicPower LP-UL1550VA RM (rack mounts) (with battery)</name>
 <vendor>FrimeCom</vendor>
-<vendorCode>НФ-00038561</vendorCode>
+<vendorCode>LP-UL1550VA</vendorCode>
 <param name="Вес" unit="кг">9.8</param>
 <param name="Время переключения" unit="мс">7</param>
 <param name="Выходная мощность" unit="Вт">900</param>
@@ -2855,7 +2855,7 @@
 <delivery>true</delivery>
 <name>ДБЖ NJOY Code 2000 (UPLI-LI200CO-AZ01B)</name>
 <vendor>NJOY</vendor>
-<vendorCode>НФ-00038566</vendorCode>
+<vendorCode>UPLI-LI200CO-AZ01B</vendorCode>
 <param name="Вес" unit="кг">14.4</param>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Максимальная мощность" unit="кВт">2000</param>
@@ -2884,7 +2884,7 @@
 <delivery>true</delivery>
 <name>ДБЖ APC Smart-UPS C RM 2000VA LCD (SMC2000I-2U)</name>
 <vendor>APC</vendor>
-<vendorCode>НФ-00038573</vendorCode>
+<vendorCode>SMC2000I-2U</vendorCode>
 <param name="Вес" unit="кг">26.2</param>
 <param name="Время переключения" unit="мс">4</param>
 <param name="Выходная мощность" unit="Вт">1300</param>
@@ -2912,7 +2912,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Makelsan LionUPS2200kVA/29054</name>
 <vendor>Makelsan</vendor>
-<vendorCode>НФ-00038575</vendorCode>
+<vendorCode>LionUPS2200kVA/29054</vendorCode>
 <param name="Вес" unit="кг">7.5</param>
 <param name="Время переключения" unit="мс">6</param>
 <param name="Выходная мощность" unit="Вт">1320</param>
@@ -2944,7 +2944,7 @@
 <delivery>true</delivery>
 <name>ДБЖ NJOY Aten Pro 3000 (PWUP-OL300AP-AZ01B)</name>
 <vendor>NJOY</vendor>
-<vendorCode>НФ-00038583</vendorCode>
+<vendorCode>PWUP-OL300AP-AZ01B</vendorCode>
 <param name="Вес" unit="кг">27.6</param>
 <param name="Выходная мощность" unit="Вт">2700</param>
 <param name="Выходное напряжение" unit="В">300</param>
@@ -2976,7 +2976,7 @@
 <delivery>true</delivery>
 <name>ДБЖ LogicPower LP-400VA-3PS</name>
 <vendor>FrimeCom</vendor>
-<vendorCode>НФ-00038587</vendorCode>
+<vendorCode>LP-400VA-3PS</vendorCode>
 <param name="Вес" unit="кг">2.7</param>
 <param name="Время переключения" unit="мс">8</param>
 <param name="Выходная мощность" unit="Вт">240</param>
@@ -3008,7 +3008,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Qoltec QLT450RJ45-53977/29595</name>
 <vendor>Qoltec</vendor>
-<vendorCode>НФ-00038589</vendorCode>
+<vendorCode>QLT450RJ45-53977/29595</vendorCode>
 <param name="Вес" unit="кг">5</param>
 <param name="Выходная мощность" unit="Вт">240</param>
 <param name="Выходное напряжение" unit="В">300</param>
@@ -3039,7 +3039,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Ritar E-RTM500 ELF-L 300W (E-RTM500L/09815)</name>
 <vendor>Ritar</vendor>
-<vendorCode>НФ-00038593</vendorCode>
+<vendorCode>E-RTM500L/09815</vendorCode>
 <param name="Вес" unit="кг">9.6</param>
 <param name="Время переключения" unit="мс">5</param>
 <param name="Выходная мощность" unit="Вт">300</param>
@@ -3071,7 +3071,7 @@
 <delivery>true</delivery>
 <name>ДБЖ REAL-EL Reserve-500 (EL122100003)</name>
 <vendor>Real-el</vendor>
-<vendorCode>НФ-00038594</vendorCode>
+<vendorCode>EL122100003</vendorCode>
 <param name="Вес" unit="кг">5.1</param>
 <param name="Время переключения" unit="мс">4</param>
 <param name="Выходная мощность" unit="Вт">300</param>
@@ -3100,7 +3100,7 @@
 <delivery>true</delivery>
 <name>ДБЖ NJOY Soter 600 (PWUP-LI060SR-AZ01B)</name>
 <vendor>NJOY</vendor>
-<vendorCode>НФ-00038605</vendorCode>
+<vendorCode>PWUP-LI060SR-AZ01B</vendorCode>
 <param name="Время переключения" unit="мс">6</param>
 <param name="Выходная мощность" unit="Вт">360</param>
 <param name="Выходное напряжение" unit="В">280</param>
@@ -3126,7 +3126,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Ritar E-RTM600L-U 360W (E-RTM600L-U/07860)</name>
 <vendor>Ritar</vendor>
-<vendorCode>НФ-00038606</vendorCode>
+<vendorCode>E-RTM600L-U/07860</vendorCode>
 <param name="Время переключения" unit="мс">8</param>
 <param name="Выходная мощность" unit="Вт">360</param>
 <param name="Выходное напряжение" unit="В">290</param>
@@ -3153,7 +3153,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Ritar RTP600L-UX-IEC Proxima-L 360W (RTP600L-UX-IEC/06802)</name>
 <vendor>Ritar</vendor>
-<vendorCode>НФ-00038607</vendorCode>
+<vendorCode>RTP600L-UX-IEC/06802</vendorCode>
 <param name="Вес" unit="кг">4.6</param>
 <param name="Время переключения" unit="мс">10</param>
 <param name="Выходная мощность" unit="Вт">360</param>
@@ -3182,7 +3182,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Qoltec QLT600L-53978/29581</name>
 <vendor>Qoltec</vendor>
-<vendorCode>НФ-00038608</vendorCode>
+<vendorCode>QLT600L-53978/29581</vendorCode>
 <param name="Вес" unit="кг">4.5</param>
 <param name="Выходное напряжение" unit="В">300</param>
 <param name="Гарантийный срок" unit="мес">24</param>
@@ -3210,7 +3210,7 @@
 <delivery>true</delivery>
 <name>ДБЖ NJOY Token 600 (UPCSBLS660TTOAZ01B)</name>
 <vendor>NJOY</vendor>
-<vendorCode>НФ-00038609</vendorCode>
+<vendorCode>UPCSBLS660TTOAZ01B</vendorCode>
 <param name="Вес" unit="кг">5.05</param>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Максимальная мощность" unit="кВт">600</param>
@@ -3239,7 +3239,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Njoy Aira 600 (UPCSTLP860TAICP01B)</name>
 <vendor>NJOY</vendor>
-<vendorCode>НФ-00038613</vendorCode>
+<vendorCode>UPCSTLP860TAICP01B</vendorCode>
 <param name="Время переключения" unit="мс">10</param>
 <param name="Выходная мощность" unit="Вт">300</param>
 <param name="Выходное напряжение" unit="В">500</param>
@@ -3272,7 +3272,7 @@
 <delivery>true</delivery>
 <name>ДБЖ NJOY Balder 6000 (PWUP-OL06KBA-AZ01B)</name>
 <vendor>NJOY</vendor>
-<vendorCode>НФ-00038615</vendorCode>
+<vendorCode>PWUP-OL06KBA-AZ01B</vendorCode>
 <param name="Вес" unit="кг">17</param>
 <param name="Выходная мощность" unit="Вт">6000</param>
 <param name="Выходное напряжение" unit="В">300</param>
@@ -3301,7 +3301,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Makelsan LionUPS650kVA/29049</name>
 <vendor>Makelsan</vendor>
-<vendorCode>НФ-00038619</vendorCode>
+<vendorCode>LionUPS650kVA/29049</vendorCode>
 <param name="Вес" unit="кг">5</param>
 <param name="Время переключения" unit="мс">6</param>
 <param name="Выходная мощность" unit="Вт">390</param>
@@ -3333,7 +3333,7 @@
 <delivery>true</delivery>
 <name>ДБЖ NJOY Renton 650 Plus (UPCSBLS665TRPCG01B)</name>
 <vendor>NJOY</vendor>
-<vendorCode>НФ-00038621</vendorCode>
+<vendorCode>UPCSBLS665TRPCG01B</vendorCode>
 <param name="Вес" unit="кг">3.96</param>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Максимальная мощность" unit="кВт">650</param>
@@ -3364,7 +3364,7 @@
 <delivery>true</delivery>
 <name>ДБЖ NJOY Token 800 (UPCSBLS680TTOAZ01B)</name>
 <vendor>NJOY</vendor>
-<vendorCode>НФ-00038628</vendorCode>
+<vendorCode>UPCSBLS680TTOAZ01B</vendorCode>
 <param name="Вес" unit="кг">5.8</param>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Максимальная мощность" unit="кВт">600</param>
@@ -3393,7 +3393,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Makelsan LionUPS850kVA/29050</name>
 <vendor>Makelsan</vendor>
-<vendorCode>НФ-00038632</vendorCode>
+<vendorCode>LionUPS850kVA/29050</vendorCode>
 <param name="Вес" unit="кг">6.8</param>
 <param name="Время переключения" unit="мс">6</param>
 <param name="Выходная мощность" unit="Вт">510</param>
@@ -3425,7 +3425,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Eaton Ellipse Eco 800 USB DIN (9400-5334-00P)</name>
 <vendor>Eaton</vendor>
-<vendorCode>НФ-00038732</vendorCode>
+<vendorCode>9400-5334-00P</vendorCode>
 <param name="Вес" unit="кг">4.1</param>
 <param name="Время переключения" unit="мс">9</param>
 <param name="Выходная мощность" unit="Вт">500</param>
@@ -3462,7 +3462,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Eaton 5E 1200 USB DIN G2</name>
 <vendor>Eaton</vendor>
-<vendorCode>НФ-00038733</vendorCode>
+<vendorCode>5E1200UD</vendorCode>
 <param name="Вес" unit="кг">8.37</param>
 <param name="Время переключения" unit="мс">10</param>
 <param name="Выходная мощность" unit="Вт">660</param>
@@ -3500,7 +3500,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Eaton 5E 1600 USB DIN G2</name>
 <vendor>Eaton</vendor>
-<vendorCode>НФ-00038736</vendorCode>
+<vendorCode>5E1600UD</vendorCode>
 <param name="Вес" unit="кг">9.26</param>
 <param name="Время переключения" unit="мс">10</param>
 <param name="Выходная мощность" unit="Вт">900</param>
@@ -3538,7 +3538,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Eaton Ellipse PRO 1200 DIN (ELP1200DIN)</name>
 <vendor>Eaton</vendor>
-<vendorCode>НФ-00038740</vendorCode>
+<vendorCode>ELP1200DIN</vendorCode>
 <param name="Вес" unit="кг">9.7</param>
 <param name="Время переключения" unit="мс">5</param>
 <param name="Время работы при полной нагрузке" unit="мин">2</param>
@@ -3577,7 +3577,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Eaton 9E 1000i Rack2U (9E1000IR)</name>
 <vendor>Eaton</vendor>
-<vendorCode>НФ-00038742</vendorCode>
+<vendorCode>9E1000IR</vendorCode>
 <param name="Вес" unit="кг">9.5</param>
 <param name="Время переключения" unit="мс">5</param>
 <param name="Выходная мощность" unit="Вт">800</param>
@@ -3615,7 +3615,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Eaton 9SX 1500i</name>
 <vendor>Eaton</vendor>
-<vendorCode>НФ-00038754</vendorCode>
+<vendorCode>9SX1500I</vendorCode>
 <param name="Вес" unit="кг">18.5</param>
 <param name="Выходная мощность" unit="Вт">1350</param>
 <param name="Выходное напряжение" unit="В">276</param>
@@ -3652,7 +3652,7 @@
 <delivery>true</delivery>
 <name>ДБЖ EATON 5PX 1500I RT2U G2</name>
 <vendor>Eaton</vendor>
-<vendorCode>НФ-00038755</vendorCode>
+<vendorCode>5PX1500IRT2UG2</vendorCode>
 <param name="Вес" unit="кг">22.4</param>
 <param name="Время переключения" unit="мс">4</param>
 <param name="Выходная мощность" unit="Вт">1500</param>
@@ -3690,7 +3690,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Eaton 9SX 2000i</name>
 <vendor>Eaton</vendor>
-<vendorCode>НФ-00038757</vendorCode>
+<vendorCode>9SX2000I</vendorCode>
 <param name="Вес" unit="кг">33.3</param>
 <param name="Выходная мощность" unit="Вт">1800</param>
 <param name="Выходное напряжение" unit="В">276</param>
@@ -3727,7 +3727,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Eaton 9SX 2000i Rack2U</name>
 <vendor>Eaton</vendor>
-<vendorCode>НФ-00038759</vendorCode>
+<vendorCode>9SX2000IRACK2U</vendorCode>
 <param name="Вес" unit="кг">33.3</param>
 <param name="Выходная мощность" unit="Вт">1800</param>
 <param name="Выходное напряжение" unit="В">276</param>
@@ -3764,7 +3764,7 @@
 <delivery>true</delivery>
 <name>ДБЖ EATON 5PX 3000I RT3U G2</name>
 <vendor>Eaton</vendor>
-<vendorCode>НФ-00038763</vendorCode>
+<vendorCode>5PX3000IRT3UG2</vendorCode>
 <param name="Вес" unit="кг">31.7</param>
 <param name="Время переключения" unit="мс">4</param>
 <param name="Выходная мощность" unit="Вт">3000</param>
@@ -3802,7 +3802,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Eaton 5E 900 USB IEC G2</name>
 <vendor>Eaton</vendor>
-<vendorCode>НФ-00041585</vendorCode>
+<vendorCode>5E900UI</vendorCode>
 <param name="Вес" unit="кг">5.3</param>
 <param name="Время переключения" unit="мс">10</param>
 <param name="Выходная мощность" unit="Вт">480</param>
@@ -3840,7 +3840,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Eaton 5E 900 USB DIN G2</name>
 <vendor>Eaton</vendor>
-<vendorCode>НФ-00041586</vendorCode>
+<vendorCode>Eaton 5E 900 USB DIN G2</vendorCode>
 <param name="Вес" unit="кг">5.3</param>
 <param name="Время переключения" unit="мс">10</param>
 <param name="Выходная мощность" unit="Вт">480</param>
@@ -3878,7 +3878,7 @@
 <delivery>true</delivery>
 <name>Кабель для підключення АКБ HUAWEI UPSC000U2K02</name>
 <vendor>Huawei</vendor>
-<vendorCode>НФ-00041588</vendorCode>
+<vendorCode>UPSC000U2K02</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Состояние">Новое</param>
 </offer>
@@ -3892,7 +3892,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Eaton Ellipse ECO 650 (EL650USBDIN)</name>
 <vendor>Eaton</vendor>
-<vendorCode>НФ-00041590</vendorCode>
+<vendorCode>EL650USBDIN</vendorCode>
 <param name="Вес" unit="кг">3.6</param>
 <param name="Время переключения" unit="мс">9</param>
 <param name="Выходная мощность" unit="Вт">400</param>
@@ -3929,7 +3929,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Eaton Ellipse PRO 650 DIN (ELP650DIN)</name>
 <vendor>Eaton</vendor>
-<vendorCode>НФ-00041591</vendorCode>
+<vendorCode>ELP650DIN</vendorCode>
 <param name="Вес" unit="кг">6.9</param>
 <param name="Время переключения" unit="мс">5</param>
 <param name="Время работы при полной нагрузке" unit="мин">1</param>
@@ -3968,7 +3968,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Eaton Ellipse Eco 1600 USB DIN (9400-8307-00P)</name>
 <vendor>Eaton</vendor>
-<vendorCode>НФ-00041592</vendorCode>
+<vendorCode>9400-8307-00P</vendorCode>
 <param name="Вес" unit="кг">7.8</param>
 <param name="Время переключения" unit="мс">11</param>
 <param name="Выходная мощность" unit="Вт">1000</param>
@@ -4005,7 +4005,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Eaton 5S 1500i</name>
 <vendor>Eaton</vendor>
-<vendorCode>НФ-00041593</vendorCode>
+<vendorCode>5S1500I</vendorCode>
 <param name="Вес" unit="кг">11.2</param>
 <param name="Время переключения" unit="мс">5</param>
 <param name="Время работы при полной нагрузке" unit="мин">2</param>
@@ -4044,7 +4044,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Eaton 5SC 1500i Rack2U (5SC1500IR)</name>
 <vendor>Eaton</vendor>
-<vendorCode>НФ-00041605</vendorCode>
+<vendorCode>5SC1500IR</vendorCode>
 <param name="Вес" unit="кг">17.78</param>
 <param name="Время работы при полной нагрузке" unit="мин">5</param>
 <param name="Выходная мощность" unit="Вт">1050</param>
@@ -4083,7 +4083,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Prologix 1000 (PLP1000VA8LED)</name>
 <vendor>ProLogiX</vendor>
-<vendorCode>НФ-00041727</vendorCode>
+<vendorCode>PLP1000VA8LED</vendorCode>
 <param name="Вес" unit="кг">5.8</param>
 <param name="Время переключения" unit="мс">8</param>
 <param name="Выходная мощность" unit="Вт">600</param>
@@ -4120,7 +4120,7 @@
 <delivery>true</delivery>
 <name>ДБЖ NJOY Horus Plus 1000 (PWUP-LI100H1-AZ01B)</name>
 <vendor>NJOY</vendor>
-<vendorCode>НФ-00041728</vendorCode>
+<vendorCode>PWUP-LI100H1-AZ01B</vendorCode>
 <param name="Вес" unit="кг">7.8</param>
 <param name="Время работы при полной нагрузке" unit="мин">5.5</param>
 <param name="Выходная мощность" unit="Вт">600</param>
@@ -4158,7 +4158,7 @@
 <delivery>true</delivery>
 <name>ДБЖ FrimeCom GS-1200</name>
 <vendor>FrimeCom</vendor>
-<vendorCode>НФ-00041730</vendorCode>
+<vendorCode>GS-1200</vendorCode>
 <param name="Вес" unit="кг">9.51</param>
 <param name="Время переключения" unit="мс">8</param>
 <param name="Выходная мощность" unit="Вт">720</param>
@@ -4195,7 +4195,7 @@
 <delivery>true</delivery>
 <name>ДБЖ NJOY Balder 2000 (UPCMCOP120HBAAZ01B)</name>
 <vendor>NJOY</vendor>
-<vendorCode>НФ-00041731</vendorCode>
+<vendorCode>UPCMCOP120HBAAZ01B</vendorCode>
 <param name="Вес" unit="кг">23.3</param>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Максимальная мощность" unit="кВт">2000</param>
@@ -4234,7 +4234,7 @@
 <delivery>true</delivery>
 <name>ДБЖ APC Back-UPS 500VA (BX500MI)</name>
 <vendor>APC</vendor>
-<vendorCode>НФ-00041732</vendorCode>
+<vendorCode>BX500MI</vendorCode>
 <param name="Вес" unit="кг">4.6</param>
 <param name="Время переключения" unit="мс">6</param>
 <param name="Время работы при полной нагрузке" unit="мин">7.6</param>
@@ -4273,7 +4273,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Powercom INF-500 (00210197)</name>
 <vendor>Powercom</vendor>
-<vendorCode>НФ-00041733</vendorCode>
+<vendorCode>00210197</vendorCode>
 <param name="Вес" unit="кг">5.8</param>
 <param name="Время переключения" unit="мс">4</param>
 <param name="Выходная мощность" unit="Вт">300</param>
@@ -4310,7 +4310,7 @@
 <delivery>true</delivery>
 <name>ДБЖ NJOY Horus Plus 600 (PWUP-LI060H1-AZ01B)</name>
 <vendor>NJOY</vendor>
-<vendorCode>НФ-00041735</vendorCode>
+<vendorCode>PWUP-LI060H1-AZ01B</vendorCode>
 <param name="Вес" unit="кг">4.35</param>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Максимальная мощность" unit="кВт">600</param>
@@ -4348,7 +4348,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Prologix 650 (PLP650VA8LED)</name>
 <vendor>ProLogiX</vendor>
-<vendorCode>НФ-00041737</vendorCode>
+<vendorCode>PLP650VA8LED</vendorCode>
 <param name="Вес" unit="кг">4.5</param>
 <param name="Время переключения" unit="мс">8</param>
 <param name="Выходная мощность" unit="Вт">360</param>
@@ -4385,7 +4385,7 @@
 <delivery>true</delivery>
 <name>ДБЖ NJOY Keen 800 (UPLI-LI080KU-CG01B)</name>
 <vendor>NJOY</vendor>
-<vendorCode>НФ-00041738</vendorCode>
+<vendorCode>UPLI-LI080KU-CG01B</vendorCode>
 <param name="Вес" unit="кг">4.4</param>
 <param name="Время переключения" unit="мс">4</param>
 <param name="Время работы при полной нагрузке" unit="мин">3</param>
@@ -4423,7 +4423,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Prologix 850 (PLP850VA8LED)</name>
 <vendor>ProLogiX</vendor>
-<vendorCode>НФ-00041739</vendorCode>
+<vendorCode>PLP850VA8LED</vendorCode>
 <param name="Вес" unit="кг">5.5</param>
 <param name="Время переключения" unit="мс">8</param>
 <param name="Выходная мощность" unit="Вт">480</param>
@@ -4460,7 +4460,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Powercom RPT-1000AP Schuko, Lin.int., AVR, 3 x євро, USB, пластик (00210219)</name>
 <vendor>Powercom</vendor>
-<vendorCode>НФ-00042073</vendorCode>
+<vendorCode>00210219</vendorCode>
 <param name="Вес" unit="кг">4.5</param>
 <param name="Время переключения" unit="мс">4</param>
 <param name="Выходная мощность" unit="Вт">600</param>
@@ -4498,7 +4498,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Gemix PSN-500 (PSN500VA), Lin.int., LCD, 1хEURO, метал</name>
 <vendor>Gemix</vendor>
-<vendorCode>НФ-00042077</vendorCode>
+<vendorCode>PSN500VA</vendorCode>
 <param name="Вес" unit="кг">5</param>
 <param name="Время переключения" unit="мс">4</param>
 <param name="Выходная мощность" unit="Вт">300</param>
@@ -4532,7 +4532,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Powercom WOW-1000U (00210088)</name>
 <vendor>Powercom</vendor>
-<vendorCode>НФ-00038535</vendorCode>
+<vendorCode>00210088</vendorCode>
 <param name="Вес" unit="кг">3.7</param>
 <param name="Время переключения" unit="мс">4</param>
 <param name="Выходная мощность" unit="Вт">500</param>
@@ -4559,7 +4559,7 @@
 <delivery>true</delivery>
 <name>ДБЖ FrimeCom GS-1500</name>
 <vendor>FrimeCom</vendor>
-<vendorCode>НФ-00038552</vendorCode>
+<vendorCode>GS-1500</vendorCode>
 <param name="Вес" unit="кг">11.02</param>
 <param name="Время переключения" unit="мс">8</param>
 <param name="Выходная мощность" unit="Вт">900</param>
@@ -4591,7 +4591,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Yepo Smart DC-UPS 10400mAh DC-5V/9V/12V (UA-112485)</name>
 <vendor>YEPO</vendor>
-<vendorCode>НФ-00038635</vendorCode>
+<vendorCode>UA-112485</vendorCode>
 <param name="Выходное напряжение" unit="В">240</param>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Максимальная мощность" unit="Вт">400</param>
@@ -4624,7 +4624,7 @@
 <delivery>true</delivery>
 <name>ДБЖ EATON 5PX 1000I RT2U G2</name>
 <vendor>Eaton</vendor>
-<vendorCode>НФ-00038748</vendorCode>
+<vendorCode>5PX1000IRT2UG2</vendorCode>
 <param name="Вес" unit="кг">19.6</param>
 <param name="Время переключения" unit="мс">4</param>
 <param name="Выходная мощность" unit="Вт">1000</param>
