@@ -4652,6 +4652,1475 @@
 <param name="Тип розеток" unit="">Тип F (Schuko)</param>
 <param name="Форма выходного напряжения" unit="">синусоїда (PSW)</param>
 </offer>
+<offer id="1724161993" available="true">
+<url>https://tera-flops.com.ua/ua/p1724161993-umb-baseus-powerbank.html</url>
+<price>900</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/4126778580_umb-baseus-powerbank.jpg</picture>
+<picture>https://images.prom.ua/4126778699_umb-baseus-powerbank.jpg</picture>
+<picture>https://images.prom.ua/4126779069_umb-baseus-powerbank.jpg</picture>
+<picture>https://images.prom.ua/4126779113_umb-baseus-powerbank.jpg</picture>
+<picture>https://images.prom.ua/4126779528_umb-baseus-powerbank.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>УМБ Baseus Powerbank 20000 mAh 20 W Quick Charge + PD3.0 white</name>
+<vendor>Baseus</vendor>
+<vendorCode>PPAP20K</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Вес" unit="г">520</param>
+<param name="Высота" unit="мм">29</param>
+<param name="Ширина" unit="мм">70</param>
+<param name="Длина" unit="мм">154</param>
+<param name="Тип аккумулятора">Li-Pol</param>
+<param name="Емкость аккумулятора" unit="мА/ч">20000</param>
+<param name="Гарантийный срок" unit="мес">6</param>
+<param name="Цвет корпуса">Белый</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Тип">Универсальная батарея</param>
+<param name="Состояние">Новое</param>
+<param name="Особенности">Быстрая зарядка</param>
+<param name="Разъемы">USB|Type-C</param>
+<param name="Выходной ток" unit="мА">2000</param>
+<param name="Входное напряжение" unit="В">5</param>
+</offer>
+<offer id="2267140508" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140508-universalna-mobilna-batareya.html</url>
+<price>399</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407388_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Ttec 10000mAh PowerSlim S Black (2BB135S)</name>
+<vendor>Ttec</vendor>
+<vendorCode>2BB135S</vendorCode>
+<param name="Вес" unit="г">300</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">10.5</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">10.5</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">microUSB</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">10.5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">11</param>
+<param name="Розміри (мм)" unit="">145x69x27</param>
+<param name="Струм заряду по USB (A)" unit="">2.1</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2267140509" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140509-universalna-mobilna-batareya.html</url>
+<price>409</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407391_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Voltronic ASONIC AS-P10 10000mAh, Output 2USB, Black (ASONIC AS-P10/29359)</name>
+<vendor>Voltronic</vendor>
+<vendorCode>ASONIC AS-P10/29359</vendorCode>
+<param name="Вес" unit="г">220</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Алюминий</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">10.5</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">10.5</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">10.5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">11</param>
+<param name="Розміри (мм)" unit="">135×65×15</param>
+<param name="Струм заряду по USB (A)" unit="">2.1</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2267140510" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140510-universalna-mobilna-batareya.html</url>
+<price>499</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407394_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея SkyDolphin SP22 10000mAh Black (PB-000100)</name>
+<vendor>Sky Dolphin</vendor>
+<vendorCode>PB-000100</vendorCode>
+<param name="Вес" unit="г">440</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">10.5</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">10.5</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">USB type A</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">10.5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">10</param>
+<param name="Розміри (мм)" unit="">145x69x27</param>
+<param name="Струм заряду по USB (A)" unit="">2</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">інфо-дисплей</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2267140511" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140511-universalna-mobilna-batareya.html</url>
+<price>499</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407399_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея SkyDolphin SP22 10000mAh White (PB-000099)</name>
+<vendor>Sky Dolphin</vendor>
+<vendorCode>PB-000099</vendorCode>
+<param name="Вес" unit="г">440</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">10.5</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">10.5</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">USB type A</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">10.5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">10</param>
+<param name="Розміри (мм)" unit="">145x69x27</param>
+<param name="Струм заряду по USB (A)" unit="">2</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">інфо-дисплей</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2267140513" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140513-universalna-mobilna-batareya.html</url>
+<price>450</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407407_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Dexim DCA0013 10000mAh Fast Charge Black (DCA0013/29506)</name>
+<vendor> Dexim</vendor>
+<vendorCode>DCA0013/29506</vendorCode>
+<param name="Вес" unit="г">220</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Алюминий</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">20</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">20</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">20</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">12</param>
+<param name="Розміри (мм)" unit="">135х70х15</param>
+<param name="Струм заряду по USB (A)" unit="">5</param>
+<param name="Технології швидкої зарядки" unit="">Quick Charge 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">3</param>
+</offer>
+<offer id="2267140516" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140516-universalna-mobilna-batareya.html</url>
+<price>849</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407414_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Luxe Cube 10000 mAh (4820201011119)</name>
+<vendor>Luxe</vendor>
+<vendorCode>4820201011119</vendorCode>
+<param name="Вес" unit="г">0.15</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">10.5</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">10.5</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">10.5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">11</param>
+<param name="Розміри (мм)" unit="">136.8х68.6х15.5</param>
+<param name="Струм заряду по USB (A)" unit="">2.1</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2267140517" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140517-universalna-mobilna-batareya.html</url>
+<price>520</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407417_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея 2E 10000mAh Black (2E-PB1005-BLACK)</name>
+<vendor>2E</vendor>
+<vendorCode>2E-PB1005-BLACK</vendorCode>
+<param name="Вес" unit="г">260</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Алюминий</param>
+<param name="Состояние">Новое</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">10.5</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">10</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">5</param>
+<param name="Розміри (мм)" unit="">100x180x20</param>
+<param name="Струм заряду по USB (A)" unit="">2.1</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">7</param>
+</offer>
+<offer id="2267140518" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140518-universalna-mobilna-batareya.html</url>
+<price>510</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407424_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея TX-10 10000mAh, 2USB, Mix color, Box Black (TX-10/29362)</name>
+<vendor>Powerway</vendor>
+<vendorCode>TX-10/29362</vendorCode>
+<param name="Вес" unit="г">245</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Алюминий</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">10.5</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">10.5</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">2</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">10.5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">10</param>
+<param name="Розміри (мм)" unit="">145x69x27</param>
+<param name="Струм заряду по USB (A)" unit="">2</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2267140519" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140519-universalna-mobilna-batareya.html</url>
+<price>510</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407430_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея TX-10 10000mAh, 2USB, Mix color, Box White (TX-10/29362W)</name>
+<vendor>Powerway</vendor>
+<vendorCode>TX-10/29362W</vendorCode>
+<param name="Вес" unit="г">245</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Алюминий</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">10.5</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">10.5</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">2</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">10.5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">10</param>
+<param name="Розміри (мм)" unit="">145x69x27</param>
+<param name="Струм заряду по USB (A)" unit="">2</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2267140520" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140520-universalna-mobilna-batareya.html</url>
+<price>599</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407434_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Promate Torq-10 White 10000mAh</name>
+<vendor>Promate</vendor>
+<vendorCode>torq-10.white</vendorCode>
+<param name="Вес" unit="г">236</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">18</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">20</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">20</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">12</param>
+<param name="Розміри (мм)" unit="">70х145х18</param>
+<param name="Струм заряду по USB (A)" unit="">1.5</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">інфо-дисплей</param>
+<param name="Час повної зарядки (год)" unit="">5</param>
+</offer>
+<offer id="2267140522" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140522-universalna-mobilna-batareya.html</url>
+<price>629</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407438_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Forever TB-100M 10000mAh Black (1283126565090)</name>
+<vendor>Forever</vendor>
+<vendorCode>1283126565090</vendorCode>
+<param name="Вес" unit="г">217</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">10.5</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">10.5</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">10.5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">10.5</param>
+<param name="Розміри (мм)" unit="">139х69х15</param>
+<param name="Струм заряду по USB (A)" unit="">2.1</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">3</param>
+</offer>
+<offer id="2267140523" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140523-universalna-mobilna-batareya.html</url>
+<price>629</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407440_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Forever TB-100M 10000mAh White (1283126565106)</name>
+<vendor>Forever</vendor>
+<vendorCode>1283126565106</vendorCode>
+<param name="Вес" unit="г">218</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">10.5</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">10.5</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">10.5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">10.5</param>
+<param name="Розміри (мм)" unit="">139х69х15</param>
+<param name="Струм заряду по USB (A)" unit="">2.1</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">3</param>
+</offer>
+<offer id="2267140524" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140524-universalna-mobilna-batareya.html</url>
+<price>399</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407441_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Canyon 10000mAh Black (CNE-CPB1006B)</name>
+<vendor>Canyon</vendor>
+<vendorCode>CNE-CPB1006B</vendorCode>
+<param name="Вес" unit="г">240</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Алюминий</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">10.5</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">10.5</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">10.5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">10</param>
+<param name="Розміри (мм)" unit="">140x68x16</param>
+<param name="Струм заряду по USB (A)" unit="">2</param>
+<param name="Технології швидкої зарядки" unit="">Quick Charge 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">5</param>
+</offer>
+<offer id="2267140525" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140525-universalna-mobilna-batareya.html</url>
+<price>799</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407443_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Promate Bolt-10Pro White 10000mAh</name>
+<vendor>Promate</vendor>
+<vendorCode>bolt-10.white</vendorCode>
+<param name="Вес" unit="г">225</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">10</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">10</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">10</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">5</param>
+<param name="Розміри (мм)" unit="">68х15х135</param>
+<param name="Струм заряду по USB (A)" unit="">2</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">інфо-дисплей</param>
+<param name="Час повної зарядки (год)" unit="">5</param>
+</offer>
+<offer id="2267140526" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140526-universalna-mobilna-batareya.html</url>
+<price>799</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407444_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея SkyDolphin SP28 PD+QC3.0 10000mAh Black (PB-000090)</name>
+<vendor>Sky Dolphin</vendor>
+<vendorCode>PB-000090</vendorCode>
+<param name="Вес" unit="г">220</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">18</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">20</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">20</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">5</param>
+<param name="Розміри (мм)" unit="">134х67х15</param>
+<param name="Струм заряду по USB (A)" unit="">2</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">інфо-дисплей</param>
+<param name="Час повної зарядки (год)" unit="">5</param>
+</offer>
+<offer id="2267140527" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140527-universalna-mobilna-batareya.html</url>
+<price>699</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407446_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Forever TB-411 ALLin1 USB-C + Lightning + microUSB 10000mAh Black</name>
+<vendor>Forever</vendor>
+<vendorCode>1283126565083</vendorCode>
+<param name="Вес" unit="г">250</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">10</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">10</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">10</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">10</param>
+<param name="Розміри (мм)" unit="">70х147х19</param>
+<param name="Струм заряду по USB (A)" unit="">2</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">інфо-дисплей</param>
+<param name="Час повної зарядки (год)" unit="">3</param>
+</offer>
+<offer id="2267140528" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140528-universalna-mobilna-batareya.html</url>
+<price>749</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407447_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея WK WP-301 Gonen 10000mAh Black (6941027631614)</name>
+<vendor>WK</vendor>
+<vendorCode>6941027631614</vendorCode>
+<param name="Вес" unit="г">220</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">20</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">22.5</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">22.5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">18</param>
+<param name="Розміри (мм)" unit="">145x69x27</param>
+<param name="Струм заряду по USB (A)" unit="">3</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2267140531" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140531-universalna-mobilna-batareya.html</url>
+<price>709</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407454_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Remax RPP-212 Tinyl 10000mAh Black (RPP-212)</name>
+<vendor>Remax</vendor>
+<vendorCode>RPP-212</vendorCode>
+<param name="Вес" unit="г">225</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Алюминий</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">20</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">22,5</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">2</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">22,5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">18</param>
+<param name="Розміри (мм)" unit="">136,5x69,2x15,5</param>
+<param name="Струм заряду по USB (A)" unit="">2.5</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2267140532" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140532-universalna-mobilna-batareya.html</url>
+<price>999</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407456_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Remax RPP-570 Cybo 10000mAh Grey (6954851205692)</name>
+<vendor>Remax</vendor>
+<vendorCode>6954851205692</vendorCode>
+<param name="Вес" unit="г">205</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Алюминий</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">22.5</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">22.5</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">20</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">18</param>
+<param name="Розміри (мм)" unit="">8,4х5,4х3,8</param>
+<param name="Струм заряду по USB (A)" unit="">3</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2267140533" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140533-universalna-mobilna-batareya.html</url>
+<price>1149</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407457_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея 2E 10000mAh Black (2E-PB1001-BLACK)</name>
+<vendor>2E</vendor>
+<vendorCode>2E-PB1001-BLACK</vendorCode>
+<param name="Вес" unit="г">261</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Алюминий</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">18</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">22.5</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">18</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">12</param>
+<param name="Розміри (мм)" unit="">70x143x19</param>
+<param name="Струм заряду по USB (A)" unit="">1.5</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">інфо-дисплей</param>
+<param name="Час повної зарядки (год)" unit="">6</param>
+</offer>
+<offer id="2267140534" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140534-universalna-mobilna-batareya.html</url>
+<price>862</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407459_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Rivacase Rivapower 10000mAh White (VA2240)</name>
+<vendor>RivaCase</vendor>
+<vendorCode>VA2240</vendorCode>
+<param name="Вес" unit="г">225</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">10</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">10</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">10</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">10</param>
+<param name="Розміри (мм)" unit="">141x67x15</param>
+<param name="Струм заряду по USB (A)" unit="">2</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2267140535" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140535-universalna-mobilna-batareya.html</url>
+<price>1399</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407460_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Veger ACE100 10000mAh Black (W1146) (1283126559143)</name>
+<vendor>VEGER</vendor>
+<vendorCode>1283126559143</vendorCode>
+<param name="Вес" unit="г">218</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Алюминий</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">15</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">20</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">2</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">22.5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">18</param>
+<param name="Розміри (мм)" unit="">123x60x28,7</param>
+<param name="Струм заряду по USB (A)" unit="">3</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">3.5</param>
+</offer>
+<offer id="2267140536" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140536-universalna-mobilna-batareya.html</url>
+<price>469</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407462_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Sinko Q5 (20000 mAh) USB Type-C White (Q5TC225)</name>
+<vendor>Sinko</vendor>
+<vendorCode>Q5TC225</vendorCode>
+<param name="Вес" unit="г">440</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">20000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">10.5</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">10.5</param>
+<param name="Ємність батареї (Вт*год)" unit="">74</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">10.5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">5</param>
+<param name="Розміри (мм)" unit="">145x69x27</param>
+<param name="Струм заряду по USB (A)" unit="">2.1</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2267140538" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140538-universalna-mobilna-batareya.html</url>
+<price>799</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407464_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Ttec 20000mAh PowerSlim Black (2BB184S)</name>
+<vendor>Ttec</vendor>
+<vendorCode>2BB184S</vendorCode>
+<param name="Вес" unit="г">300</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">20000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">10.5</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">10.5</param>
+<param name="Ємність батареї (Вт*год)" unit="">74</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">10.5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">11</param>
+<param name="Розміри (мм)" unit="">130x70x28</param>
+<param name="Струм заряду по USB (A)" unit="">2.1</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">інфо-дисплей</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2267140541" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140541-universalna-mobilna-batareya.html</url>
+<price>888</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407473_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Gusgu Xiamen Mini 80000M 20000 mAh White (GB/T-35590/UA-102807)</name>
+<vendor>Gusgu</vendor>
+<vendorCode>GB/T-35590/UA-102807</vendorCode>
+<param name="Вес" unit="г">400</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">20000</param>
+<param name="Материал корпуса">Алюминий</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">10.5</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">10.5</param>
+<param name="Ємність батареї (Вт*год)" unit="">74</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">2</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">10.5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">5</param>
+<param name="Розміри (мм)" unit="">134x70x27</param>
+<param name="Струм заряду по USB (A)" unit="">2.1</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2267140542" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140542-universalna-mobilna-batareya.html</url>
+<price>949</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407476_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Ttec 30000mAh ReCharger Ultra Black (2BB190S)</name>
+<vendor>Ttec</vendor>
+<vendorCode>2BB190S</vendorCode>
+<param name="Вес" unit="г">589</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">30000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">10.5</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">10.5</param>
+<param name="Ємність батареї (Вт*год)" unit="">111</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">10.5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">11</param>
+<param name="Розміри (мм)" unit="">150,60x77,24x40,75</param>
+<param name="Струм заряду по USB (A)" unit="">2.1</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2267140543" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140543-universalna-mobilna-batareya.html</url>
+<price>949</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407477_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Ttec 30000mAh ReCharger Ultra White (2BB190B)</name>
+<vendor>Ttec</vendor>
+<vendorCode>2BB190B</vendorCode>
+<param name="Вес" unit="г">589</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">30000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">10.5</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">10.5</param>
+<param name="Ємність батареї (Вт*год)" unit="">111</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">10.5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">11</param>
+<param name="Розміри (мм)" unit="">150x77x2x40x8</param>
+<param name="Струм заряду по USB (A)" unit="">2.1</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2267140544" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140544-universalna-mobilna-batareya.html</url>
+<price>999</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407478_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Proda PD-P55 20000mAh Black (PD-P55-BK)</name>
+<vendor>Proda</vendor>
+<vendorCode>PD-P55-BK</vendorCode>
+<param name="Вес" unit="г">380</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">20000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">20</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">22.5</param>
+<param name="Ємність батареї (Вт*год)" unit="">74</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">22,5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">12</param>
+<param name="Розміри (мм)" unit="">146x66x28,5</param>
+<param name="Струм заряду по USB (A)" unit="">1.5</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">інфо-дисплей</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2267140545" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140545-universalna-mobilna-batareya.html</url>
+<price>899</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407479_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Ttec 20000mAh LCD PD Black (2BB186S)</name>
+<vendor>Ttec</vendor>
+<vendorCode>2BB186S</vendorCode>
+<param name="Вес" unit="г">403.6</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">20000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">20</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">18</param>
+<param name="Ємність батареї (Вт*год)" unit="">74</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">20</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">11</param>
+<param name="Розміри (мм)" unit="">129,6x69,8x27,7</param>
+<param name="Струм заряду по USB (A)" unit="">2.1</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">інфо-дисплей</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2267140546" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140546-universalna-mobilna-batareya.html</url>
+<price>999</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407480_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея WK WP-303 Gonen 20000mAh Black (6941027631638)</name>
+<vendor>WK</vendor>
+<vendorCode>6941027631638</vendorCode>
+<param name="Вес" unit="г">220</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">20000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">20</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">22.5</param>
+<param name="Ємність батареї (Вт*год)" unit="">74</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">22.5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">18</param>
+<param name="Розміри (мм)" unit="">145x69x27</param>
+<param name="Струм заряду по USB (A)" unit="">2</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2267140547" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140547-universalna-mobilna-batareya.html</url>
+<price>1699</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407481_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Remax RPP-288 Pure 20000mAh White (6954851241621)</name>
+<vendor>Remax</vendor>
+<vendorCode>6954851241621</vendorCode>
+<param name="Вес" unit="г">395</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">20000</param>
+<param name="Материал корпуса">Алюминий</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">18</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">20</param>
+<param name="Ємність батареї (Вт*год)" unit="">74</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">20</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">12</param>
+<param name="Розміри (мм)" unit="">136.8х68.5х27.5</param>
+<param name="Струм заряду по USB (A)" unit="">1.67</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2267140548" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140548-universalna-mobilna-batareya.html</url>
+<price>1349</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407482_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Baseus Bipow 20000mAh White (PPBD050102) (1283126558719)</name>
+<vendor>Baseus</vendor>
+<vendorCode>PPBD050102</vendorCode>
+<param name="Вес" unit="г">452</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">20000</param>
+<param name="Материал корпуса">Алюминий</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">15</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">15</param>
+<param name="Ємність батареї (Вт*год)" unit="">74</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">2</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">15</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">15</param>
+<param name="Розміри (мм)" unit="">153x69x30</param>
+<param name="Струм заряду по USB (A)" unit="">3</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">3</param>
+</offer>
+<offer id="2267140549" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140549-universalna-mobilna-batareya.html</url>
+<price>1499</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407483_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Remax RPP-213 Tinyl 20000mAh Blue (RPP-213)</name>
+<vendor>Remax</vendor>
+<vendorCode>RPP-213</vendorCode>
+<param name="Вес" unit="г">401</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">20000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">20</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">22,5</param>
+<param name="Ємність батареї (Вт*год)" unit="">74</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">22,5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">12</param>
+<param name="Розміри (мм)" unit="">137.8x70.5x27.8</param>
+<param name="Струм заряду по USB (A)" unit="">1.67</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2267140550" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140550-universalna-mobilna-batareya.html</url>
+<price>1510</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407484_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Hypergear 20000mAh Fast Charge White (Hypergear-15460/29509)</name>
+<vendor>Hypergear</vendor>
+<vendorCode>Hypergear-15460/29509</vendorCode>
+<param name="Вес" unit="г">400</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">20000</param>
+<param name="Материал корпуса">Алюминий</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">10.5</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">10.5</param>
+<param name="Ємність батареї (Вт*год)" unit="">74</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">10.5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">10</param>
+<param name="Розміри (мм)" unit="">145x68x15</param>
+<param name="Струм заряду по USB (A)" unit="">2</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">3</param>
+</offer>
+<offer id="2267140551" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140551-universalna-mobilna-batareya.html</url>
+<price>1399</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407485_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Baseus Bipow Digital Display 15W 20000mAh White (PPDML-J02) (1283126559204)</name>
+<vendor>Baseus</vendor>
+<vendorCode>PPDML-J02</vendorCode>
+<param name="Вес" unit="г">452</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">20000</param>
+<param name="Материал корпуса">Алюминий</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">15</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">15</param>
+<param name="Ємність батареї (Вт*год)" unit="">74</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">2</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">15</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">15</param>
+<param name="Розміри (мм)" unit="">150x69x30</param>
+<param name="Струм заряду по USB (A)" unit="">3</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2267140552" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140552-universalna-mobilna-batareya.html</url>
+<price>1899</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407486_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея PowerX Q500 30000mAh LCD Screen White (1283126562334)</name>
+<vendor>PowerX</vendor>
+<vendorCode>1283126562334</vendorCode>
+<param name="Вес" unit="г">0.673</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">30000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">10</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">10</param>
+<param name="Ємність батареї (Вт*год)" unit="">111</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">2</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">10</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">10</param>
+<param name="Розміри (мм)" unit="">160х82х33</param>
+<param name="Струм заряду по USB (A)" unit="">2</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2267140555" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140555-universalna-mobilna-batareya.html</url>
+<price>1999</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407489_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея SkyDolphin SP35 50000mAh White (PB-000116)</name>
+<vendor>Sky Dolphin</vendor>
+<vendorCode>PB-000116</vendorCode>
+<param name="Вес" unit="г">450</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">50000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">22.5</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">22.5</param>
+<param name="Ємність батареї (Вт*год)" unit="">185</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">22.5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">23</param>
+<param name="Розміри (мм)" unit="">145x69x27</param>
+<param name="Струм заряду по USB (A)" unit="">3</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">інфо-дисплей</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2267140556" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140556-universalna-mobilna-batareya.html</url>
+<price>1986</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407490_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Baseus Bipow Digital Display 15W 30000mAh White (PPDML-K02)</name>
+<vendor>Baseus</vendor>
+<vendorCode>PPDML-K02</vendorCode>
+<param name="Вес" unit="г">663</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Емкость аккумулятора" unit="мА/ч">30000</param>
+<param name="Материал корпуса">Алюминий</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">15</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">15</param>
+<param name="Ємність батареї (Вт*год)" unit="">111</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">15</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">15</param>
+<param name="Розміри (мм)" unit="">153x68,8x41,9</param>
+<param name="Струм заряду по USB (A)" unit="">3</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+</offer>
+<offer id="2267140558" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140558-universalna-mobilna-batareya.html</url>
+<price>2180</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407492_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Wozinsky WPB-001BK Bipow 30000mAh, Output: 4USB, 15W, Black (WPB-001BK/28829)</name>
+<vendor>Wozinsky</vendor>
+<vendorCode>WPB-001BK/28829</vendorCode>
+<param name="Вес" unit="г">420</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">30000</param>
+<param name="Материал корпуса">Алюминий</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">20</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">20</param>
+<param name="Ємність батареї (Вт*год)" unit="">111</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">4</param>
+<param name="Макс. потужність (на 1 порт)" unit="">20</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">18</param>
+<param name="Розміри (мм)" unit="">145x70x25</param>
+<param name="Струм заряду по USB (A)" unit="">2</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">інфо-дисплей</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2267140561" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140561-universalna-mobilna-batareya.html</url>
+<price>2199</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407495_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Sinko R5005 QC 50000mAh White (RB5-QC/UA-102891)</name>
+<vendor>Sinko</vendor>
+<vendorCode>RB5-QC/UA-102891</vendorCode>
+<param name="Вес" unit="г">1100</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">50000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">22.5</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">22.5</param>
+<param name="Ємність батареї (Вт*год)" unit="">185</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">22.5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">12</param>
+<param name="Розміри (мм)" unit="">148x68x51</param>
+<param name="Струм заряду по USB (A)" unit="">1.5</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2267140564" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140564-universalna-mobilna-batareya.html</url>
+<price>999</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6099203855_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея SkyDolphin SP31 20000mAh Black (PB-000106)</name>
+<vendor>Sky Dolphin</vendor>
+<vendorCode>PB-000106</vendorCode>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">20000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">12</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">12</param>
+<param name="Ємність батареї (Вт*год)" unit="">74</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">12</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">11</param>
+<param name="Розміри (мм)" unit="">140x68x28</param>
+<param name="Струм заряду по USB (A)" unit="">2.1</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">інфо-дисплей</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2267140567" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140567-universalna-mobilna-batareya.html</url>
+<price>1499</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407501_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея 2E Solar 8000mAh Black (2E-PB814-BLACK)</name>
+<vendor>2E</vendor>
+<vendorCode>2E-PB814-BLACK</vendorCode>
+<param name="Вес" unit="г">354</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">8000</param>
+<param name="Материал корпуса">Алюминий</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">10.5</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">10.5</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">5</param>
+<param name="Розміри (мм)" unit="">80x156x29</param>
+<param name="Струм заряду по USB (A)" unit="">2.1</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">15</param>
+</offer>
+<offer id="2267140568" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140568-universalna-mobilna-batareya.html</url>
+<price>559</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407354_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Choetech B627 10000mAh Black (B627-V3-CC-BK)</name>
+<vendor>CHOETECH</vendor>
+<vendorCode>B627-V3-CC-BK</vendorCode>
+<param name="Вес" unit="г">275</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Алюминий</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">18</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">18</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">20</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">12</param>
+<param name="Розміри (мм)" unit="">135х66х15</param>
+<param name="Струм заряду по USB (A)" unit="">3</param>
+<param name="Технології швидкої зарядки" unit="">Quick Charge 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">3.5</param>
+</offer>
+<offer id="2267140571" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140571-universalna-mobilna-batareya.html</url>
+<price>726</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407360_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Sandberg Survivor Powerbank 10000mAh Green (420-60)</name>
+<vendor>Sandberg</vendor>
+<vendorCode>420-60</vendorCode>
+<param name="Вес" unit="г">205</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">10</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">10</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">2</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">10</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">10</param>
+<param name="Розміри (мм)" unit="">103х88х28</param>
+<param name="Струм заряду по USB (A)" unit="">2</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2267140574" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140574-universalna-mobilna-batareya.html</url>
+<price>1999</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407366_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея SkyDolphin SP35 50000mAh Black (PB-000117)</name>
+<vendor>Sky Dolphin</vendor>
+<vendorCode>PB-000117</vendorCode>
+<param name="Вес" unit="г">450</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">50000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">22.5</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">22.5</param>
+<param name="Ємність батареї (Вт*год)" unit="">185</param>
+<param name="Входи зарядки пристрою" unit="">USB type A</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">22.5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">23</param>
+<param name="Розміри (мм)" unit="">145x69x27</param>
+<param name="Струм заряду по USB (A)" unit="">3</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">інфо-дисплей</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2288561710" available="true">
+<url>https://tera-flops.com.ua/ua/p2288561710-poverbank-belkin-10000ma.html</url>
+<price>429</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6099193810_poverbank-belkin-10000ma.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Повербанк Belkin 10000мА 15Вт 2хUSB-A/USB-C чорний (BPB011BTBK)</name>
+<vendor>Belkin</vendor>
+<vendorCode>BPB011BTBK</vendorCode>
+<param name="Вес" unit="г">222</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">15</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">15</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">15</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">15</param>
+<param name="Розміри (мм)" unit="">132x68x16</param>
+<param name="Струм заряду по USB (A)" unit="">3</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2288561712" available="true">
+<url>https://tera-flops.com.ua/ua/p2288561712-poverbank-belkin-20000ma.html</url>
+<price>799</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6099193812_poverbank-belkin-20000ma.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Повербанк Belkin 20000мА 15Вт 2хUSB-A/USB-C чорний (BPB012BTBK)</name>
+<vendor>Belkin</vendor>
+<vendorCode>BPB012BTBK</vendorCode>
+<param name="Вес" unit="г">220</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">20000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">12</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">12</param>
+<param name="Ємність батареї (Вт*год)" unit="">74</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">12</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">12</param>
+<param name="Розміри (мм)" unit="">157x75x26</param>
+<param name="Струм заряду по USB (A)" unit="">2.4</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2291661071" available="true">
+<url>https://tera-flops.com.ua/ua/p2291661071-universalna-mobilna-batareya.html</url>
+<price>599</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6111079225_universalna-mobilna-batareya.jpg</picture>
+<picture>https://images.prom.ua/6111079219_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Promate Torq-10 Black 10000mAh</name>
+<vendor>Promate</vendor>
+<vendorCode>TORQ-10.BLACK</vendorCode>
+<param name="Вес" unit="г">236</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="Розміри (мм)" unit="">70х145х18</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">12</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">20</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Функции" unit="">інфо-дисплей</param>
+<param name="Струм заряду по USB (A)" unit="">1.5</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">18</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">20</param>
+<param name="Час повної зарядки (год)" unit="">5</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+</offer>
 </offers>
 </shop>
 </yml_catalog>
