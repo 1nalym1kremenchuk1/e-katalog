@@ -4664,7 +4664,7 @@
 <picture>https://images.prom.ua/4126779528_umb-baseus-powerbank.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<name>УМБ Baseus Powerbank 20000 mAh 20 W Quick Charge + PD3.0 white</name>
+<name>УМБ Baseus Airpow 20000 mAh 20 W Quick Charge + PD3.0 white</name>
 <vendor>Baseus</vendor>
 <vendorCode>PPAP20K</vendorCode>
 <country_of_origin>Китай</country_of_origin>
@@ -4902,7 +4902,7 @@
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Універсальна мобільна батарея TX-10 10000mAh, 2USB, Mix color, Box Black (TX-10/29362)</name>
-<vendor>Powerway</vendor>
+<vendor>Power Way</vendor>
 <vendorCode>TX-10/29362</vendorCode>
 <param name="Вес" unit="г">245</param>
 <param name="Гарантийный срок" unit="мес">24</param>
@@ -4932,7 +4932,7 @@
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Універсальна мобільна батарея TX-10 10000mAh, 2USB, Mix color, Box White (TX-10/29362W)</name>
-<vendor>Powerway</vendor>
+<vendor>Power Way</vendor>
 <vendorCode>TX-10/29362W</vendorCode>
 <param name="Вес" unit="г">245</param>
 <param name="Гарантийный срок" unit="мес">24</param>
@@ -4952,36 +4952,6 @@
 <param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
 <param name="Функции" unit="">світильник</param>
 <param name="Час повної зарядки (год)" unit="">4</param>
-</offer>
-<offer id="2267140520" available="true">
-<url>https://tera-flops.com.ua/ua/p2267140520-universalna-mobilna-batareya.html</url>
-<price>599</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522645</categoryId>
-<picture>https://images.prom.ua/6024407434_universalna-mobilna-batareya.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Універсальна мобільна батарея Promate Torq-10 White 10000mAh</name>
-<vendor>Promate</vendor>
-<vendorCode>torq-10.white</vendorCode>
-<param name="Вес" unit="г">236</param>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
-<param name="Материал корпуса">Пластик</param>
-<param name="Состояние">Новое</param>
-<param name="USB type С (потужність; напруга/струм)" unit="">18</param>
-<param name="USB-A (потужність; напруга/струм)" unit="">20</param>
-<param name="Ємність батареї (Вт*год)" unit="">37</param>
-<param name="Входи зарядки пристрою" unit="">USB type C</param>
-<param name="Кількість USB type C" unit="">1</param>
-<param name="Кількість USB-A" unit="">1</param>
-<param name="Макс. потужність (на 1 порт)" unit="">20</param>
-<param name="Потужність заряду пристрою (Вт)" unit="">12</param>
-<param name="Розміри (мм)" unit="">70х145х18</param>
-<param name="Струм заряду по USB (A)" unit="">1.5</param>
-<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
-<param name="Функции" unit="">інфо-дисплей</param>
-<param name="Час повної зарядки (год)" unit="">5</param>
 </offer>
 <offer id="2267140522" available="true">
 <url>https://tera-flops.com.ua/ua/p2267140522-universalna-mobilna-batareya.html</url>
@@ -5073,36 +5043,6 @@
 <param name="Функции" unit="">світильник</param>
 <param name="Час повної зарядки (год)" unit="">5</param>
 </offer>
-<offer id="2267140525" available="true">
-<url>https://tera-flops.com.ua/ua/p2267140525-universalna-mobilna-batareya.html</url>
-<price>799</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522645</categoryId>
-<picture>https://images.prom.ua/6024407443_universalna-mobilna-batareya.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Універсальна мобільна батарея Promate Bolt-10Pro White 10000mAh</name>
-<vendor>Promate</vendor>
-<vendorCode>bolt-10.white</vendorCode>
-<param name="Вес" unit="г">225</param>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
-<param name="Материал корпуса">Пластик</param>
-<param name="Состояние">Новое</param>
-<param name="USB type С (потужність; напруга/струм)" unit="">10</param>
-<param name="USB-A (потужність; напруга/струм)" unit="">10</param>
-<param name="Ємність батареї (Вт*год)" unit="">37</param>
-<param name="Входи зарядки пристрою" unit="">USB type C</param>
-<param name="Кількість USB type C" unit="">1</param>
-<param name="Кількість USB-A" unit="">1</param>
-<param name="Макс. потужність (на 1 порт)" unit="">10</param>
-<param name="Потужність заряду пристрою (Вт)" unit="">5</param>
-<param name="Розміри (мм)" unit="">68х15х135</param>
-<param name="Струм заряду по USB (A)" unit="">2</param>
-<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
-<param name="Функции" unit="">інфо-дисплей</param>
-<param name="Час повної зарядки (год)" unit="">5</param>
-</offer>
 <offer id="2267140526" available="true">
 <url>https://tera-flops.com.ua/ua/p2267140526-universalna-mobilna-batareya.html</url>
 <price>799</price>
@@ -5132,36 +5072,6 @@
 <param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
 <param name="Функции" unit="">інфо-дисплей</param>
 <param name="Час повної зарядки (год)" unit="">5</param>
-</offer>
-<offer id="2267140527" available="true">
-<url>https://tera-flops.com.ua/ua/p2267140527-universalna-mobilna-batareya.html</url>
-<price>699</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522645</categoryId>
-<picture>https://images.prom.ua/6024407446_universalna-mobilna-batareya.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Універсальна мобільна батарея Forever TB-411 ALLin1 USB-C + Lightning + microUSB 10000mAh Black</name>
-<vendor>Forever</vendor>
-<vendorCode>1283126565083</vendorCode>
-<param name="Вес" unit="г">250</param>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
-<param name="Материал корпуса">Пластик</param>
-<param name="Состояние">Новое</param>
-<param name="USB type С (потужність; напруга/струм)" unit="">10</param>
-<param name="USB-A (потужність; напруга/струм)" unit="">10</param>
-<param name="Ємність батареї (Вт*год)" unit="">37</param>
-<param name="Входи зарядки пристрою" unit="">USB type C</param>
-<param name="Кількість USB type C" unit="">1</param>
-<param name="Кількість USB-A" unit="">1</param>
-<param name="Макс. потужність (на 1 порт)" unit="">10</param>
-<param name="Потужність заряду пристрою (Вт)" unit="">10</param>
-<param name="Розміри (мм)" unit="">70х147х19</param>
-<param name="Струм заряду по USB (A)" unit="">2</param>
-<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
-<param name="Функции" unit="">інфо-дисплей</param>
-<param name="Час повної зарядки (год)" unit="">3</param>
 </offer>
 <offer id="2267140528" available="true">
 <url>https://tera-flops.com.ua/ua/p2267140528-universalna-mobilna-batareya.html</url>
@@ -5285,7 +5195,7 @@
 </offer>
 <offer id="2267140534" available="true">
 <url>https://tera-flops.com.ua/ua/p2267140534-universalna-mobilna-batareya.html</url>
-<price>862</price>
+<price>874</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522645</categoryId>
 <picture>https://images.prom.ua/6024407459_universalna-mobilna-batareya.jpg</picture>
@@ -5373,36 +5283,6 @@
 <param name="Функции" unit="">світильник</param>
 <param name="Час повної зарядки (год)" unit="">4</param>
 </offer>
-<offer id="2267140538" available="true">
-<url>https://tera-flops.com.ua/ua/p2267140538-universalna-mobilna-batareya.html</url>
-<price>799</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522645</categoryId>
-<picture>https://images.prom.ua/6024407464_universalna-mobilna-batareya.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Універсальна мобільна батарея Ttec 20000mAh PowerSlim Black (2BB184S)</name>
-<vendor>Ttec</vendor>
-<vendorCode>2BB184S</vendorCode>
-<param name="Вес" unit="г">300</param>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Емкость аккумулятора" unit="мА/ч">20000</param>
-<param name="Материал корпуса">Пластик</param>
-<param name="Состояние">Новое</param>
-<param name="USB type С (потужність; напруга/струм)" unit="">10.5</param>
-<param name="USB-A (потужність; напруга/струм)" unit="">10.5</param>
-<param name="Ємність батареї (Вт*год)" unit="">74</param>
-<param name="Входи зарядки пристрою" unit="">USB type C</param>
-<param name="Кількість USB type C" unit="">1</param>
-<param name="Кількість USB-A" unit="">2</param>
-<param name="Макс. потужність (на 1 порт)" unit="">10.5</param>
-<param name="Потужність заряду пристрою (Вт)" unit="">11</param>
-<param name="Розміри (мм)" unit="">130x70x28</param>
-<param name="Струм заряду по USB (A)" unit="">2.1</param>
-<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
-<param name="Функции" unit="">інфо-дисплей</param>
-<param name="Час повної зарядки (год)" unit="">4</param>
-</offer>
 <offer id="2267140541" available="true">
 <url>https://tera-flops.com.ua/ua/p2267140541-universalna-mobilna-batareya.html</url>
 <price>888</price>
@@ -5428,36 +5308,6 @@
 <param name="Макс. потужність (на 1 порт)" unit="">10.5</param>
 <param name="Потужність заряду пристрою (Вт)" unit="">5</param>
 <param name="Розміри (мм)" unit="">134x70x27</param>
-<param name="Струм заряду по USB (A)" unit="">2.1</param>
-<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
-<param name="Функции" unit="">світильник</param>
-<param name="Час повної зарядки (год)" unit="">4</param>
-</offer>
-<offer id="2267140542" available="true">
-<url>https://tera-flops.com.ua/ua/p2267140542-universalna-mobilna-batareya.html</url>
-<price>949</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522645</categoryId>
-<picture>https://images.prom.ua/6024407476_universalna-mobilna-batareya.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Універсальна мобільна батарея Ttec 30000mAh ReCharger Ultra Black (2BB190S)</name>
-<vendor>Ttec</vendor>
-<vendorCode>2BB190S</vendorCode>
-<param name="Вес" unit="г">589</param>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Емкость аккумулятора" unit="мА/ч">30000</param>
-<param name="Материал корпуса">Пластик</param>
-<param name="Состояние">Новое</param>
-<param name="USB type С (потужність; напруга/струм)" unit="">10.5</param>
-<param name="USB-A (потужність; напруга/струм)" unit="">10.5</param>
-<param name="Ємність батареї (Вт*год)" unit="">111</param>
-<param name="Входи зарядки пристрою" unit="">USB type C</param>
-<param name="Кількість USB type C" unit="">1</param>
-<param name="Кількість USB-A" unit="">2</param>
-<param name="Макс. потужність (на 1 порт)" unit="">10.5</param>
-<param name="Потужність заряду пристрою (Вт)" unit="">11</param>
-<param name="Розміри (мм)" unit="">150,60x77,24x40,75</param>
 <param name="Струм заряду по USB (A)" unit="">2.1</param>
 <param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
 <param name="Функции" unit="">світильник</param>
@@ -5491,66 +5341,6 @@
 <param name="Струм заряду по USB (A)" unit="">2.1</param>
 <param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
 <param name="Функции" unit="">світильник</param>
-<param name="Час повної зарядки (год)" unit="">4</param>
-</offer>
-<offer id="2267140544" available="true">
-<url>https://tera-flops.com.ua/ua/p2267140544-universalna-mobilna-batareya.html</url>
-<price>999</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522645</categoryId>
-<picture>https://images.prom.ua/6024407478_universalna-mobilna-batareya.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Універсальна мобільна батарея Proda PD-P55 20000mAh Black (PD-P55-BK)</name>
-<vendor>Proda</vendor>
-<vendorCode>PD-P55-BK</vendorCode>
-<param name="Вес" unit="г">380</param>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Емкость аккумулятора" unit="мА/ч">20000</param>
-<param name="Материал корпуса">Пластик</param>
-<param name="Состояние">Новое</param>
-<param name="USB type С (потужність; напруга/струм)" unit="">20</param>
-<param name="USB-A (потужність; напруга/струм)" unit="">22.5</param>
-<param name="Ємність батареї (Вт*год)" unit="">74</param>
-<param name="Входи зарядки пристрою" unit="">USB type C</param>
-<param name="Кількість USB type C" unit="">1</param>
-<param name="Кількість USB-A" unit="">2</param>
-<param name="Макс. потужність (на 1 порт)" unit="">22,5</param>
-<param name="Потужність заряду пристрою (Вт)" unit="">12</param>
-<param name="Розміри (мм)" unit="">146x66x28,5</param>
-<param name="Струм заряду по USB (A)" unit="">1.5</param>
-<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
-<param name="Функции" unit="">інфо-дисплей</param>
-<param name="Час повної зарядки (год)" unit="">4</param>
-</offer>
-<offer id="2267140545" available="true">
-<url>https://tera-flops.com.ua/ua/p2267140545-universalna-mobilna-batareya.html</url>
-<price>899</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522645</categoryId>
-<picture>https://images.prom.ua/6024407479_universalna-mobilna-batareya.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Універсальна мобільна батарея Ttec 20000mAh LCD PD Black (2BB186S)</name>
-<vendor>Ttec</vendor>
-<vendorCode>2BB186S</vendorCode>
-<param name="Вес" unit="г">403.6</param>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Емкость аккумулятора" unit="мА/ч">20000</param>
-<param name="Материал корпуса">Пластик</param>
-<param name="Состояние">Новое</param>
-<param name="USB type С (потужність; напруга/струм)" unit="">20</param>
-<param name="USB-A (потужність; напруга/струм)" unit="">18</param>
-<param name="Ємність батареї (Вт*год)" unit="">74</param>
-<param name="Входи зарядки пристрою" unit="">USB type C</param>
-<param name="Кількість USB type C" unit="">1</param>
-<param name="Кількість USB-A" unit="">2</param>
-<param name="Макс. потужність (на 1 порт)" unit="">20</param>
-<param name="Потужність заряду пристрою (Вт)" unit="">11</param>
-<param name="Розміри (мм)" unit="">129,6x69,8x27,7</param>
-<param name="Струм заряду по USB (A)" unit="">2.1</param>
-<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
-<param name="Функции" unit="">інфо-дисплей</param>
 <param name="Час повної зарядки (год)" unit="">4</param>
 </offer>
 <offer id="2267140546" available="true">
@@ -5613,36 +5403,6 @@
 <param name="Функции" unit="">світильник</param>
 <param name="Час повної зарядки (год)" unit="">4</param>
 </offer>
-<offer id="2267140548" available="true">
-<url>https://tera-flops.com.ua/ua/p2267140548-universalna-mobilna-batareya.html</url>
-<price>1349</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522645</categoryId>
-<picture>https://images.prom.ua/6024407482_universalna-mobilna-batareya.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Універсальна мобільна батарея Baseus Bipow 20000mAh White (PPBD050102) (1283126558719)</name>
-<vendor>Baseus</vendor>
-<vendorCode>PPBD050102</vendorCode>
-<param name="Вес" unit="г">452</param>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Емкость аккумулятора" unit="мА/ч">20000</param>
-<param name="Материал корпуса">Алюминий</param>
-<param name="Состояние">Новое</param>
-<param name="USB type С (потужність; напруга/струм)" unit="">15</param>
-<param name="USB-A (потужність; напруга/струм)" unit="">15</param>
-<param name="Ємність батареї (Вт*год)" unit="">74</param>
-<param name="Входи зарядки пристрою" unit="">USB type C</param>
-<param name="Кількість USB type C" unit="">2</param>
-<param name="Кількість USB-A" unit="">1</param>
-<param name="Макс. потужність (на 1 порт)" unit="">15</param>
-<param name="Потужність заряду пристрою (Вт)" unit="">15</param>
-<param name="Розміри (мм)" unit="">153x69x30</param>
-<param name="Струм заряду по USB (A)" unit="">3</param>
-<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
-<param name="Функции" unit="">світильник</param>
-<param name="Час повної зарядки (год)" unit="">3</param>
-</offer>
 <offer id="2267140549" available="true">
 <url>https://tera-flops.com.ua/ua/p2267140549-universalna-mobilna-batareya.html</url>
 <price>1499</price>
@@ -5703,36 +5463,6 @@
 <param name="Функции" unit="">світильник</param>
 <param name="Час повної зарядки (год)" unit="">3</param>
 </offer>
-<offer id="2267140551" available="true">
-<url>https://tera-flops.com.ua/ua/p2267140551-universalna-mobilna-batareya.html</url>
-<price>1399</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522645</categoryId>
-<picture>https://images.prom.ua/6024407485_universalna-mobilna-batareya.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Універсальна мобільна батарея Baseus Bipow Digital Display 15W 20000mAh White (PPDML-J02) (1283126559204)</name>
-<vendor>Baseus</vendor>
-<vendorCode>PPDML-J02</vendorCode>
-<param name="Вес" unit="г">452</param>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Емкость аккумулятора" unit="мА/ч">20000</param>
-<param name="Материал корпуса">Алюминий</param>
-<param name="Состояние">Новое</param>
-<param name="USB type С (потужність; напруга/струм)" unit="">15</param>
-<param name="USB-A (потужність; напруга/струм)" unit="">15</param>
-<param name="Ємність батареї (Вт*год)" unit="">74</param>
-<param name="Входи зарядки пристрою" unit="">USB type C</param>
-<param name="Кількість USB type C" unit="">2</param>
-<param name="Кількість USB-A" unit="">1</param>
-<param name="Макс. потужність (на 1 порт)" unit="">15</param>
-<param name="Потужність заряду пристрою (Вт)" unit="">15</param>
-<param name="Розміри (мм)" unit="">150x69x30</param>
-<param name="Струм заряду по USB (A)" unit="">3</param>
-<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
-<param name="Функции" unit="">світильник</param>
-<param name="Час повної зарядки (год)" unit="">4</param>
-</offer>
 <offer id="2267140552" available="true">
 <url>https://tera-flops.com.ua/ua/p2267140552-universalna-mobilna-batareya.html</url>
 <price>1899</price>
@@ -5761,95 +5491,6 @@
 <param name="Струм заряду по USB (A)" unit="">2</param>
 <param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
 <param name="Функции" unit="">світильник</param>
-<param name="Час повної зарядки (год)" unit="">4</param>
-</offer>
-<offer id="2267140555" available="true">
-<url>https://tera-flops.com.ua/ua/p2267140555-universalna-mobilna-batareya.html</url>
-<price>1999</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522645</categoryId>
-<picture>https://images.prom.ua/6024407489_universalna-mobilna-batareya.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Універсальна мобільна батарея SkyDolphin SP35 50000mAh White (PB-000116)</name>
-<vendor>Sky Dolphin</vendor>
-<vendorCode>PB-000116</vendorCode>
-<param name="Вес" unit="г">450</param>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Емкость аккумулятора" unit="мА/ч">50000</param>
-<param name="Материал корпуса">Пластик</param>
-<param name="Состояние">Новое</param>
-<param name="USB type С (потужність; напруга/струм)" unit="">22.5</param>
-<param name="USB-A (потужність; напруга/струм)" unit="">22.5</param>
-<param name="Ємність батареї (Вт*год)" unit="">185</param>
-<param name="Входи зарядки пристрою" unit="">USB type C</param>
-<param name="Кількість USB type C" unit="">1</param>
-<param name="Кількість USB-A" unit="">1</param>
-<param name="Макс. потужність (на 1 порт)" unit="">22.5</param>
-<param name="Потужність заряду пристрою (Вт)" unit="">23</param>
-<param name="Розміри (мм)" unit="">145x69x27</param>
-<param name="Струм заряду по USB (A)" unit="">3</param>
-<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
-<param name="Функции" unit="">інфо-дисплей</param>
-<param name="Час повної зарядки (год)" unit="">4</param>
-</offer>
-<offer id="2267140556" available="true">
-<url>https://tera-flops.com.ua/ua/p2267140556-universalna-mobilna-batareya.html</url>
-<price>1986</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522645</categoryId>
-<picture>https://images.prom.ua/6024407490_universalna-mobilna-batareya.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Універсальна мобільна батарея Baseus Bipow Digital Display 15W 30000mAh White (PPDML-K02)</name>
-<vendor>Baseus</vendor>
-<vendorCode>PPDML-K02</vendorCode>
-<param name="Вес" unit="г">663</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Емкость аккумулятора" unit="мА/ч">30000</param>
-<param name="Материал корпуса">Алюминий</param>
-<param name="Состояние">Новое</param>
-<param name="USB type С (потужність; напруга/струм)" unit="">15</param>
-<param name="USB-A (потужність; напруга/струм)" unit="">15</param>
-<param name="Ємність батареї (Вт*год)" unit="">111</param>
-<param name="Входи зарядки пристрою" unit="">USB type C</param>
-<param name="Кількість USB type C" unit="">1</param>
-<param name="Кількість USB-A" unit="">2</param>
-<param name="Макс. потужність (на 1 порт)" unit="">15</param>
-<param name="Потужність заряду пристрою (Вт)" unit="">15</param>
-<param name="Розміри (мм)" unit="">153x68,8x41,9</param>
-<param name="Струм заряду по USB (A)" unit="">3</param>
-<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
-<param name="Функции" unit="">світильник</param>
-</offer>
-<offer id="2267140558" available="true">
-<url>https://tera-flops.com.ua/ua/p2267140558-universalna-mobilna-batareya.html</url>
-<price>2180</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522645</categoryId>
-<picture>https://images.prom.ua/6024407492_universalna-mobilna-batareya.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Універсальна мобільна батарея Wozinsky WPB-001BK Bipow 30000mAh, Output: 4USB, 15W, Black (WPB-001BK/28829)</name>
-<vendor>Wozinsky</vendor>
-<vendorCode>WPB-001BK/28829</vendorCode>
-<param name="Вес" unit="г">420</param>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Емкость аккумулятора" unit="мА/ч">30000</param>
-<param name="Материал корпуса">Алюминий</param>
-<param name="Состояние">Новое</param>
-<param name="USB type С (потужність; напруга/струм)" unit="">20</param>
-<param name="USB-A (потужність; напруга/струм)" unit="">20</param>
-<param name="Ємність батареї (Вт*год)" unit="">111</param>
-<param name="Входи зарядки пристрою" unit="">USB type C</param>
-<param name="Кількість USB type C" unit="">1</param>
-<param name="Кількість USB-A" unit="">4</param>
-<param name="Макс. потужність (на 1 порт)" unit="">20</param>
-<param name="Потужність заряду пристрою (Вт)" unit="">18</param>
-<param name="Розміри (мм)" unit="">145x70x25</param>
-<param name="Струм заряду по USB (A)" unit="">2</param>
-<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
-<param name="Функции" unit="">інфо-дисплей</param>
 <param name="Час повної зарядки (год)" unit="">4</param>
 </offer>
 <offer id="2267140561" available="true">
@@ -5940,39 +5581,68 @@
 <param name="Функции" unit="">світильник</param>
 <param name="Час повної зарядки (год)" unit="">15</param>
 </offer>
-<offer id="2267140568" available="true">
-<url>https://tera-flops.com.ua/ua/p2267140568-universalna-mobilna-batareya.html</url>
-<price>559</price>
+<offer id="2267140569" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140569-universalna-mobilna-batareya.html</url>
+<price>483</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522645</categoryId>
-<picture>https://images.prom.ua/6024407354_universalna-mobilna-batareya.jpg</picture>
+<picture>https://images.prom.ua/6126574777_universalna-mobilna-batareya.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<name>Універсальна мобільна батарея Choetech B627 10000mAh Black (B627-V3-CC-BK)</name>
-<vendor>CHOETECH</vendor>
-<vendorCode>B627-V3-CC-BK</vendorCode>
-<param name="Вес" unit="г">275</param>
+<name>Універсальна мобільна батарея Natec Trevi Compact 10000mAh Black (NPB-1941)</name>
+<vendor>Natec</vendor>
+<vendorCode>NPB-1941</vendorCode>
+<param name="Вес" unit="г">216</param>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Емкость аккумулятора" unit="мА/ч">10000</param>
-<param name="Материал корпуса">Алюминий</param>
+<param name="Материал корпуса">Пластик</param>
 <param name="Состояние">Новое</param>
-<param name="USB type С (потужність; напруга/струм)" unit="">18</param>
-<param name="USB-A (потужність; напруга/струм)" unit="">18</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">10.5</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">10.5</param>
 <param name="Ємність батареї (Вт*год)" unit="">37</param>
 <param name="Входи зарядки пристрою" unit="">USB type C</param>
 <param name="Кількість USB type C" unit="">1</param>
-<param name="Кількість USB-A" unit="">1</param>
-<param name="Макс. потужність (на 1 порт)" unit="">20</param>
-<param name="Потужність заряду пристрою (Вт)" unit="">12</param>
-<param name="Розміри (мм)" unit="">135х66х15</param>
-<param name="Струм заряду по USB (A)" unit="">3</param>
-<param name="Технології швидкої зарядки" unit="">Quick Charge 3.0</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">10.5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">11</param>
+<param name="Розміри (мм)" unit="">63x95x27</param>
+<param name="Струм заряду по USB (A)" unit="">2.1</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
 <param name="Функции" unit="">світильник</param>
-<param name="Час повної зарядки (год)" unit="">3.5</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2267140570" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140570-universalna-mobilna-batareya.html</url>
+<price>552</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Natec Trevi Slim Q 10000mAh Black (NPB-1923)</name>
+<vendor>Natec</vendor>
+<vendorCode>NPB-1923</vendorCode>
+<param name="Вес" unit="г">228</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">20</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">20</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">20</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">20</param>
+<param name="Розміри (мм)" unit="">148x67x16</param>
+<param name="Струм заряду по USB (A)" unit="">3</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">3</param>
 </offer>
 <offer id="2267140571" available="true">
 <url>https://tera-flops.com.ua/ua/p2267140571-universalna-mobilna-batareya.html</url>
-<price>726</price>
+<price>736</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522645</categoryId>
 <picture>https://images.prom.ua/6024407360_universalna-mobilna-batareya.jpg</picture>
@@ -6000,32 +5670,62 @@
 <param name="Функции" unit="">світильник</param>
 <param name="Час повної зарядки (год)" unit="">4</param>
 </offer>
-<offer id="2267140574" available="true">
-<url>https://tera-flops.com.ua/ua/p2267140574-universalna-mobilna-batareya.html</url>
-<price>1999</price>
+<offer id="2267140573" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140573-universalna-mobilna-batareya.html</url>
+<price>1579</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522645</categoryId>
-<picture>https://images.prom.ua/6024407366_universalna-mobilna-batareya.jpg</picture>
+<picture>https://images.prom.ua/6126574782_universalna-mobilna-batareya.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<name>Універсальна мобільна батарея SkyDolphin SP35 50000mAh Black (PB-000117)</name>
-<vendor>Sky Dolphin</vendor>
-<vendorCode>PB-000117</vendorCode>
-<param name="Вес" unit="г">450</param>
+<name>Універсальна мобільна батарея Remax RPP-511 Engine Series Multifunctional 6000mAh Yellow (6954851206477)</name>
+<vendor>Remax</vendor>
+<vendorCode>6954851206477</vendorCode>
+<param name="Вес" unit="г">298</param>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Емкость аккумулятора" unit="мА/ч">50000</param>
+<param name="Емкость аккумулятора" unit="мА/ч">6000</param>
 <param name="Материал корпуса">Пластик</param>
 <param name="Состояние">Новое</param>
-<param name="USB type С (потужність; напруга/струм)" unit="">22.5</param>
-<param name="USB-A (потужність; напруга/струм)" unit="">22.5</param>
-<param name="Ємність батареї (Вт*год)" unit="">185</param>
-<param name="Входи зарядки пристрою" unit="">USB type A</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">300</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">300</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
 <param name="Кількість USB type C" unit="">1</param>
 <param name="Кількість USB-A" unit="">1</param>
-<param name="Макс. потужність (на 1 порт)" unit="">22.5</param>
-<param name="Потужність заряду пристрою (Вт)" unit="">23</param>
+<param name="Макс. потужність (на 1 порт)" unit="">600</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">16.6</param>
+<param name="Розміри (мм)" unit="">154x82x28</param>
+<param name="Струм заряду по USB (A)" unit="">2.1</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">5</param>
+</offer>
+<offer id="2288561699" available="true">
+<url>https://tera-flops.com.ua/ua/p2288561699-poverbank-skydolphin-sp29.html</url>
+<price>999</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6126585055_poverbank-skydolphin-sp29.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Повербанк SkyDolphin SP29 20000mAh PD+QC3.0 Black (PB-000091)</name>
+<vendor>Sky Dolphin</vendor>
+<vendorCode>PB-000091</vendorCode>
+<param name="Вес" unit="г">220</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">20000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">18</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">20</param>
+<param name="Ємність батареї (Вт*год)" unit="">74</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">20</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">5</param>
 <param name="Розміри (мм)" unit="">145x69x27</param>
-<param name="Струм заряду по USB (A)" unit="">3</param>
+<param name="Струм заряду по USB (A)" unit="">2.1</param>
 <param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
 <param name="Функции" unit="">інфо-дисплей</param>
 <param name="Час повної зарядки (год)" unit="">4</param>
@@ -6060,6 +5760,36 @@
 <param name="Функции" unit="">світильник</param>
 <param name="Час повної зарядки (год)" unit="">4</param>
 </offer>
+<offer id="2288561711" available="true">
+<url>https://tera-flops.com.ua/ua/p2288561711-poverbank-belkin-20000ma.html</url>
+<price>799</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6126582610_poverbank-belkin-20000ma.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Повербанк Belkin 20000мА 15Вт 2хUSB-A/USB-C блакитний (BPB012BTBL)</name>
+<vendor>Belkin</vendor>
+<vendorCode>BPB012BTBL</vendorCode>
+<param name="Вес" unit="г">220</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">20000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">12</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">12</param>
+<param name="Ємність батареї (Вт*год)" unit="">74</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">12</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">12</param>
+<param name="Розміри (мм)" unit="">157x75x26</param>
+<param name="Струм заряду по USB (A)" unit="">2.4</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
 <offer id="2288561712" available="true">
 <url>https://tera-flops.com.ua/ua/p2288561712-poverbank-belkin-20000ma.html</url>
 <price>799</price>
@@ -6090,36 +5820,1326 @@
 <param name="Функции" unit="">світильник</param>
 <param name="Час повної зарядки (год)" unit="">4</param>
 </offer>
-<offer id="2291661071" available="true">
-<url>https://tera-flops.com.ua/ua/p2291661071-universalna-mobilna-batareya.html</url>
-<price>599</price>
+<offer id="2288561713" available="true">
+<url>https://tera-flops.com.ua/ua/p2288561713-poverbank-gembird-10000mah.html</url>
+<price>569</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522645</categoryId>
-<picture>https://images.prom.ua/6111079225_universalna-mobilna-batareya.jpg</picture>
-<picture>https://images.prom.ua/6111079219_universalna-mobilna-batareya.jpg</picture>
+<picture>https://images.prom.ua/6099203858_poverbank-gembird-10000mah.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<name>Універсальна мобільна батарея Promate Torq-10 Black 10000mAh</name>
+<name>Повербанк Gembird 10000mAh Black (PB10-02)</name>
+<vendor>Gembird</vendor>
+<vendorCode>PB10-02</vendorCode>
+<param name="Вес" unit="г">214</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">12</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">12</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">USB type A</param>
+<param name="Кількість USB type C" unit="">2</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">12</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">10</param>
+<param name="Розміри (мм)" unit="">136x68x16</param>
+<param name="Струм заряду по USB (A)" unit="">2</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">5</param>
+</offer>
+<offer id="2288561714" available="true">
+<url>https://tera-flops.com.ua/ua/p2288561714-poverbank-promate-torq.html</url>
+<price>799</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6099203861_poverbank-promate-torq-10.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Повербанк Promate Torq-10 10000mAh Black</name>
 <vendor>Promate</vendor>
-<vendorCode>TORQ-10.BLACK</vendorCode>
+<vendorCode>torq-10.black</vendorCode>
 <param name="Вес" unit="г">236</param>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Емкость аккумулятора" unit="мА/ч">10000</param>
 <param name="Материал корпуса">Пластик</param>
 <param name="Состояние">Новое</param>
-<param name="Розміри (мм)" unit="">70х145х18</param>
-<param name="Потужність заряду пристрою (Вт)" unit="">12</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">20</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">18</param>
 <param name="Ємність батареї (Вт*год)" unit="">37</param>
-<param name="USB-A (потужність; напруга/струм)" unit="">20</param>
 <param name="Входи зарядки пристрою" unit="">USB type C</param>
-<param name="Кількість USB-A" unit="">1</param>
-<param name="Функции" unit="">інфо-дисплей</param>
-<param name="Струм заряду по USB (A)" unit="">1.5</param>
-<param name="USB type С (потужність; напруга/струм)" unit="">18</param>
 <param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">1</param>
 <param name="Макс. потужність (на 1 порт)" unit="">20</param>
-<param name="Час повної зарядки (год)" unit="">5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">20</param>
+<param name="Розміри (мм)" unit="">145х70х18</param>
+<param name="Струм заряду по USB (A)" unit="">3</param>
 <param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">інфо-дисплей</param>
+<param name="Час повної зарядки (год)" unit="">5</param>
+</offer>
+<offer id="2288561715" available="true">
+<url>https://tera-flops.com.ua/ua/p2288561715-poverbank-joyroom-t015.html</url>
+<price>2699</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6099203863_poverbank-joyroom-jr-t015.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Повербанк Joyroom JR-T015 30000mAh 15W Black (6941237185167)</name>
+<vendor>Joyroom</vendor>
+<vendorCode>6941237185167</vendorCode>
+<param name="Вес" unit="г">628</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">30000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">15</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">12</param>
+<param name="Ємність батареї (Вт*год)" unit="">111</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">15</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">15</param>
+<param name="Розміри (мм)" unit="">150x69x41</param>
+<param name="Струм заряду по USB (A)" unit="">3</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">інфо-дисплей</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2288561718" available="true">
+<url>https://tera-flops.com.ua/ua/p2288561718-batareya-universalna-blow.html</url>
+<price>369</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6126574743_batareya-universalna-blow.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Батарея універсальна Blow 20000mAh, inp:Micro-USB(5V/2A), out:USB-A*2(5V/2,4A max), white (PB20C)</name>
+<vendor>Blow</vendor>
+<vendorCode>PB20C</vendorCode>
+<param name="Вес" unit="г">200</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">20000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">20</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">20</param>
+<param name="Ємність батареї (Вт*год)" unit="">74</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">20</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">20</param>
+<param name="Розміри (мм)" unit="">140x68x16</param>
+<param name="Струм заряду по USB (A)" unit="">2</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">3</param>
+</offer>
+<offer id="2288561720" available="true">
+<url>https://tera-flops.com.ua/ua/p2288561720-batareya-universalna-canyon.html</url>
+<price>450</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6126574747_batareya-universalna-canyon.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Батарея універсальна Canyon PB-108 10000mAh, Input 5V/2A, Output 5V/2.1A(Max), black (CNE-CPB1008B)</name>
+<vendor>Canyon</vendor>
+<vendorCode>CNE-CPB1008B</vendorCode>
+<param name="Вес" unit="г">230</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">10.5</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">10.5</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">microUSB</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">10.5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">10</param>
+<param name="Розміри (мм)" unit="">140x68x16</param>
+<param name="Струм заряду по USB (A)" unit="">2</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">3</param>
+</offer>
+<offer id="2288561721" available="true">
+<url>https://tera-flops.com.ua/ua/p2288561721-batareya-universalna-celly.html</url>
+<price>630</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6126574750_batareya-universalna-celly.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Батарея універсальна Celly Energy 20000mAh Inp:USB-C/Micro-USB, Out:USB-A*2(5V/2.1A) black (PBE20000BK)</name>
+<vendor>Celly</vendor>
+<vendorCode>PBE20000BK</vendorCode>
+<param name="Вес" unit="г">350</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">20000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">10.5</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">10.5</param>
+<param name="Ємність батареї (Вт*год)" unit="">74</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">10</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">5</param>
+<param name="Розміри (мм)" unit="">141x69x28</param>
+<param name="Струм заряду по USB (A)" unit="">2.1</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2288561722" available="true">
+<url>https://tera-flops.com.ua/ua/p2288561722-batareya-universalna-deltaco.html</url>
+<price>315</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6126574754_batareya-universalna-deltaco.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Батарея універсальна Deltaco 10000mAh, Input:Micro-USB, Output:USB-A*2(5V/2.1A), +cable, white (PB-A1001)</name>
+<vendor>Deltaco</vendor>
+<vendorCode>PB-A1001</vendorCode>
+<param name="Вес" unit="г">220</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">10.5</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">10.5</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">microUSB</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">10.5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">11</param>
+<param name="Розміри (мм)" unit="">145x70x17</param>
+<param name="Струм заряду по USB (A)" unit="">2.1</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">6</param>
+</offer>
+<offer id="2288561723" available="true">
+<url>https://tera-flops.com.ua/ua/p2288561723-batareya-universalna-sandberg.html</url>
+<price>429</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6126574757_batareya-universalna-sandberg.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Батарея універсальна Sandberg 10000mAh, Saver, USB-C, Micro-USB, output: USB-A*2 Total 5V/2.4A (320-34)</name>
+<vendor>Sandberg</vendor>
+<vendorCode>320-34</vendorCode>
+<param name="Вес" unit="г">215</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">12</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">12</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">microUSB</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">12</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">10</param>
+<param name="Розміри (мм)" unit="">136x69x16</param>
+<param name="Струм заряду по USB (A)" unit="">2</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">3</param>
+</offer>
+<offer id="2288561725" available="true">
+<url>https://tera-flops.com.ua/ua/p2288561725-batareya-universalna-sandberg.html</url>
+<price>7846</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6126574761_batareya-universalna-sandberg.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Батарея універсальна Sandberg 50000mAh 130W PD, 3хUSB 3xType-C LED 2W (420-75)</name>
+<vendor>Sandberg</vendor>
+<vendorCode>420-75</vendorCode>
+<param name="Вес" unit="г">1052</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">50000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">30</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">18</param>
+<param name="Ємність батареї (Вт*год)" unit="">185</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">2</param>
+<param name="Кількість USB-A" unit="">3</param>
+<param name="Макс. потужність (на 1 порт)" unit="">100</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">60</param>
+<param name="Розміри (мм)" unit="">150x70x50</param>
+<param name="Струм заряду по USB (A)" unit="">3</param>
+<param name="Технології швидкої зарядки" unit="">Quick Charge 3.0</param>
+<param name="Функции" unit="">інфо-дисплей</param>
+<param name="Час повної зарядки (год)" unit="">3</param>
+</offer>
+<offer id="2288561726" available="true">
+<url>https://tera-flops.com.ua/ua/p2288561726-batareya-universalna-syrox.html</url>
+<price>360</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6126574762_batareya-universalna-syrox.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Батарея універсальна Syrox PB117 10000mAh, USB*2, Micro USB, Type C, black (PB117_black)</name>
+<vendor>Syrox</vendor>
+<vendorCode>PB117_black</vendorCode>
+<param name="Вес" unit="г">430</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">10</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">10</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">microUSB</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">10</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">10</param>
+<param name="Розміри (мм)" unit="">140x68x27</param>
+<param name="Струм заряду по USB (A)" unit="">2</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">інфо-дисплей</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2288561727" available="true">
+<url>https://tera-flops.com.ua/ua/p2288561727-batareya-universalna-syrox.html</url>
+<price>360</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6126574765_batareya-universalna-syrox.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Батарея універсальна Syrox PB117 10000mAh, USB*2, Micro USB, Type C, grey (PB117_grey)</name>
+<vendor>Syrox</vendor>
+<vendorCode>PB117_grey</vendorCode>
+<param name="Вес" unit="г">430</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">10</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">10</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">microUSB</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">10</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">10</param>
+<param name="Розміри (мм)" unit="">140x68x27</param>
+<param name="Струм заряду по USB (A)" unit="">2</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">інфо-дисплей</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2288561729" available="true">
+<url>https://tera-flops.com.ua/ua/p2288561729-batareya-universalna-vinga.html</url>
+<price>869</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6126574768_batareya-universalna-vinga.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Батарея універсальна Vinga 10000 mAh Wireless Magnetic QC+PD (VPBAMS10BK)</name>
+<vendor>Vinga</vendor>
+<vendorCode>VPBAMS10BK</vendorCode>
+<param name="Вес" unit="г">230</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">18</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">18</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">microUSB</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">18</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">18</param>
+<param name="Розміри (мм)" unit="">132x68x16</param>
+<param name="Струм заряду по USB (A)" unit="">2.4</param>
+<param name="Технології швидкої зарядки" unit="">Quick Charge 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">3</param>
+</offer>
+<offer id="2288561730" available="true">
+<url>https://tera-flops.com.ua/ua/p2288561730-batareya-universalna-vinga.html</url>
+<price>709</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6126574773_batareya-universalna-vinga.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Батарея універсальна Vinga 10000 mAh Wireless QC3.0 PD soft touch purple (BTPB3510WLROP)</name>
+<vendor>Vinga</vendor>
+<vendorCode>BTPB3510WLROP</vendorCode>
+<param name="Вес" unit="г">239</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">18</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">18</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">microUSB</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">18</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">18</param>
+<param name="Розміри (мм)" unit="">152x72x16</param>
+<param name="Струм заряду по USB (A)" unit="">2</param>
+<param name="Технології швидкої зарядки" unit="">Quick Charge 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">3</param>
+</offer>
+<offer id="2295553266" available="true">
+<url>https://tera-flops.com.ua/ua/p2295553266-poverbank-canyon-10000mah.html</url>
+<price>659</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6126582629_poverbank-canyon-10000mah.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Повербанк Canyon 10000mAh White (CNE-CPB1006W)</name>
+<vendor>Canyon</vendor>
+<vendorCode>CNE-CPB1006W</vendorCode>
+<param name="Вес" unit="г">240</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Алюминий</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">10.5</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">10.5</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">10.5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">10</param>
+<param name="Розміри (мм)" unit="">68x140x16</param>
+<param name="Струм заряду по USB (A)" unit="">2</param>
+<param name="Технології швидкої зарядки" unit="">Quick Charge 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">5</param>
+</offer>
+<offer id="2295553272" available="true">
+<url>https://tera-flops.com.ua/ua/p2295553272-poverbank-sandberg-24000mah.html</url>
+<price>4199</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6126574784_poverbank-sandberg-24000mah.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Повербанк Sandberg 24000mAh All-in1 Laptop Powerbank Black (420-57)</name>
+<vendor>Sandberg</vendor>
+<vendorCode>420-57</vendorCode>
+<param name="Вес" unit="г">489</param>
+<param name="Гарантийный срок" unit="мес">36</param>
+<param name="Емкость аккумулятора" unit="мА/ч">24000</param>
+<param name="Материал корпуса">Алюминий</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">60</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">27</param>
+<param name="Ємність батареї (Вт*год)" unit="">88</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">2</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">84</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">48</param>
+<param name="Розміри (мм)" unit="">122x122x28</param>
+<param name="Струм заряду по USB (A)" unit="">3</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">2</param>
+</offer>
+<offer id="2295553950" available="true">
+<url>https://tera-flops.com.ua/ua/p2295553950-poverbank-baseus-adaman.html</url>
+<price>2349</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6126574742_poverbank-baseus-adaman.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Повербанк Baseus Adaman Metal 20000mAh 22.5W (PPAD000101)</name>
+<vendor>Baseus</vendor>
+<vendorCode>PPAD000101</vendorCode>
+<param name="Вес" unit="г">410</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">20000</param>
+<param name="Материал корпуса">Алюминий</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">18</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">22.5</param>
+<param name="Ємність батареї (Вт*год)" unit="">74</param>
+<param name="Входи зарядки пристрою" unit="">microUSB</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">22.5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">18</param>
+<param name="Розміри (мм)" unit="">143x65x27</param>
+<param name="Струм заряду по USB (A)" unit="">2</param>
+<param name="Технології швидкої зарядки" unit="">Quick Charge 3.0</param>
+<param name="Функции" unit="">інфо-дисплей</param>
+<param name="Час повної зарядки (год)" unit="">3</param>
+</offer>
+<offer id="2295553951" available="true">
+<url>https://tera-flops.com.ua/ua/p2295553951-poverbank-canyon-301.html</url>
+<price>1699</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6126574748_poverbank-canyon-pb-301.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Повербанк Canyon PB-301 30000mAh 20W (CNE-CPB301W)</name>
+<vendor>Canyon</vendor>
+<vendorCode>CNE-CPB301W</vendorCode>
+<param name="Вес" unit="г">641</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">30000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">18</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">18</param>
+<param name="Ємність батареї (Вт*год)" unit="">111</param>
+<param name="Входи зарядки пристрою" unit="">microUSB</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">18</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">18</param>
+<param name="Розміри (мм)" unit="">140x68x16</param>
+<param name="Струм заряду по USB (A)" unit="">3</param>
+<param name="Технології швидкої зарядки" unit="">Quick Charge 3.0</param>
+<param name="Функции" unit="">інфо-дисплей</param>
+<param name="Час повної зарядки (год)" unit="">3</param>
+</offer>
+<offer id="2266901386" available="false">
+<url>https://tera-flops.com.ua/ua/p2266901386-zaryadna-stantsiya-dji.html</url>
+<price>45000</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6023557793_zaryadna-stantsiya-dji.jpg</picture>
+<picture>https://images.prom.ua/6023557795_zaryadna-stantsiya-dji.jpg</picture>
+<picture>https://images.prom.ua/6023557796_zaryadna-stantsiya-dji.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція DJI Power 1000 2600W (DJI Power 1000) CN (доставка авіа)</name>
+<vendor>DJI</vendor>
+<vendorCode>DJI Power 1000</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">LiFePO4</param>
+<param name="Габариты (мм)" unit="">230x448x225</param>
+<param name="Час зарядки (розетка)" unit="">50 хв</param>
+<param name="Вес (кг)" unit="">13</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Пиковая мощность" unit="">2200 Вт</param>
+<param name="Час зарядки (сонячна панель)" unit="">172 хв</param>
+<param name="USB-A (швидкої зарядки)" unit="">2 шт, 5В/3A, 9В/2A, 12В/1.5A, 24 Вт</param>
+<param name="Номинальная мощность" unit="">1000 Вт</param>
+<param name="USB type C" unit="">2 шт, 5 A, 100 Вт</param>
+<param name="Підключення дод. батареї" unit="">Да</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
+<param name="Функція ДБЖ" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Дисплей" unit="">Да</param>
+</offer>
+<offer id="2266925169" available="false">
+<url>https://tera-flops.com.ua/ua/p2266925169-zaryadna-stantsiya-dji.html</url>
+<price>22900</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6023675324_zaryadna-stantsiya-dji.jpg</picture>
+<picture>https://images.prom.ua/6023675326_zaryadna-stantsiya-dji.jpg</picture>
+<picture>https://images.prom.ua/6023675327_zaryadna-stantsiya-dji.jpg</picture>
+<picture>https://images.prom.ua/6023675328_zaryadna-stantsiya-dji.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція DJI Power 500 1000W (DJI Power 500) CN (доставка авіа)</name>
+<vendor>DJI</vendor>
+<vendorCode>DJI Power 500</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">LiFePO4</param>
+<param name="Габариты (мм)" unit="">177x207x305</param>
+<param name="Час зарядки (розетка)" unit="">50 хв</param>
+<param name="Вес (кг)" unit="">7.3</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Пиковая мощность" unit="">1000 Вт</param>
+<param name="Час зарядки (сонячна панель)" unit="">240 хв</param>
+<param name="USB-A (швидкої зарядки)" unit="">2 шт, 5В/3A, 9В/2A, 12В/1.5A, 24 Вт</param>
+<param name="Номинальная мощность" unit="">500 Вт</param>
+<param name="USB type C" unit="">2 шт, 5 A, 100 Вт</param>
+<param name="Підключення дод. батареї" unit="">Да</param>
+<param name="Додаткові входи" unit="">SDC Lite In/Out (22.4 – 29.2 В / 10 А 300 Вт)</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
+<param name="Функція ДБЖ" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Дисплей" unit="">Да</param>
+</offer>
+<offer id="2266927640" available="false">
+<url>https://tera-flops.com.ua/ua/p2266927640-zaryadna-stantsiya-bluetti.html</url>
+<price>74900</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6026840662_zaryadna-stantsiya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6026840664_zaryadna-stantsiya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6026840665_zaryadna-stantsiya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6026840704_zaryadna-stantsiya-bluetti.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Bluetti AC200L 2400W (AC200L) CN (доставка авіа)</name>
+<vendor>Bluetti</vendor>
+<vendorCode>AC200L</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Тип">Зарядная станция</param>
+<param name="Тип аккумулятора">LiFePO4</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Габариты (мм)" unit="">367x420x280</param>
+<param name="Час зарядки (розетка)" unit="">60 хв</param>
+<param name="Вес (кг)" unit="">28.3</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Вихід DC" unit="">2-pin Aviation Socket (12 – 145 В / 15 А / 1200 Вт)</param>
+<param name="Пиковая мощность" unit="">3600 Вт</param>
+<param name="Час зарядки (сонячна панель)" unit="">168 хв</param>
+<param name="USB-A (швидкої зарядки)" unit="">2шт, 5В/3A, 9В/2A, 12В/1.5A,18 Вт</param>
+<param name="Номинальная мощность" unit="">2400 Вт</param>
+<param name="USB type C" unit="">2 шт, 3 A, 5 A, 100 Вт</param>
+<param name="Додаткові входи" unit="">RV (48 В / 8 А)</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
+<param name="Функція ДБЖ" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">4</param>
+<param name="Дисплей" unit="">Да</param>
+</offer>
+<offer id="2266930039" available="false">
+<url>https://tera-flops.com.ua/ua/p2266930039-zaryadna-stantsiya-bluetti.html</url>
+<price>10000</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6023711564_zaryadna-stantsiya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6023711565_zaryadna-stantsiya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6023711566_zaryadna-stantsiya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6023711567_zaryadna-stantsiya-bluetti.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Bluetti AC2A 300W (AC2A) CN (доставка авіа)</name>
+<vendor>Bluetti</vendor>
+<vendorCode>AC2A</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Тип">Зарядная станция</param>
+<param name="Тип аккумулятора">LiFePO4</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Габариты (мм)" unit="">250x156,5x174,5</param>
+<param name="Час зарядки (розетка)" unit="">70 хв</param>
+<param name="Вес (кг)" unit="">3.6</param>
+<param name="USB A" unit="">2шт</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Пиковая мощность" unit="">600 Вт</param>
+<param name="Час зарядки (сонячна панель)" unit="">90 хв</param>
+<param name="Номинальная мощность" unit="">300 Вт</param>
+<param name="USB type C" unit="">1шт</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
+<param name="Функція ДБЖ" unit="">Да</param>
+<param name="Дисплей" unit="">Да</param>
+</offer>
+<offer id="2266930861" available="false">
+<url>https://tera-flops.com.ua/ua/p2266930861-zaryadna-stantsiya-bluetti.html</url>
+<price>41000</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6023717687_zaryadna-stantsiya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6023717688_zaryadna-stantsiya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6023717689_zaryadna-stantsiya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6023717690_zaryadna-stantsiya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6023717691_zaryadna-stantsiya-bluetti.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Bluetti AC180 1800W (AC180) CN (доставка авіа)</name>
+<vendor>Bluetti</vendor>
+<vendorCode>AC180</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Тип аккумулятора">LiFePO4</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Габариты (мм)" unit="">340x247x317</param>
+<param name="Час зарядки (розетка)" unit="">110 хв</param>
+<param name="Вес (кг)" unit="">16</param>
+<param name="USB A" unit="">4 шт, 5В/3A, 15 Вт</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Вихід DC" unit="">1 шт DC7909 (12 – 60 В / 10 А / 500 Вт)</param>
+<param name="Пиковая мощность" unit="">2700 Вт</param>
+<param name="Час зарядки (сонячна панель)" unit="">200 хв</param>
+<param name="Номинальная мощность" unit="">1800 Вт</param>
+<param name="USB type C" unit="">1 шт, 3 A, 5 A, 100 Вт</param>
+<param name="Підключення дод. батареї" unit="">Да</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
+<param name="Функція ДБЖ" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Дисплей" unit="">Да</param>
+</offer>
+<offer id="2266942658" available="false">
+<url>https://tera-flops.com.ua/ua/p2266942658-zaryadna-stantsiya-ecoflow.html</url>
+<price>19500</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6023761615_zaryadna-stantsiya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/6023761617_zaryadna-stantsiya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/6023761619_zaryadna-stantsiya-ecoflow.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція EcoFlow River 2 Max 500W (RIVER2 MAX 500W) CN (доставка авіа)</name>
+<vendor>EcoFlow</vendor>
+<vendorCode>RIVER2 MAX 500W</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">LiFePO4</param>
+<param name="Габариты (мм)" unit="">196x270x260</param>
+<param name="Час зарядки (розетка)" unit="">60 хв</param>
+<param name="Вес (кг)" unit="">6</param>
+<param name="USB A" unit="">3 шт, 5В/2.4А, 12 Вт</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Вихід DC" unit="">2 шт DC5521 (12.6 В / 3 A / 36 Вт)</param>
+<param name="Пиковая мощность" unit="">1000 Вт</param>
+<param name="Час зарядки (сонячна панель)" unit="">180 хв</param>
+<param name="Номинальная мощность" unit="">500 Вт</param>
+<param name="Вхід XT60" unit="">Да</param>
+<param name="USB type C" unit="">1 шт, 5 A, 100 Вт</param>
+<param name="Підключення дод. батареї" unit="">Да</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
+<param name="Функція ДБЖ" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Дисплей" unit="">Да</param>
+</offer>
+<offer id="2266949179" available="false">
+<url>https://tera-flops.com.ua/ua/p2266949179-zaryadna-stantsiya-ecoflow.html</url>
+<price>10000</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6023776423_zaryadna-stantsiya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/6023776426_zaryadna-stantsiya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/6023776430_zaryadna-stantsiya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/6023776433_zaryadna-stantsiya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/6023776436_zaryadna-stantsiya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/6023776447_zaryadna-stantsiya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/6023776453_zaryadna-stantsiya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/6023776455_zaryadna-stantsiya-ecoflow.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція EcoFlow River 2 300W (RIVER2 300W) CN (доставка авіа)</name>
+<vendor>EcoFlow</vendor>
+<vendorCode>RIVER2 300W</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">LiFePO4</param>
+<param name="Габариты (мм)" unit="">142x245x214</param>
+<param name="Час зарядки (розетка)" unit="">60 хв</param>
+<param name="Вес (кг)" unit="">3.5</param>
+<param name="USB A" unit="">2 шт, 5В/2.4А, 12 Вт</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Вихід DC" unit="">1 шт (12.6 В / 8 А / 100 Вт)</param>
+<param name="Пиковая мощность" unit="">600 Вт</param>
+<param name="Час зарядки (сонячна панель)" unit="">180 хв</param>
+<param name="Номинальная мощность" unit="">300 Вт</param>
+<param name="Вхід XT60" unit="">Да</param>
+<param name="USB type C" unit="">1 шт, 3 A, 60 Вт</param>
+<param name="Підключення дод. батареї" unit="">Да</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
+<param name="Функція ДБЖ" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">1</param>
+<param name="Дисплей" unit="">Да</param>
+</offer>
+<offer id="2275480870" available="false">
+<url>https://tera-flops.com.ua/ua/p2275480870-zaryadna-stantsiya-xin.html</url>
+<price>6000</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360873_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi 300W (XCS 180-300-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>XCS 180-300-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Емкость аккумулятора" unit="мА/ч">50000</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Габариты (мм)" unit="">250x185x68</param>
+<param name="Вес (кг)" unit="">2</param>
+<param name="USB A" unit="">2</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Пиковая мощность" unit="">400</param>
+<param name="Номинальная мощность" unit="">300</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Ємність батареї (Вт*год)" unit="">180Вт*год</param>
+</offer>
+<offer id="2275480871" available="false">
+<url>https://tera-flops.com.ua/ua/p2275480871-zaryadna-stantsiya-xin.html</url>
+<price>6500</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360874_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi 400W (XCS 200-400-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>XCS 200-400-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Емкость аккумулятора" unit="мА/ч">60000</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Габариты (мм)" unit="">250x185x68</param>
+<param name="Вес (кг)" unit="">2.1</param>
+<param name="USB A" unit="">2</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Пиковая мощность" unit="">500</param>
+<param name="Номинальная мощность" unit="">400</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Ємність батареї (Вт*год)" unit="">200</param>
+</offer>
+<offer id="2275480872" available="false">
+<url>https://tera-flops.com.ua/ua/p2275480872-zaryadna-stantsiya-xin.html</url>
+<price>7500</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360875_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi 400W (XCS 300-400-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>XCS 300-400-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Емкость аккумулятора" unit="мА/ч">90000</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Габариты (мм)" unit="">250x185x68</param>
+<param name="Вес (кг)" unit="">2.8</param>
+<param name="USB A" unit="">2</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Пиковая мощность" unit="">500</param>
+<param name="Номинальная мощность" unit="">400</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Ємність батареї (Вт*год)" unit="">300</param>
+</offer>
+<offer id="2275480873" available="false">
+<url>https://tera-flops.com.ua/ua/p2275480873-zaryadna-stantsiya-xin.html</url>
+<price>10000</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360876_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi 600W (XCS 360-600-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>XCS 360-600-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Емкость аккумулятора" unit="мА/ч">108000</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Габариты (мм)" unit="">300x225x75</param>
+<param name="Вес (кг)" unit="">4.5</param>
+<param name="USB A" unit="">4</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Пиковая мощность" unit="">700</param>
+<param name="Номинальная мощность" unit="">600</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Ємність батареї (Вт*год)" unit="">360</param>
+</offer>
+<offer id="2275480874" available="false">
+<url>https://tera-flops.com.ua/ua/p2275480874-zaryadna-stantsiya-xin.html</url>
+<price>10500</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360878_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi 600W (XCS 440-600-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>XCS 440-600-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="USB A" unit="">4</param>
+<param name="Ємність батареї (Вт*год)" unit="">440</param>
+<param name="Вес (кг)" unit="">4.7</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">300x225x75</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Номинальная мощность" unit="">600</param>
+<param name="Пиковая мощность" unit="">700</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+</offer>
+<offer id="2275480875" available="false">
+<url>https://tera-flops.com.ua/ua/p2275480875-zaryadna-stantsiya-xin.html</url>
+<price>11000</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360879_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi 600W (XCS 560-600-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>XCS 560-600-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="USB A" unit="">4</param>
+<param name="Ємність батареї (Вт*год)" unit="">560</param>
+<param name="Вес (кг)" unit="">5</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">300x225x75</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Номинальная мощность" unit="">600</param>
+<param name="Пиковая мощность" unit="">700</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+</offer>
+<offer id="2275480876" available="false">
+<url>https://tera-flops.com.ua/ua/p2275480876-zaryadna-stantsiya-xin.html</url>
+<price>14000</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360880_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi 1000W (XCS 560-1000-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>XCS 560-1000-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="USB A" unit="">3</param>
+<param name="USB type C" unit="">1</param>
+<param name="Ємність батареї (Вт*год)" unit="">560</param>
+<param name="Вес (кг)" unit="">6.5</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">350x260x80</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Номинальная мощность" unit="">1000</param>
+<param name="Пиковая мощность" unit="">1500</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+</offer>
+<offer id="2275480877" available="false">
+<url>https://tera-flops.com.ua/ua/p2275480877-zaryadna-stantsiya-xin.html</url>
+<price>15500</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360881_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi 1000W (XCS 640-1000-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>XCS 640-1000-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="USB A" unit="">3</param>
+<param name="USB type C" unit="">1</param>
+<param name="Ємність батареї (Вт*год)" unit="">640</param>
+<param name="Вес (кг)" unit="">7.4</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">350x260x80</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Номинальная мощность" unit="">1000</param>
+<param name="Пиковая мощность" unit="">1500</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+</offer>
+<offer id="2275480878" available="false">
+<url>https://tera-flops.com.ua/ua/p2275480878-zaryadna-stantsiya-xin.html</url>
+<price>19500</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360883_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi 1000W (XCS 860-1000-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>XCS 860-1000-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="USB A" unit="">3</param>
+<param name="USB type C" unit="">1</param>
+<param name="Ємність батареї (Вт*год)" unit="">860</param>
+<param name="Вес (кг)" unit="">7.6</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">350x260x80</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Номинальная мощность" unit="">1000</param>
+<param name="Пиковая мощность" unit="">1500</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+</offer>
+<offer id="2275480879" available="false">
+<url>https://tera-flops.com.ua/ua/p2275480879-zaryadna-stantsiya-xin.html</url>
+<price>31000</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360885_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi 1500W (XCS 1400-1500-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>XCS 1400-1500-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="USB A" unit="">2</param>
+<param name="USB type C" unit="">2</param>
+<param name="Ємність батареї (Вт*год)" unit="">1440</param>
+<param name="Вес (кг)" unit="">12</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">400x225x223</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">4</param>
+<param name="Номинальная мощность" unit="">1500</param>
+<param name="Пиковая мощность" unit="">1800</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+</offer>
+<offer id="2275480880" available="false">
+<url>https://tera-flops.com.ua/ua/p2275480880-zaryadna-stantsiya-xin.html</url>
+<price>38500</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360887_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi 1500W (XCS 1800-1500-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>XCS 1800-1500-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="USB A" unit="">2</param>
+<param name="USB type C" unit="">2</param>
+<param name="Ємність батареї (Вт*год)" unit="">1824</param>
+<param name="Вес (кг)" unit="">17</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">400x225x223</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">4</param>
+<param name="Номинальная мощность" unit="">1500</param>
+<param name="Пиковая мощность" unit="">1800</param>
+</offer>
+<offer id="2275480881" available="false">
+<url>https://tera-flops.com.ua/ua/p2275480881-zaryadna-stantsiya-xin.html</url>
+<price>60000</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053415984_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi 3000W (XCS 3840-3000-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>XCS 3840-3000-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Габариты (мм)" unit="">400x225x272</param>
+<param name="Вес (кг)" unit="">20</param>
+<param name="USB A" unit="">2</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Пиковая мощность" unit="">3500</param>
+<param name="Номинальная мощность" unit="">3000</param>
+<param name="USB type C" unit="">2</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+<param name="Кількість розеток (230 В)" unit="">4</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Ємність батареї (Вт*год)" unit="">3840</param>
+</offer>
+<offer id="2275480882" available="false">
+<url>https://tera-flops.com.ua/ua/p2275480882-zaryadna-stantsiya-xin.html</url>
+<price>6000</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360889_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi FG-300 300W (FG-200-300-220) (доставка авіа)</name>
+<vendor>Portable</vendor>
+<vendorCode>FG-200-300-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Емкость аккумулятора" unit="мА/ч">60000</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Габариты (мм)" unit="">250x185x68</param>
+<param name="Вес (кг)" unit="">2.3</param>
+<param name="USB A" unit="">3</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Пиковая мощность" unit="">300</param>
+<param name="Номинальная мощность" unit="">300</param>
+<param name="USB type C" unit="">1</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Ємність батареї (Вт*год)" unit="">200</param>
+</offer>
+<offer id="2275480883" available="false">
+<url>https://tera-flops.com.ua/ua/p2275480883-zaryadna-stantsiya-xin.html</url>
+<price>7000</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053415751_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi FG-300 300W (FG-300-300-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>FG-300-300-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Емкость аккумулятора" unit="мА/ч">90000</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Вес (кг)" unit="">3</param>
+<param name="USB A" unit="">3</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Пиковая мощность" unit="">300</param>
+<param name="Номинальная мощность" unit="">300</param>
+<param name="USB type C" unit="">1</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Ємність батареї (Вт*год)" unit="">300</param>
+</offer>
+<offer id="2275480884" available="false">
+<url>https://tera-flops.com.ua/ua/p2275480884-zaryadna-stantsiya-xin.html</url>
+<price>10000</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360891_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi FG-600 600W (FG-360-600-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>FG-360-600-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Б/У</param>
+<param name="USB A" unit="">3</param>
+<param name="USB type C" unit="">1</param>
+<param name="Ємність батареї (Вт*год)" unit="">360</param>
+<param name="Вес (кг)" unit="">3.8</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">280x210x82</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Номинальная мощность" unit="">600</param>
+<param name="Пиковая мощность" unit="">600</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+</offer>
+<offer id="2275480885" available="false">
+<url>https://tera-flops.com.ua/ua/p2275480885-zaryadna-stantsiya-xin.html</url>
+<price>11500</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360892_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi FG-600 600W (FG-480-600-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>FG-480-600-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Б/У</param>
+<param name="USB A" unit="">3</param>
+<param name="USB type C" unit="">1</param>
+<param name="Ємність батареї (Вт*год)" unit="">480</param>
+<param name="Вес (кг)" unit="">4.6</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">280x210x82</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Номинальная мощность" unit="">600</param>
+<param name="Пиковая мощность" unit="">600</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+</offer>
+<offer id="2275480886" available="false">
+<url>https://tera-flops.com.ua/ua/p2275480886-zaryadna-stantsiya-xin.html</url>
+<price>17000</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360893_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi FG-1000 1000W (FG-640-1000-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>FG-640-1000-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="USB A" unit="">2</param>
+<param name="USB type C" unit="">2</param>
+<param name="Ємність батареї (Вт*год)" unit="">640</param>
+<param name="Вес (кг)" unit="">8</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">350x260x80</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">3</param>
+<param name="Номинальная мощность" unit="">1000</param>
+<param name="Пиковая мощность" unit="">1000</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+</offer>
+<offer id="2275480887" available="false">
+<url>https://tera-flops.com.ua/ua/p2275480887-zaryadna-stantsiya-xin.html</url>
+<price>21000</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360894_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi FG-1000 1000W (FG-860-1000-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>FG-860-1000-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="USB A" unit="">2</param>
+<param name="USB type C" unit="">2</param>
+<param name="Ємність батареї (Вт*год)" unit="">860</param>
+<param name="Вес (кг)" unit="">8.8</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">350x260x88</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">3</param>
+<param name="Номинальная мощность" unit="">1000</param>
+<param name="Пиковая мощность" unit="">1000</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+</offer>
+<offer id="2275480888" available="false">
+<url>https://tera-flops.com.ua/ua/p2275480888-zaryadna-stantsiya-xin.html</url>
+<price>5500</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360895_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi FF-200 200W (FF-120-200-220) (доставка авіа)</name>
+<vendor>Portable</vendor>
+<vendorCode>FF-120-200-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Емкость аккумулятора" unit="мА/ч">32400</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Габариты (мм)" unit="">206x127x77</param>
+<param name="Вес (кг)" unit="">1.3</param>
+<param name="USB A" unit="">4</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Пиковая мощность" unit="">200</param>
+<param name="Номинальная мощность" unit="">200</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+<param name="Кількість розеток (230 В)" unit="">1</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Ємність батареї (Вт*год)" unit="">120</param>
+</offer>
+<offer id="2275480892" available="false">
+<url>https://tera-flops.com.ua/ua/p2275480892-zaryadna-stantsiya-xin.html</url>
+<price>6000</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360906_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi FF-300 300W (FF-160-300-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>FF-160-300-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Емкость аккумулятора" unit="мА/ч">43200</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Габариты (мм)" unit="">206x127x77</param>
+<param name="Вес (кг)" unit="">1.7</param>
+<param name="USB A" unit="">4</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Пиковая мощность" unit="">300</param>
+<param name="Номинальная мощность" unit="">300</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
+<param name="Кількість розеток (230 В)" unit="">1</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Ємність батареї (Вт*год)" unit="">160</param>
+</offer>
+<offer id="2275480893" available="false">
+<url>https://tera-flops.com.ua/ua/p2275480893-zaryadna-stantsiya-xin.html</url>
+<price>7500</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6053360912_zaryadna-stantsiya-xin.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Xin Chi Shi FF-300 300W (FF-231-300-220) (доставка авіа)</name>
+<vendor>Xin Chi Shi</vendor>
+<vendorCode>FF-231-300-220</vendorCode>
+<param name="Відвантаження зі складу">21</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="USB A" unit="">4</param>
+<param name="Ємність батареї (Вт*год)" unit="">231</param>
+<param name="Вес (кг)" unit="">1.8</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">206x127x77</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">1</param>
+<param name="Номинальная мощность" unit="">300</param>
+<param name="Пиковая мощность" unit="">300</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда</param>
 </offer>
 </offers>
 </shop>
