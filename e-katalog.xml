@@ -6330,7 +6330,7 @@
 <param name="Функции" unit="">інфо-дисплей</param>
 <param name="Час повної зарядки (год)" unit="">3</param>
 </offer>
-<offer id="2266901386" available="false">
+<offer id="2266901386" available="true">
 <url>https://tera-flops.com.ua/ua/p2266901386-zaryadna-stantsiya-dji.html</url>
 <price>45000</price>
 <currencyId>UAH</currencyId>
@@ -6363,7 +6363,7 @@
 <param name="Кількість розеток (230 В)" unit="">2</param>
 <param name="Дисплей" unit="">Да</param>
 </offer>
-<offer id="2266925169" available="false">
+<offer id="2266925169" available="true">
 <url>https://tera-flops.com.ua/ua/p2266925169-zaryadna-stantsiya-dji.html</url>
 <price>22900</price>
 <currencyId>UAH</currencyId>
@@ -6398,7 +6398,7 @@
 <param name="Кількість розеток (230 В)" unit="">2</param>
 <param name="Дисплей" unit="">Да</param>
 </offer>
-<offer id="2266927640" available="false">
+<offer id="2266927640" available="true">
 <url>https://tera-flops.com.ua/ua/p2266927640-zaryadna-stantsiya-bluetti.html</url>
 <price>74900</price>
 <currencyId>UAH</currencyId>
@@ -6434,7 +6434,7 @@
 <param name="Кількість розеток (230 В)" unit="">4</param>
 <param name="Дисплей" unit="">Да</param>
 </offer>
-<offer id="2266930039" available="false">
+<offer id="2266930039" available="true">
 <url>https://tera-flops.com.ua/ua/p2266930039-zaryadna-stantsiya-bluetti.html</url>
 <price>10000</price>
 <currencyId>UAH</currencyId>
@@ -6467,7 +6467,7 @@
 <param name="Функція ДБЖ" unit="">Да</param>
 <param name="Дисплей" unit="">Да</param>
 </offer>
-<offer id="2266930861" available="false">
+<offer id="2266930861" available="true">
 <url>https://tera-flops.com.ua/ua/p2266930861-zaryadna-stantsiya-bluetti.html</url>
 <price>41000</price>
 <currencyId>UAH</currencyId>
@@ -6503,7 +6503,7 @@
 <param name="Кількість розеток (230 В)" unit="">2</param>
 <param name="Дисплей" unit="">Да</param>
 </offer>
-<offer id="2266942658" available="false">
+<offer id="2266942658" available="true">
 <url>https://tera-flops.com.ua/ua/p2266942658-zaryadna-stantsiya-ecoflow.html</url>
 <price>19500</price>
 <currencyId>UAH</currencyId>
@@ -6538,7 +6538,7 @@
 <param name="Кількість розеток (230 В)" unit="">2</param>
 <param name="Дисплей" unit="">Да</param>
 </offer>
-<offer id="2266949179" available="false">
+<offer id="2266949179" available="true">
 <url>https://tera-flops.com.ua/ua/p2266949179-zaryadna-stantsiya-ecoflow.html</url>
 <price>10000</price>
 <currencyId>UAH</currencyId>
@@ -6578,7 +6578,7 @@
 <param name="Кількість розеток (230 В)" unit="">1</param>
 <param name="Дисплей" unit="">Да</param>
 </offer>
-<offer id="2275480870" available="false">
+<offer id="2275480870" available="true">
 <url>https://tera-flops.com.ua/ua/p2275480870-zaryadna-stantsiya-xin.html</url>
 <price>6000</price>
 <currencyId>UAH</currencyId>
@@ -6605,7 +6605,7 @@
 <param name="Дисплей" unit="">Да</param>
 <param name="Ємність батареї (Вт*год)" unit="">180Вт*год</param>
 </offer>
-<offer id="2275480871" available="false">
+<offer id="2275480871" available="true">
 <url>https://tera-flops.com.ua/ua/p2275480871-zaryadna-stantsiya-xin.html</url>
 <price>6500</price>
 <currencyId>UAH</currencyId>
@@ -6632,7 +6632,7 @@
 <param name="Дисплей" unit="">Да</param>
 <param name="Ємність батареї (Вт*год)" unit="">200</param>
 </offer>
-<offer id="2275480872" available="false">
+<offer id="2275480872" available="true">
 <url>https://tera-flops.com.ua/ua/p2275480872-zaryadna-stantsiya-xin.html</url>
 <price>7500</price>
 <currencyId>UAH</currencyId>
@@ -6659,7 +6659,7 @@
 <param name="Дисплей" unit="">Да</param>
 <param name="Ємність батареї (Вт*год)" unit="">300</param>
 </offer>
-<offer id="2275480873" available="false">
+<offer id="2275480873" available="true">
 <url>https://tera-flops.com.ua/ua/p2275480873-zaryadna-stantsiya-xin.html</url>
 <price>10000</price>
 <currencyId>UAH</currencyId>
@@ -6686,7 +6686,7 @@
 <param name="Дисплей" unit="">Да</param>
 <param name="Ємність батареї (Вт*год)" unit="">360</param>
 </offer>
-<offer id="2275480874" available="false">
+<offer id="2275480874" available="true">
 <url>https://tera-flops.com.ua/ua/p2275480874-zaryadna-stantsiya-xin.html</url>
 <price>10500</price>
 <currencyId>UAH</currencyId>
@@ -6712,7 +6712,7 @@
 <param name="Пиковая мощность" unit="">700</param>
 <param name="Форма вихідного сигналу" unit="">синусоїда</param>
 </offer>
-<offer id="2275480875" available="false">
+<offer id="2275480875" available="true">
 <url>https://tera-flops.com.ua/ua/p2275480875-zaryadna-stantsiya-xin.html</url>
 <price>11000</price>
 <currencyId>UAH</currencyId>
@@ -6738,7 +6738,7 @@
 <param name="Пиковая мощность" unit="">700</param>
 <param name="Форма вихідного сигналу" unit="">синусоїда</param>
 </offer>
-<offer id="2275480876" available="false">
+<offer id="2275480876" available="true">
 <url>https://tera-flops.com.ua/ua/p2275480876-zaryadna-stantsiya-xin.html</url>
 <price>14000</price>
 <currencyId>UAH</currencyId>
@@ -6765,7 +6765,7 @@
 <param name="Пиковая мощность" unit="">1500</param>
 <param name="Форма вихідного сигналу" unit="">синусоїда</param>
 </offer>
-<offer id="2275480877" available="false">
+<offer id="2275480877" available="true">
 <url>https://tera-flops.com.ua/ua/p2275480877-zaryadna-stantsiya-xin.html</url>
 <price>15500</price>
 <currencyId>UAH</currencyId>
@@ -6792,7 +6792,7 @@
 <param name="Пиковая мощность" unit="">1500</param>
 <param name="Форма вихідного сигналу" unit="">синусоїда</param>
 </offer>
-<offer id="2275480878" available="false">
+<offer id="2275480878" available="true">
 <url>https://tera-flops.com.ua/ua/p2275480878-zaryadna-stantsiya-xin.html</url>
 <price>19500</price>
 <currencyId>UAH</currencyId>
@@ -6819,7 +6819,7 @@
 <param name="Пиковая мощность" unit="">1500</param>
 <param name="Форма вихідного сигналу" unit="">синусоїда</param>
 </offer>
-<offer id="2275480879" available="false">
+<offer id="2275480879" available="true">
 <url>https://tera-flops.com.ua/ua/p2275480879-zaryadna-stantsiya-xin.html</url>
 <price>31000</price>
 <currencyId>UAH</currencyId>
@@ -6846,7 +6846,7 @@
 <param name="Пиковая мощность" unit="">1800</param>
 <param name="Форма вихідного сигналу" unit="">синусоїда</param>
 </offer>
-<offer id="2275480880" available="false">
+<offer id="2275480880" available="true">
 <url>https://tera-flops.com.ua/ua/p2275480880-zaryadna-stantsiya-xin.html</url>
 <price>38500</price>
 <currencyId>UAH</currencyId>
@@ -6872,7 +6872,7 @@
 <param name="Номинальная мощность" unit="">1500</param>
 <param name="Пиковая мощность" unit="">1800</param>
 </offer>
-<offer id="2275480881" available="false">
+<offer id="2275480881" available="true">
 <url>https://tera-flops.com.ua/ua/p2275480881-zaryadna-stantsiya-xin.html</url>
 <price>60000</price>
 <currencyId>UAH</currencyId>
@@ -6899,7 +6899,7 @@
 <param name="Дисплей" unit="">Да</param>
 <param name="Ємність батареї (Вт*год)" unit="">3840</param>
 </offer>
-<offer id="2275480882" available="false">
+<offer id="2275480882" available="true">
 <url>https://tera-flops.com.ua/ua/p2275480882-zaryadna-stantsiya-xin.html</url>
 <price>6000</price>
 <currencyId>UAH</currencyId>
@@ -6927,7 +6927,7 @@
 <param name="Дисплей" unit="">Да</param>
 <param name="Ємність батареї (Вт*год)" unit="">200</param>
 </offer>
-<offer id="2275480883" available="false">
+<offer id="2275480883" available="true">
 <url>https://tera-flops.com.ua/ua/p2275480883-zaryadna-stantsiya-xin.html</url>
 <price>7000</price>
 <currencyId>UAH</currencyId>
@@ -6954,7 +6954,7 @@
 <param name="Дисплей" unit="">Да</param>
 <param name="Ємність батареї (Вт*год)" unit="">300</param>
 </offer>
-<offer id="2275480884" available="false">
+<offer id="2275480884" available="true">
 <url>https://tera-flops.com.ua/ua/p2275480884-zaryadna-stantsiya-xin.html</url>
 <price>10000</price>
 <currencyId>UAH</currencyId>
@@ -6981,7 +6981,7 @@
 <param name="Пиковая мощность" unit="">600</param>
 <param name="Форма вихідного сигналу" unit="">синусоїда</param>
 </offer>
-<offer id="2275480885" available="false">
+<offer id="2275480885" available="true">
 <url>https://tera-flops.com.ua/ua/p2275480885-zaryadna-stantsiya-xin.html</url>
 <price>11500</price>
 <currencyId>UAH</currencyId>
@@ -7007,7 +7007,7 @@
 <param name="Пиковая мощность" unit="">600</param>
 <param name="Форма вихідного сигналу" unit="">синусоїда</param>
 </offer>
-<offer id="2275480886" available="false">
+<offer id="2275480886" available="true">
 <url>https://tera-flops.com.ua/ua/p2275480886-zaryadna-stantsiya-xin.html</url>
 <price>17000</price>
 <currencyId>UAH</currencyId>
@@ -7034,7 +7034,7 @@
 <param name="Пиковая мощность" unit="">1000</param>
 <param name="Форма вихідного сигналу" unit="">синусоїда</param>
 </offer>
-<offer id="2275480887" available="false">
+<offer id="2275480887" available="true">
 <url>https://tera-flops.com.ua/ua/p2275480887-zaryadna-stantsiya-xin.html</url>
 <price>21000</price>
 <currencyId>UAH</currencyId>
@@ -7061,7 +7061,7 @@
 <param name="Пиковая мощность" unit="">1000</param>
 <param name="Форма вихідного сигналу" unit="">синусоїда</param>
 </offer>
-<offer id="2275480888" available="false">
+<offer id="2275480888" available="true">
 <url>https://tera-flops.com.ua/ua/p2275480888-zaryadna-stantsiya-xin.html</url>
 <price>5500</price>
 <currencyId>UAH</currencyId>
@@ -7088,7 +7088,7 @@
 <param name="Дисплей" unit="">Да</param>
 <param name="Ємність батареї (Вт*год)" unit="">120</param>
 </offer>
-<offer id="2275480892" available="false">
+<offer id="2275480892" available="true">
 <url>https://tera-flops.com.ua/ua/p2275480892-zaryadna-stantsiya-xin.html</url>
 <price>6000</price>
 <currencyId>UAH</currencyId>
@@ -7115,7 +7115,7 @@
 <param name="Дисплей" unit="">Да</param>
 <param name="Ємність батареї (Вт*год)" unit="">160</param>
 </offer>
-<offer id="2275480893" available="false">
+<offer id="2275480893" available="true">
 <url>https://tera-flops.com.ua/ua/p2275480893-zaryadna-stantsiya-xin.html</url>
 <price>7500</price>
 <currencyId>UAH</currencyId>
