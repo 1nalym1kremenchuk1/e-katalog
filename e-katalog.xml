@@ -2366,6 +2366,186 @@
 <param name="Дисплей" unit="">Да</param>
 <param name="Ємність батареї (Вт*год)" unit="">1997</param>
 </offer>
+<offer id="2313721083" available="true">
+<url>https://tera-flops.com.ua/ua/p2313721083-zaryadna-stantsiya-bandera.html</url>
+<price>18355</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6191535804_zaryadna-stantsiya-bandera.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Bandera Power 125</name>
+<vendor>Промавтоматика Вінниця</vendor>
+<vendorCode>BP125</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Габариты (мм)" unit="">355х281х163</param>
+<param name="Вес (кг)" unit="">4.5</param>
+<param name="USB-A (швидкої зарядки)" unit="">4</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Ємність батареї (Вт*год)" unit="">460 Вт*год</param>
+</offer>
+<offer id="2313721084" available="true">
+<url>https://tera-flops.com.ua/ua/p2313721084-zaryadna-stantsiya-bandera.html</url>
+<price>26775</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6191535802_zaryadna-stantsiya-bandera.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Bandera Power 180</name>
+<vendor>Промавтоматика Вінниця</vendor>
+<vendorCode>BP180</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Габариты (мм)" unit="">355х281х163</param>
+<param name="Вес (кг)" unit="">6.25</param>
+<param name="Пиковая мощность" unit="">150</param>
+<param name="USB-A (швидкої зарядки)" unit="">4</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">1</param>
+<param name="Ємність батареї (Вт*год)" unit="">670 Вт*год</param>
+</offer>
+<offer id="2313721085" available="true">
+<url>https://tera-flops.com.ua/ua/p2313721085-zaryadna-stantsiya-bandera.html</url>
+<price>30585</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6191535811_zaryadna-stantsiya-bandera.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Bandera Power 180 S</name>
+<vendor>Промавтоматика Вінниця</vendor>
+<vendorCode>BP180S</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Габариты (мм)" unit="">355х281х163</param>
+<param name="Вес (кг)" unit="">6.4</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Пиковая мощность" unit="">500</param>
+<param name="USB-A (швидкої зарядки)" unit="">4</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Ємність батареї (Вт*год)" unit="">670 Вт*год</param>
+</offer>
+<offer id="2313721086" available="true">
+<url>https://tera-flops.com.ua/ua/p2313721086-zaryadna-stantsiya-bandera.html</url>
+<price>39690</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6191535796_zaryadna-stantsiya-bandera.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Bandera Power 225 S</name>
+<vendor>Промавтоматика Вінниця</vendor>
+<vendorCode>BP225S</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Габариты (мм)" unit="">355х281х163</param>
+<param name="Вес (кг)" unit="">7.65</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Пиковая мощность" unit="">500</param>
+<param name="USB-A (швидкої зарядки)" unit="">4</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Ємність батареї (Вт*год)" unit="">830 Вт*год</param>
+</offer>
+<offer id="2313721087" available="true">
+<url>https://tera-flops.com.ua/ua/p2313721087-zaryadna-stantsiya-bandera.html</url>
+<price>45540</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6191535809_zaryadna-stantsiya-bandera.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Bandera Power 305 S</name>
+<vendor>Промавтоматика Вінниця</vendor>
+<vendorCode>BP305S</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">LiFePO4</param>
+<param name="Габариты (мм)" unit="">560х340х200</param>
+<param name="Вес (кг)" unit="">15.5</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Пиковая мощность" unit="">1000</param>
+<param name="USB-A (швидкої зарядки)" unit="">4</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">3</param>
+<param name="Ємність батареї (Вт*год)" unit="">1126 Вт*год</param>
+</offer>
+<offer id="2313721088" available="true">
+<url>https://tera-flops.com.ua/ua/p2313721088-zaryadna-stantsiya-bandera.html</url>
+<price>56070</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6191535814_zaryadna-stantsiya-bandera.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Bandera Power 430 S</name>
+<vendor>Промавтоматика Вінниця</vendor>
+<vendorCode>BP430S</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">LiFePO4</param>
+<param name="Габариты (мм)" unit="">560х340х200</param>
+<param name="Вес (кг)" unit="">18.55</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Пиковая мощность" unit="">1000</param>
+<param name="USB-A (швидкої зарядки)" unit="">4</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">3</param>
+<param name="Ємність батареї (Вт*год)" unit="">1600 Вт*год</param>
+</offer>
+<offer id="2313721089" available="true">
+<url>https://tera-flops.com.ua/ua/p2313721089-zaryadna-stantsiya-bandera.html</url>
+<price>70065</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6191535827_zaryadna-stantsiya-bandera.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Bandera Power 610 S</name>
+<vendor>Промавтоматика Вінниця</vendor>
+<vendorCode>BP610S</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">LiFePO4</param>
+<param name="Габариты (мм)" unit="">550х380х230</param>
+<param name="Вес (кг)" unit="">31.15</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Пиковая мощность" unit="">1000</param>
+<param name="USB-A (швидкої зарядки)" unit="">4</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">3</param>
+<param name="Ємність батареї (Вт*год)" unit="">2253 Вт*год</param>
+</offer>
+<offer id="2313721090" available="true">
+<url>https://tera-flops.com.ua/ua/p2313721090-zaryadna-stantsiya-bandera.html</url>
+<price>86805</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6191535797_zaryadna-stantsiya-bandera.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Bandera Power 860 S</name>
+<vendor>Промавтоматика Вінниця</vendor>
+<vendorCode>BP860S</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">LiFePO4</param>
+<param name="Габариты (мм)" unit="">550х380х230</param>
+<param name="Вес (кг)" unit="">31.15</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Пиковая мощность" unit="">2000</param>
+<param name="USB-A (швидкої зарядки)" unit="">4</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">3</param>
+<param name="Ємність батареї (Вт*год)" unit="">3200 Вт*год</param>
+</offer>
 </offers>
 </shop>
 </yml_catalog>
