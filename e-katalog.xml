@@ -330,6 +330,7 @@
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Материнська плата HUANANZHI X79M PRO LGA 2011v1 (HZH-X79M PRO) (TF)</name>
+<vendor>Huananzhi</vendor>
 <vendorCode>HZH-X79M PRO</vendorCode>
 <param name="Гарантийный срок" unit="мес">0</param>
 <param name="Состояние">Новое</param>
@@ -1167,7 +1168,7 @@
 <delivery>true</delivery>
 <name>Зарядна станція EcoFlow Delta 2 1800W (DELTA2 1800W) CN</name>
 <vendor>EcoFlow</vendor>
-<vendorCode>DELTA 2 1800W</vendorCode>
+<vendorCode>ZMR330-CN</vendorCode>
 <param name="Відвантаження зі складу">21</param>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
@@ -1312,7 +1313,7 @@
 <delivery>true</delivery>
 <name>Універсальна мобільна батарея Voltronic ASONIC AS-P10 10000mAh, Output 2USB, Black (ASONIC AS-P10/29359)</name>
 <vendor>Voltronic</vendor>
-<vendorCode>ASONIC AS-P10/29359</vendorCode>
+<vendorCode>ASONIC AS-P10-B</vendorCode>
 <param name="Вес" unit="г">220</param>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Емкость аккумулятора" unit="мА/ч">10000</param>
@@ -2418,7 +2419,7 @@
 <delivery>true</delivery>
 <name>Зарядна станція Bandera Power 180 S</name>
 <vendor>Промавтоматика Вінниця</vendor>
-<vendorCode>BP180S</vendorCode>
+<vendorCode>BP-180S</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
 <param name="Тип аккумулятора">Li-Ion</param>
@@ -2441,7 +2442,7 @@
 <delivery>true</delivery>
 <name>Зарядна станція Bandera Power 225 S</name>
 <vendor>Промавтоматика Вінниця</vendor>
-<vendorCode>BP225S</vendorCode>
+<vendorCode>BP-225S</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
 <param name="Тип аккумулятора">Li-Ion</param>
@@ -2464,7 +2465,7 @@
 <delivery>true</delivery>
 <name>Зарядна станція Bandera Power 305 S</name>
 <vendor>Промавтоматика Вінниця</vendor>
-<vendorCode>BP305S</vendorCode>
+<vendorCode>BP-305S</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
 <param name="Тип аккумулятора">LiFePO4</param>
@@ -2487,7 +2488,7 @@
 <delivery>true</delivery>
 <name>Зарядна станція Bandera Power 430 S</name>
 <vendor>Промавтоматика Вінниця</vendor>
-<vendorCode>BP430S</vendorCode>
+<vendorCode>BP-430S</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
 <param name="Тип аккумулятора">LiFePO4</param>
@@ -2510,7 +2511,7 @@
 <delivery>true</delivery>
 <name>Зарядна станція Bandera Power 610 S</name>
 <vendor>Промавтоматика Вінниця</vendor>
-<vendorCode>BP610S</vendorCode>
+<vendorCode>BP-610S</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
 <param name="Тип аккумулятора">LiFePO4</param>
@@ -2533,7 +2534,7 @@
 <delivery>true</delivery>
 <name>Зарядна станція Bandera Power 860 S</name>
 <vendor>Промавтоматика Вінниця</vendor>
-<vendorCode>BP860S</vendorCode>
+<vendorCode>BP-860S</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
 <param name="Тип аккумулятора">LiFePO4</param>
