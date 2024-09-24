@@ -1,4 +1,5 @@
-<yml_catalog date="2024-09-18 13:12">
+<yml_catalog date="2024-09-24 14:18">
+<script src="chrome-extension://hoklmmgfnpapgjgcpechhaamimifchmp/frame_ant/frame_ant.js"/>
 <shop>
 <name>TeraFlops Store</name>
 <company>TeraFlops Store</company>
@@ -113,7 +114,6 @@
 <category id="131730126">FPV дрони та комплектуючі</category>
 <category id="85423625" parentId="85423690">ПК для Дому/Роботи</category>
 <category id="85364275" parentId="85328850">Блоки живлення</category>
-<category id="85330301" parentId="85328850">Процесори</category>
 <category id="124618909">Послуги ремонту</category>
 <category id="124619023" parentId="124618909">Ремонт відеокарт</category>
 <category id="85423690">Комп'ютери TeraFlops</category>
@@ -149,7 +149,6 @@
 <category id="131918712" parentId="131918707">Мотори для FPV дронів</category>
 <category id="131918707" parentId="131730126">Запчастини до FPV дронів</category>
 <category id="131918716" parentId="131918707">Приймачі сигналу для FPV дронів</category>
-<category id="85364281" parentId="85328850">Жорсткі диски</category>
 <category id="131918709" parentId="131918707">Антени для FPV дронів</category>
 <category id="131918710" parentId="131918707">Відеопередавачі</category>
 <category id="131918711" parentId="131918707">FPV камери</category>
@@ -204,7 +203,6 @@
 <category id="131315099" parentId="131315093">Socket AM4</category>
 <category id="132449582" parentId="131148189">ATX 390W і менше</category>
 <category id="132449583" parentId="131148190">TFX 390W і менше</category>
-<category id="109454560" parentId="85330301">LGA 2066</category>
 <category id="133045618" parentId="112486618">Джерела безперебійного живлення</category>
 <category id="97644296" parentId="85364244">Socket AM3</category>
 <category id="97644297" parentId="85364244">Socket AM3+</category>
@@ -212,9 +210,6 @@
 <category id="99852172" parentId="85364244">З вбудованим процесором</category>
 <category id="133294369">Стабілізатори напруги</category>
 <category id="132522449" parentId="112486618">Портативні зарядні станції</category>
-<category id="131386273" parentId="85330301">Процесори AMD</category>
-<category id="131386274" parentId="85330301">Процесори Intel</category>
-<category id="131386275" parentId="131386273">AM4</category>
 <category id="116597011" parentId="85328850">Комплектуючі до відеокарт</category>
 <category id="85364282" parentId="85328850">Корпуси</category>
 <category id="133479176" parentId="112486618">Зарядки для акумуляторних батарейок</category>
@@ -229,28 +224,12 @@
 <category id="134047382" parentId="134047380">Mini(Micro)-Tower</category>
 <category id="134047383" parentId="134047380">Midi-Tower</category>
 <category id="134047384" parentId="134047380">Full-Tower</category>
-<category id="134047381" parentId="85364244">Socket TR5</category>
+<category id="134047381" parentId="131315093">Socket TR5</category>
 <category id="134047380">Корпуси</category>
 <category id="134496373" parentId="134047380">Desktop</category>
 <category id="134496374" parentId="134047380">Cube</category>
 <category id="134121160" parentId="130196684">З інтегрованим процесором Intel</category>
 <category id="101264478" parentId="85330301">Socket TR4</category>
-<category id="131386277" parentId="131386274">1150</category>
-<category id="131386278" parentId="131386274">1151v1</category>
-<category id="131386279" parentId="131386274">1151v2</category>
-<category id="131386280" parentId="131386274">1155</category>
-<category id="131386281" parentId="131386274">1700</category>
-<category id="131386282" parentId="131386274">2011</category>
-<category id="131386283" parentId="131386274">2011v3</category>
-<category id="132256974" parentId="131386274">1200</category>
-<category id="132330635" parentId="131386273">AM3</category>
-<category id="132330636" parentId="131386273">AM3+</category>
-<category id="97642378" parentId="85330301">Socket FM2</category>
-<category id="107166007" parentId="85330301">Socket AM2+</category>
-<category id="131386276" parentId="131386273">AM5</category>
-<category id="97640686" parentId="85330301">LGA 1150</category>
-<category id="97640692" parentId="85330301">LGA 1151v1</category>
-<category id="97641447" parentId="85330301">LGA 1200</category>
 <category id="97641453" parentId="85330301">LGA 1356</category>
 <category id="133000691" parentId="132693858">АКБ</category>
 <category id="134615720" parentId="130691869">Radeon R-Series</category>
@@ -259,7 +238,9 @@
 <category id="134615723" parentId="130691870">Nvidia Quadro</category>
 <category id="134615724" parentId="134615723">Quadro</category>
 <category id="134615725" parentId="134615723">RTX Quadro</category>
+<category id="135492324" parentId="130196684">Аксесуари для материнських плат</category>
 <category id="134888222" parentId="133007151">Миші</category>
+<category id="85364265" parentId="85328850">Оперативна пам'ять</category>
 <category id="135086065" parentId="131315093">Socket FM2</category>
 <category id="135086066" parentId="130196684">LGA 775</category>
 <category id="134240666" parentId="134240659">SODIMM DDR5</category>
@@ -288,30 +269,38 @@
 <category id="134777283" parentId="131923912">SSD серверні</category>
 <category id="134777284" parentId="134777283">2.5"</category>
 <category id="134993993" parentId="134490739">SFX 400W</category>
+<category id="135559948" parentId="134490739">SFX 405-490W</category>
+<category id="85364272" parentId="85328850">Кулери і системи охолодження</category>
+<category id="85364281" parentId="85328850">Жорсткі диски</category>
+<category id="85330301" parentId="85328850">Процесори</category>
 <category id="134721561">Монітори</category>
 <category id="134721562" parentId="134721561">Діагональ 23 - 23.8</category>
 <category id="134721563" parentId="134721561">Діагональ 31 - 32</category>
 <category id="134389610" parentId="131923918">SSD M.2 120-128</category>
 <category id="134870766" parentId="131315093">Socket TRX4</category>
 <category id="134870767" parentId="131315093">Socket TR4</category>
-<category id="97641434" parentId="85330301">LGA 1151v2</category>
-<category id="134877151" parentId="131315093">Socket FM2+</category>
-<category id="134877152" parentId="131315093">Socket FM1</category>
-<category id="134877153" parentId="134240660">DDR3 ECC REG</category>
-<category id="85364265" parentId="85328850">Оперативна пам'ять</category>
-<category id="85364276" parentId="85328850">SSD накопичувачі</category>
-<category id="97641439" parentId="85330301">LGA 1155</category>
-<category id="111523592" parentId="85330301">Socket AM5</category>
-<category id="85364272" parentId="85328850">Кулери і системи охолодження</category>
-<category id="97641444" parentId="85330301">LGA 1156</category>
 <category id="97641455" parentId="85330301">LGA 1366</category>
+<category id="107166007" parentId="85330301">Socket AM2+</category>
+<category id="97640686" parentId="85330301">LGA 1150</category>
+<category id="97640692" parentId="85330301">LGA 1151v1</category>
+<category id="97641434" parentId="85330301">LGA 1151v2</category>
+<category id="97641439" parentId="85330301">LGA 1155</category>
+<category id="97641444" parentId="85330301">LGA 1156</category>
+<category id="97641447" parentId="85330301">LGA 1200</category>
 <category id="97641458" parentId="85330301">LGA 2011v1</category>
 <category id="97641514" parentId="85330301">LGA 2011v3</category>
 <category id="97641530" parentId="85330301">Socket AM3</category>
 <category id="97641533" parentId="85330301">Socket AM3+</category>
-<category id="97641535" parentId="85330301">Socket AM4</category>
-<category id="103891356" parentId="85330301">LGA 1700</category>
+<category id="97642378" parentId="85330301">Socket FM2</category>
 <category id="107182575" parentId="85330301">Socket FM2+</category>
+<category id="109454560" parentId="85330301">LGA 2066</category>
+<category id="131386275" parentId="85330301">Socket AM4</category>
+<category id="131386276" parentId="85330301">Socket AM5</category>
+<category id="134877151" parentId="131315093">Socket FM2+</category>
+<category id="134877152" parentId="131315093">Socket FM1</category>
+<category id="134877153" parentId="134240660">DDR3 ECC REG</category>
+<category id="85364276" parentId="85328850">SSD накопичувачі</category>
+<category id="103891356" parentId="85330301">LGA 1700</category>
 <category id="85328986" parentId="85328850">Відеокарти</category>
 <category id="85364244" parentId="85328850">Материнські плати</category>
 <category id="135315535" parentId="131923912">SAS SSD</category>
@@ -330,7 +319,6 @@
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Материнська плата HUANANZHI X79M PRO LGA 2011v1 (HZH-X79M PRO) (TF)</name>
-<vendor>Huananzhi</vendor>
 <vendorCode>HZH-X79M PRO</vendorCode>
 <param name="Гарантийный срок" unit="мес">0</param>
 <param name="Состояние">Новое</param>
@@ -420,10 +408,10 @@
 <param name="Интерфейсы">DisplayPort|HDMI</param>
 <param name="Количество LAN-портов">1</param>
 <param name="Количество слотов памяти">2</param>
+<param name="Разъемы">LGA1200</param>
 <param name="Состояние">Новое</param>
 <param name="Тип оперативной памяти">DDR4</param>
 <param name="Форм-фактор">microATX</param>
-<param name="Разъемы">LGA1200</param>
 <param name="Audio" unit="">3</param>
 <param name="Aудіокодек" unit="">Realtek HD Audio</param>
 <param name="Ethernet" unit="">Gigabit Ethernet</param>
@@ -560,15 +548,15 @@
 <param name="Тип оперативной памяти">DDR5</param>
 <param name="Форм-фактор">microATX</param>
 <param name="Чипсет">H610</param>
-<param name="Видеоинтерфейс" unit="">PCI-Express 3.0</param>
-<param name="Кількість роз'ємів FAN" unit="">2</param>
-<param name="USB 2.0" unit="">4</param>
-<param name="SATA Revision 3.0" unit="">3</param>
-<param name="Роз'єм живлення процесора" unit="">4+4 pin</param>
 <param name="Audio" unit="">3</param>
+<param name="SATA Revision 3.0" unit="">3</param>
+<param name="USB 2.0" unit="">4</param>
 <param name="USB 3.0" unit="">2</param>
-<param name="Роз'єм живлення плати" unit="">20+4 pin</param>
+<param name="Видеоинтерфейс" unit="">PCI-Express 3.0</param>
 <param name="Кількість M.2" unit="">2</param>
+<param name="Кількість роз'ємів FAN" unit="">2</param>
+<param name="Роз'єм живлення плати" unit="">20+4 pin</param>
+<param name="Роз'єм живлення процесора" unit="">4+4 pin</param>
 <param name="Тип M.2" unit="">PCI-E 3.0</param>
 </offer>
 <offer id="2173201423" available="true">
@@ -618,10 +606,10 @@
 <param name="Интерфейсы">VGA</param>
 <param name="Количество LAN-портов">1</param>
 <param name="Количество слотов памяти">2</param>
+<param name="Разъемы">LGA1200</param>
 <param name="Состояние">Новое</param>
 <param name="Тип оперативной памяти">DDR4</param>
 <param name="Форм-фактор">microATX</param>
-<param name="Разъемы">LGA 1200</param>
 <param name="Audio" unit="">3</param>
 <param name="Aудіокодек" unit="">Realtek HD Audio</param>
 <param name="Ethernet" unit="">Gigabit Ethernet</param>
@@ -669,10 +657,9 @@
 </offer>
 <offer id="2222509160" available="true">
 <url>https://tera-flops.com.ua/ua/p2222509160-povitryane-oholodzhennya-dlya.html</url>
-<price>2200</price>
+<price>2100</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649259</categoryId>
-<picture>https://images.prom.ua/5857704787_povitryane-oholodzhennya-dlya.jpg</picture>
 <picture>https://images.prom.ua/5857704790_povitryane-oholodzhennya-dlya.jpg</picture>
 <picture>https://images.prom.ua/5857704793_povitryane-oholodzhennya-dlya.jpg</picture>
 <pickup>true</pickup>
@@ -680,22 +667,12 @@
 <name>Повітряне охолодження для ПК Jiushark JF13K Black (JF13K Black)</name>
 <vendor>Jiushark</vendor>
 <vendorCode>JF13K Black</vendorCode>
-<param name="Назначение">Для процессора</param>
-<param name="Тип подшипника">Скольжения</param>
+<param name="Гарантийный срок" unit="мес">6</param>
 <param name="Состояние">Новое</param>
-<param name="Количество вентиляторов" unit="">2</param>
-<param name="Тип" unit="">Повітряне охолодження</param>
-<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
-<param name="Максимальна швидкість обертання, об / хв" unit="">1850</param>
-<param name="Діаметр вентилятора, мм" unit="">120</param>
-<param name="Гарантія, міс" unit="">6</param>
-<param name="Разъем" unit="">4pin</param>
-<param name="Напруга живлення, В" unit="">12</param>
-<param name="Регулювання обертів" unit="">PWM</param>
 </offer>
 <offer id="2222509161" available="true">
 <url>https://tera-flops.com.ua/ua/p2222509161-povitryane-oholodzhennya-jiushark.html</url>
-<price>2300</price>
+<price>2100</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649259</categoryId>
 <picture>https://images.prom.ua/5857704796_povitryane-oholodzhennya-jiushark.jpg</picture>
@@ -707,16 +684,7 @@
 <vendor>Jiushark</vendor>
 <vendorCode>JF13K White ARGB</vendorCode>
 <param name="Гарантийный срок" unit="мес">6</param>
-<param name="Диаметр вентилятора" unit="мм">120</param>
-<param name="Количество кулеров">2</param>
-<param name="Максимальная скорость вращения" unit="об/мин">1850</param>
 <param name="Состояние">Новое</param>
-<param name="Тип подшипника">Скольжения</param>
-<param name="Тип разъема" unit="">4pin</param>
-<param name="Напряжение питания" unit="">12</param>
-<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
-<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
-<param name="Регулювання обертів" unit="">PWM</param>
 </offer>
 <offer id="2222509162" available="true">
 <url>https://tera-flops.com.ua/ua/p2222509162-povitryane-oholodzhennya-dlya.html</url>
@@ -819,19 +787,7 @@
 <vendor>Jiushark</vendor>
 <vendorCode>JF100RS White</vendorCode>
 <param name="Гарантийный срок" unit="мес">6</param>
-<param name="Диаметр вентилятора" unit="мм">100</param>
-<param name="Количество кулеров">1</param>
-<param name="Максимальная скорость вращения" unit="об/мин">2300</param>
-<param name="Максимальный уровень шума" unit="дБ">30</param>
 <param name="Состояние">Новое</param>
-<param name="Тип подшипника">Скольжения</param>
-<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
-<param name="Напряжение питания" unit="">12</param>
-<param name="Повітряний потік (CFM)" unit="">48</param>
-<param name="Разъемы" unit="">Socket AM5</param>
-<param name="Регулювання обертів" unit="">PWM</param>
-<param name="Тип разъема" unit="">4pin</param>
-<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
 </offer>
 <offer id="2224537598" available="true">
 <url>https://tera-flops.com.ua/ua/p2224537598-povitryane-oholodzhennya-jiushark.html</url>
@@ -867,64 +823,32 @@
 <price>900</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649259</categoryId>
-<picture>https://images.prom.ua/5970086430_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/5865422608_povitryane-oholodzhennya-jiushark.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Повітряне охолодження Jiushark JF100RS White RGB (JF100RS White RGB)</name>
 <vendor>Jiushark</vendor>
 <vendorCode>JF100RS White RGB</vendorCode>
-<param name="Назначение">Для процессора</param>
-<param name="Количество кулеров">1</param>
-<param name="Диаметр вентилятора" unit="мм">100</param>
-<param name="Максимальная скорость вращения" unit="об/мин">2300</param>
-<param name="Тип подшипника">Скольжения</param>
-<param name="Максимальный уровень шума" unit="дБ">30</param>
-<param name="Состояние">Новое</param>
 <param name="Гарантийный срок" unit="мес">6</param>
-<param name="Тип разъема" unit="">4pin</param>
-<param name="Разъемы" unit="">Socket AM5</param>
-<param name="Напряжение питания" unit="">12</param>
-<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
-<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
-<param name="Повітряний потік (CFM)" unit="">48</param>
-<param name="Колір підсвітки" unit="">RGB</param>
-<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Состояние">Новое</param>
 </offer>
 <offer id="2224537600" available="true">
 <url>https://tera-flops.com.ua/ua/p2224537600-povitryane-oholodzhennya-jiushark.html</url>
-<price>1000</price>
+<price>920</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649259</categoryId>
-<picture>https://images.prom.ua/5970047917_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/5865422614_povitryane-oholodzhennya-jiushark.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Повітряне охолодження Jiushark JF100RS White ARGB (JF100RS White ARGB)</name>
 <vendor>Jiushark</vendor>
 <vendorCode>JF100RS White ARGB</vendorCode>
-<param name="Назначение">Для процессора</param>
-<param name="Система охлаждения">Активная (кулер)</param>
-<param name="Количество кулеров">1</param>
-<param name="Диаметр вентилятора" unit="мм">100</param>
-<param name="Максимальная скорость вращения" unit="об/мин">2300</param>
-<param name="Тип подшипника">Скольжения</param>
-<param name="Максимальный уровень шума" unit="дБ">30</param>
-<param name="Материал радиатора">Алюминий</param>
-<param name="Тип разъема">4-pin</param>
+<param name="Гарантийный срок" unit="мес">6</param>
 <param name="Состояние">Новое</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Тип системы охлаждения">Активное охлаждение</param>
-<param name="Цвет">Белый</param>
-<param name="Разъемы" unit="">Socket AM5</param>
-<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
-<param name="Повітряний потік (CFM)" unit="">48</param>
-<param name="Колір підсвітки" unit="">ARGB</param>
-<param name="Напряжение питания" unit="">12</param>
-<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
-<param name="Регулювання обертів" unit="">PWM</param>
 </offer>
 <offer id="2224537601" available="true">
 <url>https://tera-flops.com.ua/ua/p2224537601-povitryane-oholodzhennya-dlya.html</url>
-<price>970</price>
+<price>900</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649259</categoryId>
 <picture>https://images.prom.ua/5961573927_povitryane-oholodzhennya-dlya.jpg</picture>
@@ -933,22 +857,8 @@
 <name>Повітряне охолодження для ПК Jiushark JF100RS Black ARGB (JF100RS Black ARGB)</name>
 <vendor>Jiushark</vendor>
 <vendorCode>JF100RS Black ARGB</vendorCode>
-<param name="Назначение">Для процессора</param>
-<param name="Тип подшипника">Скольжения</param>
+<param name="Гарантийный срок" unit="мес">6</param>
 <param name="Состояние">Новое</param>
-<param name="Количество вентиляторов" unit="">1</param>
-<param name="Тип" unit="">Повітряне охолодження</param>
-<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
-<param name="Повітряний потік (CFM)" unit="">48</param>
-<param name="Максимальна швидкість обертання, об / хв" unit="">2300</param>
-<param name="Діаметр вентилятора, мм" unit="">100</param>
-<param name="Гарантія, міс" unit="">6</param>
-<param name="Колір підсвітки" unit="">ARGB</param>
-<param name="Разъем" unit="">4pin</param>
-<param name="Напруга живлення, В" unit="">12</param>
-<param name="Регулювання обертів" unit="">PWM</param>
-<param name="Сокет" unit="">Socket AM4</param>
-<param name="Рівень шуму, дБ" unit="">30</param>
 </offer>
 <offer id="2238354662" available="true" group_id="79192459">
 <url>https://tera-flops.com.ua/ua/p2238354662-materinska-plata-huananzhi.html</url>
@@ -981,328 +891,6 @@
 <param name="Роз'єм живлення плати" unit="">24</param>
 <param name="Роз'єм живлення процесора" unit="">8 pin</param>
 </offer>
-<offer id="2266901386" available="true">
-<url>https://tera-flops.com.ua/ua/p2266901386-zaryadna-stantsiya-dji.html</url>
-<price>39000</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6023557793_zaryadna-stantsiya-dji.jpg</picture>
-<picture>https://images.prom.ua/6023557795_zaryadna-stantsiya-dji.jpg</picture>
-<picture>https://images.prom.ua/6023557796_zaryadna-stantsiya-dji.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція DJI Power 1000 2600W (DJI Power 1000) CN (доставка авіа)</name>
-<vendor>DJI</vendor>
-<vendorCode>DYM1000H</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="Тип аккумулятора">LiFePO4</param>
-<param name="Габариты (мм)" unit="">230x448x225</param>
-<param name="Час зарядки (розетка)" unit="">50 хв</param>
-<param name="Вес (кг)" unit="">13</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Пиковая мощность" unit="">2200 Вт</param>
-<param name="Час зарядки (сонячна панель)" unit="">172 хв</param>
-<param name="USB-A (швидкої зарядки)" unit="">2 шт, 5В/3A, 9В/2A, 12В/1.5A, 24 Вт</param>
-<param name="Номинальная мощность" unit="">1000 Вт</param>
-<param name="USB type C" unit="">2 шт, 5 A, 100 Вт</param>
-<param name="Підключення дод. батареї" unit="">Да</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
-<param name="Функція ДБЖ" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">2</param>
-<param name="Дисплей" unit="">Да</param>
-</offer>
-<offer id="2266925169" available="true">
-<url>https://tera-flops.com.ua/ua/p2266925169-zaryadna-stantsiya-dji.html</url>
-<price>22000</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6023675324_zaryadna-stantsiya-dji.jpg</picture>
-<picture>https://images.prom.ua/6023675326_zaryadna-stantsiya-dji.jpg</picture>
-<picture>https://images.prom.ua/6023675327_zaryadna-stantsiya-dji.jpg</picture>
-<picture>https://images.prom.ua/6023675328_zaryadna-stantsiya-dji.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція DJI Power 500 1000W (DJI Power 500) CN (доставка авіа)</name>
-<vendor>DJI</vendor>
-<vendorCode>DYM500H</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="Тип аккумулятора">LiFePO4</param>
-<param name="Габариты (мм)" unit="">177x207x305</param>
-<param name="Час зарядки (розетка)" unit="">50 хв</param>
-<param name="Вес (кг)" unit="">7.3</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Пиковая мощность" unit="">1000 Вт</param>
-<param name="Час зарядки (сонячна панель)" unit="">240 хв</param>
-<param name="USB-A (швидкої зарядки)" unit="">2 шт, 5В/3A, 9В/2A, 12В/1.5A, 24 Вт</param>
-<param name="Номинальная мощность" unit="">500 Вт</param>
-<param name="USB type C" unit="">2 шт, 5 A, 100 Вт</param>
-<param name="Підключення дод. батареї" unit="">Да</param>
-<param name="Додаткові входи" unit="">SDC Lite In/Out (22.4 – 29.2 В / 10 А 300 Вт)</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
-<param name="Функція ДБЖ" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">2</param>
-<param name="Дисплей" unit="">Да</param>
-</offer>
-<offer id="2266927640" available="true">
-<url>https://tera-flops.com.ua/ua/p2266927640-zaryadna-stantsiya-bluetti.html</url>
-<price>70000</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6026840662_zaryadna-stantsiya-bluetti.jpg</picture>
-<picture>https://images.prom.ua/6026840664_zaryadna-stantsiya-bluetti.jpg</picture>
-<picture>https://images.prom.ua/6026840665_zaryadna-stantsiya-bluetti.jpg</picture>
-<picture>https://images.prom.ua/6026840704_zaryadna-stantsiya-bluetti.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція Bluetti AC200L 2400W (AC200L) CN (доставка авіа)</name>
-<vendor>Bluetti</vendor>
-<vendorCode>AC200L</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Тип">Зарядная станция</param>
-<param name="Тип аккумулятора">LiFePO4</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="Габариты (мм)" unit="">367x420x280</param>
-<param name="Час зарядки (розетка)" unit="">60 хв</param>
-<param name="Вес (кг)" unit="">28.3</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Вихід DC" unit="">2-pin Aviation Socket (12 – 145 В / 15 А / 1200 Вт)</param>
-<param name="Пиковая мощность" unit="">3600 Вт</param>
-<param name="Час зарядки (сонячна панель)" unit="">168 хв</param>
-<param name="USB-A (швидкої зарядки)" unit="">2шт, 5В/3A, 9В/2A, 12В/1.5A,18 Вт</param>
-<param name="Номинальная мощность" unit="">2400 Вт</param>
-<param name="USB type C" unit="">2 шт, 3 A, 5 A, 100 Вт</param>
-<param name="Додаткові входи" unit="">RV (48 В / 8 А)</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
-<param name="Функція ДБЖ" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">4</param>
-<param name="Дисплей" unit="">Да</param>
-</offer>
-<offer id="2266930039" available="true">
-<url>https://tera-flops.com.ua/ua/p2266930039-zaryadna-stantsiya-bluetti.html</url>
-<price>10000</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6023711564_zaryadna-stantsiya-bluetti.jpg</picture>
-<picture>https://images.prom.ua/6023711565_zaryadna-stantsiya-bluetti.jpg</picture>
-<picture>https://images.prom.ua/6023711566_zaryadna-stantsiya-bluetti.jpg</picture>
-<picture>https://images.prom.ua/6023711567_zaryadna-stantsiya-bluetti.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція Bluetti AC2A 300W (AC2A) CN (доставка авіа)</name>
-<vendor>Bluetti</vendor>
-<vendorCode>AC2A</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Тип">Зарядная станция</param>
-<param name="Тип аккумулятора">LiFePO4</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="Габариты (мм)" unit="">250x156,5x174,5</param>
-<param name="Час зарядки (розетка)" unit="">70 хв</param>
-<param name="Вес (кг)" unit="">3.6</param>
-<param name="USB A" unit="">2шт</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Пиковая мощность" unit="">600 Вт</param>
-<param name="Час зарядки (сонячна панель)" unit="">90 хв</param>
-<param name="Номинальная мощность" unit="">300 Вт</param>
-<param name="USB type C" unit="">1шт</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
-<param name="Функція ДБЖ" unit="">Да</param>
-<param name="Дисплей" unit="">Да</param>
-</offer>
-<offer id="2266930861" available="true">
-<url>https://tera-flops.com.ua/ua/p2266930861-zaryadna-stantsiya-bluetti.html</url>
-<price>40000</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6023717687_zaryadna-stantsiya-bluetti.jpg</picture>
-<picture>https://images.prom.ua/6023717688_zaryadna-stantsiya-bluetti.jpg</picture>
-<picture>https://images.prom.ua/6023717689_zaryadna-stantsiya-bluetti.jpg</picture>
-<picture>https://images.prom.ua/6023717690_zaryadna-stantsiya-bluetti.jpg</picture>
-<picture>https://images.prom.ua/6023717691_zaryadna-stantsiya-bluetti.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція Bluetti AC180 1800W (AC180) CN (доставка авіа)</name>
-<vendor>Bluetti</vendor>
-<vendorCode>AC180</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Тип аккумулятора">LiFePO4</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="Габариты (мм)" unit="">340x247x317</param>
-<param name="Час зарядки (розетка)" unit="">110 хв</param>
-<param name="Вес (кг)" unit="">16</param>
-<param name="USB A" unit="">4 шт, 5В/3A, 15 Вт</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Вихід DC" unit="">1 шт DC7909 (12 – 60 В / 10 А / 500 Вт)</param>
-<param name="Пиковая мощность" unit="">2700 Вт</param>
-<param name="Час зарядки (сонячна панель)" unit="">200 хв</param>
-<param name="Номинальная мощность" unit="">1800 Вт</param>
-<param name="USB type C" unit="">1 шт, 3 A, 5 A, 100 Вт</param>
-<param name="Підключення дод. батареї" unit="">Да</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
-<param name="Функція ДБЖ" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">2</param>
-<param name="Дисплей" unit="">Да</param>
-</offer>
-<offer id="2266941152" available="true">
-<url>https://tera-flops.com.ua/ua/p2266941152-zaryadna-stantsiya-ecoflow.html</url>
-<price>33000</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6023754195_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6023754196_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6023754197_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6023754198_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6023754199_zaryadna-stantsiya-ecoflow.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція EcoFlow Delta 2 1800W (DELTA2 1800W) CN</name>
-<vendor>EcoFlow</vendor>
-<vendorCode>ZMR330-CN</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="Тип аккумулятора">LiFePO4</param>
-<param name="Габариты (мм)" unit="">281x211x400</param>
-<param name="Час зарядки (розетка)" unit="">80 хв</param>
-<param name="Вес (кг)" unit="">12</param>
-<param name="USB A" unit="">2 шт, 5В/2.4А, 12 Вт</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Вихід DC" unit="">2 шт DC5521 (12.6 В / 3 A / 38 Вт)</param>
-<param name="Пиковая мощность" unit="">2700 Вт</param>
-<param name="Час зарядки (сонячна панель)" unit="">180 хв</param>
-<param name="USB-A (швидкої зарядки)" unit="">2 шт, 5В/2.4A, 9В/2A, 12В/1.5A,18 Вт</param>
-<param name="Номинальная мощность" unit="">1800 Вт</param>
-<param name="Вхід XT60" unit="">Да</param>
-<param name="USB type C" unit="">2 шт, 5 A, 100 Вт</param>
-<param name="Підключення дод. батареї" unit="">Да</param>
-<param name="Додаткові входи" unit="">Х-Stream port (C13/14)</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
-<param name="Функція ДБЖ" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">4</param>
-<param name="Дисплей" unit="">Да</param>
-</offer>
-<offer id="2266942658" available="true">
-<url>https://tera-flops.com.ua/ua/p2266942658-zaryadna-stantsiya-ecoflow.html</url>
-<price>17000</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6023761615_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6023761617_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6023761619_zaryadna-stantsiya-ecoflow.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція EcoFlow River 2 Max 500W (RIVER2 MAX 500W) CN (доставка авіа)</name>
-<vendor>EcoFlow</vendor>
-<vendorCode>RIVER 2 MAX 500W</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="Тип аккумулятора">LiFePO4</param>
-<param name="Габариты (мм)" unit="">196x270x260</param>
-<param name="Час зарядки (розетка)" unit="">60 хв</param>
-<param name="Вес (кг)" unit="">6</param>
-<param name="USB A" unit="">3 шт, 5В/2.4А, 12 Вт</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Вихід DC" unit="">2 шт DC5521 (12.6 В / 3 A / 36 Вт)</param>
-<param name="Пиковая мощность" unit="">1000 Вт</param>
-<param name="Час зарядки (сонячна панель)" unit="">180 хв</param>
-<param name="Номинальная мощность" unit="">500 Вт</param>
-<param name="Вхід XT60" unit="">Да</param>
-<param name="USB type C" unit="">1 шт, 5 A, 100 Вт</param>
-<param name="Підключення дод. батареї" unit="">Да</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
-<param name="Функція ДБЖ" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">2</param>
-<param name="Дисплей" unit="">Да</param>
-</offer>
-<offer id="2266949179" available="true">
-<url>https://tera-flops.com.ua/ua/p2266949179-zaryadna-stantsiya-ecoflow.html</url>
-<price>10000</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6023776423_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6023776426_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6023776430_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6023776433_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6023776436_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6023776447_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6023776453_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6023776455_zaryadna-stantsiya-ecoflow.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція EcoFlow River 2 300W (RIVER2 300W) CN (доставка авіа)</name>
-<vendor>EcoFlow</vendor>
-<vendorCode>RIVER 2 300W</vendorCode>
-<param name="Відвантаження зі складу">21</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="Тип аккумулятора">LiFePO4</param>
-<param name="Габариты (мм)" unit="">142x245x214</param>
-<param name="Час зарядки (розетка)" unit="">60 хв</param>
-<param name="Вес (кг)" unit="">3.5</param>
-<param name="USB A" unit="">2 шт, 5В/2.4А, 12 Вт</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Вихід DC" unit="">1 шт (12.6 В / 8 А / 100 Вт)</param>
-<param name="Пиковая мощность" unit="">600 Вт</param>
-<param name="Час зарядки (сонячна панель)" unit="">180 хв</param>
-<param name="Номинальная мощность" unit="">300 Вт</param>
-<param name="Вхід XT60" unit="">Да</param>
-<param name="USB type C" unit="">1 шт, 3 A, 60 Вт</param>
-<param name="Підключення дод. батареї" unit="">Да</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
-<param name="Функція ДБЖ" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">1</param>
-<param name="Дисплей" unit="">Да</param>
-</offer>
-<offer id="2267122092" available="true">
-<url>https://tera-flops.com.ua/ua/p2267122092-zaryadna-stantsiya-ecoflow.html</url>
-<price>29260</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6024316268_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6024316270_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6024316275_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6024316277_zaryadna-stantsiya-ecoflow.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція EcoFlow River 2 Pro 800W (RIVER2 PRO 800W) CN (UT)</name>
-<vendor>EcoFlow</vendor>
-<vendorCode>RIVER 2 PRO 800W</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="Тип аккумулятора">LiFePO4</param>
-<param name="Габариты (мм)" unit="">226x270x260</param>
-<param name="Час зарядки (розетка)" unit="">70 хв</param>
-<param name="Вес (кг)" unit="">7.8</param>
-<param name="USB A" unit="">3 шт, 5В/2.4А, 12 Вт</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Вихід DC" unit="">2 шт DC5521 (12.6 В / 3 A / 36 Вт)</param>
-<param name="Пиковая мощность" unit="">1600 Вт</param>
-<param name="Час зарядки (сонячна панель)" unit="">210 хв</param>
-<param name="Номинальная мощность" unit="">800 Вт</param>
-<param name="Вхід XT60" unit="">Да</param>
-<param name="USB type C" unit="">1 шт, 5 A, 100 Вт</param>
-<param name="Підключення дод. батареї" unit="">Да</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
-<param name="Функція ДБЖ" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">3</param>
-<param name="Дисплей" unit="">Да</param>
-</offer>
 <offer id="2267140509" available="true">
 <url>https://tera-flops.com.ua/ua/p2267140509-universalna-mobilna-batareya.html</url>
 <price>411</price>
@@ -1313,7 +901,7 @@
 <delivery>true</delivery>
 <name>Універсальна мобільна батарея Voltronic ASONIC AS-P10 10000mAh, Output 2USB, Black (ASONIC AS-P10/29359)</name>
 <vendor>Voltronic</vendor>
-<vendorCode>ASONIC AS-P10-B</vendorCode>
+<vendorCode>AS-P10/29359</vendorCode>
 <param name="Вес" unit="г">220</param>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Емкость аккумулятора" unit="мА/ч">10000</param>
@@ -1440,28 +1028,28 @@
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Універсальна мобільна батарея TX-10 10000mAh, 2USB, Mix color, Box Black (TX-10/29362)</name>
-<vendor>Powerway</vendor>
+<vendor>Power Way</vendor>
 <vendorCode>TX-10/29362</vendorCode>
-<param name="Вес" unit="г">245</param>
-<param name="Гарантийный срок" unit="мес">24</param>
 <param name="Емкость аккумулятора" unit="мА/ч">10000</param>
 <param name="Материал корпуса">Алюминий</param>
+<param name="Гарантийный срок" unit="мес">24</param>
 <param name="Состояние">Новое</param>
-<param name="USB type С (потужність; напруга/струм)" unit="">10.5</param>
-<param name="USB-A (потужність; напруга/струм)" unit="">10.5</param>
-<param name="Ємність батареї (Вт*год)" unit="">37</param>
-<param name="Входи зарядки пристрою" unit="">USB type C</param>
-<param name="Кількість USB type C" unit="">2</param>
-<param name="Кількість USB-A" unit="">1</param>
-<param name="Макс. потужність (на 1 порт)" unit="">10.5</param>
-<param name="Потужність заряду пристрою (Вт)" unit="">10</param>
-<param name="Реальна ємність" unit="">6300</param>
+<param name="Вес" unit="г">245</param>
 <param name="Розміри (мм)" unit="">145x69x27</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">10</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">10.5</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Функции" unit="">світильник</param>
 <param name="Струм заряду по USB (A)" unit="">2</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">10.5</param>
+<param name="Кількість USB type C" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">10.5</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
 <param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
 <param name="Тип акумуляторів" unit="">Li-Pol</param>
-<param name="Функции" unit="">світильник</param>
-<param name="Час повної зарядки (год)" unit="">4</param>
+<param name="Реальна ємність" unit="">6300</param>
 </offer>
 <offer id="2267140519" available="true">
 <url>https://tera-flops.com.ua/ua/p2267140519-universalna-mobilna-batareya.html</url>
@@ -1922,7 +1510,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Eaton 3S 700 DIN</name>
 <vendor>Eaton</vendor>
-<vendorCode>3S700D</vendorCode>
+<vendorCode>3S700DIN</vendorCode>
 <param name="Вес" unit="кг">3.8</param>
 <param name="Время переключения" unit="мс">5</param>
 <param name="Время работы при полной нагрузке" unit="мин">2</param>
@@ -2084,42 +1672,185 @@
 <param name="Функции" unit="">світильник</param>
 <param name="Час повної зарядки (год)" unit="">4</param>
 </offer>
-<offer id="2308817869" available="true">
-<url>https://tera-flops.com.ua/ua/p2308817869-materinska-plata-asus.html</url>
-<price>8179</price>
+<offer id="2313721083" available="true">
+<url>https://tera-flops.com.ua/ua/p2313721083-zaryadna-stantsiya-bandera.html</url>
+<price>18355</price>
 <currencyId>UAH</currencyId>
-<categoryId>97644299</categoryId>
-<picture>https://images.prom.ua/6175051487_materinska-plata-asus.jpg</picture>
-<picture>https://images.prom.ua/6175051490_materinska-plata-asus.jpg</picture>
-<picture>https://images.prom.ua/6175051493_materinska-plata-asus.jpg</picture>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6191535804_zaryadna-stantsiya-bandera.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<name>Материнська плата ASUS ROG STRIX B550-F GAMING WIFI II (ROG STRIX B550-F GAMING WIFI II)</name>
-<vendor>Asus</vendor>
-<vendorCode>ROG STRIX B550-F GAMING WIFI II</vendorCode>
-<param name="Гарантийный срок" unit="мес">36</param>
-<param name="Интерфейсы">DisplayPort|HDMI</param>
-<param name="Количество LAN-портов">1</param>
-<param name="Количество слотов памяти">4</param>
+<name>Зарядна станція Bandera Power 125</name>
+<vendor>ПромАвтоматика Вінниця</vendor>
+<vendorCode>BP 125</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
-<param name="Тип оперативной памяти">DDR4</param>
-<param name="Форм-фактор">ATX</param>
-<param name="Audio" unit="">5</param>
-<param name="Aудіокодек" unit="">ROG SupremeFX S1220A (7.1)</param>
-<param name="Ethernet" unit="">Intel I225-V (2.5GbE)</param>
-<param name="SATA Revision 3.0" unit="">6</param>
-<param name="USB 2.0" unit="">2</param>
-<param name="USB 3.2 Gen 1" unit="">4</param>
-<param name="USB 3.2 Gen 2" unit="">1</param>
-<param name="Видеоинтерфейс" unit="">PCI-Express 4.0</param>
-<param name="Кількість M.2" unit="">2</param>
-<param name="Кількість роз'ємів FAN" unit="">6</param>
-<param name="Поддержка RAID" unit="">0/1/10</param>
-<param name="Разъемы" unit="">Socket AM4</param>
-<param name="Роз'єм живлення плати" unit="">24</param>
-<param name="Роз'єм живлення процесора" unit="">8+4 pin</param>
-<param name="Тип M.2" unit="">SATA</param>
-<param name="Чипсет" unit="">B550</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Габариты (мм)" unit="">355х281х163</param>
+<param name="Вес (кг)" unit="">4.5</param>
+<param name="USB-A (швидкої зарядки)" unit="">4</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Ємність батареї (Вт*год)" unit="">460 Вт*год</param>
+</offer>
+<offer id="2313721084" available="true">
+<url>https://tera-flops.com.ua/ua/p2313721084-zaryadna-stantsiya-bandera.html</url>
+<price>26775</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6191535802_zaryadna-stantsiya-bandera.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Bandera Power 180</name>
+<vendor>ПромАвтоматика Вінниця</vendor>
+<vendorCode>BP 180</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Габариты (мм)" unit="">355х281х163</param>
+<param name="Вес (кг)" unit="">6.25</param>
+<param name="Пиковая мощность" unit="">150</param>
+<param name="USB-A (швидкої зарядки)" unit="">4</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">1</param>
+<param name="Ємність батареї (Вт*год)" unit="">670 Вт*год</param>
+</offer>
+<offer id="2313721085" available="true">
+<url>https://tera-flops.com.ua/ua/p2313721085-zaryadna-stantsiya-bandera.html</url>
+<price>30585</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6191535811_zaryadna-stantsiya-bandera.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Bandera Power 180 S</name>
+<vendor>ПромАвтоматика Вінниця</vendor>
+<vendorCode>BP 180 S</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Габариты (мм)" unit="">355х281х163</param>
+<param name="Вес (кг)" unit="">6.4</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Пиковая мощность" unit="">500</param>
+<param name="USB-A (швидкої зарядки)" unit="">4</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Ємність батареї (Вт*год)" unit="">670 Вт*год</param>
+</offer>
+<offer id="2313721086" available="true">
+<url>https://tera-flops.com.ua/ua/p2313721086-zaryadna-stantsiya-bandera.html</url>
+<price>39690</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6191535796_zaryadna-stantsiya-bandera.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Bandera Power 225 S</name>
+<vendor>ПромАвтоматика Вінниця</vendor>
+<vendorCode>BP 225 S</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Габариты (мм)" unit="">355х281х163</param>
+<param name="Вес (кг)" unit="">7.65</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Пиковая мощность" unit="">500</param>
+<param name="USB-A (швидкої зарядки)" unit="">4</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Ємність батареї (Вт*год)" unit="">830 Вт*год</param>
+</offer>
+<offer id="2313721087" available="true">
+<url>https://tera-flops.com.ua/ua/p2313721087-zaryadna-stantsiya-bandera.html</url>
+<price>45540</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6191535809_zaryadna-stantsiya-bandera.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Bandera Power 305 S</name>
+<vendor>ПромАвтоматика Вінниця</vendor>
+<vendorCode>BP 305 S</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">LiFePO4</param>
+<param name="Габариты (мм)" unit="">560х340х200</param>
+<param name="Вес (кг)" unit="">15.5</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Пиковая мощность" unit="">1000</param>
+<param name="USB-A (швидкої зарядки)" unit="">4</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">3</param>
+<param name="Ємність батареї (Вт*год)" unit="">1126 Вт*год</param>
+</offer>
+<offer id="2313721088" available="true">
+<url>https://tera-flops.com.ua/ua/p2313721088-zaryadna-stantsiya-bandera.html</url>
+<price>56070</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6191535814_zaryadna-stantsiya-bandera.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Bandera Power 430 S</name>
+<vendor>ПромАвтоматика Вінниця</vendor>
+<vendorCode>BP 430 S</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">LiFePO4</param>
+<param name="Габариты (мм)" unit="">560х340х200</param>
+<param name="Вес (кг)" unit="">18.55</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Пиковая мощность" unit="">1000</param>
+<param name="USB-A (швидкої зарядки)" unit="">4</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">3</param>
+<param name="Ємність батареї (Вт*год)" unit="">1600 Вт*год</param>
+</offer>
+<offer id="2313721089" available="true">
+<url>https://tera-flops.com.ua/ua/p2313721089-zaryadna-stantsiya-bandera.html</url>
+<price>70065</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6191535827_zaryadna-stantsiya-bandera.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Bandera Power 610 S</name>
+<vendor>ПромАвтоматика Вінниця</vendor>
+<vendorCode>BP 610 S</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">LiFePO4</param>
+<param name="Габариты (мм)" unit="">550х380х230</param>
+<param name="Вес (кг)" unit="">31.15</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Пиковая мощность" unit="">1000</param>
+<param name="USB-A (швидкої зарядки)" unit="">4</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">3</param>
+<param name="Ємність батареї (Вт*год)" unit="">2253 Вт*год</param>
+</offer>
+<offer id="2313721090" available="true">
+<url>https://tera-flops.com.ua/ua/p2313721090-zaryadna-stantsiya-bandera.html</url>
+<price>86805</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6191535797_zaryadna-stantsiya-bandera.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Bandera Power 860 S</name>
+<vendor>ПромАвтоматика Вінниця</vendor>
+<vendorCode>BP 860 S</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">LiFePO4</param>
+<param name="Габариты (мм)" unit="">550х380х230</param>
+<param name="Вес (кг)" unit="">31.15</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Пиковая мощность" unit="">2000</param>
+<param name="USB-A (швидкої зарядки)" unit="">4</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">3</param>
+<param name="Ємність батареї (Вт*год)" unit="">3200 Вт*год</param>
 </offer>
 <offer id="2321322153" available="true">
 <url>https://tera-flops.com.ua/ua/p2321322153-poverbank-choetech-10000mah.html</url>
@@ -2148,157 +1879,340 @@
 <param name="Тип акумуляторів" unit="">Li-Pol</param>
 <param name="Функции" unit="">світильник</param>
 </offer>
-<offer id="2326364829" available="true">
-<url>https://tera-flops.com.ua/ua/p2326364829-protsesor-intel-core.html</url>
-<price>5591</price>
-<currencyId>UAH</currencyId>
-<categoryId>97641447</categoryId>
-<picture>https://images.prom.ua/3802063218_protsesor-intel-core.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Процесор Intel Core i5 11400F LGA 1200 (BX8070811400F)</name>
-<vendor>Intel</vendor>
-<vendorCode>BX8070811400F</vendorCode>
-<param name="Внутренняя тактовая частота" unit="ГГц">2.6</param>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество потоков процессора">12</param>
-<param name="Количество ядер процессора">6</param>
-<param name="Комплектация">Box</param>
-<param name="Семейство процессора">Core i5</param>
-<param name="Состояние">Новое</param>
-<param name="Разъемы">LGA1200</param>
-<param name="Мoдель" unit="">Intel Core i5-11400F</param>
-<param name="Назначение" unit="">Десктопний</param>
-<param name="Об'єм кеш-пам'яті третього рівня, МБ" unit="">12</param>
-<param name="Тип памяти" unit="">DDR4-3200</param>
-<param name="Частота Turbo Boost" unit="">4.4</param>
-</offer>
-<offer id="2329032334" available="true">
-<url>https://tera-flops.com.ua/ua/p2329032334-videokarta-geforce-rtx.html</url>
-<price>21057</price>
+<offer id="2329032341" available="true">
+<url>https://tera-flops.com.ua/ua/p2329032341-videokarta-geforce-rtx.html</url>
+<price>14872</price>
 <currencyId>UAH</currencyId>
 <categoryId>85328986</categoryId>
-<picture>https://images.prom.ua/6239601028_videokarta-geforce-rtx.jpg</picture>
-<picture>https://images.prom.ua/6246753171_videokarta-geforce-rtx.jpg</picture>
-<picture>https://images.prom.ua/6239601033_videokarta-geforce-rtx.jpg</picture>
-<picture>https://images.prom.ua/6239601034_videokarta-geforce-rtx.jpg</picture>
-<picture>https://images.prom.ua/6239601036_videokarta-geforce-rtx.jpg</picture>
-<picture>https://images.prom.ua/6239601041_videokarta-geforce-rtx.jpg</picture>
-<picture>https://images.prom.ua/6246753173_videokarta-geforce-rtx.jpg</picture>
-<picture>https://images.prom.ua/6239601046_videokarta-geforce-rtx.jpg</picture>
-<picture>https://images.prom.ua/6239601052_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239601163_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239601166_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239601167_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6246753193_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239601172_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239601174_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239601176_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239601179_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239601182_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239601184_videokarta-geforce-rtx.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<name>Відеокарта GeForce RTX 4060 Ti 8GB Asus TUF Gaming OC (TUF-RTX4060TI-O8G-GAMING)</name>
-<vendor>Asus</vendor>
-<vendorCode>TUF-RTX4060TI-O8G-GAMING</vendorCode>
+<name>Відеокарта GeForce RTX 4060 8GB Gigabyte EAGLE OC (GV-N4060EAGLE OC-8GD)</name>
+<vendor>Gigabyte</vendor>
+<vendorCode>GV-N4060EAGLE OC-8GD</vendorCode>
 <param name="Гарантийный срок" unit="мес">36</param>
-<param name="Графический чипсет">GeForce RTX 4060 TI</param>
+<param name="Интерфейсы">HDMI|DisplayPort</param>
+<param name="Объем видеопамяти" unit="MB">8</param>
+<param name="Состояние">Новое</param>
+<param name="Тип видеопамяти">GDDR6</param>
+<param name="Частота видеопамяти" unit="МГц">17000</param>
+<param name="Частота процессора" unit="МГц">2505</param>
+<param name="Графический чипсет" unit="">GeForce RTX 4060</param>
+<param name="Система охлаждения" unit="">Активна</param>
+<param name="Разрядность шины памяти" unit="">128</param>
+<param name="Тип подключения" unit="">PCI-Express 4.0</param>
+<param name="Рекомендована потужність блоку живлення, Вт" unit="">450</param>
+<param name="Дополнительное питание" unit="">8 pin</param>
+<param name="Максимальное разрешение" unit="">7680x4320</param>
+<param name="Виробник GPU" unit="">Nvidia</param>
+</offer>
+<offer id="2329032342" available="true">
+<url>https://tera-flops.com.ua/ua/p2329032342-videokarta-geforce-rtx.html</url>
+<price>14038</price>
+<currencyId>UAH</currencyId>
+<categoryId>85328986</categoryId>
+<picture>https://images.prom.ua/6239601185_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239601188_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239601190_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239601192_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6246753197_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239601197_videokarta-geforce-rtx.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Відеокарта GeForce RTX 4060 8GB Gigabyte WINDFORCE OC (GV-N4060WF2OC-8GD)</name>
+<vendor>Gigabyte</vendor>
+<vendorCode>GV-N4060WF2OC-8GD</vendorCode>
+<param name="Гарантийный срок" unit="мес">36</param>
+<param name="Интерфейсы">HDMI|DisplayPort</param>
+<param name="Объем видеопамяти" unit="MB">8</param>
+<param name="Состояние">Новое</param>
+<param name="Тип видеопамяти">GDDR6</param>
+<param name="Частота видеопамяти" unit="МГц">17000</param>
+<param name="Частота процессора" unit="МГц">2475</param>
+<param name="Виробник GPU" unit="">Nvidia</param>
+<param name="Графический чипсет" unit="">GeForce RTX 4060</param>
+<param name="Дополнительное питание" unit="">8 pin</param>
+<param name="Максимальное разрешение" unit="">7680x4320</param>
+<param name="Разрядность шины памяти" unit="">128</param>
+<param name="Рекомендована потужність блоку живлення, Вт" unit="">450</param>
+<param name="Система охлаждения" unit="">Активна</param>
+<param name="Тип подключения" unit="">PCI-Express 4.0</param>
+</offer>
+<offer id="2329032416" available="true">
+<url>https://tera-flops.com.ua/ua/p2329032416-videokarta-amd-radeon.html</url>
+<price>12284</price>
+<currencyId>UAH</currencyId>
+<categoryId>85328986</categoryId>
+<picture>https://images.prom.ua/6246756173_videokarta-amd-radeon.jpg</picture>
+<picture>https://images.prom.ua/6246756174_videokarta-amd-radeon.jpg</picture>
+<picture>https://images.prom.ua/6239601919_videokarta-amd-radeon.jpg</picture>
+<picture>https://images.prom.ua/6239601921_videokarta-amd-radeon.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Відеокарта AMD Radeon RX 7600 8GB Gigabyte Gaming OC (GV-R76GAMING OC-8GD)</name>
+<vendor>Gigabyte</vendor>
+<vendorCode>GV-R76GAMING OC-8GD</vendorCode>
+<param name="Гарантийный срок" unit="мес">36</param>
 <param name="Интерфейсы">HDMI|DisplayPort</param>
 <param name="Объем видеопамяти" unit="MB">8</param>
 <param name="Состояние">Новое</param>
 <param name="Тип видеопамяти">GDDR6</param>
 <param name="Частота видеопамяти" unit="МГц">18000</param>
-<param name="Частота процессора" unit="МГц">2655</param>
-<param name="Виробник GPU" unit="">Nvidia</param>
+<param name="Частота процессора" unit="МГц">2755</param>
+<param name="Виробник GPU" unit="">AMD</param>
+<param name="Графический чипсет" unit="">Radeon RX 7600</param>
 <param name="Дополнительное питание" unit="">8 pin</param>
 <param name="Максимальное разрешение" unit="">7680x4320</param>
 <param name="Разрядность шины памяти" unit="">128</param>
-<param name="Рекомендована потужність блоку живлення, Вт" unit="">650</param>
+<param name="Рекомендована потужність блоку живлення, Вт" unit="">550</param>
 <param name="Система охлаждения" unit="">Активна</param>
-<param name="Споживана потужність, Вт" unit="">160</param>
 <param name="Тип подключения" unit="">PCI-Express 4.0</param>
 </offer>
-<offer id="2329032635" available="true">
-<url>https://tera-flops.com.ua/ua/p2329032635-videokarta-geforce-rtx.html</url>
-<price>31534</price>
+<offer id="2329032418" available="true">
+<url>https://tera-flops.com.ua/ua/p2329032418-videokarta-geforce-rtx.html</url>
+<price>27586</price>
 <currencyId>UAH</currencyId>
 <categoryId>85328986</categoryId>
-<picture>https://images.prom.ua/6246765852_videokarta-geforce-rtx.jpg</picture>
-<picture>https://images.prom.ua/6239622697_videokarta-geforce-rtx.jpg</picture>
-<picture>https://images.prom.ua/6246765857_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239601923_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239601926_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239601928_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239601929_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239601932_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6257885362_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239601935_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239601938_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239601939_videokarta-geforce-rtx.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<name>Відеокарта GeForce RTX 4070 Super 12GB Gigabyte Windforce OC (GV-N407SWF3OC-12GD)</name>
-<vendor>Gigabyte</vendor>
-<vendorCode>GV-N407SWF3OC-12GD</vendorCode>
-<param name="Гарантийный срок" unit="мес">36</param>
+<name>Відеокарта GeForce RTX 4070 12GB Palit JetStream (NED4070019K9-1047J)</name>
+<vendor>Palit</vendor>
+<vendorCode>NED4070019K9-1047J</vendorCode>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Интерфейсы">HDMI|DisplayPort</param>
 <param name="Объем видеопамяти" unit="MB">12</param>
 <param name="Состояние">Новое</param>
 <param name="Тип видеопамяти">GDDR6X</param>
 <param name="Частота видеопамяти" unit="МГц">21000</param>
-<param name="Частота процессора" unit="МГц">2505</param>
-<param name="Графический чипсет" unit="">GeForce RTX 4070</param>
-<param name="Система охлаждения" unit="">Активна</param>
-<param name="Интерфейсы" unit="">HDMI v.2.1a</param>
-<param name="Разрядность шины памяти" unit="">192</param>
-<param name="Тип подключения" unit="">PCI-Express 4.0</param>
-<param name="Рекомендована потужність блоку живлення, Вт" unit="">700</param>
-<param name="Дополнительное питание" unit="">16 pin</param>
-<param name="Максимальное разрешение" unit="">7680x4320</param>
+<param name="Частота процессора" unit="МГц">2475</param>
 <param name="Виробник GPU" unit="">Nvidia</param>
+<param name="Графический чипсет" unit="">GeForce RTX 4070</param>
+<param name="Дополнительное питание" unit="">8 pin</param>
+<param name="Максимальное разрешение" unit="">7680x4320</param>
+<param name="Разрядность шины памяти" unit="">192</param>
+<param name="Рекомендована потужність блоку живлення, Вт" unit="">750</param>
+<param name="Система охлаждения" unit="">Активна</param>
+<param name="Споживана потужність, Вт" unit="">200</param>
+<param name="Тип подключения" unit="">PCI-Express 4.0</param>
 </offer>
-<offer id="2329032684" available="true">
-<url>https://tera-flops.com.ua/ua/p2329032684-videokarta-geforce-rtx.html</url>
-<price>14827</price>
+<offer id="2329032493" available="true">
+<url>https://tera-flops.com.ua/ua/p2329032493-videokarta-amd-radeon.html</url>
+<price>22156</price>
 <currencyId>UAH</currencyId>
 <categoryId>85328986</categoryId>
-<picture>https://images.prom.ua/6239622520_videokarta-geforce-rtx.jpg</picture>
-<picture>https://images.prom.ua/6239622525_videokarta-geforce-rtx.jpg</picture>
-<picture>https://images.prom.ua/6246763968_videokarta-geforce-rtx.jpg</picture>
-<picture>https://images.prom.ua/6239622531_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239623388_videokarta-amd-radeon.jpg</picture>
+<picture>https://images.prom.ua/6239623370_videokarta-amd-radeon.jpg</picture>
+<picture>https://images.prom.ua/6246770627_videokarta-amd-radeon.jpg</picture>
+<picture>https://images.prom.ua/6239623375_videokarta-amd-radeon.jpg</picture>
+<picture>https://images.prom.ua/6239623377_videokarta-amd-radeon.jpg</picture>
+<picture>https://images.prom.ua/6239623380_videokarta-amd-radeon.jpg</picture>
+<picture>https://images.prom.ua/6239623383_videokarta-amd-radeon.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<name>Відеокарта GeForce RTX 4060 8GB Palit Infinity 2 OC (NE64060S19P1-1070L)</name>
-<vendor>Palit</vendor>
-<vendorCode>NE64060S19P1-1070L</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
+<name>Відеокарта AMD Radeon RX 7700 XT 12GB Gigabyte Gaming OC (GV-R77XTGAMING OC-12GD)</name>
+<vendor>Gigabyte</vendor>
+<vendorCode>GV-R77XTGAMING OC-12GD</vendorCode>
+<param name="Гарантийный срок" unit="мес">36</param>
+<param name="Графический чипсет">Radeon RX 7700 XT</param>
+<param name="Интерфейсы">HDMI|DisplayPort</param>
+<param name="Объем видеопамяти" unit="MB">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип видеопамяти">GDDR6</param>
+<param name="Частота видеопамяти" unit="МГц">18000</param>
+<param name="Виробник GPU" unit="">AMD</param>
+<param name="Дополнительное питание" unit="">8 + 8 pin</param>
+<param name="Максимальное разрешение" unit="">7680x4320</param>
+<param name="Разрядность шины памяти" unit="">192</param>
+<param name="Рекомендована потужність блоку живлення, Вт" unit="">700</param>
+<param name="Система охлаждения" unit="">Активна</param>
+<param name="Споживана потужність, Вт" unit="">245</param>
+<param name="Тип подключения" unit="">PCI-Express 4.0</param>
+</offer>
+<offer id="2329032535" available="true">
+<url>https://tera-flops.com.ua/ua/p2329032535-videokarta-amd-radeon.html</url>
+<price>26586</price>
+<currencyId>UAH</currencyId>
+<categoryId>85328986</categoryId>
+<picture>https://images.prom.ua/6239622203_videokarta-amd-radeon.jpg</picture>
+<picture>https://images.prom.ua/6239622208_videokarta-amd-radeon.jpg</picture>
+<picture>https://images.prom.ua/6239622212_videokarta-amd-radeon.jpg</picture>
+<picture>https://images.prom.ua/6239622176_videokarta-amd-radeon.jpg</picture>
+<picture>https://images.prom.ua/6239622179_videokarta-amd-radeon.jpg</picture>
+<picture>https://images.prom.ua/6239622223_videokarta-amd-radeon.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Відеокарта AMD Radeon RX 7800 XT 16GB Sapphire Pure (11330-03-20G)</name>
+<vendor>Sapphire</vendor>
+<vendorCode>11330-03-20G</vendorCode>
+<param name="Гарантийный срок" unit="мес">36</param>
+<param name="Графический чипсет">Radeon RX 7800 XT</param>
+<param name="Интерфейсы">HDMI|DisplayPort</param>
+<param name="Объем видеопамяти" unit="MB">16</param>
+<param name="Состояние">Новое</param>
+<param name="Тип видеопамяти">GDDR6</param>
+<param name="Частота видеопамяти" unit="МГц">19500</param>
+<param name="Частота процессора" unit="МГц">2475</param>
+<param name="Виробник GPU" unit="">AMD</param>
+<param name="Дополнительное питание" unit="">8 + 8 pin</param>
+<param name="Максимальное разрешение" unit="">7680x4320</param>
+<param name="Разрядность шины памяти" unit="">256</param>
+<param name="Рекомендована потужність блоку живлення, Вт" unit="">700</param>
+<param name="Система охлаждения" unit="">Активна</param>
+<param name="Споживана потужність, Вт" unit="">288</param>
+<param name="Тип подключения" unit="">PCI-Express 4.0</param>
+</offer>
+<offer id="2329032664" available="true">
+<url>https://tera-flops.com.ua/ua/p2329032664-videokarta-geforce-rtx.html</url>
+<price>14696</price>
+<currencyId>UAH</currencyId>
+<categoryId>85328986</categoryId>
+<picture>https://images.prom.ua/6257885292_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239601398_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239601405_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239601407_videokarta-geforce-rtx.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Відеокарта GeForce RTX 4060 8GB MSI Ventus 2X OC White (RTX 4060 VENTUS 2X WHITE 8G OC)</name>
+<vendor>MSI</vendor>
+<vendorCode>RTX 4060 VENTUS 2X WHITE 8G OC</vendorCode>
+<param name="Гарантийный срок" unit="мес">36</param>
+<param name="Интерфейсы">DisplayPort|HDMI</param>
 <param name="Объем видеопамяти" unit="MB">8</param>
 <param name="Состояние">Новое</param>
 <param name="Тип видеопамяти">GDDR6</param>
 <param name="Частота видеопамяти" unit="МГц">17000</param>
-<param name="Частота процессора" unit="МГц">2565</param>
+<param name="Частота процессора" unit="МГц">2490</param>
+<param name="Виробник GPU" unit="">Nvidia</param>
+<param name="Графический чипсет" unit="">GeForce RTX 4060</param>
+<param name="Дополнительное питание" unit="">8 pin</param>
+<param name="Максимальное разрешение" unit="">7680x4320</param>
+<param name="Разрядность шины памяти" unit="">128</param>
+<param name="Рекомендована потужність блоку живлення, Вт" unit="">550</param>
+<param name="Система охлаждения" unit="">Активна</param>
+<param name="Споживана потужність, Вт" unit="">120</param>
+<param name="Тип подключения" unit="">PCI-Express 4.0</param>
+</offer>
+<offer id="2329032667" available="true">
+<url>https://tera-flops.com.ua/ua/p2329032667-videokarta-geforce-rtx.html</url>
+<price>14323</price>
+<currencyId>UAH</currencyId>
+<categoryId>85328986</categoryId>
+<picture>https://images.prom.ua/6239601408_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239601411_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6277267730_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239601425_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6246753256_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239601429_videokarta-geforce-rtx.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Відеокарта GeForce RTX 4060 8GB Asus Dual Evo OC (DUAL-RTX4060-O8G-EVO)</name>
+<vendor>Asus</vendor>
+<vendorCode>DUAL-RTX4060-O8G-EVO</vendorCode>
+<param name="Гарантийный срок" unit="мес">36</param>
+<param name="Объем видеопамяти" unit="MB">8</param>
+<param name="Состояние">Новое</param>
+<param name="Тип видеопамяти">GDDR6</param>
+<param name="Частота видеопамяти" unit="МГц">17000</param>
+<param name="Частота процессора" unit="МГц">2535</param>
 <param name="Виробник GPU" unit="">Nvidia</param>
 <param name="Графический чипсет" unit="">GeForce RTX 4060</param>
 <param name="Дополнительное питание" unit="">8 pin</param>
 <param name="Интерфейсы" unit="">HDMI v.2.1a</param>
 <param name="Максимальное разрешение" unit="">7680x4320</param>
 <param name="Разрядность шины памяти" unit="">128</param>
-<param name="Рекомендована потужність блоку живлення, Вт" unit="">600</param>
+<param name="Рекомендована потужність блоку живлення, Вт" unit="">550</param>
 <param name="Система охлаждения" unit="">Активна</param>
 <param name="Тип подключения" unit="">PCI-Express 4.0</param>
 </offer>
-<offer id="2329032733" available="true">
-<url>https://tera-flops.com.ua/ua/p2329032733-videokarta-geforce-rtx.html</url>
-<price>54914</price>
+<offer id="2329032732" available="true">
+<url>https://tera-flops.com.ua/ua/p2329032732-videokarta-geforce-rtx.html</url>
+<price>25849</price>
 <currencyId>UAH</currencyId>
 <categoryId>85328986</categoryId>
-<picture>https://images.prom.ua/6246765844_videokarta-geforce-rtx.jpg</picture>
-<picture>https://images.prom.ua/6239622688_videokarta-geforce-rtx.jpg</picture>
-<picture>https://images.prom.ua/6239622689_videokarta-geforce-rtx.jpg</picture>
-<picture>https://images.prom.ua/6239622691_videokarta-geforce-rtx.jpg</picture>
-<picture>https://images.prom.ua/6239622692_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239622676_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239622678_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239622669_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239622681_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239622684_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239622685_videokarta-geforce-rtx.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<name>Відеокарта GeForce RTX 4080 Super 16GB MSI Gaming X Trio (GeForce RTX 4080 SUPER 16G GAMING X TRIO)</name>
-<vendor>MSI</vendor>
-<vendorCode>GeForce RTX 4080 SUPER 16G GAMING X TRIO</vendorCode>
-<param name="Гарантийный срок" unit="мес">36</param>
-<param name="Объем видеопамяти" unit="MB">16</param>
+<name>Відеокарта GeForce RTX 4070 12GB Palit White (NED4070019K9-1047L)</name>
+<vendor>Palit</vendor>
+<vendorCode>NED4070019K9-1047L</vendorCode>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Объем видеопамяти" unit="MB">12</param>
 <param name="Состояние">Новое</param>
 <param name="Тип видеопамяти">GDDR6X</param>
-<param name="Частота видеопамяти" unit="МГц">23000</param>
-<param name="Частота процессора" unit="МГц">2610</param>
-<param name="Графический чипсет" unit="">GeForce RTX 4080</param>
-<param name="Система охлаждения" unit="">Активна</param>
-<param name="Интерфейсы" unit="">Display Port v.1.4a</param>
-<param name="Разрядность шины памяти" unit="">256</param>
-<param name="Тип подключения" unit="">PCI-Express 4.0</param>
-<param name="Рекомендована потужність блоку живлення, Вт" unit="">850</param>
-<param name="Споживана потужність, Вт" unit="">320</param>
-<param name="Дополнительное питание" unit="">16 pin</param>
-<param name="Максимальное разрешение" unit="">7680x4320</param>
+<param name="Частота видеопамяти" unit="МГц">21000</param>
+<param name="Частота процессора" unit="МГц">1920</param>
 <param name="Виробник GPU" unit="">Nvidia</param>
+<param name="Графический чипсет" unit="">GeForce RTX 4070</param>
+<param name="Дополнительное питание" unit="">8 pin</param>
+<param name="Интерфейсы" unit="">Display Port v.1.4a</param>
+<param name="Максимальное разрешение" unit="">7680x4320</param>
+<param name="Разрядность шины памяти" unit="">192</param>
+<param name="Рекомендована потужність блоку живлення, Вт" unit="">750</param>
+<param name="Система охлаждения" unit="">Активна</param>
+<param name="Споживана потужність, Вт" unit="">200</param>
+<param name="Тип подключения" unit="">PCI-Express 4.0</param>
+</offer>
+<offer id="2333233238" available="true">
+<url>https://tera-flops.com.ua/ua/p2333233238-dbzh-apc-back.html</url>
+<price>5919</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6224502020_dbzh-apc-back-ups.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>ДБЖ APC Back-UPS 750VA/410W (BX750MI-GR)</name>
+<vendor>AEC</vendor>
+<vendorCode>BX750MI-GR</vendorCode>
+<param name="Вес" unit="кг">5.4</param>
+<param name="Время переключения" unit="мс">6</param>
+<param name="Время работы при полной нагрузке" unit="мин">0.38</param>
+<param name="Выходная мощность" unit="Вт">410</param>
+<param name="Выходное напряжение" unit="В">300</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">750</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">3</param>
+<param name="Частота тока" unit="Гц">60</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">9</param>
+<param name="Інтерфейси управління" unit="">USB</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">140</param>
+<param name="Вхідна частота (Гц)" unit="">50</param>
+<param name="Габариты (мм)" unit="">160x120x355</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Максимальний струм (А)" unit="">3</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Розеток з резервом (шт)" unit="">4</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+<param name="Час роботи при половинному навантаженні (хв)" unit="">6.5</param>
 </offer>
 <offer id="2341773599" available="true">
 <url>https://tera-flops.com.ua/ua/p2341773599-zaryadna-stantsiya-choetech.html</url>
@@ -2367,185 +2281,487 @@
 <param name="Дисплей" unit="">Да</param>
 <param name="Ємність батареї (Вт*год)" unit="">1997</param>
 </offer>
-<offer id="2313721083" available="true">
-<url>https://tera-flops.com.ua/ua/p2313721083-zaryadna-stantsiya-bandera.html</url>
-<price>18355</price>
+<offer id="2352264766" available="true">
+<url>https://tera-flops.com.ua/ua/p2352264766-zaryadna-stantsiya-invertor.html</url>
+<price>38230</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6191535804_zaryadna-stantsiya-bandera.jpg</picture>
+<picture>https://images.prom.ua/6272733500_zaryadna-stantsiya-invertor.jpg</picture>
+<picture>https://images.prom.ua/6272733501_zaryadna-stantsiya-invertor.jpg</picture>
+<picture>https://images.prom.ua/6272733502_zaryadna-stantsiya-invertor.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<name>Зарядна станція Bandera Power 125</name>
-<vendor>Промавтоматика Вінниця</vendor>
-<vendorCode>BP125</vendorCode>
+<name>Зарядна станція (інвертор) Bluetti AC300 3000W (без батареї) EU</name>
+<vendor>Bluetti</vendor>
+<vendorCode>AC300</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
-<param name="Тип аккумулятора">Li-Ion</param>
-<param name="Габариты (мм)" unit="">355х281х163</param>
-<param name="Вес (кг)" unit="">4.5</param>
-<param name="USB-A (швидкої зарядки)" unit="">4</param>
+<param name="Габариты (мм)" unit="">358х520х320</param>
+<param name="Вес (кг)" unit="">21.6</param>
+<param name="USB A" unit="">2</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Вихід DC" unit="">1x24V/10А;1х12V/ 30A</param>
+<param name="Пиковая мощность" unit="">6000</param>
+<param name="USB-A (швидкої зарядки)" unit="">2</param>
+<param name="Номинальная мощность" unit="">3000</param>
+<param name="USB type C" unit="">1</param>
+<param name="Підключення дод. батареї" unit="">Да</param>
 <param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Ємність батареї (Вт*год)" unit="">460 Вт*год</param>
+<param name="Форма вихідного сигналу" unit="">Чиста синусоїда</param>
+<param name="Функція ДБЖ" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">6</param>
+<param name="Дисплей" unit="">Да</param>
 </offer>
-<offer id="2313721084" available="true">
-<url>https://tera-flops.com.ua/ua/p2313721084-zaryadna-stantsiya-bandera.html</url>
-<price>26775</price>
+<offer id="2352264768" available="true">
+<url>https://tera-flops.com.ua/ua/p2352264768-zaryadna-stantsiya-bluetti.html</url>
+<price>9839</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6191535802_zaryadna-stantsiya-bandera.jpg</picture>
+<picture>https://images.prom.ua/6272733418_zaryadna-stantsiya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6272733419_zaryadna-stantsiya-bluetti.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<name>Зарядна станція Bandera Power 180</name>
-<vendor>Промавтоматика Вінниця</vendor>
-<vendorCode>BP180</vendorCode>
+<name>Зарядна станція Bluetti AC2P 300W EU</name>
+<vendor>Bluetti</vendor>
+<vendorCode>AC2P</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
-<param name="Тип аккумулятора">Li-Ion</param>
-<param name="Габариты (мм)" unit="">355х281х163</param>
-<param name="Вес (кг)" unit="">6.25</param>
-<param name="Пиковая мощность" unit="">150</param>
-<param name="USB-A (швидкої зарядки)" unit="">4</param>
+<param name="Тип аккумулятора">LiFePO4</param>
+<param name="Габариты (мм)" unit="">250x156,5x174,5</param>
+<param name="Час зарядки (розетка)" unit="">70хв</param>
+<param name="Вес (кг)" unit="">3.6</param>
+<param name="USB A" unit="">2</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Пиковая мощность" unit="">600</param>
+<param name="Час зарядки (сонячна панель)" unit="">90хв</param>
+<param name="Номинальная мощность" unit="">300</param>
+<param name="USB type C" unit="">1</param>
+<param name="Підключення дод. батареї" unit="">Да</param>
 <param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Форма вихідного сигналу" unit="">Чиста синусоїда</param>
+<param name="Функція ДБЖ" unit="">Да</param>
 <param name="Кількість розеток (230 В)" unit="">1</param>
-<param name="Ємність батареї (Вт*год)" unit="">670 Вт*год</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Ємність батареї (Вт*год)" unit="">230.4</param>
 </offer>
-<offer id="2313721085" available="true">
-<url>https://tera-flops.com.ua/ua/p2313721085-zaryadna-stantsiya-bandera.html</url>
-<price>30585</price>
+<offer id="2352264769" available="true">
+<url>https://tera-flops.com.ua/ua/p2352264769-zaryadna-stantsiya-ecoflow.html</url>
+<price>26500</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6191535811_zaryadna-stantsiya-bandera.jpg</picture>
+<picture>https://images.prom.ua/5992698299_zaryadna-stantsiya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/5998266651_zaryadna-stantsiya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/6272733420_zaryadna-stantsiya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/6272733421_zaryadna-stantsiya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/5992698290_zaryadna-stantsiya-ecoflow.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<name>Зарядна станція Bandera Power 180 S</name>
-<vendor>Промавтоматика Вінниця</vendor>
-<vendorCode>BP-180S</vendorCode>
+<name>Зарядна станція EcoFlow River 2 Pro 800W (RIVER 2 PRO) EU</name>
+<vendor>EcoFlow</vendor>
+<vendorCode>RIVER 2 PRO</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
-<param name="Тип аккумулятора">Li-Ion</param>
-<param name="Габариты (мм)" unit="">355х281х163</param>
-<param name="Вес (кг)" unit="">6.4</param>
+<param name="Тип аккумулятора">LiFePO4</param>
+<param name="Габариты (мм)" unit="">226x270x260</param>
+<param name="Час зарядки (розетка)" unit="">70 хв</param>
+<param name="Вес (кг)" unit="">7.8</param>
+<param name="USB A" unit="">3 шт, 5В/2.4А, 12 Вт</param>
 <param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Пиковая мощность" unit="">500</param>
-<param name="USB-A (швидкої зарядки)" unit="">4</param>
+<param name="Вихід DC" unit="">2 шт DC5521 (12.6 В / 3 A / 36 Вт)</param>
+<param name="Пиковая мощность" unit="">1600 Вт</param>
+<param name="Час зарядки (сонячна панель)" unit="">210 хв</param>
+<param name="Номинальная мощность" unit="">800 Вт</param>
+<param name="Вхід XT60" unit="">Да</param>
+<param name="USB type C" unit="">1 шт, 5 A, 100 Вт</param>
+<param name="Підключення дод. батареї" unit="">Да</param>
 <param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
+<param name="Функція ДБЖ" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">3</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Ємність батареї (Вт*год)" unit="">768 Вт*год</param>
+</offer>
+<offer id="2352264770" available="true">
+<url>https://tera-flops.com.ua/ua/p2352264770-zaryadna-stantsiya-bluetti.html</url>
+<price>31279</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6272733423_zaryadna-stantsiya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6272733424_zaryadna-stantsiya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6272733425_zaryadna-stantsiya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6272733426_zaryadna-stantsiya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6272733427_zaryadna-stantsiya-bluetti.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Bluetti AC70P 1000W (AC70P) EU</name>
+<vendor>Bluetti</vendor>
+<vendorCode>AC70P</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">LiFePO4</param>
+<param name="Габариты (мм)" unit="">256x314x210 мм</param>
+<param name="Час зарядки (розетка)" unit="">45 хв</param>
+<param name="Вес (кг)" unit="">10</param>
+<param name="USB A" unit="">2 шт, 5В/2.4А, 12 Вт</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Вихід DC" unit="">1, 10A, 500 Вт</param>
+<param name="Пиковая мощность" unit="">2000 Вт</param>
+<param name="Час зарядки (сонячна панель)" unit="">120 хв</param>
+<param name="Номинальная мощность" unit="">1000 Вт</param>
+<param name="Вхід XT60" unit="">Да</param>
+<param name="USB type C" unit="">2 шт, 5 A, 100 Вт</param>
+<param name="Підключення дод. батареї" unit="">Да</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
+<param name="Функція ДБЖ" unit="">Да</param>
 <param name="Кількість розеток (230 В)" unit="">2</param>
-<param name="Ємність батареї (Вт*год)" unit="">670 Вт*год</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Синхронізація зі смартфоном" unit="">Bluetooth</param>
+<param name="Ємність батареї (Вт*год)" unit="">864 Вт*год</param>
 </offer>
-<offer id="2313721086" available="true">
-<url>https://tera-flops.com.ua/ua/p2313721086-zaryadna-stantsiya-bandera.html</url>
-<price>39690</price>
+<offer id="2352264773" available="true">
+<url>https://tera-flops.com.ua/ua/p2352264773-zaryadna-stantsiya-bluetti.html</url>
+<price>17548</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6191535796_zaryadna-stantsiya-bandera.jpg</picture>
+<picture>https://images.prom.ua/6272733508_zaryadna-stantsiya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6272733509_zaryadna-stantsiya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6272733511_zaryadna-stantsiya-bluetti.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<name>Зарядна станція Bandera Power 225 S</name>
-<vendor>Промавтоматика Вінниця</vendor>
-<vendorCode>BP-225S</vendorCode>
+<name>Зарядна станція Bluetti AC60 600W (AC60) UK</name>
+<vendor>Bluetti</vendor>
+<vendorCode>AC60</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
-<param name="Тип аккумулятора">Li-Ion</param>
-<param name="Габариты (мм)" unit="">355х281х163</param>
-<param name="Вес (кг)" unit="">7.65</param>
+<param name="Тип аккумулятора">LiFePO4</param>
+<param name="Габариты (мм)" unit="">290х205х234</param>
+<param name="Час зарядки (розетка)" unit="">60 хв</param>
+<param name="Вес (кг)" unit="">9.1</param>
+<param name="USB A" unit="">2</param>
 <param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Пиковая мощность" unit="">500</param>
-<param name="USB-A (швидкої зарядки)" unit="">4</param>
+<param name="Пиковая мощность" unit="">1200</param>
+<param name="Час зарядки (сонячна панель)" unit="">150 хв</param>
+<param name="Номинальная мощность" unit="">600</param>
+<param name="USB type C" unit="">1</param>
+<param name="Підключення дод. батареї" unit="">Да</param>
 <param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Форма вихідного сигналу" unit="">Чиста синусоїда</param>
+<param name="Функція ДБЖ" unit="">Да</param>
 <param name="Кількість розеток (230 В)" unit="">2</param>
-<param name="Ємність батареї (Вт*год)" unit="">830 Вт*год</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Ємність батареї (Вт*год)" unit="">403</param>
 </offer>
-<offer id="2313721087" available="true">
-<url>https://tera-flops.com.ua/ua/p2313721087-zaryadna-stantsiya-bandera.html</url>
-<price>45540</price>
+<offer id="2352264774" available="true">
+<url>https://tera-flops.com.ua/ua/p2352264774-zaryadna-stantsiya-bluetti.html</url>
+<price>13600</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6191535809_zaryadna-stantsiya-bandera.jpg</picture>
+<picture>https://images.prom.ua/6272733527_zaryadna-stantsiya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6272733529_zaryadna-stantsiya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6272733530_zaryadna-stantsiya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6272733531_zaryadna-stantsiya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6272733532_zaryadna-stantsiya-bluetti.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<name>Зарядна станція Bandera Power 305 S</name>
-<vendor>Промавтоматика Вінниця</vendor>
-<vendorCode>BP-305S</vendorCode>
+<name>Зарядна станція Bluetti EB3A 600W (EB3A) EU</name>
+<vendor>Bluetti</vendor>
+<vendorCode>EB3A</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
 <param name="Тип аккумулятора">LiFePO4</param>
-<param name="Габариты (мм)" unit="">560х340х200</param>
-<param name="Вес (кг)" unit="">15.5</param>
+<param name="Габариты (мм)" unit="">183x255x180</param>
+<param name="Час зарядки (розетка)" unit="">90 хв</param>
+<param name="Вес (кг)" unit="">4.6</param>
+<param name="USB A" unit="">2 шт, 5В/3A, 15 Вт</param>
 <param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Пиковая мощность" unit="">1000</param>
-<param name="USB-A (швидкої зарядки)" unit="">4</param>
+<param name="Вихід DC" unit="">2 шт DC5521 (12 В / 10 A)</param>
+<param name="Пиковая мощность" unit="">1200 Вт</param>
+<param name="Час зарядки (сонячна панель)" unit="">120 хв</param>
+<param name="Номинальная мощность" unit="">600 Вт</param>
+<param name="Вхід XT60" unit="">Да</param>
+<param name="USB type C" unit="">1 шт, 5 A, 100 Вт</param>
+<param name="Підключення дод. батареї" unit="">Да</param>
 <param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">3</param>
-<param name="Ємність батареї (Вт*год)" unit="">1126 Вт*год</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
+<param name="Функція ДБЖ" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">1</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Ємність батареї (Вт*год)" unit="">268 Вт*год</param>
 </offer>
-<offer id="2313721088" available="true">
-<url>https://tera-flops.com.ua/ua/p2313721088-zaryadna-stantsiya-bandera.html</url>
-<price>56070</price>
+<offer id="2352264775" available="true">
+<url>https://tera-flops.com.ua/ua/p2352264775-zaryadna-stantsiya-ecoflow.html</url>
+<price>19303</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6191535814_zaryadna-stantsiya-bandera.jpg</picture>
+<picture>https://images.prom.ua/6272733504_zaryadna-stantsiya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/6272733507_zaryadna-stantsiya-ecoflow.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<name>Зарядна станція Bandera Power 430 S</name>
-<vendor>Промавтоматика Вінниця</vendor>
-<vendorCode>BP-430S</vendorCode>
+<name>Зарядна станція EcoFlow River 2 Max 500W (RIVER 2 MAX) EU</name>
+<vendor>EcoFlow</vendor>
+<vendorCode>RIVER 2 MAX</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
 <param name="Тип аккумулятора">LiFePO4</param>
-<param name="Габариты (мм)" unit="">560х340х200</param>
-<param name="Вес (кг)" unit="">18.55</param>
+<param name="Габариты (мм)" unit="">196x270x260</param>
+<param name="Час зарядки (розетка)" unit="">60 хв</param>
+<param name="Вес (кг)" unit="">6</param>
+<param name="USB A" unit="">3 шт, 5В/2.4А, 12 Вт</param>
 <param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Пиковая мощность" unit="">1000</param>
-<param name="USB-A (швидкої зарядки)" unit="">4</param>
+<param name="Вихід DC" unit="">2 шт DC5521 (12.6 В / 3 A / 36 Вт)</param>
+<param name="Пиковая мощность" unit="">1000 Вт</param>
+<param name="Час зарядки (сонячна панель)" unit="">180 хв</param>
+<param name="Номинальная мощность" unit="">500 Вт</param>
+<param name="Вхід XT60" unit="">Да</param>
+<param name="USB type C" unit="">1 шт, 5 A, 100 Вт</param>
+<param name="Підключення дод. батареї" unit="">Да</param>
 <param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">3</param>
-<param name="Ємність батареї (Вт*год)" unit="">1600 Вт*год</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
+<param name="Функція ДБЖ" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Ємність батареї (Вт*год)" unit="">512 Вт*год</param>
 </offer>
-<offer id="2313721089" available="true">
-<url>https://tera-flops.com.ua/ua/p2313721089-zaryadna-stantsiya-bandera.html</url>
-<price>70065</price>
+<offer id="2352264776" available="true">
+<url>https://tera-flops.com.ua/ua/p2352264776-zaryadna-stantsiya-ecoflow.html</url>
+<price>40402</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6191535827_zaryadna-stantsiya-bandera.jpg</picture>
+<picture>https://images.prom.ua/6272733520_zaryadna-stantsiya-ecoflow.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<name>Зарядна станція Bandera Power 610 S</name>
-<vendor>Промавтоматика Вінниця</vendor>
-<vendorCode>BP-610S</vendorCode>
+<name>Зарядна станція EcoFlow Delta 2 1800W (DELTA 2) EU</name>
+<vendor>EcoFlow</vendor>
+<vendorCode>DELTA 2</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
 <param name="Тип аккумулятора">LiFePO4</param>
-<param name="Габариты (мм)" unit="">550х380х230</param>
-<param name="Вес (кг)" unit="">31.15</param>
+<param name="Габариты (мм)" unit="">281x211x400</param>
+<param name="Час зарядки (розетка)" unit="">80 хв</param>
+<param name="Вес (кг)" unit="">12</param>
+<param name="USB A" unit="">2 шт, 5В/2.4А, 12 Вт</param>
 <param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Пиковая мощность" unit="">1000</param>
-<param name="USB-A (швидкої зарядки)" unit="">4</param>
+<param name="Вихід DC" unit="">2 шт DC5521 (12.6 В / 3 A / 38 Вт)</param>
+<param name="Пиковая мощность" unit="">2700 Вт</param>
+<param name="Час зарядки (сонячна панель)" unit="">180 хв</param>
+<param name="USB-A (швидкої зарядки)" unit="">2 шт, 5В/2.4A, 9В/2A, 12В/1.5A,18 Вт</param>
+<param name="Номинальная мощность" unit="">1800 Вт</param>
+<param name="Вхід XT60" unit="">Да</param>
+<param name="USB type C" unit="">2 шт, 5 A, 100 Вт</param>
+<param name="Підключення дод. батареї" unit="">Да</param>
+<param name="Додаткові входи" unit="">Х-Stream port (C13/14)</param>
 <param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">3</param>
-<param name="Ємність батареї (Вт*год)" unit="">2253 Вт*год</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
+<param name="Функція ДБЖ" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">4</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Ємність батареї (Вт*год)" unit="">1024 Вт*год</param>
 </offer>
-<offer id="2313721090" available="true">
-<url>https://tera-flops.com.ua/ua/p2313721090-zaryadna-stantsiya-bandera.html</url>
-<price>86805</price>
+<offer id="2352264777" available="true">
+<url>https://tera-flops.com.ua/ua/p2352264777-zaryadna-stantsiya-ecoflow.html</url>
+<price>71838</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6191535797_zaryadna-stantsiya-bandera.jpg</picture>
+<picture>https://images.prom.ua/6272733521_zaryadna-stantsiya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/6272733522_zaryadna-stantsiya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/6272733523_zaryadna-stantsiya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/6272733524_zaryadna-stantsiya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/6272733525_zaryadna-stantsiya-ecoflow.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<name>Зарядна станція Bandera Power 860 S</name>
-<vendor>Промавтоматика Вінниця</vendor>
-<vendorCode>BP-860S</vendorCode>
+<name>Зарядна станція EcoFlow Delta 2 Max 2400W (DELTA 2 MAX) EU</name>
+<vendor>EcoFlow</vendor>
+<vendorCode>DELTA 2 MAX</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
 <param name="Тип аккумулятора">LiFePO4</param>
-<param name="Габариты (мм)" unit="">550х380х230</param>
-<param name="Вес (кг)" unit="">31.15</param>
+<param name="Габариты (мм)" unit="">497x242x305</param>
+<param name="Час зарядки (розетка)" unit="">53 хв</param>
+<param name="Вес (кг)" unit="">23</param>
+<param name="USB A" unit="">2 шт, 5В/2.4А, 12 Вт</param>
 <param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Пиковая мощность" unit="">2000</param>
-<param name="USB-A (швидкої зарядки)" unit="">4</param>
+<param name="Вихід DC" unit="">2 шт DC5521 (12.6 В / 3 А / 38 Вт)</param>
+<param name="Пиковая мощность" unit="">4800 Вт</param>
+<param name="Час зарядки (сонячна панель)" unit="">138 хв</param>
+<param name="USB-A (швидкої зарядки)" unit="">2 шт, 5В/2A, 9В/2A, 12В/1.5A, 18 Вт</param>
+<param name="Номинальная мощность" unit="">2400 Вт</param>
+<param name="Вхід XT60" unit="">Да</param>
+<param name="USB type C" unit="">2 шт, 5 A, 100 Вт</param>
+<param name="Підключення дод. батареї" unit="">Да</param>
 <param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">3</param>
-<param name="Ємність батареї (Вт*год)" unit="">3200 Вт*год</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
+<param name="Функція ДБЖ" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">4</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Ємність батареї (Вт*год)" unit="">2048 Вт*год</param>
+</offer>
+<offer id="2352264778" available="true">
+<url>https://tera-flops.com.ua/ua/p2352264778-zaryadna-stantsiya-bluetti.html</url>
+<price>69257</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6272733431_zaryadna-stantsiya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6272733432_zaryadna-stantsiya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6272733433_zaryadna-stantsiya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6272733434_zaryadna-stantsiya-bluetti.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Bluetti AC200PL 2400W EU</name>
+<vendor>Bluetti</vendor>
+<vendorCode>AC200PL</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">LiFePO4</param>
+<param name="Габариты (мм)" unit="">420x280x366,5</param>
+<param name="Час зарядки (розетка)" unit="">90хв</param>
+<param name="Вес (кг)" unit="">28.8</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Пиковая мощность" unit="">2500</param>
+<param name="Час зарядки (сонячна панель)" unit="">150хв</param>
+<param name="USB-A (швидкої зарядки)" unit="">2</param>
+<param name="Номинальная мощность" unit="">2400</param>
+<param name="USB type C" unit="">2</param>
+<param name="Підключення дод. батареї" unit="">Да</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Функція ДБЖ" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">4</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Ємність батареї (Вт*год)" unit="">2304</param>
+</offer>
+<offer id="2352264779" available="true">
+<url>https://tera-flops.com.ua/ua/p2352264779-zaryadna-stantsiya-invertor.html</url>
+<price>50760</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6272733436_zaryadna-stantsiya-invertor.jpg</picture>
+<picture>https://images.prom.ua/6272733437_zaryadna-stantsiya-invertor.jpg</picture>
+<picture>https://images.prom.ua/6272733438_zaryadna-stantsiya-invertor.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція (інвертор) Bluetti AC500 5000W (без батареї) EU</name>
+<vendor>Bluetti</vendor>
+<vendorCode>AC500</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Габариты (мм)" unit="">520x325x358</param>
+<param name="Вес (кг)" unit="">30</param>
+<param name="USB A" unit="">2</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Вихід DC" unit="">1 x 12V/30A</param>
+<param name="Пиковая мощность" unit="">10000</param>
+<param name="USB-A (швидкої зарядки)" unit="">2</param>
+<param name="Номинальная мощность" unit="">5000</param>
+<param name="USB type C" unit="">2</param>
+<param name="Підключення дод. батареї" unit="">Да</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Форма вихідного сигналу" unit="">Чиста синусоїда</param>
+<param name="Функція ДБЖ" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">6</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Синхронізація зі смартфоном" unit="">Wi-Fi, Bluetooth</param>
+</offer>
+<offer id="2352264780" available="true">
+<url>https://tera-flops.com.ua/ua/p2352264780-dodatkova-batareya-bluetti.html</url>
+<price>52481</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6272733441_dodatkova-batareya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6272733442_dodatkova-batareya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6272733444_dodatkova-batareya-bluetti.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Додаткова батарея Bluetti B210P для AC200MAX/AC200PL/AC240P</name>
+<vendor>Bluetti</vendor>
+<vendorCode>B210P</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">LiFePO4</param>
+<param name="Габариты (мм)" unit="">416.6х269.5х282.4</param>
+<param name="Вес (кг)" unit="">27.9</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Вихід DC" unit="">1x12V/10A</param>
+<param name="USB-A (швидкої зарядки)" unit="">1</param>
+<param name="USB type C" unit="">1</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Ємність батареї (Вт*год)" unit="">2150</param>
+</offer>
+<offer id="2352264781" available="true">
+<url>https://tera-flops.com.ua/ua/p2352264781-dodatkova-batareya-bluetti.html</url>
+<price>66676</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6272733445_dodatkova-batareya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6272733446_dodatkova-batareya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6272733447_dodatkova-batareya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6272733448_dodatkova-batareya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6272733449_dodatkova-batareya-bluetti.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Додаткова батарея Bluetti B300K для AC300/AC500/AC200PL/AC240P/AC200MAX</name>
+<vendor>Bluetti</vendor>
+<vendorCode>B300K</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">LiFePO4</param>
+<param name="Габариты (мм)" unit="">525x327x209</param>
+<param name="Вес (кг)" unit="">29.5</param>
+<param name="USB A" unit="">1</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Ємність батареї (Вт*год)" unit="">2764,8</param>
+</offer>
+<offer id="2352264782" available="true">
+<url>https://tera-flops.com.ua/ua/p2352264782-dodatkova-batareya-bluetti.html</url>
+<price>26066</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6272733450_dodatkova-batareya-bluetti.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Додаткова батарея Bluetti B80P 806Wh EU</name>
+<vendor>Bluetti</vendor>
+<vendorCode>B80P</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">LiFePO4</param>
+<param name="Габариты (мм)" unit="">290x207x204</param>
+<param name="Вес (кг)" unit="">9.9</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Вихід DC" unit="">1x12V/10A</param>
+<param name="USB-A (швидкої зарядки)" unit="">1</param>
+<param name="USB type C" unit="">1</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Ємність батареї (Вт*год)" unit="">806</param>
+</offer>
+<offer id="2355848943" available="true">
+<url>https://tera-flops.com.ua/ua/p2355848943-videokarta-geforce-rtx.html</url>
+<price>12942</price>
+<currencyId>UAH</currencyId>
+<categoryId>85328986</categoryId>
+<picture>https://images.prom.ua/6277272648_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6277272649_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6277272650_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6277272651_videokarta-geforce-rtx.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Відеокарта GeForce RTX 3060 12GB Palit Dual LHR (NE63060019K9-190AD)</name>
+<vendor>Palit</vendor>
+<vendorCode>NE63060019K9-190AD</vendorCode>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Графический чипсет">GeForce RTX 3060</param>
+<param name="Объем видеопамяти" unit="MB">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип видеопамяти">GDDR6</param>
+<param name="Частота видеопамяти" unit="МГц">15000</param>
+<param name="Частота процессора" unit="МГц">1777</param>
+<param name="Виробник GPU" unit="">Nvidia</param>
+<param name="Дополнительное питание" unit="">8 pin</param>
+<param name="Интерфейсы" unit="">HDMI v.2.1</param>
+<param name="Разрядность шины памяти" unit="">192</param>
+<param name="Рекомендована потужність блоку живлення, Вт" unit="">550</param>
+<param name="Система охлаждения" unit="">Активна</param>
+<param name="Тип подключения" unit="">PCI-Express 4.0</param>
 </offer>
 </offers>
 </shop>
