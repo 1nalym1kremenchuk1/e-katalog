@@ -1,4 +1,4 @@
-<yml_catalog date="2024-09-24 14:18">
+<yml_catalog date="2024-10-02 14:13">
 <shop>
 <name>TeraFlops Store</name>
 <company>TeraFlops Store</company>
@@ -211,8 +211,6 @@
 <category id="132522449" parentId="112486618">Портативні зарядні станції</category>
 <category id="116597011" parentId="85328850">Комплектуючі до відеокарт</category>
 <category id="85364282" parentId="85328850">Корпуси</category>
-<category id="133479176" parentId="112486618">Зарядки для акумуляторних батарейок</category>
-<category id="134019583" parentId="112486618">Мережеві фільтри</category>
 <category id="134490739" parentId="131148186">Блоки живлення SFX</category>
 <category id="134490740" parentId="134490739">SFX 390W і менше</category>
 <category id="134490741" parentId="134490739">SFX 600-690W</category>
@@ -271,30 +269,16 @@
 <category id="135559948" parentId="134490739">SFX 405-490W</category>
 <category id="85364272" parentId="85328850">Кулери і системи охолодження</category>
 <category id="85364281" parentId="85328850">Жорсткі диски</category>
-<category id="85330301" parentId="85328850">Процесори</category>
 <category id="134721561">Монітори</category>
 <category id="134721562" parentId="134721561">Діагональ 23 - 23.8</category>
 <category id="134721563" parentId="134721561">Діагональ 31 - 32</category>
 <category id="134389610" parentId="131923918">SSD M.2 120-128</category>
 <category id="134870766" parentId="131315093">Socket TRX4</category>
 <category id="134870767" parentId="131315093">Socket TR4</category>
-<category id="97641455" parentId="85330301">LGA 1366</category>
 <category id="107166007" parentId="85330301">Socket AM2+</category>
-<category id="97640686" parentId="85330301">LGA 1150</category>
-<category id="97640692" parentId="85330301">LGA 1151v1</category>
-<category id="97641434" parentId="85330301">LGA 1151v2</category>
-<category id="97641439" parentId="85330301">LGA 1155</category>
-<category id="97641444" parentId="85330301">LGA 1156</category>
-<category id="97641447" parentId="85330301">LGA 1200</category>
-<category id="97641458" parentId="85330301">LGA 2011v1</category>
-<category id="97641514" parentId="85330301">LGA 2011v3</category>
-<category id="97641530" parentId="85330301">Socket AM3</category>
-<category id="97641533" parentId="85330301">Socket AM3+</category>
-<category id="97642378" parentId="85330301">Socket FM2</category>
-<category id="107182575" parentId="85330301">Socket FM2+</category>
 <category id="109454560" parentId="85330301">LGA 2066</category>
-<category id="131386275" parentId="85330301">Socket AM4</category>
-<category id="131386276" parentId="85330301">Socket AM5</category>
+<category id="133479176" parentId="112486618">Зарядки для акумуляторних батарейок</category>
+<category id="134019583" parentId="112486618">Мережеві фільтри</category>
 <category id="134877151" parentId="131315093">Socket FM2+</category>
 <category id="134877152" parentId="131315093">Socket FM1</category>
 <category id="134877153" parentId="134240660">DDR3 ECC REG</category>
@@ -302,27 +286,32 @@
 <category id="103891356" parentId="85330301">LGA 1700</category>
 <category id="85328986" parentId="85328850">Відеокарти</category>
 <category id="85364244" parentId="85328850">Материнські плати</category>
+<category id="135661374" parentId="85330301">Процесори Intel</category>
+<category id="135661375" parentId="135661374">1151v1</category>
+<category id="85330301" parentId="85328850">Процесори</category>
+<category id="97641434" parentId="85330301">LGA 1151v2</category>
+<category id="97641447" parentId="85330301">LGA 1200</category>
+<category id="97641533" parentId="85330301">Socket AM3+</category>
+<category id="131386275" parentId="85330301">Socket AM4</category>
+<category id="97641455" parentId="85330301">LGA 1366</category>
+<category id="97641444" parentId="85330301">LGA 1156</category>
+<category id="97641439" parentId="85330301">LGA 1155</category>
+<category id="97640686" parentId="85330301">LGA 1150</category>
+<category id="97640692" parentId="85330301">LGA 1151v1</category>
+<category id="97641458" parentId="85330301">LGA 2011v1</category>
+<category id="97641514" parentId="85330301">LGA 2011v3</category>
+<category id="97642378" parentId="85330301">Socket FM2</category>
+<category id="107182575" parentId="85330301">Socket FM2+</category>
+<category id="97641530" parentId="85330301">Socket AM3</category>
+<category id="131386276" parentId="85330301">Socket AM5</category>
+<category id="135772118" parentId="85330301">Процесори AMD</category>
+<category id="135772119" parentId="135661374">1200</category>
+<category id="135772120" parentId="135661374">1700</category>
 <category id="135315535" parentId="131923912">SAS SSD</category>
 <category id="135315536" parentId="134777283">U.2 / U.3</category>
 <category id="135315537" parentId="131923917">SSD 2.5" 5000 і більше</category>
 </categories>
 <offers>
-<offer id="1729210344" available="true" group_id="164310831">
-<url>https://tera-flops.com.ua/ua/p1729210344-materinska-plata-huananzhi.html</url>
-<price>3700</price>
-<currencyId>UAH</currencyId>
-<categoryId>97644266</categoryId>
-<picture>https://images.prom.ua/4496669066_materinska-plata-huananzhi.jpg</picture>
-<picture>https://images.prom.ua/4496669097_materinska-plata-huananzhi.jpg</picture>
-<picture>https://images.prom.ua/4496669092_materinska-plata-huananzhi.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Материнська плата HUANANZHI X79M PRO LGA 2011v1 (HZH-X79M PRO) (TF)</name>
-<vendorCode>HZH-X79M PRO</vendorCode>
-<param name="Гарантийный срок" unit="мес">0</param>
-<param name="Состояние">Новое</param>
-<param name="Разъемы">LGA2011</param>
-</offer>
 <offer id="1729578281" available="true" group_id="944814248">
 <url>https://tera-flops.com.ua/ua/p1729578281-materinska-plata-huananzhi.html</url>
 <price>2800</price>
@@ -601,7 +590,7 @@
 <name>Материнская плата Huananzhi H510M-I LGA 1200 (HZH-H510M-I) (TF)</name>
 <vendor>Huananzhi</vendor>
 <vendorCode>HZH-H510M-I</vendorCode>
-<param name="Гарантийный срок" unit="мес">0</param>
+<param name="Гарантийный срок" unit="мес">12</param>
 <param name="Интерфейсы">VGA</param>
 <param name="Количество LAN-портов">1</param>
 <param name="Количество слотов памяти">2</param>
@@ -634,7 +623,7 @@
 <name>Материнська плата HUANANZHI X79-4MT LGA 2011v1 (HZH-X79-4MT) (TF)</name>
 <vendor>Huananzhi</vendor>
 <vendorCode>HZH-X79-4MT</vendorCode>
-<param name="Гарантийный срок" unit="мес">0</param>
+<param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество LAN-портов">1</param>
 <param name="Количество слотов памяти">4</param>
 <param name="Состояние">Новое</param>
@@ -659,7 +648,7 @@
 <price>2100</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649259</categoryId>
-<picture>https://images.prom.ua/5857704790_povitryane-oholodzhennya-dlya.jpg</picture>
+<picture>https://images.prom.ua/5857704787_povitryane-oholodzhennya-dlya.jpg</picture>
 <picture>https://images.prom.ua/5857704793_povitryane-oholodzhennya-dlya.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
@@ -667,7 +656,16 @@
 <vendor>Jiushark</vendor>
 <vendorCode>JF13K Black</vendorCode>
 <param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">120</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">1850</param>
 <param name="Состояние">Новое</param>
+<param name="Тип подшипника">Скольжения</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
 </offer>
 <offer id="2222509161" available="true">
 <url>https://tera-flops.com.ua/ua/p2222509161-povitryane-oholodzhennya-jiushark.html</url>
@@ -675,15 +673,22 @@
 <currencyId>UAH</currencyId>
 <categoryId>97649259</categoryId>
 <picture>https://images.prom.ua/5857704796_povitryane-oholodzhennya-jiushark.jpg</picture>
-<picture>https://images.prom.ua/5857704800_povitryane-oholodzhennya-jiushark.jpg</picture>
-<picture>https://images.prom.ua/5857704803_povitryane-oholodzhennya-jiushark.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Повітряне охолодження Jiushark JF13K White ARGB (JF13K White ARGB)</name>
 <vendor>Jiushark</vendor>
 <vendorCode>JF13K White ARGB</vendorCode>
 <param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">120</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">1850</param>
 <param name="Состояние">Новое</param>
+<param name="Тип подшипника">Скольжения</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
 </offer>
 <offer id="2222509162" available="true">
 <url>https://tera-flops.com.ua/ua/p2222509162-povitryane-oholodzhennya-dlya.html</url>
@@ -786,7 +791,19 @@
 <vendor>Jiushark</vendor>
 <vendorCode>JF100RS White</vendorCode>
 <param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">100</param>
+<param name="Количество кулеров">1</param>
+<param name="Максимальная скорость вращения" unit="об/мин">2300</param>
+<param name="Максимальный уровень шума" unit="дБ">30</param>
+<param name="Разъемы">LGA1150|LGA1200|LGA1700</param>
 <param name="Состояние">Новое</param>
+<param name="Тип подшипника">Скольжения</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Повітряний потік (CFM)" unit="">48</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
 </offer>
 <offer id="2224537598" available="true">
 <url>https://tera-flops.com.ua/ua/p2224537598-povitryane-oholodzhennya-jiushark.html</url>
@@ -829,21 +846,49 @@
 <vendor>Jiushark</vendor>
 <vendorCode>JF100RS White RGB</vendorCode>
 <param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">100</param>
+<param name="Количество кулеров">1</param>
+<param name="Максимальная скорость вращения" unit="об/мин">2300</param>
+<param name="Максимальный уровень шума" unit="дБ">30</param>
+<param name="Разъемы">LGA1150|LGA1200|LGA1700</param>
 <param name="Состояние">Новое</param>
+<param name="Тип подшипника">Скольжения</param>
+<param name="Колір підсвітки" unit="">RGB</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Повітряний потік (CFM)" unit="">48</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
 </offer>
 <offer id="2224537600" available="true">
 <url>https://tera-flops.com.ua/ua/p2224537600-povitryane-oholodzhennya-jiushark.html</url>
 <price>920</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649259</categoryId>
-<picture>https://images.prom.ua/5865422614_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6280253613_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6280253687_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6280254768_povitryane-oholodzhennya-jiushark.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Повітряне охолодження Jiushark JF100RS White ARGB (JF100RS White ARGB)</name>
 <vendor>Jiushark</vendor>
 <vendorCode>JF100RS White ARGB</vendorCode>
 <param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">100</param>
+<param name="Количество кулеров">1</param>
+<param name="Максимальная скорость вращения" unit="об/мин">2300</param>
+<param name="Максимальный уровень шума" unit="дБ">30</param>
+<param name="Разъемы">LGA1150|LGA1200|LGA1700</param>
 <param name="Состояние">Новое</param>
+<param name="Тип подшипника">Скольжения</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
+<param name="Повітряний потік (CFM)" unit="">48</param>
+<param name="Колір підсвітки" unit="">ARGB</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
+<param name="Регулювання обертів" unit="">PWM</param>
 </offer>
 <offer id="2224537601" available="true">
 <url>https://tera-flops.com.ua/ua/p2224537601-povitryane-oholodzhennya-dlya.html</url>
@@ -857,74 +902,126 @@
 <vendor>Jiushark</vendor>
 <vendorCode>JF100RS Black ARGB</vendorCode>
 <param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">100</param>
+<param name="Количество кулеров">1</param>
+<param name="Максимальная скорость вращения" unit="об/мин">2300</param>
+<param name="Максимальный уровень шума" unit="дБ">30</param>
+<param name="Разъемы">LGA1150|LGA1200|LGA1700</param>
 <param name="Состояние">Новое</param>
+<param name="Тип подшипника">Скольжения</param>
+<param name="Колір підсвітки" unit="">ARGB</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Повітряний потік (CFM)" unit="">48</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
 </offer>
-<offer id="2238354662" available="true" group_id="79192459">
-<url>https://tera-flops.com.ua/ua/p2238354662-materinska-plata-huananzhi.html</url>
-<price>3200</price>
+<offer id="2257623461" available="true" group_id="795334766">
+<url>https://tera-flops.com.ua/ua/p2257623461-zaryadna-stantsiya-ecoflow.html</url>
+<price>9755</price>
 <currencyId>UAH</currencyId>
-<categoryId>103890620</categoryId>
-<picture>https://images.prom.ua/5321441111_materinska-plata-huananzhi.jpg</picture>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6006740900_zaryadna-stantsiya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/5992698248_zaryadna-stantsiya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/5992698255_zaryadna-stantsiya-ecoflow.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<name>Материнська плата Huananzhi H610M-VH-B DDR4 LGA 1700 (HZH-H610M-VH-B) (TF) 0</name>
-<vendor>Huananzhi</vendor>
-<vendorCode>HZH-H610M-VH-B</vendorCode>
-<param name="Гарантийный срок" unit="мес">0</param>
-<param name="Интерфейсы">VGA</param>
-<param name="Количество LAN-портов">1</param>
-<param name="Количество слотов памяти">2</param>
-<param name="Разъемы">LGA1700</param>
+<name>Зарядна станція EcoFlow River 2 300W (RIVER 2) CN</name>
+<vendor>EcoFlow</vendor>
+<vendorCode>RIVER 2</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
-<param name="Тип оперативной памяти">DDR4</param>
-<param name="Форм-фактор">ATX</param>
-<param name="Чипсет">H610</param>
-<param name="Audio" unit="">3</param>
-<param name="Aудіокодек" unit="">Realtek ALC897</param>
-<param name="Ethernet" unit="">Realtek RTL8111H</param>
-<param name="SATA Revision 3.0" unit="">1</param>
-<param name="USB 2.0" unit="">4</param>
-<param name="USB 3.2 Gen 1" unit="">2</param>
-<param name="Видеоинтерфейс" unit="">PCI-Express 4.0</param>
-<param name="Кількість M.2" unit="">1</param>
-<param name="Роз'єм живлення плати" unit="">24</param>
-<param name="Роз'єм живлення процесора" unit="">8 pin</param>
+<param name="Тип аккумулятора">LiFePO4</param>
+<param name="Габариты (мм)" unit="">142x245x214</param>
+<param name="Ємність батареї (Вт*год)" unit="">256 Вт*год</param>
+<param name="Час зарядки (розетка)" unit="">60 хв</param>
+<param name="Вес (кг)" unit="">3.5</param>
+<param name="USB A" unit="">2 шт, 5В/2.4А, 12 Вт</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Вихід DC" unit="">1 шт (12.6 В / 8 А / 100 Вт)</param>
+<param name="Пиковая мощность" unit="">600 Вт</param>
+<param name="Час зарядки (сонячна панель)" unit="">180 хв</param>
+<param name="Номинальная мощность" unit="">300 Вт</param>
+<param name="Вхід XT60" unit="">Да</param>
+<param name="USB type C" unit="">1 шт, 3 A, 60 Вт</param>
+<param name="Підключення дод. батареї" unit="">Да</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
+<param name="Функція ДБЖ" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">1</param>
+<param name="Дисплей" unit="">Да</param>
 </offer>
-<offer id="2267140513" available="true">
-<url>https://tera-flops.com.ua/ua/p2267140513-universalna-mobilna-batareya.html</url>
-<price>414</price>
+<offer id="2267122092" available="true">
+<url>https://tera-flops.com.ua/ua/p2267122092-zaryadna-stantsiya-ecoflow.html</url>
+<price>29260</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6024316268_zaryadna-stantsiya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/6024316270_zaryadna-stantsiya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/6024316275_zaryadna-stantsiya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/6024316277_zaryadna-stantsiya-ecoflow.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція EcoFlow River 2 Pro 800W (RIVER2 PRO 800W) CN (UT)</name>
+<vendor>EcoFlow</vendor>
+<vendorCode>RIVER 2 PRO</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">LiFePO4</param>
+<param name="Габариты (мм)" unit="">226x270x260</param>
+<param name="Час зарядки (розетка)" unit="">70 хв</param>
+<param name="Вес (кг)" unit="">7.8</param>
+<param name="USB A" unit="">3 шт, 5В/2.4А, 12 Вт</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Вихід DC" unit="">2 шт DC5521 (12.6 В / 3 A / 36 Вт)</param>
+<param name="Пиковая мощность" unit="">1600 Вт</param>
+<param name="Час зарядки (сонячна панель)" unit="">210 хв</param>
+<param name="Номинальная мощность" unit="">800 Вт</param>
+<param name="Вхід XT60" unit="">Да</param>
+<param name="USB type C" unit="">1 шт, 5 A, 100 Вт</param>
+<param name="Підключення дод. батареї" unit="">Да</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
+<param name="Функція ДБЖ" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">3</param>
+<param name="Дисплей" unit="">Да</param>
+</offer>
+<offer id="2267140509" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140509-universalna-mobilna-batareya.html</url>
+<price>410</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522645</categoryId>
-<picture>https://images.prom.ua/6024407407_universalna-mobilna-batareya.jpg</picture>
+<picture>https://images.prom.ua/6024407391_universalna-mobilna-batareya.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<name>Універсальна мобільна батарея Dexim DCA0013 10000mAh Fast Charge Black (DCA0013/29506)</name>
-<vendor> Dexim</vendor>
-<vendorCode>DCA0013/29506</vendorCode>
+<name>Універсальна мобільна батарея Voltronic ASONIC AS-P10 10000mAh, Output 2USB, Black (ASONIC AS-P10/29359)</name>
+<vendor>Voltronic</vendor>
+<vendorCode>AS-P10/29359</vendorCode>
 <param name="Вес" unit="г">220</param>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Емкость аккумулятора" unit="мА/ч">10000</param>
 <param name="Материал корпуса">Алюминий</param>
 <param name="Состояние">Новое</param>
-<param name="USB type С (потужність; напруга/струм)" unit="">20</param>
-<param name="USB-A (потужність; напруга/струм)" unit="">20</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">10.5</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">10.5</param>
 <param name="Ємність батареї (Вт*год)" unit="">37</param>
 <param name="Входи зарядки пристрою" unit="">USB type C</param>
 <param name="Кількість USB type C" unit="">1</param>
 <param name="Кількість USB-A" unit="">1</param>
-<param name="Макс. потужність (на 1 порт)" unit="">20</param>
-<param name="Потужність заряду пристрою (Вт)" unit="">12</param>
+<param name="Макс. потужність (на 1 порт)" unit="">10.5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">11</param>
 <param name="Реальна ємність" unit="">6300</param>
-<param name="Розміри (мм)" unit="">135х70х15</param>
-<param name="Струм заряду по USB (A)" unit="">5</param>
-<param name="Технології швидкої зарядки" unit="">Quick Charge 3.0</param>
+<param name="Розміри (мм)" unit="">135×65×15</param>
+<param name="Струм заряду по USB (A)" unit="">2.1</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
 <param name="Тип акумуляторів" unit="">Li-Pol</param>
 <param name="Функции" unit="">світильник</param>
-<param name="Час повної зарядки (год)" unit="">3</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
 </offer>
 <offer id="2267140519" available="true">
 <url>https://tera-flops.com.ua/ua/p2267140519-universalna-mobilna-batareya.html</url>
-<price>513</price>
+<price>512</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522645</categoryId>
 <picture>https://images.prom.ua/6169060538_universalna-mobilna-batareya.jpg</picture>
@@ -954,9 +1051,41 @@
 <param name="Функции" unit="">світильник</param>
 <param name="Час повної зарядки (год)" unit="">4</param>
 </offer>
+<offer id="2267140533" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140533-universalna-mobilna-batareya.html</url>
+<price>887</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407457_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея 2E 10000mAh Black (2E-PB1001-BLACK)</name>
+<vendor>2E</vendor>
+<vendorCode>2E-PB1001-BLACK</vendorCode>
+<param name="Вес" unit="г">261</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
+<param name="Материал корпуса">Алюминий</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">18</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">22.5</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">18</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">12</param>
+<param name="Реальна ємність" unit="">6300</param>
+<param name="Розміри (мм)" unit="">70x143x19</param>
+<param name="Струм заряду по USB (A)" unit="">1.5</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Тип акумуляторів" unit="">Li-Pol</param>
+<param name="Функции" unit="">інфо-дисплей</param>
+<param name="Час повної зарядки (год)" unit="">6</param>
+</offer>
 <offer id="2267140534" available="true">
 <url>https://tera-flops.com.ua/ua/p2267140534-universalna-mobilna-batareya.html</url>
-<price>869</price>
+<price>871</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522645</categoryId>
 <picture>https://images.prom.ua/6024407459_universalna-mobilna-batareya.jpg</picture>
@@ -986,41 +1115,135 @@
 <param name="Функции" unit="">світильник</param>
 <param name="Час повної зарядки (год)" unit="">4</param>
 </offer>
-<offer id="2267140541" available="true">
-<url>https://tera-flops.com.ua/ua/p2267140541-universalna-mobilna-batareya.html</url>
-<price>780</price>
+<offer id="2267140535" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140535-universalna-mobilna-batareya.html</url>
+<price>1507</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522645</categoryId>
-<picture>https://images.prom.ua/6024407473_universalna-mobilna-batareya.jpg</picture>
+<picture>https://images.prom.ua/6024407460_universalna-mobilna-batareya.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<name>Універсальна мобільна батарея Gusgu Xiamen Mini 80000M 20000 mAh White (GB/T-35590/UA-102807)</name>
-<vendor>Gusgu</vendor>
-<vendorCode>GB/T-35590/UA-102807</vendorCode>
-<param name="Вес" unit="г">400</param>
+<name>Універсальна мобільна батарея Veger ACE100 10000mAh Black (W1146) (1283126559143)</name>
+<vendor>VEGER</vendor>
+<vendorCode>1283126559143</vendorCode>
+<param name="Вес" unit="г">218</param>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Емкость аккумулятора" unit="мА/ч">20000</param>
+<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
 <param name="Материал корпуса">Алюминий</param>
 <param name="Состояние">Новое</param>
-<param name="USB type С (потужність; напруга/струм)" unit="">10.5</param>
-<param name="USB-A (потужність; напруга/струм)" unit="">10.5</param>
-<param name="Ємність батареї (Вт*год)" unit="">74</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">15</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">20</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
 <param name="Входи зарядки пристрою" unit="">USB type C</param>
 <param name="Кількість USB type C" unit="">2</param>
 <param name="Кількість USB-A" unit="">1</param>
-<param name="Макс. потужність (на 1 порт)" unit="">10.5</param>
-<param name="Потужність заряду пристрою (Вт)" unit="">5</param>
+<param name="Макс. потужність (на 1 порт)" unit="">22.5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">18</param>
+<param name="Реальна ємність" unit="">6300</param>
+<param name="Розміри (мм)" unit="">123x60x28,7</param>
+<param name="Струм заряду по USB (A)" unit="">3</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Тип акумуляторів" unit="">Li-Pol</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">3.5</param>
+</offer>
+<offer id="2267140546" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140546-universalna-mobilna-batareya.html</url>
+<price>978</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407480_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея WK WP-303 Gonen 20000mAh Black (6941027631638)</name>
+<vendor>WK</vendor>
+<vendorCode>6941027631638</vendorCode>
+<param name="Вес" unit="г">220</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">20000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">20</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">22.5</param>
+<param name="Ємність батареї (Вт*год)" unit="">74</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">22.5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">18</param>
 <param name="Реальна ємність" unit="">12600</param>
-<param name="Розміри (мм)" unit="">134x70x27</param>
-<param name="Струм заряду по USB (A)" unit="">2.1</param>
+<param name="Розміри (мм)" unit="">145x69x27</param>
+<param name="Струм заряду по USB (A)" unit="">2</param>
 <param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
 <param name="Тип акумуляторів" unit="">Li-Pol</param>
 <param name="Функции" unit="">світильник</param>
 <param name="Час повної зарядки (год)" unit="">4</param>
 </offer>
+<offer id="2267140567" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140567-universalna-mobilna-batareya.html</url>
+<price>1039</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407501_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея 2E Solar 8000mAh Black (2E-PB814-BLACK)</name>
+<vendor>2E</vendor>
+<vendorCode>2E-PB814-BLACK</vendorCode>
+<param name="Вес" unit="г">354</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">8000</param>
+<param name="Материал корпуса">Алюминий</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">10.5</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">10.5</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">5</param>
+<param name="Розміри (мм)" unit="">80x156x29</param>
+<param name="Струм заряду по USB (A)" unit="">2.1</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Тип акумуляторів" unit="">Li-Pol</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">15</param>
+</offer>
+<offer id="2267140573" available="true">
+<url>https://tera-flops.com.ua/ua/p2267140573-universalna-mobilna-batareya.html</url>
+<price>1484</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6024407365_universalna-mobilna-batareya.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Універсальна мобільна батарея Remax RPP-511 Engine Series Multifunctional 6000mAh Yellow (6954851206477)</name>
+<vendor>Remax</vendor>
+<vendorCode>6954851206477</vendorCode>
+<param name="Вес" unit="г">298</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">6000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">300</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">300</param>
+<param name="Ємність батареї (Вт*год)" unit="">37</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">1</param>
+<param name="Макс. потужність (на 1 порт)" unit="">600</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">16.6</param>
+<param name="Реальна ємність" unit="">3000</param>
+<param name="Розміри (мм)" unit="">154x82x28</param>
+<param name="Струм заряду по USB (A)" unit="">2.1</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Тип акумуляторів" unit="">Li-Pol</param>
+<param name="Функции" unit="">світильник</param>
+<param name="Час повної зарядки (год)" unit="">5</param>
+</offer>
 <offer id="2280165294" available="true">
 <url>https://tera-flops.com.ua/ua/p2280165294-dbzh-njoy-balder.html</url>
-<price>61997</price>
+<price>62728</price>
 <currencyId>UAH</currencyId>
 <categoryId>133045618</categoryId>
 <picture>https://images.prom.ua/6069565428_dbzh-njoy-balder.jpg</picture>
@@ -1049,7 +1272,7 @@
 </offer>
 <offer id="2280165372" available="true">
 <url>https://tera-flops.com.ua/ua/p2280165372-dbzh-eaton-1200.html</url>
-<price>7696</price>
+<price>7662</price>
 <currencyId>UAH</currencyId>
 <categoryId>133045618</categoryId>
 <picture>https://images.prom.ua/6069565254_dbzh-eaton-5e.jpg</picture>
@@ -1087,7 +1310,7 @@
 </offer>
 <offer id="2280165405" available="true">
 <url>https://tera-flops.com.ua/ua/p2280165405-dbzh-eaton-700.html</url>
-<price>5739</price>
+<price>5713</price>
 <currencyId>UAH</currencyId>
 <categoryId>133045618</categoryId>
 <picture>https://images.prom.ua/6069565345_dbzh-eaton-3s.jpg</picture>
@@ -1095,7 +1318,7 @@
 <delivery>true</delivery>
 <name>ДБЖ Eaton 3S 700 DIN</name>
 <vendor>Eaton</vendor>
-<vendorCode>3S700DIN</vendorCode>
+<vendorCode>3S700D</vendorCode>
 <param name="Вес" unit="кг">3.8</param>
 <param name="Время переключения" unit="мс">5</param>
 <param name="Время работы при полной нагрузке" unit="мин">2</param>
@@ -1126,7 +1349,7 @@
 </offer>
 <offer id="2280165432" available="true">
 <url>https://tera-flops.com.ua/ua/p2280165432-dbzh-prologix-650.html</url>
-<price>2515</price>
+<price>2510</price>
 <currencyId>UAH</currencyId>
 <categoryId>133045618</categoryId>
 <picture>https://images.prom.ua/6069565295_dbzh-prologix-650.jpg</picture>
@@ -1161,6 +1384,107 @@
 <param name="Тип розеток" unit="">Тип F (Schuko)</param>
 <param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
 </offer>
+<offer id="2288561715" available="true">
+<url>https://tera-flops.com.ua/ua/p2288561715-poverbank-joyroom-t015.html</url>
+<price>2200</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6099203863_poverbank-joyroom-jr-t015.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Повербанк Joyroom JR-T015 30000mAh 15W Black (6941237185167)</name>
+<vendor>Joyroom</vendor>
+<vendorCode>6941237185167</vendorCode>
+<param name="Вес" unit="г">628</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">30000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">15</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">12</param>
+<param name="Ємність батареї (Вт*год)" unit="">111</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">15</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">15</param>
+<param name="Реальна ємність" unit="">18900</param>
+<param name="Розміри (мм)" unit="">150x69x41</param>
+<param name="Струм заряду по USB (A)" unit="">3</param>
+<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
+<param name="Тип акумуляторів" unit="">Li-Pol</param>
+<param name="Функции" unit="">інфо-дисплей</param>
+<param name="Час повної зарядки (год)" unit="">4</param>
+</offer>
+<offer id="2304604828" available="true">
+<url>https://tera-flops.com.ua/ua/p2304604828-poverbank-sandberg-60000mah.html</url>
+<price>4396</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6160334066_poverbank-sandberg-60000mah.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Повербанк Sandberg 60000mAh 20W (420-71)</name>
+<vendor>Sandberg</vendor>
+<vendorCode>420-71</vendorCode>
+<param name="Вес" unit="г">1229</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Емкость аккумулятора" unit="мА/ч">60000</param>
+<param name="Материал корпуса">Алюминий</param>
+<param name="Состояние">Новое</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">18</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">18</param>
+<param name="Ємність батареї (Вт*год)" unit="">74</param>
+<param name="Входи зарядки пристрою" unit="">microUSB</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Кількість USB-A" unit="">2</param>
+<param name="Макс. потужність (на 1 порт)" unit="">22.5</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">18</param>
+<param name="Реальна ємність" unit="">12600</param>
+<param name="Розміри (мм)" unit="">148x85x85</param>
+<param name="Струм заряду по USB (A)" unit="">3</param>
+<param name="Технології швидкої зарядки" unit="">Quick Charge 3.0</param>
+<param name="Тип акумуляторів" unit="">Li-Pol</param>
+<param name="Функции" unit="">інфо-дисплей</param>
+<param name="Час повної зарядки (год)" unit="">3</param>
+</offer>
+<offer id="2308817869" available="true">
+<url>https://tera-flops.com.ua/ua/p2308817869-materinska-plata-asus.html</url>
+<price>8158</price>
+<currencyId>UAH</currencyId>
+<categoryId>97644299</categoryId>
+<picture>https://images.prom.ua/6175051487_materinska-plata-asus.jpg</picture>
+<picture>https://images.prom.ua/6175051490_materinska-plata-asus.jpg</picture>
+<picture>https://images.prom.ua/6175051493_materinska-plata-asus.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Материнська плата ASUS ROG STRIX B550-F GAMING WIFI II (ROG STRIX B550-F GAMING WIFI II)</name>
+<vendor>Asus</vendor>
+<vendorCode>ROG STRIX B550-F GAMING WIFI II</vendorCode>
+<param name="Гарантийный срок" unit="мес">36</param>
+<param name="Интерфейсы">HDMI</param>
+<param name="Количество LAN-портов">1</param>
+<param name="Количество слотов памяти">4</param>
+<param name="Состояние">Новое</param>
+<param name="Тип оперативной памяти">DDR4</param>
+<param name="Форм-фактор">ATX</param>
+<param name="Audio" unit="">5</param>
+<param name="Aудіокодек" unit="">ROG SupremeFX S1220A (7.1)</param>
+<param name="Ethernet" unit="">Intel I225-V (2.5GbE)</param>
+<param name="SATA Revision 3.0" unit="">6</param>
+<param name="USB 2.0" unit="">2</param>
+<param name="USB 3.2 Gen 1" unit="">4</param>
+<param name="USB 3.2 Gen 2" unit="">1</param>
+<param name="Видеоинтерфейс" unit="">PCI-Express 4.0</param>
+<param name="Кількість M.2" unit="">2</param>
+<param name="Кількість роз'ємів FAN" unit="">6</param>
+<param name="Поддержка RAID" unit="">0/1/10</param>
+<param name="Разъемы" unit="">Socket AM4</param>
+<param name="Роз'єм живлення плати" unit="">24</param>
+<param name="Роз'єм живлення процесора" unit="">8+4 pin</param>
+<param name="Тип M.2" unit="">SATA</param>
+<param name="Чипсет" unit="">B550</param>
+</offer>
 <offer id="2313721083" available="true">
 <url>https://tera-flops.com.ua/ua/p2313721083-zaryadna-stantsiya-bandera.html</url>
 <price>18355</price>
@@ -1170,7 +1494,7 @@
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Зарядна станція Bandera Power 125</name>
-<vendor>ПромАвтоматика Вінниця</vendor>
+<vendor>Bandera Power</vendor>
 <vendorCode>BP 125</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
@@ -1190,7 +1514,7 @@
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Зарядна станція Bandera Power 180</name>
-<vendor>ПромАвтоматика Вінниця</vendor>
+<vendor>Bandera Power</vendor>
 <vendorCode>BP 180</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
@@ -1212,7 +1536,7 @@
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Зарядна станція Bandera Power 180 S</name>
-<vendor>ПромАвтоматика Вінниця</vendor>
+<vendor>Bandera Power</vendor>
 <vendorCode>BP 180 S</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
@@ -1235,7 +1559,7 @@
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Зарядна станція Bandera Power 225 S</name>
-<vendor>ПромАвтоматика Вінниця</vendor>
+<vendor>Bandera Power</vendor>
 <vendorCode>BP 225 S</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
@@ -1258,7 +1582,7 @@
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Зарядна станція Bandera Power 305 S</name>
-<vendor>ПромАвтоматика Вінниця</vendor>
+<vendor>Bandera Power</vendor>
 <vendorCode>BP 305 S</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
@@ -1281,7 +1605,7 @@
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Зарядна станція Bandera Power 430 S</name>
-<vendor>ПромАвтоматика Вінниця</vendor>
+<vendor>Bandera Power</vendor>
 <vendorCode>BP 430 S</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
@@ -1304,7 +1628,7 @@
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Зарядна станція Bandera Power 610 S</name>
-<vendor>ПромАвтоматика Вінниця</vendor>
+<vendor>Bandera Power</vendor>
 <vendorCode>BP 610 S</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
@@ -1327,7 +1651,7 @@
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Зарядна станція Bandera Power 860 S</name>
-<vendor>ПромАвтоматика Вінниця</vendor>
+<vendor>Bandera Power</vendor>
 <vendorCode>BP 860 S</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
@@ -1343,7 +1667,7 @@
 </offer>
 <offer id="2321322153" available="true">
 <url>https://tera-flops.com.ua/ua/p2321322153-poverbank-choetech-10000mah.html</url>
-<price>1503</price>
+<price>1517</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522645</categoryId>
 <picture>https://images.prom.ua/6238208048_poverbank-choetech-10000mah.jpg</picture>
@@ -1368,9 +1692,70 @@
 <param name="Тип акумуляторів" unit="">Li-Pol</param>
 <param name="Функции" unit="">світильник</param>
 </offer>
+<offer id="2326364829" available="true">
+<url>https://tera-flops.com.ua/ua/p2326364829-protsesor-intel-core.html</url>
+<price>5423</price>
+<currencyId>UAH</currencyId>
+<categoryId>97641447</categoryId>
+<picture>https://images.prom.ua/3802063218_protsesor-intel-core.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Процесор Intel Core i5 11400F LGA 1200 (BX8070811400F)</name>
+<vendor>Intel</vendor>
+<vendorCode>BX8070811400F</vendorCode>
+<param name="Внутренняя тактовая частота" unit="ГГц">2.6</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Количество потоков процессора">12</param>
+<param name="Количество ядер процессора">6</param>
+<param name="Комплектация">Box</param>
+<param name="Семейство процессора">Core i5</param>
+<param name="Состояние">Новое</param>
+<param name="Разъемы">LGA1200</param>
+<param name="Мoдель" unit="">Intel Core i5-11400F</param>
+<param name="Назначение" unit="">Десктопний</param>
+<param name="Об'єм кеш-пам'яті третього рівня, МБ" unit="">12</param>
+<param name="Тип памяти" unit="">DDR4-3200</param>
+<param name="Частота Turbo Boost" unit="">4.4</param>
+</offer>
+<offer id="2329032334" available="true">
+<url>https://tera-flops.com.ua/ua/p2329032334-videokarta-geforce-rtx.html</url>
+<price>20856</price>
+<currencyId>UAH</currencyId>
+<categoryId>85328986</categoryId>
+<picture>https://images.prom.ua/6239601028_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6246753171_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239601033_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239601034_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239601036_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239601041_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6246753173_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239601046_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239601052_videokarta-geforce-rtx.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Відеокарта GeForce RTX 4060 Ti 8GB Asus TUF Gaming OC (TUF-RTX4060TI-O8G-GAMING)</name>
+<vendor>Asus</vendor>
+<vendorCode>TUF-RTX4060TI-O8G-GAMING</vendorCode>
+<param name="Гарантийный срок" unit="мес">36</param>
+<param name="Графический чипсет">GeForce RTX 4060 TI</param>
+<param name="Интерфейсы">HDMI</param>
+<param name="Объем видеопамяти" unit="MB">8</param>
+<param name="Состояние">Новое</param>
+<param name="Тип видеопамяти">GDDR6</param>
+<param name="Частота видеопамяти" unit="МГц">18000</param>
+<param name="Частота процессора" unit="МГц">2655</param>
+<param name="Виробник GPU" unit="">Nvidia</param>
+<param name="Дополнительное питание" unit="">8 pin</param>
+<param name="Максимальное разрешение" unit="">7680x4320</param>
+<param name="Разрядность шины памяти" unit="">128</param>
+<param name="Рекомендована потужність блоку живлення, Вт" unit="">650</param>
+<param name="Система охлаждения" unit="">Активна</param>
+<param name="Споживана потужність, Вт" unit="">160</param>
+<param name="Тип подключения" unit="">PCI-Express 4.0</param>
+</offer>
 <offer id="2329032341" available="true">
 <url>https://tera-flops.com.ua/ua/p2329032341-videokarta-geforce-rtx.html</url>
-<price>14872</price>
+<price>14490</price>
 <currencyId>UAH</currencyId>
 <categoryId>85328986</categoryId>
 <picture>https://images.prom.ua/6239601163_videokarta-geforce-rtx.jpg</picture>
@@ -1389,24 +1774,24 @@
 <vendor>Gigabyte</vendor>
 <vendorCode>GV-N4060EAGLE OC-8GD</vendorCode>
 <param name="Гарантийный срок" unit="мес">36</param>
-<param name="Интерфейсы">HDMI|DisplayPort</param>
+<param name="Интерфейсы">HDMI</param>
 <param name="Объем видеопамяти" unit="MB">8</param>
 <param name="Состояние">Новое</param>
 <param name="Тип видеопамяти">GDDR6</param>
 <param name="Частота видеопамяти" unit="МГц">17000</param>
 <param name="Частота процессора" unit="МГц">2505</param>
+<param name="Виробник GPU" unit="">Nvidia</param>
 <param name="Графический чипсет" unit="">GeForce RTX 4060</param>
-<param name="Система охлаждения" unit="">Активна</param>
-<param name="Разрядность шины памяти" unit="">128</param>
-<param name="Тип подключения" unit="">PCI-Express 4.0</param>
-<param name="Рекомендована потужність блоку живлення, Вт" unit="">450</param>
 <param name="Дополнительное питание" unit="">8 pin</param>
 <param name="Максимальное разрешение" unit="">7680x4320</param>
-<param name="Виробник GPU" unit="">Nvidia</param>
+<param name="Разрядность шины памяти" unit="">128</param>
+<param name="Рекомендована потужність блоку живлення, Вт" unit="">450</param>
+<param name="Система охлаждения" unit="">Активна</param>
+<param name="Тип подключения" unit="">PCI-Express 4.0</param>
 </offer>
 <offer id="2329032342" available="true">
 <url>https://tera-flops.com.ua/ua/p2329032342-videokarta-geforce-rtx.html</url>
-<price>14038</price>
+<price>14051</price>
 <currencyId>UAH</currencyId>
 <categoryId>85328986</categoryId>
 <picture>https://images.prom.ua/6239601185_videokarta-geforce-rtx.jpg</picture>
@@ -1421,7 +1806,7 @@
 <vendor>Gigabyte</vendor>
 <vendorCode>GV-N4060WF2OC-8GD</vendorCode>
 <param name="Гарантийный срок" unit="мес">36</param>
-<param name="Интерфейсы">HDMI|DisplayPort</param>
+<param name="Интерфейсы">HDMI</param>
 <param name="Объем видеопамяти" unit="MB">8</param>
 <param name="Состояние">Новое</param>
 <param name="Тип видеопамяти">GDDR6</param>
@@ -1438,7 +1823,7 @@
 </offer>
 <offer id="2329032416" available="true">
 <url>https://tera-flops.com.ua/ua/p2329032416-videokarta-amd-radeon.html</url>
-<price>12284</price>
+<price>12279</price>
 <currencyId>UAH</currencyId>
 <categoryId>85328986</categoryId>
 <picture>https://images.prom.ua/6246756173_videokarta-amd-radeon.jpg</picture>
@@ -1451,7 +1836,7 @@
 <vendor>Gigabyte</vendor>
 <vendorCode>GV-R76GAMING OC-8GD</vendorCode>
 <param name="Гарантийный срок" unit="мес">36</param>
-<param name="Интерфейсы">HDMI|DisplayPort</param>
+<param name="Интерфейсы">HDMI</param>
 <param name="Объем видеопамяти" unit="MB">8</param>
 <param name="Состояние">Новое</param>
 <param name="Тип видеопамяти">GDDR6</param>
@@ -1466,45 +1851,9 @@
 <param name="Система охлаждения" unit="">Активна</param>
 <param name="Тип подключения" unit="">PCI-Express 4.0</param>
 </offer>
-<offer id="2329032418" available="true">
-<url>https://tera-flops.com.ua/ua/p2329032418-videokarta-geforce-rtx.html</url>
-<price>27586</price>
-<currencyId>UAH</currencyId>
-<categoryId>85328986</categoryId>
-<picture>https://images.prom.ua/6239601923_videokarta-geforce-rtx.jpg</picture>
-<picture>https://images.prom.ua/6239601926_videokarta-geforce-rtx.jpg</picture>
-<picture>https://images.prom.ua/6239601928_videokarta-geforce-rtx.jpg</picture>
-<picture>https://images.prom.ua/6239601929_videokarta-geforce-rtx.jpg</picture>
-<picture>https://images.prom.ua/6239601932_videokarta-geforce-rtx.jpg</picture>
-<picture>https://images.prom.ua/6257885362_videokarta-geforce-rtx.jpg</picture>
-<picture>https://images.prom.ua/6239601935_videokarta-geforce-rtx.jpg</picture>
-<picture>https://images.prom.ua/6239601938_videokarta-geforce-rtx.jpg</picture>
-<picture>https://images.prom.ua/6239601939_videokarta-geforce-rtx.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Відеокарта GeForce RTX 4070 12GB Palit JetStream (NED4070019K9-1047J)</name>
-<vendor>Palit</vendor>
-<vendorCode>NED4070019K9-1047J</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Интерфейсы">HDMI|DisplayPort</param>
-<param name="Объем видеопамяти" unit="MB">12</param>
-<param name="Состояние">Новое</param>
-<param name="Тип видеопамяти">GDDR6X</param>
-<param name="Частота видеопамяти" unit="МГц">21000</param>
-<param name="Частота процессора" unit="МГц">2475</param>
-<param name="Виробник GPU" unit="">Nvidia</param>
-<param name="Графический чипсет" unit="">GeForce RTX 4070</param>
-<param name="Дополнительное питание" unit="">8 pin</param>
-<param name="Максимальное разрешение" unit="">7680x4320</param>
-<param name="Разрядность шины памяти" unit="">192</param>
-<param name="Рекомендована потужність блоку живлення, Вт" unit="">750</param>
-<param name="Система охлаждения" unit="">Активна</param>
-<param name="Споживана потужність, Вт" unit="">200</param>
-<param name="Тип подключения" unit="">PCI-Express 4.0</param>
-</offer>
 <offer id="2329032493" available="true">
 <url>https://tera-flops.com.ua/ua/p2329032493-videokarta-amd-radeon.html</url>
-<price>22156</price>
+<price>22146</price>
 <currencyId>UAH</currencyId>
 <categoryId>85328986</categoryId>
 <picture>https://images.prom.ua/6239623388_videokarta-amd-radeon.jpg</picture>
@@ -1521,7 +1870,7 @@
 <vendorCode>GV-R77XTGAMING OC-12GD</vendorCode>
 <param name="Гарантийный срок" unit="мес">36</param>
 <param name="Графический чипсет">Radeon RX 7700 XT</param>
-<param name="Интерфейсы">HDMI|DisplayPort</param>
+<param name="Интерфейсы">HDMI</param>
 <param name="Объем видеопамяти" unit="MB">12</param>
 <param name="Состояние">Новое</param>
 <param name="Тип видеопамяти">GDDR6</param>
@@ -1535,42 +1884,9 @@
 <param name="Споживана потужність, Вт" unit="">245</param>
 <param name="Тип подключения" unit="">PCI-Express 4.0</param>
 </offer>
-<offer id="2329032535" available="true">
-<url>https://tera-flops.com.ua/ua/p2329032535-videokarta-amd-radeon.html</url>
-<price>26586</price>
-<currencyId>UAH</currencyId>
-<categoryId>85328986</categoryId>
-<picture>https://images.prom.ua/6239622203_videokarta-amd-radeon.jpg</picture>
-<picture>https://images.prom.ua/6239622208_videokarta-amd-radeon.jpg</picture>
-<picture>https://images.prom.ua/6239622212_videokarta-amd-radeon.jpg</picture>
-<picture>https://images.prom.ua/6239622176_videokarta-amd-radeon.jpg</picture>
-<picture>https://images.prom.ua/6239622179_videokarta-amd-radeon.jpg</picture>
-<picture>https://images.prom.ua/6239622223_videokarta-amd-radeon.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Відеокарта AMD Radeon RX 7800 XT 16GB Sapphire Pure (11330-03-20G)</name>
-<vendor>Sapphire</vendor>
-<vendorCode>11330-03-20G</vendorCode>
-<param name="Гарантийный срок" unit="мес">36</param>
-<param name="Графический чипсет">Radeon RX 7800 XT</param>
-<param name="Интерфейсы">HDMI|DisplayPort</param>
-<param name="Объем видеопамяти" unit="MB">16</param>
-<param name="Состояние">Новое</param>
-<param name="Тип видеопамяти">GDDR6</param>
-<param name="Частота видеопамяти" unit="МГц">19500</param>
-<param name="Частота процессора" unit="МГц">2475</param>
-<param name="Виробник GPU" unit="">AMD</param>
-<param name="Дополнительное питание" unit="">8 + 8 pin</param>
-<param name="Максимальное разрешение" unit="">7680x4320</param>
-<param name="Разрядность шины памяти" unit="">256</param>
-<param name="Рекомендована потужність блоку живлення, Вт" unit="">700</param>
-<param name="Система охлаждения" unit="">Активна</param>
-<param name="Споживана потужність, Вт" unit="">288</param>
-<param name="Тип подключения" unit="">PCI-Express 4.0</param>
-</offer>
 <offer id="2329032664" available="true">
 <url>https://tera-flops.com.ua/ua/p2329032664-videokarta-geforce-rtx.html</url>
-<price>14696</price>
+<price>14674</price>
 <currencyId>UAH</currencyId>
 <categoryId>85328986</categoryId>
 <picture>https://images.prom.ua/6257885292_videokarta-geforce-rtx.jpg</picture>
@@ -1583,7 +1899,7 @@
 <vendor>MSI</vendor>
 <vendorCode>RTX 4060 VENTUS 2X WHITE 8G OC</vendorCode>
 <param name="Гарантийный срок" unit="мес">36</param>
-<param name="Интерфейсы">DisplayPort|HDMI</param>
+<param name="Интерфейсы">HDMI</param>
 <param name="Объем видеопамяти" unit="MB">8</param>
 <param name="Состояние">Новое</param>
 <param name="Тип видеопамяти">GDDR6</param>
@@ -1601,7 +1917,7 @@
 </offer>
 <offer id="2329032667" available="true">
 <url>https://tera-flops.com.ua/ua/p2329032667-videokarta-geforce-rtx.html</url>
-<price>14323</price>
+<price>14446</price>
 <currencyId>UAH</currencyId>
 <categoryId>85328986</categoryId>
 <picture>https://images.prom.ua/6239601408_videokarta-geforce-rtx.jpg</picture>
@@ -1631,42 +1947,41 @@
 <param name="Система охлаждения" unit="">Активна</param>
 <param name="Тип подключения" unit="">PCI-Express 4.0</param>
 </offer>
-<offer id="2329032732" available="true">
-<url>https://tera-flops.com.ua/ua/p2329032732-videokarta-geforce-rtx.html</url>
-<price>25849</price>
+<offer id="2329032733" available="true">
+<url>https://tera-flops.com.ua/ua/p2329032733-videokarta-geforce-rtx.html</url>
+<price>54941</price>
 <currencyId>UAH</currencyId>
 <categoryId>85328986</categoryId>
-<picture>https://images.prom.ua/6239622676_videokarta-geforce-rtx.jpg</picture>
-<picture>https://images.prom.ua/6239622678_videokarta-geforce-rtx.jpg</picture>
-<picture>https://images.prom.ua/6239622669_videokarta-geforce-rtx.jpg</picture>
-<picture>https://images.prom.ua/6239622681_videokarta-geforce-rtx.jpg</picture>
-<picture>https://images.prom.ua/6239622684_videokarta-geforce-rtx.jpg</picture>
-<picture>https://images.prom.ua/6239622685_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6246765844_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239622688_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239622689_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239622691_videokarta-geforce-rtx.jpg</picture>
+<picture>https://images.prom.ua/6239622692_videokarta-geforce-rtx.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<name>Відеокарта GeForce RTX 4070 12GB Palit White (NED4070019K9-1047L)</name>
-<vendor>Palit</vendor>
-<vendorCode>NED4070019K9-1047L</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Объем видеопамяти" unit="MB">12</param>
+<name>Відеокарта GeForce RTX 4080 Super 16GB MSI Gaming X Trio (GeForce RTX 4080 SUPER 16G GAMING X TRIO)</name>
+<vendor>MSI</vendor>
+<vendorCode>GeForce RTX 4080 SUPER 16G GAMING X TRIO</vendorCode>
+<param name="Гарантийный срок" unit="мес">36</param>
+<param name="Объем видеопамяти" unit="MB">16</param>
 <param name="Состояние">Новое</param>
 <param name="Тип видеопамяти">GDDR6X</param>
-<param name="Частота видеопамяти" unit="МГц">21000</param>
-<param name="Частота процессора" unit="МГц">1920</param>
+<param name="Частота видеопамяти" unit="МГц">23000</param>
+<param name="Частота процессора" unit="МГц">2610</param>
 <param name="Виробник GPU" unit="">Nvidia</param>
-<param name="Графический чипсет" unit="">GeForce RTX 4070</param>
-<param name="Дополнительное питание" unit="">8 pin</param>
+<param name="Графический чипсет" unit="">GeForce RTX 4080</param>
+<param name="Дополнительное питание" unit="">16 pin</param>
 <param name="Интерфейсы" unit="">Display Port v.1.4a</param>
 <param name="Максимальное разрешение" unit="">7680x4320</param>
-<param name="Разрядность шины памяти" unit="">192</param>
-<param name="Рекомендована потужність блоку живлення, Вт" unit="">750</param>
+<param name="Разрядность шины памяти" unit="">256</param>
+<param name="Рекомендована потужність блоку живлення, Вт" unit="">850</param>
 <param name="Система охлаждения" unit="">Активна</param>
-<param name="Споживана потужність, Вт" unit="">200</param>
+<param name="Споживана потужність, Вт" unit="">320</param>
 <param name="Тип подключения" unit="">PCI-Express 4.0</param>
 </offer>
 <offer id="2333233238" available="true">
 <url>https://tera-flops.com.ua/ua/p2333233238-dbzh-apc-back.html</url>
-<price>5919</price>
+<price>5915</price>
 <currencyId>UAH</currencyId>
 <categoryId>133045618</categoryId>
 <picture>https://images.prom.ua/6224502020_dbzh-apc-back-ups.jpg</picture>
@@ -1772,11 +2087,10 @@
 </offer>
 <offer id="2352264766" available="true">
 <url>https://tera-flops.com.ua/ua/p2352264766-zaryadna-stantsiya-invertor.html</url>
-<price>38230</price>
+<price>42180</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522449</categoryId>
 <picture>https://images.prom.ua/6272733500_zaryadna-stantsiya-invertor.jpg</picture>
-<picture>https://images.prom.ua/6272733501_zaryadna-stantsiya-invertor.jpg</picture>
 <picture>https://images.prom.ua/6272733502_zaryadna-stantsiya-invertor.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
@@ -1785,25 +2099,25 @@
 <vendorCode>AC300</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
-<param name="Габариты (мм)" unit="">358х520х320</param>
-<param name="Вес (кг)" unit="">21.6</param>
 <param name="USB A" unit="">2</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Вихід DC" unit="">1x24V/10А;1х12V/ 30A</param>
-<param name="Пиковая мощность" unit="">6000</param>
-<param name="USB-A (швидкої зарядки)" unit="">2</param>
-<param name="Номинальная мощность" unit="">3000</param>
 <param name="USB type C" unit="">1</param>
-<param name="Підключення дод. батареї" unit="">Да</param>
+<param name="USB-A (швидкої зарядки)" unit="">2</param>
+<param name="Вес (кг)" unit="">21.6</param>
+<param name="Вихід DC" unit="">1x24V/10А;1х12V/ 30A</param>
 <param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">358х520х320</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">6</param>
+<param name="Номинальная мощность" unit="">3000</param>
+<param name="Підключення дод. батареї" unit="">Да</param>
+<param name="Пиковая мощность" unit="">6000</param>
 <param name="Форма вихідного сигналу" unit="">Чиста синусоїда</param>
 <param name="Функція ДБЖ" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">6</param>
-<param name="Дисплей" unit="">Да</param>
 </offer>
 <offer id="2352264768" available="true">
 <url>https://tera-flops.com.ua/ua/p2352264768-zaryadna-stantsiya-bluetti.html</url>
-<price>9839</price>
+<price>9311</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522449</categoryId>
 <picture>https://images.prom.ua/6272733418_zaryadna-stantsiya-bluetti.jpg</picture>
@@ -1816,70 +2130,32 @@
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
 <param name="Тип аккумулятора">LiFePO4</param>
-<param name="Габариты (мм)" unit="">250x156,5x174,5</param>
-<param name="Час зарядки (розетка)" unit="">70хв</param>
-<param name="Вес (кг)" unit="">3.6</param>
 <param name="USB A" unit="">2</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Пиковая мощность" unit="">600</param>
-<param name="Час зарядки (сонячна панель)" unit="">90хв</param>
-<param name="Номинальная мощность" unit="">300</param>
 <param name="USB type C" unit="">1</param>
-<param name="Підключення дод. батареї" unit="">Да</param>
+<param name="Ємність батареї (Вт*год)" unit="">230.4</param>
+<param name="Вес (кг)" unit="">3.6</param>
 <param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">250x156,5x174,5</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">1</param>
+<param name="Номинальная мощность" unit="">300</param>
+<param name="Підключення дод. батареї" unit="">Да</param>
+<param name="Пиковая мощность" unit="">600</param>
 <param name="Форма вихідного сигналу" unit="">Чиста синусоїда</param>
 <param name="Функція ДБЖ" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">1</param>
-<param name="Дисплей" unit="">Да</param>
-<param name="Ємність батареї (Вт*год)" unit="">230.4</param>
-</offer>
-<offer id="2352264769" available="true">
-<url>https://tera-flops.com.ua/ua/p2352264769-zaryadna-stantsiya-ecoflow.html</url>
-<price>26500</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/5992698299_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/5998266651_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6272733420_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6272733421_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/5992698290_zaryadna-stantsiya-ecoflow.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Зарядна станція EcoFlow River 2 Pro 800W (RIVER 2 PRO) EU</name>
-<vendor>EcoFlow</vendor>
-<vendorCode>RIVER 2 PRO</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="Тип аккумулятора">LiFePO4</param>
-<param name="Габариты (мм)" unit="">226x270x260</param>
-<param name="Час зарядки (розетка)" unit="">70 хв</param>
-<param name="Вес (кг)" unit="">7.8</param>
-<param name="USB A" unit="">3 шт, 5В/2.4А, 12 Вт</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Вихід DC" unit="">2 шт DC5521 (12.6 В / 3 A / 36 Вт)</param>
-<param name="Пиковая мощность" unit="">1600 Вт</param>
-<param name="Час зарядки (сонячна панель)" unit="">210 хв</param>
-<param name="Номинальная мощность" unit="">800 Вт</param>
-<param name="Вхід XT60" unit="">Да</param>
-<param name="USB type C" unit="">1 шт, 5 A, 100 Вт</param>
-<param name="Підключення дод. батареї" unit="">Да</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
-<param name="Функція ДБЖ" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">3</param>
-<param name="Дисплей" unit="">Да</param>
-<param name="Ємність батареї (Вт*год)" unit="">768 Вт*год</param>
+<param name="Час зарядки (розетка)" unit="">70хв</param>
+<param name="Час зарядки (сонячна панель)" unit="">90хв</param>
 </offer>
 <offer id="2352264770" available="true">
 <url>https://tera-flops.com.ua/ua/p2352264770-zaryadna-stantsiya-bluetti.html</url>
-<price>31279</price>
+<price>29999</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522449</categoryId>
 <picture>https://images.prom.ua/6272733423_zaryadna-stantsiya-bluetti.jpg</picture>
 <picture>https://images.prom.ua/6272733424_zaryadna-stantsiya-bluetti.jpg</picture>
 <picture>https://images.prom.ua/6272733425_zaryadna-stantsiya-bluetti.jpg</picture>
 <picture>https://images.prom.ua/6272733426_zaryadna-stantsiya-bluetti.jpg</picture>
-<picture>https://images.prom.ua/6272733427_zaryadna-stantsiya-bluetti.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Зарядна станція Bluetti AC70P 1000W (AC70P) EU</name>
@@ -1910,11 +2186,11 @@
 </offer>
 <offer id="2352264773" available="true">
 <url>https://tera-flops.com.ua/ua/p2352264773-zaryadna-stantsiya-bluetti.html</url>
-<price>17548</price>
+<price>17563</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522449</categoryId>
 <picture>https://images.prom.ua/6272733508_zaryadna-stantsiya-bluetti.jpg</picture>
-<picture>https://images.prom.ua/6272733509_zaryadna-stantsiya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6282210276_zaryadna-stantsiya-bluetti.jpg</picture>
 <picture>https://images.prom.ua/6272733511_zaryadna-stantsiya-bluetti.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
@@ -1924,26 +2200,26 @@
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
 <param name="Тип аккумулятора">LiFePO4</param>
-<param name="Габариты (мм)" unit="">290х205х234</param>
-<param name="Час зарядки (розетка)" unit="">60 хв</param>
-<param name="Вес (кг)" unit="">9.1</param>
 <param name="USB A" unit="">2</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Пиковая мощность" unit="">1200</param>
-<param name="Час зарядки (сонячна панель)" unit="">150 хв</param>
-<param name="Номинальная мощность" unit="">600</param>
 <param name="USB type C" unit="">1</param>
-<param name="Підключення дод. батареї" unit="">Да</param>
+<param name="Ємність батареї (Вт*год)" unit="">403</param>
+<param name="Вес (кг)" unit="">9.1</param>
 <param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">290х205х234</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Номинальная мощность" unit="">600</param>
+<param name="Підключення дод. батареї" unit="">Да</param>
+<param name="Пиковая мощность" unit="">1200</param>
 <param name="Форма вихідного сигналу" unit="">Чиста синусоїда</param>
 <param name="Функція ДБЖ" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">2</param>
-<param name="Дисплей" unit="">Да</param>
-<param name="Ємність батареї (Вт*год)" unit="">403</param>
+<param name="Час зарядки (розетка)" unit="">60 хв</param>
+<param name="Час зарядки (сонячна панель)" unit="">150 хв</param>
 </offer>
 <offer id="2352264774" available="true">
 <url>https://tera-flops.com.ua/ua/p2352264774-zaryadna-stantsiya-bluetti.html</url>
-<price>13600</price>
+<price>11855</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522449</categoryId>
 <picture>https://images.prom.ua/6272733527_zaryadna-stantsiya-bluetti.jpg</picture>
@@ -1980,10 +2256,12 @@
 </offer>
 <offer id="2352264775" available="true">
 <url>https://tera-flops.com.ua/ua/p2352264775-zaryadna-stantsiya-ecoflow.html</url>
-<price>19303</price>
+<price>18002</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6282210267_zaryadna-stantsiya-ecoflow.jpg</picture>
 <picture>https://images.prom.ua/6272733504_zaryadna-stantsiya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/6282210269_zaryadna-stantsiya-ecoflow.jpg</picture>
 <picture>https://images.prom.ua/6272733507_zaryadna-stantsiya-ecoflow.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
@@ -2014,10 +2292,12 @@
 </offer>
 <offer id="2352264776" available="true">
 <url>https://tera-flops.com.ua/ua/p2352264776-zaryadna-stantsiya-ecoflow.html</url>
-<price>40402</price>
+<price>37824</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6272733520_zaryadna-stantsiya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/6282230594_zaryadna-stantsiya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/6282210277_zaryadna-stantsiya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/6282210281_zaryadna-stantsiya-ecoflow.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Зарядна станція EcoFlow Delta 2 1800W (DELTA 2) EU</name>
@@ -2049,12 +2329,12 @@
 </offer>
 <offer id="2352264777" available="true">
 <url>https://tera-flops.com.ua/ua/p2352264777-zaryadna-stantsiya-ecoflow.html</url>
-<price>71838</price>
+<price>67920</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6282489962_zaryadna-stantsiya-ecoflow.jpg</picture>
 <picture>https://images.prom.ua/6272733521_zaryadna-stantsiya-ecoflow.jpg</picture>
 <picture>https://images.prom.ua/6272733522_zaryadna-stantsiya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6272733523_zaryadna-stantsiya-ecoflow.jpg</picture>
 <picture>https://images.prom.ua/6272733524_zaryadna-stantsiya-ecoflow.jpg</picture>
 <picture>https://images.prom.ua/6272733525_zaryadna-stantsiya-ecoflow.jpg</picture>
 <pickup>true</pickup>
@@ -2087,7 +2367,7 @@
 </offer>
 <offer id="2352264778" available="true">
 <url>https://tera-flops.com.ua/ua/p2352264778-zaryadna-stantsiya-bluetti.html</url>
-<price>69257</price>
+<price>68785</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522449</categoryId>
 <picture>https://images.prom.ua/6272733431_zaryadna-stantsiya-bluetti.jpg</picture>
@@ -2102,30 +2382,29 @@
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
 <param name="Тип аккумулятора">LiFePO4</param>
-<param name="Габариты (мм)" unit="">420x280x366,5</param>
-<param name="Час зарядки (розетка)" unit="">90хв</param>
-<param name="Вес (кг)" unit="">28.8</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Пиковая мощность" unit="">2500</param>
-<param name="Час зарядки (сонячна панель)" unit="">150хв</param>
-<param name="USB-A (швидкої зарядки)" unit="">2</param>
-<param name="Номинальная мощность" unit="">2400</param>
 <param name="USB type C" unit="">2</param>
-<param name="Підключення дод. батареї" unit="">Да</param>
-<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
-<param name="Функція ДБЖ" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">4</param>
-<param name="Дисплей" unit="">Да</param>
+<param name="USB-A (швидкої зарядки)" unit="">2</param>
 <param name="Ємність батареї (Вт*год)" unit="">2304</param>
+<param name="Вес (кг)" unit="">28.8</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">420x280x366,5</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">4</param>
+<param name="Номинальная мощность" unit="">2400</param>
+<param name="Підключення дод. батареї" unit="">Да</param>
+<param name="Пиковая мощность" unit="">2500</param>
+<param name="Функція ДБЖ" unit="">Да</param>
+<param name="Час зарядки (розетка)" unit="">90хв</param>
+<param name="Час зарядки (сонячна панель)" unit="">150хв</param>
 </offer>
 <offer id="2352264779" available="true">
 <url>https://tera-flops.com.ua/ua/p2352264779-zaryadna-stantsiya-invertor.html</url>
-<price>50760</price>
+<price>48452</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522449</categoryId>
 <picture>https://images.prom.ua/6272733436_zaryadna-stantsiya-invertor.jpg</picture>
 <picture>https://images.prom.ua/6272733437_zaryadna-stantsiya-invertor.jpg</picture>
-<picture>https://images.prom.ua/6272733438_zaryadna-stantsiya-invertor.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Зарядна станція (інвертор) Bluetti AC500 5000W (без батареї) EU</name>
@@ -2133,31 +2412,30 @@
 <vendorCode>AC500</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
-<param name="Габариты (мм)" unit="">520x325x358</param>
-<param name="Вес (кг)" unit="">30</param>
 <param name="USB A" unit="">2</param>
-<param name="Від для сонячних панелей" unit="">Да</param>
-<param name="Вихід DC" unit="">1 x 12V/30A</param>
-<param name="Пиковая мощность" unit="">10000</param>
-<param name="USB-A (швидкої зарядки)" unit="">2</param>
-<param name="Номинальная мощность" unit="">5000</param>
 <param name="USB type C" unit="">2</param>
-<param name="Підключення дод. батареї" unit="">Да</param>
+<param name="USB-A (швидкої зарядки)" unit="">2</param>
+<param name="Вес (кг)" unit="">30</param>
+<param name="Вихід DC" unit="">1 x 12V/30A</param>
 <param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">520x325x358</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">6</param>
+<param name="Номинальная мощность" unit="">5000</param>
+<param name="Підключення дод. батареї" unit="">Да</param>
+<param name="Пиковая мощность" unit="">10000</param>
+<param name="Синхронізація зі смартфоном" unit="">Wi-Fi, Bluetooth</param>
 <param name="Форма вихідного сигналу" unit="">Чиста синусоїда</param>
 <param name="Функція ДБЖ" unit="">Да</param>
-<param name="Кількість розеток (230 В)" unit="">6</param>
-<param name="Дисплей" unit="">Да</param>
-<param name="Синхронізація зі смартфоном" unit="">Wi-Fi, Bluetooth</param>
 </offer>
 <offer id="2352264780" available="true">
 <url>https://tera-flops.com.ua/ua/p2352264780-dodatkova-batareya-bluetti.html</url>
-<price>52481</price>
+<price>50183</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522449</categoryId>
 <picture>https://images.prom.ua/6272733441_dodatkova-batareya-bluetti.jpg</picture>
 <picture>https://images.prom.ua/6272733442_dodatkova-batareya-bluetti.jpg</picture>
-<picture>https://images.prom.ua/6272733444_dodatkova-batareya-bluetti.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Додаткова батарея Bluetti B210P для AC200MAX/AC200PL/AC240P</name>
@@ -2177,14 +2455,11 @@
 </offer>
 <offer id="2352264781" available="true">
 <url>https://tera-flops.com.ua/ua/p2352264781-dodatkova-batareya-bluetti.html</url>
-<price>66676</price>
+<price>56239</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6272733445_dodatkova-batareya-bluetti.jpg</picture>
 <picture>https://images.prom.ua/6272733446_dodatkova-batareya-bluetti.jpg</picture>
-<picture>https://images.prom.ua/6272733447_dodatkova-batareya-bluetti.jpg</picture>
 <picture>https://images.prom.ua/6272733448_dodatkova-batareya-bluetti.jpg</picture>
-<picture>https://images.prom.ua/6272733449_dodatkova-batareya-bluetti.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Додаткова батарея Bluetti B300K для AC300/AC500/AC200PL/AC240P/AC200MAX</name>
@@ -2202,10 +2477,12 @@
 </offer>
 <offer id="2352264782" available="true">
 <url>https://tera-flops.com.ua/ua/p2352264782-dodatkova-batareya-bluetti.html</url>
-<price>26066</price>
+<price>21738</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522449</categoryId>
-<picture>https://images.prom.ua/6272733450_dodatkova-batareya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6282210252_dodatkova-batareya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6282210249_dodatkova-batareya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6282210254_dodatkova-batareya-bluetti.jpg</picture>
 <pickup>true</pickup>
 <delivery>true</delivery>
 <name>Додаткова батарея Bluetti B80P 806Wh EU</name>
@@ -2223,9 +2500,437 @@
 <param name="Вихід на автомобільний прикурювач" unit="">Да</param>
 <param name="Ємність батареї (Вт*год)" unit="">806</param>
 </offer>
+<offer id="2354051391" available="true">
+<url>https://tera-flops.com.ua/ua/p2354051391-povitryane-oholodzhennya-jiushark.html</url>
+<price>750</price>
+<currencyId>UAH</currencyId>
+<categoryId>97649259</categoryId>
+<picture>https://images.prom.ua/6278430518_povitryane-oholodzhennya-jiushark.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження Jiushark JF100 FRGB Black (JF100 FRGB Black)</name>
+<vendor>Jiushark</vendor>
+<vendorCode>JF100 FRGB Black</vendorCode>
+<param name="Вес" unit="г">912</param>
+<param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">120</param>
+<param name="Количество кулеров">1</param>
+<param name="Максимальная скорость вращения" unit="об/мин">1500</param>
+<param name="Максимальный уровень шума" unit="дБ">35</param>
+<param name="Разъемы">LGA1200|LGA1700</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">600</param>
+<param name="Повітряний потік (CFM)" unit="">68.04</param>
+<param name="Розсіювана потужність, Вт" unit="">240</param>
+<param name="Колір підсвітки" unit="">FRGB</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Габариты (мм)" unit="">128x76x157</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
+<param name="Висота кулера, мм" unit="">157</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+</offer>
+<offer id="2354051392" available="true">
+<url>https://tera-flops.com.ua/ua/p2354051392-povitryane-oholodzhennya-jiushark.html</url>
+<price>770</price>
+<currencyId>UAH</currencyId>
+<categoryId>97649259</categoryId>
+<picture>https://images.prom.ua/6278632957_povitryane-oholodzhennya-jiushark.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження Jiushark JF100 FRGB White (JF100 FRGB White)</name>
+<vendor>Jiushark</vendor>
+<vendorCode>JF100 FRGB White</vendorCode>
+<param name="Вес" unit="г">912</param>
+<param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">120</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">1500</param>
+<param name="Максимальный уровень шума" unit="дБ">35</param>
+<param name="Разъемы">LGA1150|LGA1200|LGA1700</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">600</param>
+<param name="Повітряний потік (CFM)" unit="">68.04</param>
+<param name="Розсіювана потужність, Вт" unit="">240</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Габариты (мм)" unit="">128x101x157</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
+<param name="Висота кулера, мм" unit="">157</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+</offer>
+<offer id="2354051393" available="true">
+<url>https://tera-flops.com.ua/ua/p2354051393-povitryane-oholodzhennya-jiushark.html</url>
+<price>1100</price>
+<currencyId>UAH</currencyId>
+<categoryId>97649259</categoryId>
+<picture>https://images.prom.ua/6278430496_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430497_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430498_povitryane-oholodzhennya-jiushark.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження Jiushark JF100 ARGB Black (JF100 ARGB Black)</name>
+<vendor>Jiushark</vendor>
+<vendorCode>JF100 ARGB Black</vendorCode>
+<param name="Вес" unit="г">912</param>
+<param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">120</param>
+<param name="Количество кулеров">1</param>
+<param name="Максимальная скорость вращения" unit="об/мин">2300</param>
+<param name="Максимальный уровень шума" unit="дБ">35</param>
+<param name="Разъемы">LGA1200|LGA1150|LGA1700</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
+<param name="Повітряний потік (CFM)" unit="">68</param>
+<param name="Розсіювана потужність, Вт" unit="">230</param>
+<param name="Колір підсвітки" unit="">ARGB</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Габариты (мм)" unit="">128x76x157</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
+<param name="Висота кулера, мм" unit="">157</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+</offer>
+<offer id="2354051394" available="true">
+<url>https://tera-flops.com.ua/ua/p2354051394-povitryane-oholodzhennya-jiushark.html</url>
+<price>1750</price>
+<currencyId>UAH</currencyId>
+<categoryId>97649259</categoryId>
+<picture>https://images.prom.ua/6278430599_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430603_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430604_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430608_povitryane-oholodzhennya-jiushark.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження Jiushark JF300 ARGB Black (JF300 ARGB Black)</name>
+<vendor>Jiushark</vendor>
+<vendorCode>JF300 ARGB Black</vendorCode>
+<param name="Вес" unit="г">1110</param>
+<param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">120</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">1500</param>
+<param name="Максимальный уровень шума" unit="дБ">29</param>
+<param name="Разъемы">LGA1200|LGA1150|LGA1700</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">600</param>
+<param name="Повітряний потік (CFM)" unit="">59</param>
+<param name="Розсіювана потужність, Вт" unit="">260</param>
+<param name="Колір підсвітки" unit="">ARGB</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Габариты (мм)" unit="">120х132х160</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
+<param name="Висота кулера, мм" unit="">160</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+</offer>
+<offer id="2354051395" available="true">
+<url>https://tera-flops.com.ua/ua/p2354051395-povitryane-oholodzhennya-jiushark.html</url>
+<price>1770</price>
+<currencyId>UAH</currencyId>
+<categoryId>97649259</categoryId>
+<picture>https://images.prom.ua/6278430499_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430500_povitryane-oholodzhennya-jiushark.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження Jiushark JF300 ARGB White (JF300 ARGB White)</name>
+<vendor>Jiushark</vendor>
+<vendorCode>JF300 ARGB White</vendorCode>
+<param name="Вес" unit="г">1110</param>
+<param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">120</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">1500</param>
+<param name="Максимальный уровень шума" unit="дБ">29</param>
+<param name="Разъемы">LGA1150|LGA1200|LGA1700|LGA1155</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">600</param>
+<param name="Повітряний потік (CFM)" unit="">59</param>
+<param name="Розсіювана потужність, Вт" unit="">260</param>
+<param name="Колір підсвітки" unit="">ARGB</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Габариты (мм)" unit="">120х132х160</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
+<param name="Висота кулера, мм" unit="">160</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+</offer>
+<offer id="2354051396" available="true">
+<url>https://tera-flops.com.ua/ua/p2354051396-povitryane-oholodzhennya-jiushark.html</url>
+<price>1970</price>
+<currencyId>UAH</currencyId>
+<categoryId>97649259</categoryId>
+<picture>https://images.prom.ua/6279154617_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430507_povitryane-oholodzhennya-jiushark.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження Jiushark JF200 ARGB White (JF200 ARGB White)</name>
+<vendor>Jiushark</vendor>
+<vendorCode>JF200 ARGB White</vendorCode>
+<param name="Вес" unit="г">1408</param>
+<param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">120</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">1500</param>
+<param name="Максимальный уровень шума" unit="дБ">35</param>
+<param name="Разъемы">LGA1366|LGA1150|LGA1200|LGA1700</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">600</param>
+<param name="Повітряний потік (CFM)" unit="">68.04</param>
+<param name="Розсіювана потужність, Вт" unit="">260</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Габариты (мм)" unit="">128x153x158</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
+<param name="Висота кулера, мм" unit="">158</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+</offer>
+<offer id="2354051397" available="true">
+<url>https://tera-flops.com.ua/ua/p2354051397-povitryane-oholodzhennya-jiushark.html</url>
+<price>1950</price>
+<currencyId>UAH</currencyId>
+<categoryId>97649259</categoryId>
+<picture>https://images.prom.ua/6278430520_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430521_povitryane-oholodzhennya-jiushark.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження Jiushark JF200 ARGB Black (JF200 ARGB Black)</name>
+<vendor>Jiushark</vendor>
+<vendorCode>JF200 ARGB Black</vendorCode>
+<param name="Вес" unit="г">1408</param>
+<param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">120</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">1500</param>
+<param name="Максимальный уровень шума" unit="дБ">35</param>
+<param name="Разъемы">LGA1366|LGA1200|LGA1150|LGA1700</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">600</param>
+<param name="Повітряний потік (CFM)" unit="">68.04</param>
+<param name="Розсіювана потужність, Вт" unit="">260</param>
+<param name="Колір підсвітки" unit="">ARGB</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Габариты (мм)" unit="">128x153x158</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
+<param name="Висота кулера, мм" unit="">158</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+</offer>
+<offer id="2354051398" available="true">
+<url>https://tera-flops.com.ua/ua/p2354051398-povitryane-oholodzhennya-jiushark.html</url>
+<price>2000</price>
+<currencyId>UAH</currencyId>
+<categoryId>97649259</categoryId>
+<picture>https://images.prom.ua/6278430550_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430553_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430556_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430558_povitryane-oholodzhennya-jiushark.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження Jiushark JF13K Mini ARGB Black (JF13K Mini ARGB Black)</name>
+<vendor>Jiushark</vendor>
+<vendorCode>JF13K Mini ARGB Black</vendorCode>
+<param name="Вес" unit="г">1050</param>
+<param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">100</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">2200</param>
+<param name="Максимальный уровень шума" unit="дБ">30</param>
+<param name="Разъемы">LGA1150|LGA1700|LGA1200</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
+<param name="Повітряний потік (CFM)" unit="">47.54</param>
+<param name="Розсіювана потужність, Вт" unit="">260</param>
+<param name="Колір підсвітки" unit="">ARGB</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Габариты (мм)" unit="">204x123x101</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
+<param name="Висота кулера, мм" unit="">101</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+</offer>
+<offer id="2354051399" available="true">
+<url>https://tera-flops.com.ua/ua/p2354051399-povitryane-oholodzhennya-jiushark.html</url>
+<price>2000</price>
+<currencyId>UAH</currencyId>
+<categoryId>97649259</categoryId>
+<picture>https://images.prom.ua/6278430562_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6279154634_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430566_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430569_povitryane-oholodzhennya-jiushark.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження Jiushark JF13K Mini ARGB White (JF13K Mini ARGB White)</name>
+<vendor>Jiushark</vendor>
+<vendorCode>JF13K Mini ARGB White</vendorCode>
+<param name="Вес" unit="г">1050</param>
+<param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">100</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">2200</param>
+<param name="Максимальный уровень шума" unit="дБ">30</param>
+<param name="Разъемы">LGA1150|LGA1200|LGA1700</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
+<param name="Повітряний потік (CFM)" unit="">47.54</param>
+<param name="Розсіювана потужність, Вт" unit="">260</param>
+<param name="Колір підсвітки" unit="">ARGB</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Габариты (мм)" unit="">204x123x101</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
+<param name="Висота кулера, мм" unit="">101</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+</offer>
+<offer id="2354051400" available="true">
+<url>https://tera-flops.com.ua/ua/p2354051400-povitryane-oholodzhennya-jiushark.html</url>
+<price>1600</price>
+<currencyId>UAH</currencyId>
+<categoryId>97649259</categoryId>
+<picture>https://images.prom.ua/6278430509_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430511_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430514_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430515_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430517_povitryane-oholodzhennya-jiushark.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження Jiushark JF200 Mini FRGB White (JF200 Mini FRGB White)</name>
+<vendor>Jiushark</vendor>
+<vendorCode>JF200 Mini FRGB White</vendorCode>
+<param name="Вес" unit="г">866</param>
+<param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">100</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">2300</param>
+<param name="Максимальный уровень шума" unit="дБ">30</param>
+<param name="Разъемы">LGA1150|LGA1200|LGA1700</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
+<param name="Повітряний потік (CFM)" unit="">47.54</param>
+<param name="Розсіювана потужність, Вт" unit="">250</param>
+<param name="Колір підсвітки" unit="">FRGB</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Габариты (мм)" unit="">100x154x144</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
+<param name="Висота кулера, мм" unit="">144</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+</offer>
+<offer id="2354051401" available="true">
+<url>https://tera-flops.com.ua/ua/p2354051401-povitryane-oholodzhennya-jiushark.html</url>
+<price>1700</price>
+<currencyId>UAH</currencyId>
+<categoryId>97649259</categoryId>
+<picture>https://images.prom.ua/6278430525_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430526_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430527_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430528_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430529_povitryane-oholodzhennya-jiushark.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження Jiushark JF200 Mini ARGB White (JF200 Mini ARGB White)</name>
+<vendor>Jiushark</vendor>
+<vendorCode>JF200 Mini ARGB White</vendorCode>
+<param name="Вес" unit="г">866</param>
+<param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">100</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">2300</param>
+<param name="Максимальный уровень шума" unit="дБ">30</param>
+<param name="Разъемы">LGA1150|LGA1200|LGA1700</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
+<param name="Повітряний потік (CFM)" unit="">47.54</param>
+<param name="Розсіювана потужність, Вт" unit="">250</param>
+<param name="Колір підсвітки" unit="">ARGB</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Габариты (мм)" unit="">100x154x144</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
+<param name="Висота кулера, мм" unit="">144</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+</offer>
+<offer id="2354051402" available="true">
+<url>https://tera-flops.com.ua/ua/p2354051402-povitryane-oholodzhennya-jiushark.html</url>
+<price>1650</price>
+<currencyId>UAH</currencyId>
+<categoryId>97649259</categoryId>
+<picture>https://images.prom.ua/6278430530_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430531_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430533_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430534_povitryane-oholodzhennya-jiushark.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження Jiushark JF200 Mini ARGB Black (JF200 Mini ARGB Black)</name>
+<vendor>Jiushark</vendor>
+<vendorCode>JF200 Mini ARGB Black</vendorCode>
+<param name="Вес" unit="г">866</param>
+<param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">100</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">2300</param>
+<param name="Максимальный уровень шума" unit="дБ">30</param>
+<param name="Разъемы">LGA1150|LGA1200|LGA1700</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
+<param name="Повітряний потік (CFM)" unit="">47.54</param>
+<param name="Розсіювана потужність, Вт" unit="">250</param>
+<param name="Колір підсвітки" unit="">ARGB</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Габариты (мм)" unit="">100x154x144</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
+<param name="Висота кулера, мм" unit="">144</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+</offer>
+<offer id="2354051403" available="true">
+<url>https://tera-flops.com.ua/ua/p2354051403-povitryane-oholodzhennya-jiushark.html</url>
+<price>1650</price>
+<currencyId>UAH</currencyId>
+<categoryId>97649259</categoryId>
+<picture>https://images.prom.ua/6278430590_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430594_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430597_povitryane-oholodzhennya-jiushark.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження Jiushark JF160 ARGB Black (JF160 ARGB Black)</name>
+<vendor>Jiushark</vendor>
+<vendorCode>JF160 ARGB Black</vendorCode>
+<param name="Вес" unit="г">962</param>
+<param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">120</param>
+<param name="Количество кулеров">1</param>
+<param name="Максимальная скорость вращения" unit="об/мин">1800</param>
+<param name="Максимальный уровень шума" unit="дБ">31</param>
+<param name="Разъемы">LGA1150|LGA1700|LGA1200</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
+<param name="Повітряний потік (CFM)" unit="">83.04</param>
+<param name="Розсіювана потужність, Вт" unit="">245</param>
+<param name="Колір підсвітки" unit="">ARGB</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Габариты (мм)" unit="">120x107x156</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
+<param name="Висота кулера, мм" unit="">156</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+</offer>
 <offer id="2355848943" available="true">
 <url>https://tera-flops.com.ua/ua/p2355848943-videokarta-geforce-rtx.html</url>
-<price>12942</price>
+<price>12733</price>
 <currencyId>UAH</currencyId>
 <categoryId>85328986</categoryId>
 <picture>https://images.prom.ua/6277272648_videokarta-geforce-rtx.jpg</picture>
@@ -2251,6 +2956,72 @@
 <param name="Рекомендована потужність блоку живлення, Вт" unit="">550</param>
 <param name="Система охлаждения" unit="">Активна</param>
 <param name="Тип подключения" unit="">PCI-Express 4.0</param>
+</offer>
+<offer id="2358871907" available="true">
+<url>https://tera-flops.com.ua/ua/p2358871907-zaryadna-stantsiya-bluetti.html</url>
+<price>46289</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6282210234_zaryadna-stantsiya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6282210235_zaryadna-stantsiya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6282210237_zaryadna-stantsiya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6282210238_zaryadna-stantsiya-bluetti.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Bluetti AC180P 1800W (AC180P) EU</name>
+<vendor>Bluetti</vendor>
+<vendorCode>AC180P</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">LiFePO4</param>
+<param name="Габариты (мм)" unit="">340x247x317</param>
+<param name="Час зарядки (розетка)" unit="">45 хв</param>
+<param name="Вес (кг)" unit="">16</param>
+<param name="USB A" unit="">4 шт, 5В/3A, 15 Вт</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Вихід DC" unit="">1 шт DC7909 (12 – 60 В / 10 А / 500 Вт)</param>
+<param name="Пиковая мощность" unit="">2700 Вт</param>
+<param name="Номинальная мощность" unit="">1800 Вт</param>
+<param name="USB type C" unit="">1 шт, 3 A, 5 A, 100 Вт</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Ємність батареї (Вт*год)" unit="">1440 Вт*год</param>
+</offer>
+<offer id="2358871908" available="true">
+<url>https://tera-flops.com.ua/ua/p2358871908-zaryadna-stantsiya-bluetti.html</url>
+<price>50615</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6282210270_zaryadna-stantsiya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6282210271_zaryadna-stantsiya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6282210272_zaryadna-stantsiya-bluetti.jpg</picture>
+<picture>https://images.prom.ua/6282210273_zaryadna-stantsiya-bluetti.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція Bluetti AC200P 2000W EU</name>
+<vendor>Bluetti</vendor>
+<vendorCode>AC200P</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">LiFePO4</param>
+<param name="Габариты (мм)" unit="">420х280х387</param>
+<param name="Час зарядки (розетка)" unit="">300 хв</param>
+<param name="Вес (кг)" unit="">27.5</param>
+<param name="USB A" unit="">4</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Вихід DC" unit="">1х 12V/10A</param>
+<param name="Пиковая мощность" unit="">4800</param>
+<param name="Номинальная мощность" unit="">2000</param>
+<param name="USB type C" unit="">1</param>
+<param name="Підключення дод. батареї" unit="">Да</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Форма вихідного сигналу" unit="">Чиста синусоїда</param>
+<param name="Функція ДБЖ" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">2</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Ємність батареї (Вт*год)" unit="">2000</param>
 </offer>
 </offers>
 </shop>
