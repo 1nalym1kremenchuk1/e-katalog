@@ -2302,7 +2302,7 @@
 <delivery>true</delivery>
 <name>Зарядна станція EcoFlow Delta 2 1800W (DELTA 2) EU</name>
 <vendor>EcoFlow</vendor>
-<vendorCode>DELTA 2</vendorCode>
+<vendorCode>ZMR330-EU</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
 <param name="Тип аккумулятора">LiFePO4</param>
