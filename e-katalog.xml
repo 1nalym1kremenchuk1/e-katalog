@@ -1,4 +1,4 @@
-<yml_catalog date="2024-11-26 16:27">
+<yml_catalog date="2024-12-02 18:36">
 <shop>
 <name>TeraFlops Store</name>
 <company>TeraFlops Store</company>
@@ -56,8 +56,6 @@
 <category id="132256973" parentId="130196684">LGA 2011</category>
 <category id="132256975" parentId="130691869">Radeon RX 5000</category>
 <category id="128988099">Відеокарти та аксесуари</category>
-<category id="109532343" parentId="85364244">Socket AM2+</category>
-<category id="97644265" parentId="85364244">Socket 1366</category>
 <category id="132295204" parentId="130691869">Radeon RX 400</category>
 <category id="132295205" parentId="130691869">Radeon RX 500</category>
 <category id="132295206" parentId="130691869">Radeon RX 6000</category>
@@ -100,19 +98,8 @@
 <category id="97643641" parentId="85364276">SSD M. 2</category>
 <category id="116325555" parentId="116597011">Вентилятори для відеокарт</category>
 <category id="108121065" parentId="85364265">DDR5</category>
-<category id="97644301" parentId="85364244">Socket FM2</category>
 <category id="131730126">FPV дрони та комплектуючі</category>
 <category id="85423625" parentId="85423690">ПК для Дому/Роботи</category>
-<category id="85330301" parentId="85328850">Процесори</category>
-<category id="97641434" parentId="85330301">LGA 1151v2</category>
-<category id="97640692" parentId="85330301">LGA 1151v1</category>
-<category id="97641447" parentId="85330301">LGA 1200</category>
-<category id="103891356" parentId="85330301">LGA 1700</category>
-<category id="97641458" parentId="85330301">LGA 2011v1</category>
-<category id="107182575" parentId="85330301">Socket FM2+</category>
-<category id="97641530" parentId="85330301">Socket AM3</category>
-<category id="131386275" parentId="85330301">Socket AM4</category>
-<category id="131386276" parentId="85330301">Socket AM5</category>
 <category id="124618909">Послуги ремонту</category>
 <category id="124619023" parentId="124618909">Ремонт відеокарт</category>
 <category id="85423690">Комп'ютери TeraFlops</category>
@@ -130,43 +117,21 @@
 <category id="99228566" parentId="85364272">Термопасти</category>
 <category id="128410987" parentId="85328986">Підставки для відеокарт</category>
 <category id="128411779" parentId="85364272">Термопрокладки</category>
-<category id="123998182" parentId="85364244">Socket AM5</category>
 <category id="97644266" parentId="85364244">Socket 2011v1</category>
-<category id="97644269" parentId="85364244">Socket 2011v3</category>
-<category id="109497972" parentId="85364244">Socket TR4/TRX4</category>
-<category id="97644276" parentId="85364244">Socket 775</category>
-<category id="97644239" parentId="85364244">Socket 1155</category>
-<category id="97644089" parentId="85364244">Socket 1150</category>
-<category id="97644093" parentId="85364244">Socket 1151v1</category>
-<category id="97644094" parentId="85364244">Socket 1151v2</category>
-<category id="97644244" parentId="85364244">Socket 1200</category>
-<category id="97644272" parentId="85364244">Socket 2066</category>
-<category id="109532342" parentId="85364244">Socket AM2</category>
-<category id="128444432" parentId="85364244">Socket FM2+</category>
+<category id="131918712" parentId="131918707">Мотори для FPV дронів</category>
 <category id="131918707" parentId="131730126">Запчастини до FPV дронів</category>
 <category id="131918716" parentId="131918707">Приймачі сигналу для FPV дронів</category>
-<category id="131918712" parentId="131918707">Мотори для FPV дронів</category>
-<category id="133007151">Периферія</category>
-<category id="133007152" parentId="133007151">Килими для миші та ігрові поверхні</category>
-<category id="131923915" parentId="131923912">SSD внутрішні</category>
 <category id="131918709" parentId="131918707">Антени для FPV дронів</category>
 <category id="131918710" parentId="131918707">Відеопередавачі</category>
 <category id="131918711" parentId="131918707">FPV камери</category>
 <category id="131918713" parentId="131918707">Пропелери для дронів</category>
 <category id="131918714" parentId="131918707">Рами для FPV дронів</category>
 <category id="131918715" parentId="131918707">Політні контролери (стек) для FPV дронів</category>
+<category id="133007151">Периферія</category>
+<category id="133007152" parentId="133007151">Килими для миші та ігрові поверхні</category>
+<category id="131923915" parentId="131923912">SSD внутрішні</category>
 <category id="131923916" parentId="131923913">HDD внутрішні</category>
-<category id="131923917" parentId="131923915">SSD 2.5"</category>
-<category id="131923918" parentId="131923915">SSD M.2</category>
-<category id="131923919" parentId="131923916">HDD 3.5"</category>
-<category id="131923920" parentId="131923917">SSD 2.5" 118 і менше</category>
 <category id="131923902" parentId="131148186">Блоки живлення для майнінгу</category>
-<category id="131923921" parentId="131923917">SSD 2.5" 120-128</category>
-<category id="131923922" parentId="131923917">SSD 2.5" 240-280</category>
-<category id="131923923" parentId="131923917">SSD 2.5" 480-525</category>
-<category id="131923924" parentId="131923917">SSD 2.5" 960-1050</category>
-<category id="131923925" parentId="131923918">SSD M.2 240-280</category>
-<category id="131923926" parentId="131923918">SSD M.2 480-525</category>
 <category id="131923903" parentId="131148189">ATX 700-790W</category>
 <category id="131923904" parentId="131148189">ATX 400W</category>
 <category id="131923905" parentId="131148189">ATX 405-490W</category>
@@ -178,34 +143,40 @@
 <category id="131923911" parentId="131148189">ATX 1200W і більше</category>
 <category id="131923912">SSD накопичувач</category>
 <category id="131923913">HDD накопичувач</category>
-<category id="133045617" parentId="112486618">Акумулятори та батарейки</category>
-<category id="133045619" parentId="112486618">Стабілізатори напруги</category>
-<category id="132522645" parentId="112486618">Павербанки</category>
+<category id="131923917" parentId="131923915">SSD 2.5"</category>
+<category id="131923918" parentId="131923915">SSD M.2</category>
+<category id="131923919" parentId="131923916">HDD 3.5"</category>
+<category id="131923920" parentId="131923917">SSD 2.5" 118 і менше</category>
+<category id="131923921" parentId="131923917">SSD 2.5" 120-128</category>
+<category id="131923922" parentId="131923917">SSD 2.5" 240-280</category>
+<category id="131923923" parentId="131923917">SSD 2.5" 480-525</category>
+<category id="131923924" parentId="131923917">SSD 2.5" 960-1050</category>
+<category id="131923925" parentId="131923918">SSD M.2 240-280</category>
+<category id="131923926" parentId="131923918">SSD M.2 480-525</category>
 <category id="131923927" parentId="131923918">SSD M.2 1920-2048</category>
 <category id="131923928" parentId="131923919">HDD 3.5" 1000</category>
 <category id="131923929" parentId="131923919">HDD 3.5" 450 і менше</category>
 <category id="131923930" parentId="131923919">HDD 3.5" 500</category>
 <category id="131923931" parentId="131923919">HDD 3.5" 2000</category>
+<category id="133045617" parentId="112486618">Акумулятори та батарейки</category>
+<category id="133045619" parentId="112486618">Стабілізатори напруги</category>
+<category id="132522645" parentId="112486618">Павербанки</category>
+<category id="135772118" parentId="85330301">Процесори AMD</category>
 <category id="112486618">Зарядні пристрої</category>
 <category id="131148186">Блоки живлення</category>
 <category id="131148187">Системи охолодження</category>
 <category id="131148189" parentId="131148186">Блоки живлення ATX</category>
 <category id="131148190" parentId="131148186">Блоки живлення TFX</category>
-<category id="103890620" parentId="85364244">Socket 1700</category>
-<category id="135772118" parentId="85330301">Процесори AMD</category>
 <category id="131271458" parentId="85364272">Охолодження накопичувачів</category>
 <category id="133127021">ДБЖ</category>
 <category id="131315093" parentId="130196683">Материнські плати AMD</category>
 <category id="131315095" parentId="130196684">LGA 1700</category>
 <category id="131315099" parentId="131315093">Socket AM4</category>
 <category id="132449582" parentId="131148189">ATX 390W і менше</category>
-<category id="110781468" parentId="85364244">Socket 1156</category>
 <category id="132449583" parentId="131148190">TFX 390W і менше</category>
-<category id="133045618" parentId="112486618">Джерела безперебійного живлення</category>
-<category id="97644296" parentId="85364244">Socket AM3</category>
 <category id="137076530" parentId="132693858">Аналізатори спектру</category>
-<category id="97644299" parentId="85364244">Socket AM4</category>
-<category id="99852172" parentId="85364244">З вбудованим процесором</category>
+<category id="133045618" parentId="112486618">Джерела безперебійного живлення</category>
+<category id="97644297" parentId="85364244">Socket AM3+</category>
 <category id="133294369">Стабілізатори напруги</category>
 <category id="132522449" parentId="112486618">Портативні зарядні станції</category>
 <category id="116597011" parentId="85328850">Комплектуючі до відеокарт</category>
@@ -219,7 +190,11 @@
 <category id="136063143" parentId="135772118">AM3</category>
 <category id="134490739" parentId="131148186">Блоки живлення SFX</category>
 <category id="134490740" parentId="134490739">SFX 390W і менше</category>
-<category id="97644297" parentId="85364244">Socket AM3+</category>
+<category id="134490741" parentId="134490739">SFX 600-690W</category>
+<category id="134490742" parentId="134490739">SFX 700-790W</category>
+<category id="134490743" parentId="134490739">SFX 800-950W</category>
+<category id="134490744" parentId="134490739">SFX 1000-1150W</category>
+<category id="134490745" parentId="134490739">SFX 1200W і більше</category>
 <category id="134047382" parentId="134047380">Mini(Micro)-Tower</category>
 <category id="134047383" parentId="134047380">Midi-Tower</category>
 <category id="134047384" parentId="134047380">Full-Tower</category>
@@ -227,13 +202,31 @@
 <category id="134047380">Корпуси</category>
 <category id="134496373" parentId="134047380">Desktop</category>
 <category id="134496374" parentId="134047380">Cube</category>
-<category id="134490741" parentId="134490739">SFX 600-690W</category>
-<category id="134490742" parentId="134490739">SFX 700-790W</category>
-<category id="134490743" parentId="134490739">SFX 800-950W</category>
-<category id="134490744" parentId="134490739">SFX 1000-1150W</category>
-<category id="134490745" parentId="134490739">SFX 1200W і більше</category>
+<category id="97644276" parentId="85364244">Socket 775</category>
+<category id="137689310" parentId="85364244">Socket 1851</category>
+<category id="97644269" parentId="85364244">Socket 2011v3</category>
+<category id="97644272" parentId="85364244">Socket 2066</category>
+<category id="123118912" parentId="85364244">Socket FM1</category>
+<category id="97644089" parentId="85364244">Socket 1150</category>
+<category id="97644093" parentId="85364244">Socket 1151v1</category>
+<category id="97644094" parentId="85364244">Socket 1151v2</category>
+<category id="97644239" parentId="85364244">Socket 1155</category>
+<category id="97644244" parentId="85364244">Socket 1200</category>
+<category id="97644265" parentId="85364244">Socket 1366</category>
+<category id="97644296" parentId="85364244">Socket AM3</category>
+<category id="97644299" parentId="85364244">Socket AM4</category>
+<category id="97644301" parentId="85364244">Socket FM2</category>
+<category id="99852172" parentId="85364244">З вбудованим процесором</category>
+<category id="103890620" parentId="85364244">Socket 1700</category>
+<category id="109497972" parentId="85364244">Socket TR4/TRX4</category>
+<category id="109532342" parentId="85364244">Socket AM2</category>
+<category id="109532343" parentId="85364244">Socket AM2+</category>
+<category id="110781468" parentId="85364244">Socket 1156</category>
+<category id="123998182" parentId="85364244">Socket AM5</category>
+<category id="128444432" parentId="85364244">Socket FM2+</category>
+<category id="134121160" parentId="130196684">З інтегрованим процесором Intel</category>
 <category id="101264478" parentId="85330301">Socket TR4</category>
-<category id="136501834">Батареї для ДБЖ</category>
+<category id="136501834" parentId="112486618">Батареї для ДБЖ</category>
 <category id="97641453" parentId="85330301">LGA 1356</category>
 <category id="133000691" parentId="132693858">АКБ</category>
 <category id="134615720" parentId="130691869">Radeon R-Series</category>
@@ -241,9 +234,9 @@
 <category id="134615722" parentId="130691870">GeForce RTX 4000-Series</category>
 <category id="134615723" parentId="130691870">Nvidia Quadro</category>
 <category id="134615724" parentId="134615723">Quadro</category>
-<category id="134121160" parentId="130196684">З інтегрованим процесором Intel</category>
-<category id="135492324" parentId="130196684">Аксесуари для материнських плат</category>
 <category id="134615725" parentId="134615723">RTX Quadro</category>
+<category id="135492324" parentId="130196684">Аксесуари для материнських плат</category>
+<category id="134888222" parentId="133007151">Миші</category>
 <category id="135086065" parentId="131315093">Socket FM2</category>
 <category id="135086066" parentId="130196684">LGA 775</category>
 <category id="134240666" parentId="134240659">SODIMM DDR5</category>
@@ -268,23 +261,23 @@
 <category id="134240665" parentId="134240659">SODIMM DDR4</category>
 <category id="134241840" parentId="85364265">DDR5 SO-DIMM</category>
 <category id="134777283" parentId="131923912">SSD серверні</category>
-<category id="134888222" parentId="133007151">Миші</category>
+<category id="134777284" parentId="134777283">2.5"</category>
 <category id="134993993" parentId="134490739">SFX 400W</category>
 <category id="135559948" parentId="134490739">SFX 405-490W</category>
-<category id="134777284" parentId="134777283">2.5"</category>
-<category id="134721562" parentId="134721561">Діагональ 23 - 23.8</category>
 <category id="134721561">Монітори</category>
+<category id="134721562" parentId="134721561">Діагональ 23 - 23.8</category>
 <category id="134721563" parentId="134721561">Діагональ 31 - 32</category>
-<category id="123118912" parentId="85364244">Socket FM1</category>
 <category id="137157859" parentId="131148187">Вентилятори для корпусів</category>
 <category id="134389610" parentId="131923918">SSD M.2 120-128</category>
-<category id="134877151" parentId="131315093">Socket FM2+</category>
 <category id="134870766" parentId="131315093">Socket TRX4</category>
 <category id="134870767" parentId="131315093">Socket TR4</category>
-<category id="107166007" parentId="85330301">Socket AM2+</category>
 <category id="109454560" parentId="85330301">LGA 2066</category>
 <category id="133479176" parentId="112486618">Зарядки для акумуляторних батарейок</category>
 <category id="134019583" parentId="112486618">Мережеві фільтри</category>
+<category id="137725828" parentId="134240660">DDR5 ECC REG</category>
+<category id="107166007" parentId="85330301">Socket AM2+</category>
+<category id="137192291" parentId="131148187">Водяне охолодження</category>
+<category id="134877151" parentId="131315093">Socket FM2+</category>
 <category id="134877152" parentId="131315093">Socket FM1</category>
 <category id="134877153" parentId="134240660">DDR3 ECC REG</category>
 <category id="85364276" parentId="85328850">SSD накопичувачі</category>
@@ -292,71 +285,1398 @@
 <category id="135661374" parentId="85330301">Процесори Intel</category>
 <category id="135661375" parentId="135661374">1151v1</category>
 <category id="136200359" parentId="136200358">Flex ATX 390W і менше</category>
-<category id="137192291" parentId="131148187">Водяне охолодження</category>
 <category id="136200358" parentId="131148186">Блоки живлення Flex ATX</category>
 <category id="135772119" parentId="135661374">1200</category>
 <category id="135772120" parentId="135661374">1700</category>
 <category id="135315535" parentId="131923912">SAS SSD</category>
 <category id="135315536" parentId="134777283">U.2 / U.3</category>
 <category id="135315537" parentId="131923917">SSD 2.5" 5000 і більше</category>
-<category id="132693870" parentId="132693858">Приймачі</category>
 <category id="135916900" parentId="132693858">Тепловізори</category>
+<category id="132693870" parentId="132693858">Приймачі</category>
 <category id="132693858">FPV та комплектуючі</category>
 <category id="132693860" parentId="132693858">Стек</category>
 <category id="132693862" parentId="132693858">Камери</category>
 <category id="132693863" parentId="132693858">Мотори</category>
 <category id="132693864" parentId="132693858">Антена</category>
 <category id="132693865" parentId="132693858">Пропелери</category>
-<category id="132693859" parentId="132693858">Рами</category>
 <category id="132693867" parentId="132693858">Пульти керування</category>
+<category id="132693859" parentId="132693858">Рами</category>
+<category id="132693868" parentId="132693858">Окуляри</category>
+<category id="135897181" parentId="132693858">FPV дрони та квадрокоптери</category>
 <category id="85364282" parentId="85328850">Корпуси</category>
+<category id="137790897" parentId="130196684">LGA 1851</category>
 <category id="136950194" parentId="134240653">SSD mSata 120-128</category>
 <category id="97641455" parentId="85330301">LGA 1366</category>
 <category id="97642378" parentId="85330301">Socket FM2</category>
+<category id="97641439" parentId="85330301">LGA 1155</category>
+<category id="97640686" parentId="85330301">LGA 1150</category>
+<category id="97640692" parentId="85330301">LGA 1151v1</category>
+<category id="97641434" parentId="85330301">LGA 1151v2</category>
+<category id="97641447" parentId="85330301">LGA 1200</category>
+<category id="103891356" parentId="85330301">LGA 1700</category>
+<category id="97641458" parentId="85330301">LGA 2011v1</category>
+<category id="97641514" parentId="85330301">LGA 2011v3</category>
+<category id="107182575" parentId="85330301">Socket FM2+</category>
+<category id="97641530" parentId="85330301">Socket AM3</category>
+<category id="131386275" parentId="85330301">Socket AM4</category>
+<category id="131386276" parentId="85330301">Socket AM5</category>
+<category id="85330301" parentId="85328850">Процесори</category>
 <category id="85364275" parentId="85328850">Блоки живлення</category>
 <category id="97641444" parentId="85330301">LGA 1156</category>
-<category id="97641439" parentId="85330301">LGA 1155</category>
-<category id="97641514" parentId="85330301">LGA 2011v3</category>
 <category id="85364265" parentId="85328850">Оперативна пам'ять</category>
-<category id="97640686" parentId="85330301">LGA 1150</category>
 <category id="97641533" parentId="85330301">Socket AM3+</category>
-<category id="132693868" parentId="132693858">Окуляри</category>
-<category id="135897181" parentId="132693858">FPV дрони та квадрокоптери</category>
+<category id="137482523" parentId="130691869">Radeon HD-Series</category>
 <category id="85364244" parentId="85328850">Материнські плати</category>
 <category id="85364272" parentId="85328850">Кулери і системи охолодження</category>
 <category id="85364281" parentId="85328850">Жорсткі диски</category>
-<category id="137482523" parentId="130691869">Radeon HD-Series</category>
 </categories>
 <offers>
-<offer id="2315991013" available="true">
-<url>https://tera-flops.com.ua/ua/p2315991013-ssd-nakopichuvach-patriot.html</url>
-<price>400</price>
+<offer id="2016057060" available="true">
+<url>https://tera-flops.com.ua/ua/p2016057060-termoprokladka-fehonda-original.html</url>
+<price>300</price>
 <currencyId>UAH</currencyId>
-<categoryId>97643639</categoryId>
-<picture>https://images.prom.ua/5936962623_ssd-nakopichuvach-patriot.jpg</picture>
-<picture>https://images.prom.ua/6200078611_ssd-nakopichuvach-patriot.jpg</picture>
-<picture>https://images.prom.ua/5936962630_ssd-nakopichuvach-patriot.jpg</picture>
-<picture>https://images.prom.ua/5936962637_ssd-nakopichuvach-patriot.jpg</picture>
-<picture>https://images.prom.ua/5936962642_ssd-nakopichuvach-patriot.jpg</picture>
-<picture>https://images.prom.ua/6200078615_ssd-nakopichuvach-patriot.jpg</picture>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/5093935398_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5093935514_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5093935786_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5093935794_termoprokladka-fehonda-original.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
-<name>SSD накопичувач Patriot Burst Elite 120GB (PBE120GS25SSDR)</name>
-<vendor>Patriot</vendor>
-<vendorCode>PBE120GS25SSDR</vendorCode>
-<description>SSD накопичувач Patriot Burst Elite 120GB (PBE120GS25SSDR)</description>
-<param name="Гарантийный срок" unit="мес">36</param>
-<param name="Объем накопителя" unit="GB">120</param>
-<param name="Скорость записи" unit="Мб/сек">3200</param>
-<param name="Скорость считывания" unit="Мб/сек">4500</param>
+<name>Термопрокладка Fehonda Original 100x100x0.5mm (12.8W/m*k) (TF)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-05-128</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Тип">Термопрокладка</param>
+<param name="Теплопроводность" unit="Вт/(м*К)">12.8</param>
+<param name="Упаковка">Блистер</param>
+<param name="Цвет">Серый</param>
+<param name="Длина" unit="мм">100</param>
+<param name="Ширина" unit="мм">100</param>
+<param name="Толщина" unit="мм">0.5</param>
 <param name="Состояние">Новое</param>
-<param name="Форм-фактор">2.5"</param>
-<param name="Тип диска">SSD</param>
-<param name="Время наработки на отказ" unit="час">2</param>
-<param name="Интерфейс" unit="">SATA</param>
-<param name="Линейка" unit="">Burst Elite</param>
-<param name="Ресурс запису (TBW), TB" unit="">50</param>
-<param name="Тип флеш-пам'яті NAND" unit="">TLC</param>
+</offer>
+<offer id="2016060820" available="true">
+<url>https://tera-flops.com.ua/ua/p2016060820-termoprokladka-fehonda-original.html</url>
+<price>440</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/5093946113_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5093945445_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5093945446_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5093945447_termoprokladka-fehonda-original.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda Original 100x100x1mm (12.8W/m*k) (TF)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-1-128</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Тип">Термопрокладка</param>
+<param name="Теплопроводность" unit="Вт/(м*К)">12.8</param>
+<param name="Упаковка">Блистер</param>
+<param name="Цвет">Серый</param>
+<param name="Длина" unit="мм">100</param>
+<param name="Ширина" unit="мм">100</param>
+<param name="Толщина" unit="мм">1</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer id="2016063260" available="true">
+<url>https://tera-flops.com.ua/ua/p2016063260-termoprokladka-fehonda-original.html</url>
+<price>510</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/5093953040_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5093952659_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5093952660_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5093952661_termoprokladka-fehonda-original.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda Original 100x100x1.25mm (12.8W/m*k) (TF)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-125-128</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Тип">Термопрокладка</param>
+<param name="Теплопроводность" unit="Вт/(м*К)">12.8</param>
+<param name="Упаковка">Блистер</param>
+<param name="Цвет">Серый</param>
+<param name="Длина" unit="мм">100</param>
+<param name="Ширина" unit="мм">100</param>
+<param name="Толщина" unit="мм">1.25</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer id="2016064532" available="true">
+<url>https://tera-flops.com.ua/ua/p2016064532-termoprokladka-fehonda-original.html</url>
+<price>520</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/5093959629_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5093958741_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5093958742_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5093958743_termoprokladka-fehonda-original.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda Original 100x100x1.5mm (12.8W/m*k) (TF)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-15-128</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Тип">Термопрокладка</param>
+<param name="Теплопроводность" unit="Вт/(м*К)">12.8</param>
+<param name="Упаковка">Блистер</param>
+<param name="Цвет">Серый</param>
+<param name="Длина" unit="мм">100</param>
+<param name="Ширина" unit="мм">100</param>
+<param name="Толщина" unit="мм">1.5</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer id="2016066558" available="true">
+<url>https://tera-flops.com.ua/ua/p2016066558-termoprokladka-fehonda-original.html</url>
+<price>600</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/5093967294_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5093966442_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5093966443_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5093966444_termoprokladka-fehonda-original.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda Original 100x100x2mm (12.8W/m*k) (TF)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-2-128</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Тип">Термопрокладка</param>
+<param name="Теплопроводность" unit="Вт/(м*К)">12.8</param>
+<param name="Упаковка">Блистер</param>
+<param name="Цвет">Серый</param>
+<param name="Длина" unit="мм">100</param>
+<param name="Ширина" unit="мм">100</param>
+<param name="Толщина" unit="мм">2</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer id="2016067223" available="true">
+<url>https://tera-flops.com.ua/ua/p2016067223-termoprokladka-fehonda-original.html</url>
+<price>720</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/5093970869_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5093970404_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5093970405_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5093970407_termoprokladka-fehonda-original.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda Original 100x100x2.25mm (12.8W/m*k) (TF)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-225-128</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Тип">Термопрокладка</param>
+<param name="Теплопроводность" unit="Вт/(м*К)">12.8</param>
+<param name="Упаковка">Блистер</param>
+<param name="Цвет">Серый</param>
+<param name="Длина" unit="мм">100</param>
+<param name="Ширина" unit="мм">100</param>
+<param name="Толщина" unit="мм">2.25</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer id="2016068317" available="true">
+<url>https://tera-flops.com.ua/ua/p2016068317-ridka-termoprokladka-fehonda.html</url>
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/5093977890_ridka-termoprokladka-fehonda.jpg</picture>
+<picture>https://images.prom.ua/5093977926_ridka-termoprokladka-fehonda.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Рідка термопрокладка Fehonda LTP81 12г (18 W/m*k) (TF)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>LTP81</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Тип">Термопрокладка</param>
+<param name="Теплопроводность" unit="Вт/(м*К)">18</param>
+<param name="Упаковка">Тюбик</param>
+<param name="Цвет">Серый</param>
+<param name="Вес" unit="г">12</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer id="2047027878" available="true">
+<url>https://tera-flops.com.ua/ua/p2047027878-termoprokladka-fehonda-original.html</url>
+<price>520</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/5206701174_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5206701175_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5206746552_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5206700062_termoprokladka-fehonda-original.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda Original 100x100x2.5mm (8W/m*k) (TF)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-25-8</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Тип">Термопрокладка</param>
+<param name="Теплопроводность" unit="Вт/(м*К)">8</param>
+<param name="Упаковка">Блистер</param>
+<param name="Цвет">Серый</param>
+<param name="Длина" unit="мм">100</param>
+<param name="Ширина" unit="мм">100</param>
+<param name="Толщина" unit="мм">2.5</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer id="2047034123" available="true">
+<url>https://tera-flops.com.ua/ua/p2047034123-termoprokladka-fehonda-original.html</url>
+<price>1020</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/5206729257_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5206729274_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5206728680_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5206723579_termoprokladka-fehonda-original.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda Original 100x100x2.25mm (15W/m*k) (TF)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-225-15</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Тип">Термопрокладка</param>
+<param name="Теплопроводность" unit="Вт/(м*К)">15</param>
+<param name="Упаковка">Блистер</param>
+<param name="Цвет">Серый</param>
+<param name="Длина" unit="мм">100</param>
+<param name="Ширина" unit="мм">100</param>
+<param name="Толщина" unit="мм">2.25</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer id="2047775144" available="true">
+<url>https://tera-flops.com.ua/ua/p2047775144-termoprokladka-fehonda-original.html</url>
+<price>590</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/5209974663_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5209974644_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5209972854_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5209972856_termoprokladka-fehonda-original.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda Original 100x100x1.75mm (12.8W/m*k) (TF)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-175-128</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Тип">Термопрокладка</param>
+<param name="Теплопроводность" unit="Вт/(м*К)">12.8</param>
+<param name="Упаковка">Блистер</param>
+<param name="Цвет">Серый</param>
+<param name="Длина" unit="мм">100</param>
+<param name="Ширина" unit="мм">100</param>
+<param name="Толщина" unit="мм">1.75</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer id="2047807821" available="true">
+<url>https://tera-flops.com.ua/ua/p2047807821-termoprokladka-fehonda-original.html</url>
+<price>660</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/5210094415_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210094444_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210090269_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210090270_termoprokladka-fehonda-original.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda Original 100x100x0.75mm (15W/m*k) (TF)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-075-15</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Тип">Термопрокладка</param>
+<param name="Теплопроводность" unit="Вт/(м*К)">15</param>
+<param name="Упаковка">Блистер</param>
+<param name="Цвет">Серый</param>
+<param name="Длина" unit="мм">100</param>
+<param name="Ширина" unit="мм">100</param>
+<param name="Толщина" unit="мм">0.75</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer id="2047813815" available="true">
+<url>https://tera-flops.com.ua/ua/p2047813815-termoprokladka-fehonda-original.html</url>
+<price>730</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/5210113020_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210113121_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210112377_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210112378_termoprokladka-fehonda-original.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda Original 100x100x1mm (15W/m*k) (TF)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-1-15</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Тип">Термопрокладка</param>
+<param name="Теплопроводность" unit="Вт/(м*К)">15</param>
+<param name="Упаковка">Блистер</param>
+<param name="Цвет">Серый</param>
+<param name="Длина" unit="мм">100</param>
+<param name="Ширина" unit="мм">100</param>
+<param name="Толщина" unit="мм">1</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer id="2047816455" available="true">
+<url>https://tera-flops.com.ua/ua/p2047816455-termoprokladka-fehonda-original.html</url>
+<price>800</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/5210121759_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210121767_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210121026_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210121028_termoprokladka-fehonda-original.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda Original 100x100x1.25mm (15W/m*k) (TF)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-125-15</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Тип">Термопрокладка</param>
+<param name="Теплопроводность" unit="Вт/(м*К)">15</param>
+<param name="Упаковка">Блистер</param>
+<param name="Цвет">Серый</param>
+<param name="Длина" unit="мм">100</param>
+<param name="Ширина" unit="мм">100</param>
+<param name="Толщина" unit="мм">1.25</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer id="2047833132" available="true">
+<url>https://tera-flops.com.ua/ua/p2047833132-termoprokladka-fehonda-original.html</url>
+<price>230</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/5227382381_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210184801_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210184802_termoprokladka-fehonda-original.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda Original 100x100x0.5mm (8W/m*k) (TF)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-05-8</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Тип">Термопрокладка</param>
+<param name="Теплопроводность" unit="Вт/(м*К)">8</param>
+<param name="Упаковка">Блистер</param>
+<param name="Цвет">Серый</param>
+<param name="Длина" unit="мм">100</param>
+<param name="Ширина" unit="мм">100</param>
+<param name="Толщина" unit="мм">0.5</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer id="2047841661" available="true">
+<url>https://tera-flops.com.ua/ua/p2047841661-termoprokladka-fehonda-original.html</url>
+<price>290</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/5227384828_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210192978_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210192979_termoprokladka-fehonda-original.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda Original 100x100x1mm (8W/m*k) (TF)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-1-8</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Тип">Термопрокладка</param>
+<param name="Теплопроводность" unit="Вт/(м*К)">8</param>
+<param name="Упаковка">Блистер</param>
+<param name="Цвет">Серый</param>
+<param name="Длина" unit="мм">100</param>
+<param name="Ширина" unit="мм">100</param>
+<param name="Толщина" unit="мм">1</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer id="2047847007" available="true">
+<url>https://tera-flops.com.ua/ua/p2047847007-termoprokladka-fehonda-original.html</url>
+<price>400</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/5227385825_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210201773_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210201774_termoprokladka-fehonda-original.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda Original 100x100x1.5mm (8W/m*k) (TF)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-15-8</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Тип">Термопрокладка</param>
+<param name="Теплопроводность" unit="Вт/(м*К)">8</param>
+<param name="Упаковка">Блистер</param>
+<param name="Цвет">Серый</param>
+<param name="Длина" unit="мм">100</param>
+<param name="Ширина" unit="мм">100</param>
+<param name="Толщина" unit="мм">1.5</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer id="2047852566" available="true">
+<url>https://tera-flops.com.ua/ua/p2047852566-termoprokladka-fehonda-original.html</url>
+<price>430</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/5227386620_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210213571_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210213572_termoprokladka-fehonda-original.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda Original 100x100x1.75mm (8W/m*k) (TF)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-175-8</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Тип">Термопрокладка</param>
+<param name="Теплопроводность" unit="Вт/(м*К)">8</param>
+<param name="Упаковка">Блистер</param>
+<param name="Цвет">Серый</param>
+<param name="Длина" unit="мм">100</param>
+<param name="Ширина" unit="мм">100</param>
+<param name="Толщина" unit="мм">1.75</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer id="2047853330" available="true">
+<url>https://tera-flops.com.ua/ua/p2047853330-termoprokladka-fehonda-original.html</url>
+<price>450</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/5218993227_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5218993233_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210214435_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210214437_termoprokladka-fehonda-original.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda Original 100x100x2mm (8W/m*k) (TF)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-2-8</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Тип">Термопрокладка</param>
+<param name="Теплопроводность" unit="Вт/(м*К)">8</param>
+<param name="Упаковка">Блистер</param>
+<param name="Цвет">Серый</param>
+<param name="Длина" unit="мм">100</param>
+<param name="Ширина" unit="мм">100</param>
+<param name="Толщина" unit="мм">2</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer id="2047854398" available="true">
+<url>https://tera-flops.com.ua/ua/p2047854398-termoprokladka-fehonda-original.html</url>
+<price>490</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/5210429964_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210429966_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210215446_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210215447_termoprokladka-fehonda-original.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda Original 100x100x2.25mm (8W/m*k) (TF)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-225-8</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Тип">Термопрокладка</param>
+<param name="Теплопроводность" unit="Вт/(м*К)">8</param>
+<param name="Упаковка">Блистер</param>
+<param name="Цвет">Серый</param>
+<param name="Длина" unit="мм">100</param>
+<param name="Ширина" unit="мм">100</param>
+<param name="Толщина" unit="мм">2.25</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer id="2047854648" available="true">
+<url>https://tera-flops.com.ua/ua/p2047854648-termoprokladka-fehonda-original.html</url>
+<price>540</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/5210432937_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210432939_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210216874_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210216875_termoprokladka-fehonda-original.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda Original 100x100x2.75mm (8W/m*k) (TF)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-275-8</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Тип">Термопрокладка</param>
+<param name="Теплопроводность" unit="Вт/(м*К)">8</param>
+<param name="Упаковка">Блистер</param>
+<param name="Цвет">Серый</param>
+<param name="Длина" unit="мм">100</param>
+<param name="Ширина" unit="мм">100</param>
+<param name="Толщина" unit="мм">2.75</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer id="2047856295" available="true">
+<url>https://tera-flops.com.ua/ua/p2047856295-termoprokladka-fehonda-original.html</url>
+<price>560</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/5210435144_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210435149_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210219012_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210219013_termoprokladka-fehonda-original.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda Original 100x100x3mm (8W/m*k) (TF)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-3-8</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Тип">Термопрокладка</param>
+<param name="Теплопроводность" unit="Вт/(м*К)">8</param>
+<param name="Упаковка">Блистер</param>
+<param name="Цвет">Серый</param>
+<param name="Длина" unit="мм">100</param>
+<param name="Ширина" unit="мм">100</param>
+<param name="Толщина" unit="мм">3</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer id="2047863146" available="true">
+<url>https://tera-flops.com.ua/ua/p2047863146-termoprokladka-fehonda-original.html</url>
+<price>765</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/5210425469_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210425463_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210228428_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210228429_termoprokladka-fehonda-original.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda Original 100x100x2.5mm (12.8W/m*k) (TF)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-25-128</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Тип">Термопрокладка</param>
+<param name="Теплопроводность" unit="Вт/(м*К)">12.8</param>
+<param name="Упаковка">Блистер</param>
+<param name="Цвет">Серый</param>
+<param name="Длина" unit="мм">100</param>
+<param name="Ширина" unit="мм">100</param>
+<param name="Толщина" unit="мм">2.5</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer id="2047867381" available="true">
+<url>https://tera-flops.com.ua/ua/p2047867381-termoprokladka-fehonda-original.html</url>
+<price>800</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/5218866254_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5218866215_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210238122_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210238123_termoprokladka-fehonda-original.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda Original 100x100x2.75mm (12.8W/m*k) (TF)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-275-128</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Тип">Термопрокладка</param>
+<param name="Теплопроводность" unit="Вт/(м*К)">12.8</param>
+<param name="Упаковка">Блистер</param>
+<param name="Цвет">Серый</param>
+<param name="Длина" unit="мм">100</param>
+<param name="Ширина" unit="мм">100</param>
+<param name="Толщина" unit="мм">2.75</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer id="2047870501" available="true">
+<url>https://tera-flops.com.ua/ua/p2047870501-termoprokladka-fehonda-original.html</url>
+<price>820</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/5218869276_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5218869294_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210246478_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210246480_termoprokladka-fehonda-original.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda Original 100x100x3mm (12.8W/m*k) (TF)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-3-128</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Тип">Термопрокладка</param>
+<param name="Теплопроводность" unit="Вт/(м*К)">12.8</param>
+<param name="Упаковка">Блистер</param>
+<param name="Цвет">Серый</param>
+<param name="Длина" unit="мм">100</param>
+<param name="Ширина" unit="мм">100</param>
+<param name="Толщина" unit="мм">3</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer id="2047877473" available="true">
+<url>https://tera-flops.com.ua/ua/p2047877473-termoprokladka-fehonda-original.html</url>
+<price>920</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/5219000765_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5219000797_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210267322_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210267323_termoprokladka-fehonda-original.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda Original 100x100x1.75mm (15W/m*k) (TF)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-175-15</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Тип">Термопрокладка</param>
+<param name="Теплопроводность" unit="Вт/(м*К)">15</param>
+<param name="Упаковка">Блистер</param>
+<param name="Цвет">Серый</param>
+<param name="Длина" unit="мм">100</param>
+<param name="Ширина" unit="мм">100</param>
+<param name="Толщина" unit="мм">1.75</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer id="2047878243" available="true">
+<url>https://tera-flops.com.ua/ua/p2047878243-termoprokladka-fehonda-original.html</url>
+<price>930</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/5227378745_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210278247_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210278248_termoprokladka-fehonda-original.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda Original 100x100x2mm (15W/m*k) (TF)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-2-15</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Тип">Термопрокладка</param>
+<param name="Теплопроводность" unit="Вт/(м*К)">15</param>
+<param name="Упаковка">Блистер</param>
+<param name="Цвет">Серый</param>
+<param name="Длина" unit="мм">100</param>
+<param name="Ширина" unit="мм">100</param>
+<param name="Толщина" unit="мм">2</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer id="2047878535" available="true">
+<url>https://tera-flops.com.ua/ua/p2047878535-termoprokladka-fehonda-original.html</url>
+<price>1080</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/5210439736_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210439750_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210285418_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210285420_termoprokladka-fehonda-original.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda Original 100x100x2.5mm (15W/m*k) (TF)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-25-15</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Тип">Термопрокладка</param>
+<param name="Теплопроводность" unit="Вт/(м*К)">15</param>
+<param name="Упаковка">Блистер</param>
+<param name="Цвет">Серый</param>
+<param name="Длина" unit="мм">100</param>
+<param name="Ширина" unit="мм">100</param>
+<param name="Толщина" unit="мм">2.5</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer id="2047880120" available="true">
+<url>https://tera-flops.com.ua/ua/p2047880120-termoprokladka-fehonda-original.html</url>
+<price>1120</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/5210441601_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210441621_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210294100_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210294101_termoprokladka-fehonda-original.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda Original 100x100x2.75mm (15W/m*k) (TF)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-275-15</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Тип">Термопрокладка</param>
+<param name="Теплопроводность" unit="Вт/(м*К)">15</param>
+<param name="Упаковка">Блистер</param>
+<param name="Цвет">Серый</param>
+<param name="Длина" unit="мм">100</param>
+<param name="Ширина" unit="мм">100</param>
+<param name="Толщина" unit="мм">2.75</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer id="2047880751" available="true">
+<url>https://tera-flops.com.ua/ua/p2047880751-termoprokladka-fehonda-original.html</url>
+<price>1150</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/5210443250_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210443258_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210301564_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/5210301565_termoprokladka-fehonda-original.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda Original 100x100x3mm (15W/m*k) (TF)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-3-15</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Тип">Термопрокладка</param>
+<param name="Теплопроводность" unit="Вт/(м*К)">15</param>
+<param name="Упаковка">Блистер</param>
+<param name="Цвет">Серый</param>
+<param name="Длина" unit="мм">100</param>
+<param name="Ширина" unit="мм">100</param>
+<param name="Толщина" unit="мм">3</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer id="2222509161" available="true">
+<url>https://tera-flops.com.ua/ua/p2222509161-povitryane-oholodzhennya-jiushark.html</url>
+<price>2100</price>
+<currencyId>UAH</currencyId>
+<categoryId>97649259</categoryId>
+<picture>https://images.prom.ua/5857704796_povitryane-oholodzhennya-jiushark.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження Jiushark JF13K White ARGB (JF13K White ARGB)</name>
+<vendor>Jiushark</vendor>
+<vendorCode>JF13K White ARGB</vendorCode>
+<param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">120</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">1850</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Скольжения</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
+</offer>
+<offer id="2222509162" available="true">
+<url>https://tera-flops.com.ua/ua/p2222509162-povitryane-oholodzhennya-dlya.html</url>
+<price>720</price>
+<currencyId>UAH</currencyId>
+<categoryId>131271458</categoryId>
+<picture>https://images.prom.ua/5857704781_povitryane-oholodzhennya-dlya.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження для M.2 Jiushark THREE Black (M.2-THREE Black)</name>
+<vendor>Jiushark</vendor>
+<vendorCode>M.2-THREE Black</vendorCode>
+<param name="Назначение">SSD</param>
+<param name="Система охлаждения">Активная (кулер)</param>
+<param name="Количество кулеров">1</param>
+<param name="Тип подшипника">Скольжения</param>
+<param name="Материал радиатора">Алюминий</param>
+<param name="Тип разъема">4-pin</param>
+<param name="Особенности">Регулятор оборотов</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Тип системы охлаждения">Активное охлаждение</param>
+<param name="Количество вентиляторов" unit="">1</param>
+<param name="Тип" unit="">Повітряне охолодження</param>
+<param name="Повітряний потік (CFM)" unit="">14</param>
+<param name="Максимальна швидкість обертання, об / хв" unit="">3000</param>
+<param name="Діаметр вентилятора, мм" unit="">80</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Напруга живлення, В" unit="">12</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+</offer>
+<offer id="2222509164" available="true">
+<url>https://tera-flops.com.ua/ua/p2222509164-povitryane-oholodzhennya-dlya.html</url>
+<price>825</price>
+<currencyId>UAH</currencyId>
+<categoryId>131271458</categoryId>
+<picture>https://images.prom.ua/5857704820_povitryane-oholodzhennya-dlya.jpg</picture>
+<picture>https://images.prom.ua/5857704825_povitryane-oholodzhennya-dlya.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження для M.2 Jiushark FOUR ARGB (M.2-FOUR ARGB)</name>
+<vendor>Jiushark</vendor>
+<vendorCode>M.2-FOUR ARGB</vendorCode>
+<param name="Назначение">SSD</param>
+<param name="Система охлаждения">Активная (кулер)</param>
+<param name="Количество кулеров">1</param>
+<param name="Тип подшипника">Скольжения</param>
+<param name="Материал радиатора">Алюминий</param>
+<param name="Тип разъема">4-pin</param>
+<param name="Особенности">Подсветка</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Тип системы охлаждения">Активное охлаждение</param>
+<param name="Количество вентиляторов" unit="">1</param>
+<param name="Тип" unit="">Повітряне охолодження</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">900</param>
+<param name="Максимальна швидкість обертання, об / хв" unit="">3500</param>
+<param name="Діаметр вентилятора, мм" unit="">80</param>
+<param name="Гарантія, міс" unit="">6</param>
+<param name="Колір підсвітки" unit="">ARGB</param>
+<param name="Напруга живлення, В" unit="">12</param>
+</offer>
+<offer id="2222509165" available="true">
+<url>https://tera-flops.com.ua/ua/p2222509165-povitryane-oholodzhennya-dlya.html</url>
+<price>650</price>
+<currencyId>UAH</currencyId>
+<categoryId>131271458</categoryId>
+<picture>https://images.prom.ua/5857704829_povitryane-oholodzhennya-dlya.jpg</picture>
+<picture>https://images.prom.ua/5857704838_povitryane-oholodzhennya-dlya.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження для M.2 Jiushark TWO (M.2-TWO)</name>
+<vendor>Jiushark</vendor>
+<vendorCode>M.2-TWO</vendorCode>
+<param name="Назначение">SSD</param>
+<param name="Система охлаждения">Активная (кулер)</param>
+<param name="Количество кулеров">1</param>
+<param name="Максимальная скорость вращения" unit="об/мин">10000</param>
+<param name="Тип подшипника">Скольжения</param>
+<param name="Максимальный уровень шума" unit="дБ">30</param>
+<param name="Материал радиатора">Алюминий</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Тип системы охлаждения">Активное охлаждение</param>
+<param name="Тип" unit="">Повітряне охолодження</param>
+<param name="Повітряний потік (CFM)" unit="">24</param>
+<param name="Діаметр вентилятора, мм" unit="">60</param>
+<param name="Гарантія, міс" unit="">6</param>
+<param name="Напруга живлення, В" unit="">12</param>
+</offer>
+<offer id="2224537596" available="true">
+<url>https://tera-flops.com.ua/ua/p2224537596-povitryane-oholodzhennya-jiushark.html</url>
+<price>800</price>
+<currencyId>UAH</currencyId>
+<categoryId>97649259</categoryId>
+<picture>https://images.prom.ua/5865422607_povitryane-oholodzhennya-jiushark.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження Jiushark JF100RS White (JF100RS White)</name>
+<vendor>Jiushark</vendor>
+<vendorCode>JF100RS White</vendorCode>
+<param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">100</param>
+<param name="Количество кулеров">1</param>
+<param name="Максимальная скорость вращения" unit="об/мин">2300</param>
+<param name="Максимальный уровень шума" unit="дБ">30</param>
+<param name="Разъемы">LGA1150|LGA1200|LGA1700</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Скольжения</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Повітряний потік (CFM)" unit="">48</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
+</offer>
+<offer id="2224537598" available="true">
+<url>https://tera-flops.com.ua/ua/p2224537598-povitryane-oholodzhennya-jiushark.html</url>
+<price>870</price>
+<currencyId>UAH</currencyId>
+<categoryId>97649259</categoryId>
+<picture>https://images.prom.ua/5983164532_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/5865422604_povitryane-oholodzhennya-jiushark.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження Jiushark JF100RS Black RGB (JF100RS Black RGB)</name>
+<vendor>Jiushark</vendor>
+<vendorCode>JF100RS Black RGB</vendorCode>
+<param name="Назначение">Для процессора</param>
+<param name="Количество кулеров">1</param>
+<param name="Диаметр вентилятора" unit="мм">100</param>
+<param name="Максимальная скорость вращения" unit="об/мин">2300</param>
+<param name="Тип подшипника">Скольжения</param>
+<param name="Максимальный уровень шума" unit="дБ">30</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантийный срок" unit="мес">6</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Разъемы" unit="">Socket AM5</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
+<param name="Повітряний потік (CFM)" unit="">48</param>
+<param name="Колір підсвітки" unit="">RGB</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+</offer>
+<offer id="2224537599" available="true">
+<url>https://tera-flops.com.ua/ua/p2224537599-povitryane-oholodzhennya-jiushark.html</url>
+<price>900</price>
+<currencyId>UAH</currencyId>
+<categoryId>97649259</categoryId>
+<picture>https://images.prom.ua/5865422608_povitryane-oholodzhennya-jiushark.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження Jiushark JF100RS White RGB (JF100RS White RGB)</name>
+<vendor>Jiushark</vendor>
+<vendorCode>JF100RS White RGB</vendorCode>
+<param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">100</param>
+<param name="Количество кулеров">1</param>
+<param name="Максимальная скорость вращения" unit="об/мин">2300</param>
+<param name="Максимальный уровень шума" unit="дБ">30</param>
+<param name="Разъемы">LGA1150|LGA1200|LGA1700</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Скольжения</param>
+<param name="Колір підсвітки" unit="">RGB</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Повітряний потік (CFM)" unit="">48</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
+</offer>
+<offer id="2224537600" available="true">
+<url>https://tera-flops.com.ua/ua/p2224537600-povitryane-oholodzhennya-jiushark.html</url>
+<price>920</price>
+<currencyId>UAH</currencyId>
+<categoryId>97649259</categoryId>
+<picture>https://images.prom.ua/6280253613_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6280253687_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6280254768_povitryane-oholodzhennya-jiushark.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження Jiushark JF100RS White ARGB (JF100RS White ARGB)</name>
+<vendor>Jiushark</vendor>
+<vendorCode>JF100RS White ARGB</vendorCode>
+<param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">100</param>
+<param name="Количество кулеров">1</param>
+<param name="Максимальная скорость вращения" unit="об/мин">2300</param>
+<param name="Максимальный уровень шума" unit="дБ">30</param>
+<param name="Разъемы">LGA1150|LGA1200|LGA1700</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Скольжения</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
+<param name="Повітряний потік (CFM)" unit="">48</param>
+<param name="Колір підсвітки" unit="">ARGB</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+</offer>
+<offer id="2224537601" available="true">
+<url>https://tera-flops.com.ua/ua/p2224537601-povitryane-oholodzhennya-dlya.html</url>
+<price>900</price>
+<currencyId>UAH</currencyId>
+<categoryId>97649259</categoryId>
+<picture>https://images.prom.ua/5961573927_povitryane-oholodzhennya-dlya.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження для ПК Jiushark JF100RS Black ARGB (JF100RS Black ARGB)</name>
+<vendor>Jiushark</vendor>
+<vendorCode>JF100RS Black ARGB</vendorCode>
+<param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">100</param>
+<param name="Количество кулеров">1</param>
+<param name="Максимальная скорость вращения" unit="об/мин">2300</param>
+<param name="Максимальный уровень шума" unit="дБ">30</param>
+<param name="Разъемы">LGA1150|LGA1200|LGA1700</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Скольжения</param>
+<param name="Колір підсвітки" unit="">ARGB</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Повітряний потік (CFM)" unit="">48</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
+</offer>
+<offer id="2354051392" available="true">
+<url>https://tera-flops.com.ua/ua/p2354051392-povitryane-oholodzhennya-jiushark.html</url>
+<price>770</price>
+<currencyId>UAH</currencyId>
+<categoryId>97649259</categoryId>
+<picture>https://images.prom.ua/6278632957_povitryane-oholodzhennya-jiushark.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження Jiushark JF100 FRGB White (JF100 FRGB White)</name>
+<vendor>Jiushark</vendor>
+<vendorCode>JF100 FRGB White</vendorCode>
+<param name="Вес" unit="г">912</param>
+<param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">120</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">1500</param>
+<param name="Максимальный уровень шума" unit="дБ">35</param>
+<param name="Разъемы">LGA1150|LGA1200|LGA1700</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">600</param>
+<param name="Повітряний потік (CFM)" unit="">68.04</param>
+<param name="Розсіювана потужність, Вт" unit="">240</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Габариты (мм)" unit="">128x101x157</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
+<param name="Висота кулера, мм" unit="">157</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+</offer>
+<offer id="2354051393" available="true">
+<url>https://tera-flops.com.ua/ua/p2354051393-povitryane-oholodzhennya-jiushark.html</url>
+<price>1100</price>
+<currencyId>UAH</currencyId>
+<categoryId>97649259</categoryId>
+<picture>https://images.prom.ua/6278430496_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430497_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430498_povitryane-oholodzhennya-jiushark.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження Jiushark JF100 ARGB Black (JF100 ARGB Black)</name>
+<vendor>Jiushark</vendor>
+<vendorCode>JF100 ARGB Black</vendorCode>
+<param name="Вес" unit="г">912</param>
+<param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">120</param>
+<param name="Количество кулеров">1</param>
+<param name="Максимальная скорость вращения" unit="об/мин">2300</param>
+<param name="Максимальный уровень шума" unit="дБ">35</param>
+<param name="Разъемы">LGA1200|LGA1150|LGA1700</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
+<param name="Повітряний потік (CFM)" unit="">68</param>
+<param name="Розсіювана потужність, Вт" unit="">230</param>
+<param name="Колір підсвітки" unit="">ARGB</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Габариты (мм)" unit="">128x76x157</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
+<param name="Висота кулера, мм" unit="">157</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+</offer>
+<offer id="2354051395" available="true">
+<url>https://tera-flops.com.ua/ua/p2354051395-povitryane-oholodzhennya-jiushark.html</url>
+<price>1770</price>
+<currencyId>UAH</currencyId>
+<categoryId>97649259</categoryId>
+<picture>https://images.prom.ua/6278430499_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430500_povitryane-oholodzhennya-jiushark.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження Jiushark JF300 ARGB White (JF300 ARGB White)</name>
+<vendor>Jiushark</vendor>
+<vendorCode>JF300 ARGB White</vendorCode>
+<param name="Вес" unit="г">1110</param>
+<param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">120</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">1500</param>
+<param name="Максимальный уровень шума" unit="дБ">29</param>
+<param name="Разъемы">LGA1150|LGA1200|LGA1700|LGA1155</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">600</param>
+<param name="Повітряний потік (CFM)" unit="">59</param>
+<param name="Розсіювана потужність, Вт" unit="">260</param>
+<param name="Колір підсвітки" unit="">ARGB</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Габариты (мм)" unit="">120х132х160</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
+<param name="Висота кулера, мм" unit="">160</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+</offer>
+<offer id="2354051396" available="true">
+<url>https://tera-flops.com.ua/ua/p2354051396-povitryane-oholodzhennya-jiushark.html</url>
+<price>1970</price>
+<currencyId>UAH</currencyId>
+<categoryId>97649259</categoryId>
+<picture>https://images.prom.ua/6279154617_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430507_povitryane-oholodzhennya-jiushark.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження Jiushark JF200 ARGB White (JF200 ARGB White)</name>
+<vendor>Jiushark</vendor>
+<vendorCode>JF200 ARGB White</vendorCode>
+<param name="Вес" unit="г">1408</param>
+<param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">120</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">1500</param>
+<param name="Максимальный уровень шума" unit="дБ">35</param>
+<param name="Разъемы">LGA1366|LGA1150|LGA1200|LGA1700</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">600</param>
+<param name="Повітряний потік (CFM)" unit="">68.04</param>
+<param name="Розсіювана потужність, Вт" unit="">260</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Габариты (мм)" unit="">128x153x158</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
+<param name="Висота кулера, мм" unit="">158</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+</offer>
+<offer id="2354051397" available="true">
+<url>https://tera-flops.com.ua/ua/p2354051397-povitryane-oholodzhennya-jiushark.html</url>
+<price>1950</price>
+<currencyId>UAH</currencyId>
+<categoryId>97649259</categoryId>
+<picture>https://images.prom.ua/6278430520_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430521_povitryane-oholodzhennya-jiushark.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження Jiushark JF200 ARGB Black (JF200 ARGB Black)</name>
+<vendor>Jiushark</vendor>
+<vendorCode>JF200 ARGB Black</vendorCode>
+<param name="Вес" unit="г">1408</param>
+<param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">120</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">1500</param>
+<param name="Максимальный уровень шума" unit="дБ">35</param>
+<param name="Разъемы">LGA1366|LGA1200|LGA1150|LGA1700</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">600</param>
+<param name="Повітряний потік (CFM)" unit="">68.04</param>
+<param name="Розсіювана потужність, Вт" unit="">260</param>
+<param name="Колір підсвітки" unit="">ARGB</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Габариты (мм)" unit="">128x153x158</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
+<param name="Висота кулера, мм" unit="">158</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+</offer>
+<offer id="2354051398" available="true">
+<url>https://tera-flops.com.ua/ua/p2354051398-povitryane-oholodzhennya-jiushark.html</url>
+<price>2000</price>
+<currencyId>UAH</currencyId>
+<categoryId>97649259</categoryId>
+<picture>https://images.prom.ua/6278430550_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430553_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430556_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430558_povitryane-oholodzhennya-jiushark.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження Jiushark JF13K Mini ARGB Black (JF13K Mini ARGB Black)</name>
+<vendor>Jiushark</vendor>
+<vendorCode>JF13K Mini ARGB Black</vendorCode>
+<param name="Вес" unit="г">1050</param>
+<param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">100</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">2200</param>
+<param name="Максимальный уровень шума" unit="дБ">30</param>
+<param name="Разъемы">LGA1150|LGA1700|LGA1200</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
+<param name="Повітряний потік (CFM)" unit="">47.54</param>
+<param name="Розсіювана потужність, Вт" unit="">260</param>
+<param name="Колір підсвітки" unit="">ARGB</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Габариты (мм)" unit="">204x123x101</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
+<param name="Висота кулера, мм" unit="">101</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+</offer>
+<offer id="2354051399" available="true">
+<url>https://tera-flops.com.ua/ua/p2354051399-povitryane-oholodzhennya-jiushark.html</url>
+<price>2000</price>
+<currencyId>UAH</currencyId>
+<categoryId>97649259</categoryId>
+<picture>https://images.prom.ua/6278430562_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6279154634_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430566_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430569_povitryane-oholodzhennya-jiushark.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження Jiushark JF13K Mini ARGB White (JF13K Mini ARGB White)</name>
+<vendor>Jiushark</vendor>
+<vendorCode>JF13K Mini ARGB White</vendorCode>
+<param name="Вес" unit="г">1050</param>
+<param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">100</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">2200</param>
+<param name="Максимальный уровень шума" unit="дБ">30</param>
+<param name="Разъемы">LGA1150|LGA1200|LGA1700</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
+<param name="Повітряний потік (CFM)" unit="">47.54</param>
+<param name="Розсіювана потужність, Вт" unit="">260</param>
+<param name="Колір підсвітки" unit="">ARGB</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Габариты (мм)" unit="">204x123x101</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
+<param name="Висота кулера, мм" unit="">101</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+</offer>
+<offer id="2354051400" available="true">
+<url>https://tera-flops.com.ua/ua/p2354051400-povitryane-oholodzhennya-jiushark.html</url>
+<price>1600</price>
+<currencyId>UAH</currencyId>
+<categoryId>97649259</categoryId>
+<picture>https://images.prom.ua/6278430509_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430511_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430514_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430515_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430517_povitryane-oholodzhennya-jiushark.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження Jiushark JF200 Mini FRGB White (JF200 Mini FRGB White)</name>
+<vendor>Jiushark</vendor>
+<vendorCode>JF200 Mini FRGB White</vendorCode>
+<param name="Вес" unit="г">866</param>
+<param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">100</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">2300</param>
+<param name="Максимальный уровень шума" unit="дБ">30</param>
+<param name="Разъемы">LGA1150|LGA1200|LGA1700</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
+<param name="Повітряний потік (CFM)" unit="">47.54</param>
+<param name="Розсіювана потужність, Вт" unit="">250</param>
+<param name="Колір підсвітки" unit="">FRGB</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Габариты (мм)" unit="">100x154x144</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
+<param name="Висота кулера, мм" unit="">144</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+</offer>
+<offer id="2354051401" available="true">
+<url>https://tera-flops.com.ua/ua/p2354051401-povitryane-oholodzhennya-jiushark.html</url>
+<price>1700</price>
+<currencyId>UAH</currencyId>
+<categoryId>97649259</categoryId>
+<picture>https://images.prom.ua/6278430525_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430526_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430527_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430528_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430529_povitryane-oholodzhennya-jiushark.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження Jiushark JF200 Mini ARGB White (JF200 Mini ARGB White)</name>
+<vendor>Jiushark</vendor>
+<vendorCode>JF200 Mini ARGB White</vendorCode>
+<param name="Вес" unit="г">866</param>
+<param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">100</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">2300</param>
+<param name="Максимальный уровень шума" unit="дБ">30</param>
+<param name="Разъемы">LGA1150|LGA1200|LGA1700</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
+<param name="Повітряний потік (CFM)" unit="">47.54</param>
+<param name="Розсіювана потужність, Вт" unit="">250</param>
+<param name="Колір підсвітки" unit="">ARGB</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Габариты (мм)" unit="">100x154x144</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
+<param name="Висота кулера, мм" unit="">144</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+</offer>
+<offer id="2354051402" available="true">
+<url>https://tera-flops.com.ua/ua/p2354051402-povitryane-oholodzhennya-jiushark.html</url>
+<price>1650</price>
+<currencyId>UAH</currencyId>
+<categoryId>97649259</categoryId>
+<picture>https://images.prom.ua/6278430530_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430531_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430533_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430534_povitryane-oholodzhennya-jiushark.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження Jiushark JF200 Mini ARGB Black (JF200 Mini ARGB Black)</name>
+<vendor>Jiushark</vendor>
+<vendorCode>JF200 Mini ARGB Black</vendorCode>
+<param name="Вес" unit="г">866</param>
+<param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">100</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">2300</param>
+<param name="Максимальный уровень шума" unit="дБ">30</param>
+<param name="Разъемы">LGA1150|LGA1200|LGA1700</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
+<param name="Повітряний потік (CFM)" unit="">47.54</param>
+<param name="Розсіювана потужність, Вт" unit="">250</param>
+<param name="Колір підсвітки" unit="">ARGB</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Габариты (мм)" unit="">100x154x144</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
+<param name="Висота кулера, мм" unit="">144</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+</offer>
+<offer id="2354051403" available="true">
+<url>https://tera-flops.com.ua/ua/p2354051403-povitryane-oholodzhennya-jiushark.html</url>
+<price>1650</price>
+<currencyId>UAH</currencyId>
+<categoryId>97649259</categoryId>
+<picture>https://images.prom.ua/6278430590_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430594_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6278430597_povitryane-oholodzhennya-jiushark.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження Jiushark JF160 ARGB Black (JF160 ARGB Black)</name>
+<vendor>Jiushark</vendor>
+<vendorCode>JF160 ARGB Black</vendorCode>
+<param name="Вес" unit="г">962</param>
+<param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">120</param>
+<param name="Количество кулеров">1</param>
+<param name="Максимальная скорость вращения" unit="об/мин">1800</param>
+<param name="Максимальный уровень шума" unit="дБ">31</param>
+<param name="Разъемы">LGA1150|LGA1700|LGA1200</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
+<param name="Повітряний потік (CFM)" unit="">83.04</param>
+<param name="Розсіювана потужність, Вт" unit="">245</param>
+<param name="Колір підсвітки" unit="">ARGB</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Габариты (мм)" unit="">120x107x156</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
+<param name="Висота кулера, мм" unit="">156</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+</offer>
+<offer id="2382797497" available="true">
+<url>https://tera-flops.com.ua/ua/p2382797497-povitryane-oholodzhennya-jiushark.html</url>
+<price>1350</price>
+<currencyId>UAH</currencyId>
+<categoryId>97649259</categoryId>
+<picture>https://images.prom.ua/6319628665_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6319628666_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6319628667_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6319628668_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6319628669_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6319628670_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6319628671_povitryane-oholodzhennya-jiushark.jpg</picture>
+<picture>https://images.prom.ua/6319628672_povitryane-oholodzhennya-jiushark.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Повітряне охолодження Jiushark JF100S Black (JF100S Black)</name>
+<vendorCode>JF100S Black</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Назначение">Для процессора</param>
+<param name="Система охлаждения">Активная (кулер)</param>
+<param name="Количество кулеров">2</param>
+<param name="Диаметр вентилятора" unit="мм">120</param>
+<param name="Разъемы">LGA1700|AM2+/AM3+/ FM1/FM2|AM3|LGA 1151|LGA1200|AM4|AM5</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Материал радиатора">Алюминий</param>
+<param name="Тип разъема">4-pin</param>
+<param name="Особенности">Регулятор оборотов</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантийный срок" unit="мес">6</param>
+<param name="Тип системы охлаждения">Активное охлаждение</param>
+<param name="Цвет">Черный</param>
+<param name="Вес" unit="г">912</param>
+<param name="Количество вентиляторов" unit="">2</param>
+<param name="Тип" unit="">Повітряне охолодження</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">600</param>
+<param name="Повітряний потік (CFM)" unit="">68.04</param>
+<param name="Розсіювана потужність, Вт" unit="">240</param>
+<param name="Максимальна швидкість обертання, об / хв" unit="">1500</param>
+<param name="Діаметр вентилятора, мм" unit="">120</param>
+<param name="Разъем" unit="">4pin</param>
+<param name="Габариты (мм)" unit="">128х101х157</param>
+<param name="Напруга живлення, В" unit="">12</param>
+<param name="Висота кулера, мм" unit="">157</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Сокет" unit="">Socket AM4</param>
+<param name="Рівень шуму, дБ" unit="">35</param>
 </offer>
 </offers>
 </shop>
