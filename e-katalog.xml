@@ -331,692 +331,549 @@
 <category id="85364281" parentId="85328850">Жорсткі диски</category>
 </categories>
 <offers>
-<offer id="2016057060" available="true">
-<url>https://tera-flops.com.ua/ua/p2016057060-termoprokladka-fehonda-original.html</url>
-<price>300</price>
-<currencyId>UAH</currencyId>
-<categoryId>128411779</categoryId>
-<picture>https://images.prom.ua/WHI-KLtMuSW8_36KPvEUYcOUsz28eqAnytbvYMx8lFA=/6407468520_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5093935514_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5093935786_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5093935794_termoprokladka-fehonda-original.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Термопрокладка Fehonda Original 100x100x0.5mm (12.8W/m*k) (TF)</name>
-<vendor>FEHONDA</vendor>
-<vendorCode>F-TP-05-128</vendorCode>
-<country_of_origin>Китай</country_of_origin>
-<param name="Тип">Термопрокладка</param>
-<param name="Теплопроводность" unit="Вт/(м*К)">12.8</param>
-<param name="Упаковка">Блистер</param>
-<param name="Цвет">Серый</param>
-<param name="Длина" unit="мм">100</param>
-<param name="Ширина" unit="мм">100</param>
-<param name="Толщина" unit="мм">0.5</param>
-<param name="Состояние">Новое</param>
-</offer>
-<offer id="2016060820" available="true">
-<url>https://tera-flops.com.ua/ua/p2016060820-termoprokladka-fehonda-original.html</url>
-<price>440</price>
-<currencyId>UAH</currencyId>
-<categoryId>128411779</categoryId>
-<picture>https://images.prom.ua/sxkpVWaVlmJKBFZmEsAttMVkKJS6xG14Y7EWga498us=/6407430918_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5093945445_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5093945446_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5093945447_termoprokladka-fehonda-original.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Термопрокладка Fehonda Original 100x100x1mm (12.8W/m*k) (TF)</name>
-<vendor>FEHONDA</vendor>
-<vendorCode>F-TP-1-128</vendorCode>
-<country_of_origin>Китай</country_of_origin>
-<param name="Тип">Термопрокладка</param>
-<param name="Теплопроводность" unit="Вт/(м*К)">12.8</param>
-<param name="Упаковка">Блистер</param>
-<param name="Цвет">Серый</param>
-<param name="Длина" unit="мм">100</param>
-<param name="Ширина" unit="мм">100</param>
-<param name="Толщина" unit="мм">1</param>
-<param name="Состояние">Новое</param>
-</offer>
-<offer id="2016063260" available="true">
-<url>https://tera-flops.com.ua/ua/p2016063260-termoprokladka-fehonda-original.html</url>
-<price>510</price>
-<currencyId>UAH</currencyId>
-<categoryId>128411779</categoryId>
-<picture>https://images.prom.ua/L7CxlriQz_FxmY8-2muViBaJIchUptRs_DXO1RWx_Ac=/6407468010_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5093952659_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5093952660_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5093952661_termoprokladka-fehonda-original.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Термопрокладка Fehonda Original 100x100x1.25mm (12.8W/m*k) (TF)</name>
-<vendor>FEHONDA</vendor>
-<vendorCode>F-TP-125-128</vendorCode>
-<country_of_origin>Китай</country_of_origin>
-<param name="Тип">Термопрокладка</param>
-<param name="Теплопроводность" unit="Вт/(м*К)">12.8</param>
-<param name="Упаковка">Блистер</param>
-<param name="Цвет">Серый</param>
-<param name="Длина" unit="мм">100</param>
-<param name="Ширина" unit="мм">100</param>
-<param name="Толщина" unit="мм">1.25</param>
-<param name="Состояние">Новое</param>
-</offer>
-<offer id="2016064532" available="true">
-<url>https://tera-flops.com.ua/ua/p2016064532-termoprokladka-fehonda-original.html</url>
-<price>520</price>
-<currencyId>UAH</currencyId>
-<categoryId>128411779</categoryId>
-<picture>https://images.prom.ua/YU9u5KhJDa12Az9pmKeMe-oSn7Wr-t6sjDAOGoOGQik=/6407431599_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5093958741_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5093958742_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5093958743_termoprokladka-fehonda-original.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Термопрокладка Fehonda Original 100x100x1.5mm (12.8W/m*k) (TF)</name>
-<vendor>FEHONDA</vendor>
-<vendorCode>F-TP-15-128</vendorCode>
-<country_of_origin>Китай</country_of_origin>
-<param name="Тип">Термопрокладка</param>
-<param name="Теплопроводность" unit="Вт/(м*К)">12.8</param>
-<param name="Упаковка">Блистер</param>
-<param name="Цвет">Серый</param>
-<param name="Длина" unit="мм">100</param>
-<param name="Ширина" unit="мм">100</param>
-<param name="Толщина" unit="мм">1.5</param>
-<param name="Состояние">Новое</param>
-</offer>
-<offer id="2016066558" available="true">
-<url>https://tera-flops.com.ua/ua/p2016066558-termoprokladka-fehonda-original.html</url>
-<price>600</price>
-<currencyId>UAH</currencyId>
-<categoryId>128411779</categoryId>
-<picture>https://images.prom.ua/DSyrnihEpASw4QhyKQAoLrVpk6QSRl8QnodTZluUXv0=/6407432096_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5093966442_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5093966443_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5093966444_termoprokladka-fehonda-original.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Термопрокладка Fehonda Original 100x100x2mm (12.8W/m*k) (TF)</name>
-<vendor>FEHONDA</vendor>
-<vendorCode>F-TP-2-128</vendorCode>
-<country_of_origin>Китай</country_of_origin>
-<param name="Тип">Термопрокладка</param>
-<param name="Теплопроводность" unit="Вт/(м*К)">12.8</param>
-<param name="Упаковка">Блистер</param>
-<param name="Цвет">Серый</param>
-<param name="Длина" unit="мм">100</param>
-<param name="Ширина" unit="мм">100</param>
-<param name="Толщина" unit="мм">2</param>
-<param name="Состояние">Новое</param>
-</offer>
-<offer id="2016067223" available="true">
-<url>https://tera-flops.com.ua/ua/p2016067223-termoprokladka-fehonda-original.html</url>
-<price>720</price>
-<currencyId>UAH</currencyId>
-<categoryId>128411779</categoryId>
-<picture>https://images.prom.ua/XX0GIBZmOXC3UrWQkpUmjhftDJhkqJAK4eaSfXxRUac=/6407469351_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5093970404_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5093970405_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5093970407_termoprokladka-fehonda-original.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Термопрокладка Fehonda Original 100x100x2.25mm (12.8W/m*k) (TF)</name>
-<vendor>FEHONDA</vendor>
-<vendorCode>F-TP-225-128</vendorCode>
-<country_of_origin>Китай</country_of_origin>
-<param name="Тип">Термопрокладка</param>
-<param name="Теплопроводность" unit="Вт/(м*К)">12.8</param>
-<param name="Упаковка">Блистер</param>
-<param name="Цвет">Серый</param>
-<param name="Длина" unit="мм">100</param>
-<param name="Ширина" unit="мм">100</param>
-<param name="Толщина" unit="мм">2.25</param>
-<param name="Состояние">Новое</param>
-</offer>
-<offer id="2016068317" available="true">
-<url>https://tera-flops.com.ua/ua/p2016068317-ridka-termoprokladka-fehonda.html</url>
-<price>500</price>
-<currencyId>UAH</currencyId>
-<categoryId>128411779</categoryId>
-<picture>https://images.prom.ua/f0uGgydnLeHf6HbcZPwo5f74_qlq12Eqqju2jedKrC8=/6407465694_ridka-termoprokladka-fehonda.jpg</picture>
-<picture>https://images.prom.ua/5093977926_ridka-termoprokladka-fehonda.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Рідка термопрокладка Fehonda LTP81 12г (18 W/m*k) (TF)</name>
-<vendor>FEHONDA</vendor>
-<vendorCode>LTP81</vendorCode>
-<country_of_origin>Китай</country_of_origin>
-<param name="Тип">Термопрокладка</param>
-<param name="Теплопроводность" unit="Вт/(м*К)">18</param>
-<param name="Упаковка">Тюбик</param>
-<param name="Цвет">Серый</param>
-<param name="Вес" unit="г">12</param>
-<param name="Состояние">Новое</param>
-</offer>
-<offer id="2047027878" available="true">
-<url>https://tera-flops.com.ua/ua/p2047027878-termoprokladka-fehonda-original.html</url>
-<price>520</price>
-<currencyId>UAH</currencyId>
-<categoryId>128411779</categoryId>
-<picture>https://images.prom.ua/IGu2rtHA2zgtd31_xggJ3dfBhiMSrbQ19x0X6tf0RJY=/6407465421_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5206701175_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5206746552_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5206700062_termoprokladka-fehonda-original.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Термопрокладка Fehonda Original 100x100x2.5mm (8W/m*k) (TF)</name>
-<vendor>FEHONDA</vendor>
-<vendorCode>F-TP-25-8</vendorCode>
-<country_of_origin>Китай</country_of_origin>
-<param name="Тип">Термопрокладка</param>
-<param name="Теплопроводность" unit="Вт/(м*К)">8</param>
-<param name="Упаковка">Блистер</param>
-<param name="Цвет">Серый</param>
-<param name="Длина" unit="мм">100</param>
-<param name="Ширина" unit="мм">100</param>
-<param name="Толщина" unit="мм">2.5</param>
-<param name="Состояние">Новое</param>
-</offer>
-<offer id="2047034123" available="true">
-<url>https://tera-flops.com.ua/ua/p2047034123-termoprokladka-fehonda-original.html</url>
-<price>1020</price>
-<currencyId>UAH</currencyId>
-<categoryId>128411779</categoryId>
-<picture>https://images.prom.ua/7xlVphrsjtmG5pOLSQkVTPYZiVqlgmJEcOQGCmKqs18=/6407465161_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5206729274_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5206728680_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5206723579_termoprokladka-fehonda-original.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Термопрокладка Fehonda Original 100x100x2.25mm (15W/m*k) (TF)</name>
-<vendor>FEHONDA</vendor>
-<vendorCode>F-TP-225-15</vendorCode>
-<country_of_origin>Китай</country_of_origin>
-<param name="Тип">Термопрокладка</param>
-<param name="Теплопроводность" unit="Вт/(м*К)">15</param>
-<param name="Упаковка">Блистер</param>
-<param name="Цвет">Серый</param>
-<param name="Длина" unit="мм">100</param>
-<param name="Ширина" unit="мм">100</param>
-<param name="Толщина" unit="мм">2.25</param>
-<param name="Состояние">Новое</param>
-</offer>
-<offer id="2047775144" available="true">
-<url>https://tera-flops.com.ua/ua/p2047775144-termoprokladka-fehonda-original.html</url>
+<offer id="2441545874" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545874-termoprokladka-fehonda-100x100x175mm.html</url>
 <price>590</price>
 <currencyId>UAH</currencyId>
 <categoryId>128411779</categoryId>
-<picture>https://images.prom.ua/GdvCVRuGsj1e3s5F96cIcCOpqo6PDEXMzzkc2JFUeHY=/6407441868_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5209974644_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5209972854_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5209972856_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/6407789285_termoprokladka-fehonda-100x100x175mm.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
-<name>Термопрокладка Fehonda Original 100x100x1.75mm (12.8W/m*k) (TF)</name>
+<name>Термопрокладка Fehonda 100x100x1.75mm (12.8W/m*k) (18659)</name>
 <vendor>FEHONDA</vendor>
 <vendorCode>F-TP-175-128</vendorCode>
-<country_of_origin>Китай</country_of_origin>
-<param name="Тип">Термопрокладка</param>
-<param name="Теплопроводность" unit="Вт/(м*К)">12.8</param>
-<param name="Упаковка">Блистер</param>
-<param name="Цвет">Серый</param>
-<param name="Длина" unit="мм">100</param>
-<param name="Ширина" unit="мм">100</param>
-<param name="Толщина" unit="мм">1.75</param>
 <param name="Состояние">Новое</param>
+<param name="Тип">Термопрокладка</param>
+<param name="Гарантія, міс" unit="">1</param>
 </offer>
-<offer id="2047807821" available="true">
-<url>https://tera-flops.com.ua/ua/p2047807821-termoprokladka-fehonda-original.html</url>
-<price>660</price>
+<offer id="2441545875" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545875-termoprokladka-fehonda-100x100x225mm.html</url>
+<price>720</price>
 <currencyId>UAH</currencyId>
 <categoryId>128411779</categoryId>
-<picture>https://images.prom.ua/I5OeOakS29Bo-VNcSO-g2arzs16jmyA0hM4PN-NjJi8=/6407467908_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210094444_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210090269_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210090270_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/6407789310_termoprokladka-fehonda-100x100x225mm.jpg</picture>
+<picture>https://images.prom.ua/6407789314_termoprokladka-fehonda-100x100x225mm.jpg</picture>
+<picture>https://images.prom.ua/6407789316_termoprokladka-fehonda-100x100x225mm.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
-<name>Термопрокладка Fehonda Original 100x100x0.75mm (15W/m*k) (TF)</name>
+<name>Термопрокладка Fehonda 100x100x2.25mm (12.8W/m*k) (18660)</name>
 <vendor>FEHONDA</vendor>
-<vendorCode>F-TP-075-15</vendorCode>
-<country_of_origin>Китай</country_of_origin>
-<param name="Тип">Термопрокладка</param>
-<param name="Теплопроводность" unit="Вт/(м*К)">15</param>
-<param name="Упаковка">Блистер</param>
-<param name="Цвет">Серый</param>
-<param name="Длина" unit="мм">100</param>
-<param name="Ширина" unit="мм">100</param>
-<param name="Толщина" unit="мм">0.75</param>
+<vendorCode>F-TP-225-128</vendorCode>
 <param name="Состояние">Новое</param>
-</offer>
-<offer id="2047813815" available="true">
-<url>https://tera-flops.com.ua/ua/p2047813815-termoprokladka-fehonda-original.html</url>
-<price>730</price>
-<currencyId>UAH</currencyId>
-<categoryId>128411779</categoryId>
-<picture>https://images.prom.ua/L3u8-ziASKjMdBd7lgEsl6gjCUw7MB-6CgjKhbI5Qt8=/6407440594_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210113121_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210112377_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210112378_termoprokladka-fehonda-original.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Термопрокладка Fehonda Original 100x100x1mm (15W/m*k) (TF)</name>
-<vendor>FEHONDA</vendor>
-<vendorCode>F-TP-1-15</vendorCode>
-<country_of_origin>Китай</country_of_origin>
 <param name="Тип">Термопрокладка</param>
-<param name="Теплопроводность" unit="Вт/(м*К)">15</param>
-<param name="Упаковка">Блистер</param>
-<param name="Цвет">Серый</param>
-<param name="Длина" unit="мм">100</param>
-<param name="Ширина" unit="мм">100</param>
-<param name="Толщина" unit="мм">1</param>
-<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">1</param>
 </offer>
-<offer id="2047816455" available="true">
-<url>https://tera-flops.com.ua/ua/p2047816455-termoprokladka-fehonda-original.html</url>
+<offer id="2441545876" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545876-termoprokladka-fehonda-100x100x275mm.html</url>
 <price>800</price>
 <currencyId>UAH</currencyId>
 <categoryId>128411779</categoryId>
-<picture>https://images.prom.ua/qL0PN4Y1ByMkFIzBi4JtvrVhL23ryrFxXjx3Lf_3EQc=/6407444385_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210121767_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210121026_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210121028_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/6407789319_termoprokladka-fehonda-100x100x275mm.jpg</picture>
+<picture>https://images.prom.ua/6407789321_termoprokladka-fehonda-100x100x275mm.jpg</picture>
+<picture>https://images.prom.ua/6407789323_termoprokladka-fehonda-100x100x275mm.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
-<name>Термопрокладка Fehonda Original 100x100x1.25mm (15W/m*k) (TF)</name>
+<name>Термопрокладка Fehonda 100x100x2.75mm (12.8W/m*k) (18661)</name>
 <vendor>FEHONDA</vendor>
-<vendorCode>F-TP-125-15</vendorCode>
-<country_of_origin>Китай</country_of_origin>
-<param name="Тип">Термопрокладка</param>
-<param name="Теплопроводность" unit="Вт/(м*К)">15</param>
-<param name="Упаковка">Блистер</param>
-<param name="Цвет">Серый</param>
-<param name="Длина" unit="мм">100</param>
-<param name="Ширина" unit="мм">100</param>
-<param name="Толщина" unit="мм">1.25</param>
+<vendorCode>F-TP-275-128</vendorCode>
 <param name="Состояние">Новое</param>
-</offer>
-<offer id="2047833132" available="true">
-<url>https://tera-flops.com.ua/ua/p2047833132-termoprokladka-fehonda-original.html</url>
-<price>230</price>
-<currencyId>UAH</currencyId>
-<categoryId>128411779</categoryId>
-<picture>https://images.prom.ua/mic910EtPY6-t6oKwSpi4vXyyfCLCRRAPbKvpiL6QZQ=/6407469507_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210184801_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210184802_termoprokladka-fehonda-original.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Термопрокладка Fehonda Original 100x100x0.5mm (8W/m*k) (TF)</name>
-<vendor>FEHONDA</vendor>
-<vendorCode>F-TP-05-8</vendorCode>
-<country_of_origin>Китай</country_of_origin>
 <param name="Тип">Термопрокладка</param>
-<param name="Теплопроводность" unit="Вт/(м*К)">8</param>
-<param name="Упаковка">Блистер</param>
-<param name="Цвет">Серый</param>
-<param name="Длина" unit="мм">100</param>
-<param name="Ширина" unit="мм">100</param>
-<param name="Толщина" unit="мм">0.5</param>
-<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">1</param>
 </offer>
-<offer id="2047841661" available="true">
-<url>https://tera-flops.com.ua/ua/p2047841661-termoprokladka-fehonda-original.html</url>
-<price>290</price>
-<currencyId>UAH</currencyId>
-<categoryId>128411779</categoryId>
-<picture>https://images.prom.ua/QosLw7iZkwSa8xkTBInhNiKovlDTVf199ObaT8xOO6g=/6407468651_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210192978_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210192979_termoprokladka-fehonda-original.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Термопрокладка Fehonda Original 100x100x1mm (8W/m*k) (TF)</name>
-<vendor>FEHONDA</vendor>
-<vendorCode>F-TP-1-8</vendorCode>
-<country_of_origin>Китай</country_of_origin>
-<param name="Тип">Термопрокладка</param>
-<param name="Теплопроводность" unit="Вт/(м*К)">8</param>
-<param name="Упаковка">Блистер</param>
-<param name="Цвет">Серый</param>
-<param name="Длина" unit="мм">100</param>
-<param name="Ширина" unit="мм">100</param>
-<param name="Толщина" unit="мм">1</param>
-<param name="Состояние">Новое</param>
-</offer>
-<offer id="2047847007" available="true">
-<url>https://tera-flops.com.ua/ua/p2047847007-termoprokladka-fehonda-original.html</url>
-<price>400</price>
-<currencyId>UAH</currencyId>
-<categoryId>128411779</categoryId>
-<picture>https://images.prom.ua/1oOUwvkpee7erjzP5-6AneeTBG7SIBpk3R6E4dOhWDo=/6407468782_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210201773_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210201774_termoprokladka-fehonda-original.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Термопрокладка Fehonda Original 100x100x1.5mm (8W/m*k) (TF)</name>
-<vendor>FEHONDA</vendor>
-<vendorCode>F-TP-15-8</vendorCode>
-<country_of_origin>Китай</country_of_origin>
-<param name="Тип">Термопрокладка</param>
-<param name="Теплопроводность" unit="Вт/(м*К)">8</param>
-<param name="Упаковка">Блистер</param>
-<param name="Цвет">Серый</param>
-<param name="Длина" unit="мм">100</param>
-<param name="Ширина" unit="мм">100</param>
-<param name="Толщина" unit="мм">1.5</param>
-<param name="Состояние">Новое</param>
-</offer>
-<offer id="2047852566" available="true">
-<url>https://tera-flops.com.ua/ua/p2047852566-termoprokladka-fehonda-original.html</url>
-<price>430</price>
-<currencyId>UAH</currencyId>
-<categoryId>128411779</categoryId>
-<picture>https://images.prom.ua/rarMIeODeVfyWdrrD0om6Sc5Jx_ygmSPpB0GYdepIbY=/6407469194_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210213571_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210213572_termoprokladka-fehonda-original.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Термопрокладка Fehonda Original 100x100x1.75mm (8W/m*k) (TF)</name>
-<vendor>FEHONDA</vendor>
-<vendorCode>F-TP-175-8</vendorCode>
-<country_of_origin>Китай</country_of_origin>
-<param name="Тип">Термопрокладка</param>
-<param name="Теплопроводность" unit="Вт/(м*К)">8</param>
-<param name="Упаковка">Блистер</param>
-<param name="Цвет">Серый</param>
-<param name="Длина" unit="мм">100</param>
-<param name="Ширина" unit="мм">100</param>
-<param name="Толщина" unit="мм">1.75</param>
-<param name="Состояние">Новое</param>
-</offer>
-<offer id="2047853330" available="true">
-<url>https://tera-flops.com.ua/ua/p2047853330-termoprokladka-fehonda-original.html</url>
-<price>450</price>
-<currencyId>UAH</currencyId>
-<categoryId>128411779</categoryId>
-<picture>https://images.prom.ua/RbrN-DB-leIBkNGjg9m4Rox7JsXCqAuNc6HaZz1xl2c=/6407468985_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5218993233_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210214435_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210214437_termoprokladka-fehonda-original.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Термопрокладка Fehonda Original 100x100x2mm (8W/m*k) (TF)</name>
-<vendor>FEHONDA</vendor>
-<vendorCode>F-TP-2-8</vendorCode>
-<country_of_origin>Китай</country_of_origin>
-<param name="Тип">Термопрокладка</param>
-<param name="Теплопроводность" unit="Вт/(м*К)">8</param>
-<param name="Упаковка">Блистер</param>
-<param name="Цвет">Серый</param>
-<param name="Длина" unit="мм">100</param>
-<param name="Ширина" unit="мм">100</param>
-<param name="Толщина" unit="мм">2</param>
-<param name="Состояние">Новое</param>
-</offer>
-<offer id="2047854398" available="true">
-<url>https://tera-flops.com.ua/ua/p2047854398-termoprokladka-fehonda-original.html</url>
-<price>490</price>
-<currencyId>UAH</currencyId>
-<categoryId>128411779</categoryId>
-<picture>https://images.prom.ua/qNUyd4O6bWjNNWHZdC5WdA1VfqK5fSVaQ0QVV2RxD5w=/6407442192_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210429966_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210215446_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210215447_termoprokladka-fehonda-original.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Термопрокладка Fehonda Original 100x100x2.25mm (8W/m*k) (TF)</name>
-<vendor>FEHONDA</vendor>
-<vendorCode>F-TP-225-8</vendorCode>
-<country_of_origin>Китай</country_of_origin>
-<param name="Тип">Термопрокладка</param>
-<param name="Теплопроводность" unit="Вт/(м*К)">8</param>
-<param name="Упаковка">Блистер</param>
-<param name="Цвет">Серый</param>
-<param name="Длина" unit="мм">100</param>
-<param name="Ширина" unit="мм">100</param>
-<param name="Толщина" unit="мм">2.25</param>
-<param name="Состояние">Новое</param>
-</offer>
-<offer id="2047854648" available="true">
-<url>https://tera-flops.com.ua/ua/p2047854648-termoprokladka-fehonda-original.html</url>
-<price>540</price>
-<currencyId>UAH</currencyId>
-<categoryId>128411779</categoryId>
-<picture>https://images.prom.ua/_cZsWqnbgb0cfEymrDLUZm4dqomx4SksnryhGlQ9cAw=/6407432562_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210432939_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210216874_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210216875_termoprokladka-fehonda-original.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Термопрокладка Fehonda Original 100x100x2.75mm (8W/m*k) (TF)</name>
-<vendor>FEHONDA</vendor>
-<vendorCode>F-TP-275-8</vendorCode>
-<country_of_origin>Китай</country_of_origin>
-<param name="Тип">Термопрокладка</param>
-<param name="Теплопроводность" unit="Вт/(м*К)">8</param>
-<param name="Упаковка">Блистер</param>
-<param name="Цвет">Серый</param>
-<param name="Длина" unit="мм">100</param>
-<param name="Ширина" unit="мм">100</param>
-<param name="Толщина" unit="мм">2.75</param>
-<param name="Состояние">Новое</param>
-</offer>
-<offer id="2047856295" available="true">
-<url>https://tera-flops.com.ua/ua/p2047856295-termoprokladka-fehonda-original.html</url>
+<offer id="2441545877" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545877-termoprokladka-fehonda-100x100x05mm.html</url>
 <price>560</price>
 <currencyId>UAH</currencyId>
 <categoryId>128411779</categoryId>
-<picture>https://images.prom.ua/rkRO80cuelxdbYRIQaE0xnVkxy0n5_jcVhqPcISFZDs=/6407442848_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210435149_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210219012_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210219013_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/6407789346_termoprokladka-fehonda-100x100x05mm.jpg</picture>
+<picture>https://images.prom.ua/6407789347_termoprokladka-fehonda-100x100x05mm.jpg</picture>
+<picture>https://images.prom.ua/6407789348_termoprokladka-fehonda-100x100x05mm.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
-<name>Термопрокладка Fehonda Original 100x100x3mm (8W/m*k) (TF)</name>
+<name>Термопрокладка Fehonda 100x100x0.5mm (15W/m*k) (18662)</name>
 <vendor>FEHONDA</vendor>
-<vendorCode>F-TP-3-8</vendorCode>
-<country_of_origin>Китай</country_of_origin>
-<param name="Тип">Термопрокладка</param>
-<param name="Теплопроводность" unit="Вт/(м*К)">8</param>
-<param name="Упаковка">Блистер</param>
-<param name="Цвет">Серый</param>
-<param name="Длина" unit="мм">100</param>
-<param name="Ширина" unit="мм">100</param>
-<param name="Толщина" unit="мм">3</param>
+<vendorCode>F-TP-05-15</vendorCode>
 <param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">1</param>
 </offer>
-<offer id="2047863146" available="true">
-<url>https://tera-flops.com.ua/ua/p2047863146-termoprokladka-fehonda-original.html</url>
-<price>765</price>
-<currencyId>UAH</currencyId>
-<categoryId>128411779</categoryId>
-<picture>https://images.prom.ua/9VyzHPhpUQ2fs9IEXIGmn1lSpf-cOvpSWocnu25u9pQ=/6407461879_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210425463_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210228428_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210228429_termoprokladka-fehonda-original.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Термопрокладка Fehonda Original 100x100x2.5mm (12.8W/m*k) (TF)</name>
-<vendor>FEHONDA</vendor>
-<vendorCode>F-TP-25-128</vendorCode>
-<country_of_origin>Китай</country_of_origin>
-<param name="Тип">Термопрокладка</param>
-<param name="Теплопроводность" unit="Вт/(м*К)">12.8</param>
-<param name="Упаковка">Блистер</param>
-<param name="Цвет">Серый</param>
-<param name="Длина" unit="мм">100</param>
-<param name="Ширина" unit="мм">100</param>
-<param name="Толщина" unit="мм">2.5</param>
-<param name="Состояние">Новое</param>
-</offer>
-<offer id="2047867381" available="true">
-<url>https://tera-flops.com.ua/ua/p2047867381-termoprokladka-fehonda-original.html</url>
+<offer id="2441545878" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545878-termoprokladka-fehonda-100x100x125mm.html</url>
 <price>800</price>
 <currencyId>UAH</currencyId>
 <categoryId>128411779</categoryId>
-<picture>https://images.prom.ua/Rx11kn3YDWgWsLqZ5D8wZ2nhCgtkewzI0DicQ4sqiHA=/6407462350_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5218866215_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210238122_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210238123_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/6407789352_termoprokladka-fehonda-100x100x125mm.jpg</picture>
+<picture>https://images.prom.ua/6407789353_termoprokladka-fehonda-100x100x125mm.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
-<name>Термопрокладка Fehonda Original 100x100x2.75mm (12.8W/m*k) (TF)</name>
+<name>Термопрокладка Fehonda 100x100x1.25mm (15W/m*k) (18663)</name>
 <vendor>FEHONDA</vendor>
-<vendorCode>F-TP-275-128</vendorCode>
-<country_of_origin>Китай</country_of_origin>
-<param name="Тип">Термопрокладка</param>
-<param name="Теплопроводность" unit="Вт/(м*К)">12.8</param>
-<param name="Упаковка">Блистер</param>
-<param name="Цвет">Серый</param>
-<param name="Длина" unit="мм">100</param>
-<param name="Ширина" unit="мм">100</param>
-<param name="Толщина" unit="мм">2.75</param>
+<vendorCode>F-TP-125-15</vendorCode>
 <param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">1</param>
 </offer>
-<offer id="2047870501" available="true">
-<url>https://tera-flops.com.ua/ua/p2047870501-termoprokladka-fehonda-original.html</url>
-<price>820</price>
+<offer id="2441545879" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545879-termoprokladka-fehonda-100x100x15mm.html</url>
+<price>870</price>
 <currencyId>UAH</currencyId>
 <categoryId>128411779</categoryId>
-<picture>https://images.prom.ua/0UPjn6Jpcnt-MuhBUHNeQ58h5yHeHxA-4jDpXCuZO7E=/6407464551_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5218869294_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210246478_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210246480_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/6407789362_termoprokladka-fehonda-100x100x15mm.jpg</picture>
+<picture>https://images.prom.ua/6407789363_termoprokladka-fehonda-100x100x15mm.jpg</picture>
+<picture>https://images.prom.ua/6407789364_termoprokladka-fehonda-100x100x15mm.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
-<name>Термопрокладка Fehonda Original 100x100x3mm (12.8W/m*k) (TF)</name>
+<name>Термопрокладка Fehonda 100x100x1.5mm (15W/m*k) (18664)</name>
 <vendor>FEHONDA</vendor>
-<vendorCode>F-TP-3-128</vendorCode>
-<country_of_origin>Китай</country_of_origin>
-<param name="Тип">Термопрокладка</param>
-<param name="Теплопроводность" unit="Вт/(м*К)">12.8</param>
-<param name="Упаковка">Блистер</param>
-<param name="Цвет">Серый</param>
-<param name="Длина" unit="мм">100</param>
-<param name="Ширина" unit="мм">100</param>
-<param name="Толщина" unit="мм">3</param>
+<vendorCode>F-TP-15-15</vendorCode>
 <param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">1</param>
 </offer>
-<offer id="2047877473" available="true">
-<url>https://tera-flops.com.ua/ua/p2047877473-termoprokladka-fehonda-original.html</url>
+<offer id="2441545880" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545880-termoprokladka-fehonda-100x100x175mm.html</url>
 <price>920</price>
 <currencyId>UAH</currencyId>
 <categoryId>128411779</categoryId>
-<picture>https://images.prom.ua/m5y310cqOgIKYCGuB7YntRBw8tq38LpDwgnpbbVXSBI=/6407443894_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5219000797_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210267322_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210267323_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/6407789377_termoprokladka-fehonda-100x100x175mm.jpg</picture>
+<picture>https://images.prom.ua/6407789379_termoprokladka-fehonda-100x100x175mm.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
-<name>Термопрокладка Fehonda Original 100x100x1.75mm (15W/m*k) (TF)</name>
+<name>Термопрокладка Fehonda 100x100x1.75mm (15W/m*k) (18665)</name>
 <vendor>FEHONDA</vendor>
 <vendorCode>F-TP-175-15</vendorCode>
-<country_of_origin>Китай</country_of_origin>
-<param name="Тип">Термопрокладка</param>
-<param name="Теплопроводность" unit="Вт/(м*К)">15</param>
-<param name="Упаковка">Блистер</param>
-<param name="Цвет">Серый</param>
-<param name="Длина" unit="мм">100</param>
-<param name="Ширина" unit="мм">100</param>
-<param name="Толщина" unit="мм">1.75</param>
 <param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">1</param>
 </offer>
-<offer id="2047878243" available="true">
-<url>https://tera-flops.com.ua/ua/p2047878243-termoprokladka-fehonda-original.html</url>
+<offer id="2441545881" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545881-termoprokladka-fehonda-100x100x20mm.html</url>
 <price>930</price>
 <currencyId>UAH</currencyId>
 <categoryId>128411779</categoryId>
-<picture>https://images.prom.ua/jFrMoSEsB04jbsQayLEDkVhEqDcBihX7qP_wVgZm400=/6407443303_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210278247_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210278248_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/6407789383_termoprokladka-fehonda-100x100x20mm.jpg</picture>
+<picture>https://images.prom.ua/6407789384_termoprokladka-fehonda-100x100x20mm.jpg</picture>
+<picture>https://images.prom.ua/6407789385_termoprokladka-fehonda-100x100x20mm.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
-<name>Термопрокладка Fehonda Original 100x100x2mm (15W/m*k) (TF)</name>
+<name>Термопрокладка Fehonda 100x100x2.0mm (15W/m*k) (18666)</name>
 <vendor>FEHONDA</vendor>
-<vendorCode>F-TP-2-15</vendorCode>
-<country_of_origin>Китай</country_of_origin>
-<param name="Тип">Термопрокладка</param>
-<param name="Теплопроводность" unit="Вт/(м*К)">15</param>
-<param name="Упаковка">Блистер</param>
-<param name="Цвет">Серый</param>
-<param name="Длина" unit="мм">100</param>
-<param name="Ширина" unit="мм">100</param>
-<param name="Толщина" unit="мм">2</param>
+<vendorCode>F-TP-20-15</vendorCode>
 <param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">1</param>
 </offer>
-<offer id="2047878535" available="true">
-<url>https://tera-flops.com.ua/ua/p2047878535-termoprokladka-fehonda-original.html</url>
+<offer id="2441545882" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545882-termoprokladka-fehonda-100x100x225mm.html</url>
+<price>1020</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/6407789252_termoprokladka-fehonda-100x100x225mm.jpg</picture>
+<picture>https://images.prom.ua/6407789254_termoprokladka-fehonda-100x100x225mm.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda 100x100x2.25mm (15W/m*k) (18667)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-225-15</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип">Термопрокладка</param>
+<param name="Гарантія, міс" unit="">1</param>
+</offer>
+<offer id="2441545883" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545883-termoprokladka-fehonda-100x100x25mm.html</url>
 <price>1080</price>
 <currencyId>UAH</currencyId>
 <categoryId>128411779</categoryId>
-<picture>https://images.prom.ua/VbtTE1S-kkE9S6AItKQ91dVwFFxe4-m1pTp68BIJx_M=/6407444643_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210439750_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210285418_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210285420_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/6407789259_termoprokladka-fehonda-100x100x25mm.jpg</picture>
+<picture>https://images.prom.ua/6407789260_termoprokladka-fehonda-100x100x25mm.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
-<name>Термопрокладка Fehonda Original 100x100x2.5mm (15W/m*k) (TF)</name>
+<name>Термопрокладка Fehonda 100x100x2.5mm (15W/m*k) (18668)</name>
 <vendor>FEHONDA</vendor>
 <vendorCode>F-TP-25-15</vendorCode>
-<country_of_origin>Китай</country_of_origin>
-<param name="Тип">Термопрокладка</param>
-<param name="Теплопроводность" unit="Вт/(м*К)">15</param>
-<param name="Упаковка">Блистер</param>
-<param name="Цвет">Серый</param>
-<param name="Длина" unit="мм">100</param>
-<param name="Ширина" unit="мм">100</param>
-<param name="Толщина" unit="мм">2.5</param>
 <param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">1</param>
 </offer>
-<offer id="2047880120" available="true">
-<url>https://tera-flops.com.ua/ua/p2047880120-termoprokladka-fehonda-original.html</url>
+<offer id="2441545884" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545884-termoprokladka-fehonda-100x100x275mm.html</url>
 <price>1120</price>
 <currencyId>UAH</currencyId>
 <categoryId>128411779</categoryId>
-<picture>https://images.prom.ua/QhV96CfVxL1jkXY63wnD3dTxCvvl9UzL2F1eBjmUZNw=/6407445107_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210441621_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210294100_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210294101_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/6407789261_termoprokladka-fehonda-100x100x275mm.jpg</picture>
+<picture>https://images.prom.ua/6407789262_termoprokladka-fehonda-100x100x275mm.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
-<name>Термопрокладка Fehonda Original 100x100x2.75mm (15W/m*k) (TF)</name>
+<name>Термопрокладка Fehonda 100x100x2.75mm (15W/m*k) (18669)</name>
 <vendor>FEHONDA</vendor>
 <vendorCode>F-TP-275-15</vendorCode>
-<country_of_origin>Китай</country_of_origin>
-<param name="Тип">Термопрокладка</param>
-<param name="Теплопроводность" unit="Вт/(м*К)">15</param>
-<param name="Упаковка">Блистер</param>
-<param name="Цвет">Серый</param>
-<param name="Длина" unit="мм">100</param>
-<param name="Ширина" unit="мм">100</param>
-<param name="Толщина" unit="мм">2.75</param>
 <param name="Состояние">Новое</param>
+<param name="Тип">Термопрокладка</param>
+<param name="Гарантія, міс" unit="">1</param>
 </offer>
-<offer id="2047880751" available="true">
-<url>https://tera-flops.com.ua/ua/p2047880751-termoprokladka-fehonda-original.html</url>
+<offer id="2441545885" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545885-termoprokladka-fehonda-100x100x30mm.html</url>
 <price>1150</price>
 <currencyId>UAH</currencyId>
 <categoryId>128411779</categoryId>
-<picture>https://images.prom.ua/RhQD0KNX1vTrUIUiAeC2Bu1Cj42rWWhR3cQSHJQIAac=/6407444175_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210443258_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210301564_termoprokladka-fehonda-original.jpg</picture>
-<picture>https://images.prom.ua/5210301565_termoprokladka-fehonda-original.jpg</picture>
+<picture>https://images.prom.ua/6407789267_termoprokladka-fehonda-100x100x30mm.jpg</picture>
+<picture>https://images.prom.ua/6407789268_termoprokladka-fehonda-100x100x30mm.jpg</picture>
+<picture>https://images.prom.ua/6407789269_termoprokladka-fehonda-100x100x30mm.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
-<name>Термопрокладка Fehonda Original 100x100x3mm (15W/m*k) (TF)</name>
+<name>Термопрокладка Fehonda 100x100x3.0mm (15W/m*k) (18670)</name>
 <vendor>FEHONDA</vendor>
-<vendorCode>F-TP-3-15</vendorCode>
-<country_of_origin>Китай</country_of_origin>
-<param name="Тип">Термопрокладка</param>
-<param name="Теплопроводность" unit="Вт/(м*К)">15</param>
-<param name="Упаковка">Блистер</param>
-<param name="Цвет">Серый</param>
-<param name="Длина" unit="мм">100</param>
-<param name="Ширина" unit="мм">100</param>
-<param name="Толщина" unit="мм">3</param>
+<vendorCode>F-TP-30-15</vendorCode>
 <param name="Состояние">Новое</param>
+<param name="Тип">Термопрокладка</param>
+<param name="Гарантія, міс" unit="">1</param>
+</offer>
+<offer id="2441545886" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545886-termoprokladka-fehonda-100x100x05mm.html</url>
+<price>230</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/6407789270_termoprokladka-fehonda-100x100x05mm.jpg</picture>
+<picture>https://images.prom.ua/6407789271_termoprokladka-fehonda-100x100x05mm.jpg</picture>
+<picture>https://images.prom.ua/6407789272_termoprokladka-fehonda-100x100x05mm.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda 100x100x0.5mm (8W/m*k) (18671)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-05-8</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">1</param>
+</offer>
+<offer id="2441545887" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545887-termoprokladka-fehonda-100x100x075mm.html</url>
+<price>280</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/6407789273_termoprokladka-fehonda-100x100x075mm.jpg</picture>
+<picture>https://images.prom.ua/6407789274_termoprokladka-fehonda-100x100x075mm.jpg</picture>
+<picture>https://images.prom.ua/6407789275_termoprokladka-fehonda-100x100x075mm.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda 100x100x0.75mm (8W/m*k) (18672)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-075-8</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип">Термопрокладка</param>
+<param name="Гарантія, міс" unit="">1</param>
+</offer>
+<offer id="2441545888" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545888-termoprokladka-fehonda-100x100x10mm.html</url>
+<price>290</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/6407789277_termoprokladka-fehonda-100x100x10mm.jpg</picture>
+<picture>https://images.prom.ua/6407789278_termoprokladka-fehonda-100x100x10mm.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda 100x100x1.0mm (8W/m*k) (18673)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-10-8</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">1</param>
+</offer>
+<offer id="2441545889" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545889-termoprokladka-fehonda-100x100x125mm.html</url>
+<price>340</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/6407789279_termoprokladka-fehonda-100x100x125mm.jpg</picture>
+<picture>https://images.prom.ua/6407789280_termoprokladka-fehonda-100x100x125mm.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda 100x100x1.25mm (8W/m*k) (18674)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-125-8</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">1</param>
+</offer>
+<offer id="2441545890" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545890-termoprokladka-fehonda-100x100x15mm.html</url>
+<price>400</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/6407789301_termoprokladka-fehonda-100x100x15mm.jpg</picture>
+<picture>https://images.prom.ua/6407789303_termoprokladka-fehonda-100x100x15mm.jpg</picture>
+<picture>https://images.prom.ua/6407789305_termoprokladka-fehonda-100x100x15mm.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda 100x100x1.5mm (8W/m*k) (18675)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-15-8</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип">Термопрокладка</param>
+<param name="Гарантія, міс" unit="">1</param>
+</offer>
+<offer id="2441545891" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545891-termoprokladka-fehonda-100x100x20mm.html</url>
+<price>450</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/6407789335_termoprokladka-fehonda-100x100x20mm.jpg</picture>
+<picture>https://images.prom.ua/6407789337_termoprokladka-fehonda-100x100x20mm.jpg</picture>
+<picture>https://images.prom.ua/6407789339_termoprokladka-fehonda-100x100x20mm.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda 100x100x2.0mm (8W/m*k) (18676)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-20-8</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">1</param>
+</offer>
+<offer id="2441545892" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545892-termoprokladka-fehonda-100x100x25mm.html</url>
+<price>520</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/6407789357_termoprokladka-fehonda-100x100x25mm.jpg</picture>
+<picture>https://images.prom.ua/6407789358_termoprokladka-fehonda-100x100x25mm.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda 100x100x2.5mm (8W/m*k) (18677)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-25-8</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">1</param>
+</offer>
+<offer id="2441545893" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545893-termoprokladka-fehonda-100x100x275mm.html</url>
+<price>540</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/6407789365_termoprokladka-fehonda-100x100x275mm.jpg</picture>
+<picture>https://images.prom.ua/6407789366_termoprokladka-fehonda-100x100x275mm.jpg</picture>
+<picture>https://images.prom.ua/6407789367_termoprokladka-fehonda-100x100x275mm.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda 100x100x2.75mm (8W/m*k) (18678)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-275-8</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">1</param>
+</offer>
+<offer id="2441545894" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545894-termoprokladka-fehonda-100x100x30mm.html</url>
+<price>560</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/6407789368_termoprokladka-fehonda-100x100x30mm.jpg</picture>
+<picture>https://images.prom.ua/6407789369_termoprokladka-fehonda-100x100x30mm.jpg</picture>
+<picture>https://images.prom.ua/6407789370_termoprokladka-fehonda-100x100x30mm.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda 100x100x3.0mm (8W/m*k) (18679)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-30-8</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип">Термопрокладка</param>
+<param name="Гарантія, міс" unit="">1</param>
+</offer>
+<offer id="2441545895" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545895-termoprokladka-fehonda-100x100x225mm.html</url>
+<price>490</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/6407789374_termoprokladka-fehonda-100x100x225mm.jpg</picture>
+<picture>https://images.prom.ua/6407789375_termoprokladka-fehonda-100x100x225mm.jpg</picture>
+<picture>https://images.prom.ua/6407789376_termoprokladka-fehonda-100x100x225mm.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda 100x100x2.25mm (8W/m*k) (18680)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-225-8</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип">Термопрокладка</param>
+<param name="Гарантія, міс" unit="">1</param>
+</offer>
+<offer id="2441545896" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545896-termoprokladka-fehonda-100x100x175mm.html</url>
+<price>430</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/6407789381_termoprokladka-fehonda-100x100x175mm.jpg</picture>
+<picture>https://images.prom.ua/6407789382_termoprokladka-fehonda-100x100x175mm.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda 100x100x1.75mm (8W/m*k) (18681)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-175-8</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">1</param>
+</offer>
+<offer id="2441545897" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545897-termoprokladka-fehonda-100x100x075mm.html</url>
+<price>410</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/6407789326_termoprokladka-fehonda-100x100x075mm.jpg</picture>
+<picture>https://images.prom.ua/6407789332_termoprokladka-fehonda-100x100x075mm.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda 100x100x0.75mm (12.8W/m*k) (18824)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-075-128</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">1</param>
+</offer>
+<offer id="2441545898" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545898-termoprokladka-fehonda-100x100x10mm.html</url>
+<price>440</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/6407789289_termoprokladka-fehonda-100x100x10mm.jpg</picture>
+<picture>https://images.prom.ua/6407789290_termoprokladka-fehonda-100x100x10mm.jpg</picture>
+<picture>https://images.prom.ua/6407789293_termoprokladka-fehonda-100x100x10mm.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda 100x100x1.0mm (12.8W/m*k) (18825)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-10-128</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">1</param>
+</offer>
+<offer id="2441545899" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545899-termoprokladka-fehonda-100x100x125mm.html</url>
+<price>510</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/6407789349_termoprokladka-fehonda-100x100x125mm.jpg</picture>
+<picture>https://images.prom.ua/6407789350_termoprokladka-fehonda-100x100x125mm.jpg</picture>
+<picture>https://images.prom.ua/6407789351_termoprokladka-fehonda-100x100x125mm.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda 100x100x1.25mm (12.8W/m*k) (18826)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-125-128</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип">Термопрокладка</param>
+<param name="Гарантія, міс" unit="">1</param>
+</offer>
+<offer id="2441545900" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545900-termoprokladka-fehonda-100x100x20mm.html</url>
+<price>600</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/6407789371_termoprokladka-fehonda-100x100x20mm.jpg</picture>
+<picture>https://images.prom.ua/6407789372_termoprokladka-fehonda-100x100x20mm.jpg</picture>
+<picture>https://images.prom.ua/6407789373_termoprokladka-fehonda-100x100x20mm.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda 100x100x2.0mm (12.8W/m*k) (18827)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-20-128</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">1</param>
+</offer>
+<offer id="2441545901" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545901-termoprokladka-fehonda-100x100x075mm.html</url>
+<price>660</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/6407789341_termoprokladka-fehonda-100x100x075mm.jpg</picture>
+<picture>https://images.prom.ua/6407789343_termoprokladka-fehonda-100x100x075mm.jpg</picture>
+<picture>https://images.prom.ua/6407789345_termoprokladka-fehonda-100x100x075mm.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda 100x100x0.75mm (15W/m*k) (18828)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-075-15</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип">Термопрокладка</param>
+<param name="Гарантія, міс" unit="">1</param>
+</offer>
+<offer id="2441545902" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545902-ridka-termoprokladka-fehonda.html</url>
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/6407789307_ridka-termoprokladka-fehonda.jpg</picture>
+<picture>https://images.prom.ua/6407789308_ridka-termoprokladka-fehonda.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Рідка термопрокладка Fehonda LTP81 12г (18W/m*k) (LTP81)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>LTP81</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип">Термопрокладка</param>
+<param name="Гарантія, міс" unit="">1</param>
+</offer>
+<offer id="2441545903" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545903-termoprokladka-fehonda-100x100x05mm.html</url>
+<price>300</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/6407789249_termoprokladka-fehonda-100x100x05mm.jpg</picture>
+<picture>https://images.prom.ua/6407789251_termoprokladka-fehonda-100x100x05mm.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda 100x100x0.5mm (12.8W/m*k) (18830)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-05-128</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">1</param>
+</offer>
+<offer id="2441545904" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545904-termoprokladka-fehonda-100x100x15mm.html</url>
+<price>520</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/6407789264_termoprokladka-fehonda-100x100x15mm.jpg</picture>
+<picture>https://images.prom.ua/6407789265_termoprokladka-fehonda-100x100x15mm.jpg</picture>
+<picture>https://images.prom.ua/6407789266_termoprokladka-fehonda-100x100x15mm.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda 100x100x1.5mm (12.8W/m*k) (18831)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-15-128</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип">Термопрокладка</param>
+<param name="Гарантія, міс" unit="">1</param>
+</offer>
+<offer id="2441545905" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545905-termoprokladka-fehonda-100x100x25mm.html</url>
+<price>765</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/6407789295_termoprokladka-fehonda-100x100x25mm.jpg</picture>
+<picture>https://images.prom.ua/6407789297_termoprokladka-fehonda-100x100x25mm.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda 100x100x2.5mm (12.8W/m*k) (18832)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-25-128</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">1</param>
+</offer>
+<offer id="2441545906" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545906-termoprokladka-fehonda-100x100x30mm.html</url>
+<price>820</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/6407789359_termoprokladka-fehonda-100x100x30mm.jpg</picture>
+<picture>https://images.prom.ua/6407789360_termoprokladka-fehonda-100x100x30mm.jpg</picture>
+<picture>https://images.prom.ua/6407789361_termoprokladka-fehonda-100x100x30mm.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda 100x100x3.0mm (12.8W/m*k) (18833)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-30-128</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип">Термопрокладка</param>
+<param name="Гарантія, міс" unit="">1</param>
+</offer>
+<offer id="2441545907" available="true">
+<url>https://tera-flops.com.ua/ua/p2441545907-termoprokladka-fehonda-100x100x10.html</url>
+<price>730</price>
+<currencyId>UAH</currencyId>
+<categoryId>128411779</categoryId>
+<picture>https://images.prom.ua/6407789255_termoprokladka-fehonda-100x100x10.jpg</picture>
+<picture>https://images.prom.ua/6407789256_termoprokladka-fehonda-100x100x10.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Термопрокладка Fehonda 100x100x1.0 mm (15W/m*k) (18894)</name>
+<vendor>FEHONDA</vendor>
+<vendorCode>F-TP-10-15</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип">Термопрокладка</param>
+<param name="Гарантія, міс" unit="">1</param>
 </offer>
 <offer id="2222509161" available="true">
 <url>https://tera-flops.com.ua/ua/p2222509161-povitryane-oholodzhennya-jiushark.html</url>
@@ -1028,7 +885,7 @@
 <delivery>true</delivery>
 <name>Повітряне охолодження Jiushark JF13K White ARGB (JF13K White ARGB)</name>
 <vendor>Jiushark</vendor>
-<vendorCode>НФ-00032257</vendorCode>
+<vendorCode>JF13K White ARGB</vendorCode>
 <param name="Гарантийный срок" unit="мес">6</param>
 <param name="Диаметр вентилятора" unit="мм">120</param>
 <param name="Количество кулеров">2</param>
@@ -1052,7 +909,7 @@
 <delivery>true</delivery>
 <name>Повітряне охолодження для M.2 Jiushark THREE Black (M.2-THREE Black)</name>
 <vendor>Jiushark</vendor>
-<vendorCode>НФ-00032259</vendorCode>
+<vendorCode>M.2-THREE Black</vendorCode>
 <param name="Назначение">SSD</param>
 <param name="Система охлаждения">Активная (кулер)</param>
 <param name="Количество кулеров">1</param>
@@ -1083,7 +940,7 @@
 <delivery>true</delivery>
 <name>Повітряне охолодження для M.2 Jiushark FOUR ARGB (M.2-FOUR ARGB)</name>
 <vendor>Jiushark</vendor>
-<vendorCode>НФ-00032261</vendorCode>
+<vendorCode>M.2-FOUR ARGB</vendorCode>
 <param name="Назначение">SSD</param>
 <param name="Система охлаждения">Активная (кулер)</param>
 <param name="Количество кулеров">1</param>
@@ -1114,7 +971,7 @@
 <delivery>true</delivery>
 <name>Повітряне охолодження для M.2 Jiushark TWO (M.2-TWO)</name>
 <vendor>Jiushark</vendor>
-<vendorCode>НФ-00032262</vendorCode>
+<vendorCode>M.2-TWO</vendorCode>
 <param name="Назначение">SSD</param>
 <param name="Система охлаждения">Активная (кулер)</param>
 <param name="Количество кулеров">1</param>
@@ -1141,7 +998,7 @@
 <delivery>true</delivery>
 <name>Повітряне охолодження Jiushark JF100RS White (JF100RS White)</name>
 <vendor>Jiushark</vendor>
-<vendorCode>НФ-00032216</vendorCode>
+<vendorCode>JF100RS White</vendorCode>
 <param name="Гарантийный срок" unit="мес">6</param>
 <param name="Диаметр вентилятора" unit="мм">100</param>
 <param name="Количество кулеров">1</param>
@@ -1168,7 +1025,7 @@
 <delivery>true</delivery>
 <name>Повітряне охолодження Jiushark JF100RS Black RGB (JF100RS Black RGB)</name>
 <vendor>Jiushark</vendor>
-<vendorCode>НФ-00032218</vendorCode>
+<vendorCode>JF100RS Black RGB</vendorCode>
 <param name="Назначение">Для процессора</param>
 <param name="Количество кулеров">1</param>
 <param name="Диаметр вентилятора" unit="мм">100</param>
@@ -1196,7 +1053,7 @@
 <delivery>true</delivery>
 <name>Повітряне охолодження Jiushark JF100RS White RGB (JF100RS White RGB)</name>
 <vendor>Jiushark</vendor>
-<vendorCode>НФ-00032219</vendorCode>
+<vendorCode>JF100RS White RGB</vendorCode>
 <param name="Гарантийный срок" unit="мес">6</param>
 <param name="Диаметр вентилятора" unit="мм">100</param>
 <param name="Количество кулеров">1</param>
@@ -1225,7 +1082,7 @@
 <delivery>true</delivery>
 <name>Повітряне охолодження Jiushark JF100RS White ARGB (JF100RS White ARGB)</name>
 <vendor>Jiushark</vendor>
-<vendorCode>НФ-00032220</vendorCode>
+<vendorCode>JF100RS White ARGB</vendorCode>
 <param name="Гарантийный срок" unit="мес">6</param>
 <param name="Диаметр вентилятора" unit="мм">100</param>
 <param name="Количество кулеров">1</param>
@@ -1252,7 +1109,7 @@
 <delivery>true</delivery>
 <name>Повітряне охолодження для ПК Jiushark JF100RS Black ARGB (JF100RS Black ARGB)</name>
 <vendor>Jiushark</vendor>
-<vendorCode>НФ-00032221</vendorCode>
+<vendorCode>JF100RS Black ARGB</vendorCode>
 <param name="Гарантийный срок" unit="мес">6</param>
 <param name="Диаметр вентилятора" unit="мм">100</param>
 <param name="Количество кулеров">1</param>
@@ -1279,7 +1136,7 @@
 <delivery>true</delivery>
 <name>Повітряне охолодження Jiushark JF100 FRGB White (JF100 FRGB White)</name>
 <vendor>Jiushark</vendor>
-<vendorCode>НФ-00032265</vendorCode>
+<vendorCode>JF100 FRGB White</vendorCode>
 <param name="Вес" unit="г">912</param>
 <param name="Гарантийный срок" unit="мес">6</param>
 <param name="Диаметр вентилятора" unit="мм">120</param>
@@ -1311,7 +1168,7 @@
 <delivery>true</delivery>
 <name>Повітряне охолодження Jiushark JF100 ARGB Black (JF100 ARGB Black)</name>
 <vendor>Jiushark</vendor>
-<vendorCode>НФ-00032266</vendorCode>
+<vendorCode>JF100 ARGB Black</vendorCode>
 <param name="Вес" unit="г">912</param>
 <param name="Гарантийный срок" unit="мес">6</param>
 <param name="Диаметр вентилятора" unit="мм">120</param>
@@ -1343,7 +1200,7 @@
 <delivery>true</delivery>
 <name>Повітряне охолодження Jiushark JF300 ARGB White (JF300 ARGB White)</name>
 <vendor>Jiushark</vendor>
-<vendorCode>НФ-00032270</vendorCode>
+<vendorCode>JF300 ARGB White</vendorCode>
 <param name="Вес" unit="г">1110</param>
 <param name="Гарантийный срок" unit="мес">6</param>
 <param name="Диаметр вентилятора" unit="мм">120</param>
@@ -1375,7 +1232,7 @@
 <delivery>true</delivery>
 <name>Повітряне охолодження Jiushark JF200 ARGB White (JF200 ARGB White)</name>
 <vendor>Jiushark</vendor>
-<vendorCode>НФ-00032271</vendorCode>
+<vendorCode>JF200 ARGB White</vendorCode>
 <param name="Вес" unit="г">1408</param>
 <param name="Гарантийный срок" unit="мес">6</param>
 <param name="Диаметр вентилятора" unit="мм">120</param>
@@ -1406,7 +1263,7 @@
 <delivery>true</delivery>
 <name>Повітряне охолодження Jiushark JF200 ARGB Black (JF200 ARGB Black)</name>
 <vendor>Jiushark</vendor>
-<vendorCode>НФ-00032272</vendorCode>
+<vendorCode>JF200 ARGB Black</vendorCode>
 <param name="Вес" unit="г">1408</param>
 <param name="Гарантийный срок" unit="мес">6</param>
 <param name="Диаметр вентилятора" unit="мм">120</param>
@@ -1440,7 +1297,7 @@
 <delivery>true</delivery>
 <name>Повітряне охолодження Jiushark JF13K Mini ARGB Black (JF13K Mini ARGB Black)</name>
 <vendor>Jiushark</vendor>
-<vendorCode>НФ-00032273</vendorCode>
+<vendorCode>JF13K Mini ARGB Black</vendorCode>
 <param name="Вес" unit="г">1050</param>
 <param name="Гарантийный срок" unit="мес">6</param>
 <param name="Диаметр вентилятора" unit="мм">100</param>
@@ -1474,7 +1331,7 @@
 <delivery>true</delivery>
 <name>Повітряне охолодження Jiushark JF13K Mini ARGB White (JF13K Mini ARGB White)</name>
 <vendor>Jiushark</vendor>
-<vendorCode>НФ-00032274</vendorCode>
+<vendorCode>JF13K Mini ARGB White</vendorCode>
 <param name="Вес" unit="г">1050</param>
 <param name="Гарантийный срок" unit="мес">6</param>
 <param name="Диаметр вентилятора" unit="мм">100</param>
@@ -1509,7 +1366,7 @@
 <delivery>true</delivery>
 <name>Повітряне охолодження Jiushark JF200 Mini FRGB White (JF200 Mini FRGB White)</name>
 <vendor>Jiushark</vendor>
-<vendorCode>НФ-00032276</vendorCode>
+<vendorCode>JF200 Mini FRGB White</vendorCode>
 <param name="Вес" unit="г">866</param>
 <param name="Гарантийный срок" unit="мес">6</param>
 <param name="Диаметр вентилятора" unit="мм">100</param>
@@ -1544,7 +1401,7 @@
 <delivery>true</delivery>
 <name>Повітряне охолодження Jiushark JF200 Mini ARGB White (JF200 Mini ARGB White)</name>
 <vendor>Jiushark</vendor>
-<vendorCode>НФ-00032277</vendorCode>
+<vendorCode>JF200 Mini ARGB White</vendorCode>
 <param name="Вес" unit="г">866</param>
 <param name="Гарантийный срок" unit="мес">6</param>
 <param name="Диаметр вентилятора" unit="мм">100</param>
@@ -1578,7 +1435,7 @@
 <delivery>true</delivery>
 <name>Повітряне охолодження Jiushark JF200 Mini ARGB Black (JF200 Mini ARGB Black)</name>
 <vendor>Jiushark</vendor>
-<vendorCode>НФ-00032278</vendorCode>
+<vendorCode>JF200 Mini ARGB Black</vendorCode>
 <param name="Вес" unit="г">866</param>
 <param name="Гарантийный срок" unit="мес">6</param>
 <param name="Диаметр вентилятора" unit="мм">100</param>
@@ -1611,7 +1468,7 @@
 <delivery>true</delivery>
 <name>Повітряне охолодження Jiushark JF160 ARGB Black (JF160 ARGB Black)</name>
 <vendor>Jiushark</vendor>
-<vendorCode>НФ-00032279</vendorCode>
+<vendorCode>JF160 ARGB Black</vendorCode>
 <param name="Вес" unit="г">962</param>
 <param name="Гарантийный срок" unit="мес">6</param>
 <param name="Диаметр вентилятора" unit="мм">120</param>
@@ -1648,7 +1505,7 @@
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Повітряне охолодження Jiushark JF100S Black (JF100S Black)</name>
-<vendorCode>НФ-00032268</vendorCode>
+<vendorCode>JF100S Black</vendorCode>
 <country_of_origin>Китай</country_of_origin>
 <param name="Назначение">Для процессора</param>
 <param name="Система охлаждения">Активная (кулер)</param>
