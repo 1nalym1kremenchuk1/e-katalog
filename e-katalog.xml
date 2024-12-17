@@ -342,7 +342,7 @@
 <delivery>true</delivery>
 <name>Корпус 1stPlayer F4-3R1 Color LED Black (F4-3R1)</name>
 <vendor>1stPlayer</vendor>
-<vendorCode>НФ-00027299</vendorCode>
+<vendorCode>F4-3R1</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">1</param>
 <param name="Назначение">Игровой</param>
@@ -376,7 +376,7 @@
 <delivery>true</delivery>
 <name>Корпус 1stPlayer Rainbow R3-3R1 Color LED (R3-3R1)</name>
 <vendor>1stPlayer</vendor>
-<vendorCode>НФ-00027365</vendorCode>
+<vendorCode>R3-3R1</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Назначение">Игровой</param>
 <param name="Состояние">Новое</param>
@@ -405,7 +405,7 @@
 <delivery>true</delivery>
 <name>Корпус 1stPlayer F4-3B1 Black (F4-3B1)</name>
 <vendor>1stPlayer</vendor>
-<vendorCode>НФ-00027424</vendorCode>
+<vendorCode>F4-3B1</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">1</param>
 <param name="Назначение">Игровой</param>
@@ -440,7 +440,7 @@
 <delivery>true</delivery>
 <name>Корпус 1stPlayer R5-3R1 Black (R5-3R1)</name>
 <vendor>1stPlayer</vendor>
-<vendorCode>НФ-00027796</vendorCode>
+<vendorCode>R5-3R1</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Назначение">Игровой</param>
@@ -473,7 +473,7 @@
 <delivery>true</delivery>
 <name>Корпус 1stPlayer V7-4F1 Color LED Black (V7-4F1)</name>
 <vendor>1stPlayer</vendor>
-<vendorCode>НФ-00027988</vendorCode>
+<vendorCode>V7-4F1</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Назначение">Игровой</param>
@@ -505,7 +505,7 @@
 <delivery>true</delivery>
 <name>Корпус 1stPlayer Mi6-1F2-BK Black (Mi6-1F2-BK)</name>
 <vendor>1stPlayer</vendor>
-<vendorCode>НФ-00029721</vendorCode>
+<vendorCode>Mi6-1F2-BK</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">1</param>
 <param name="Назначение">Игровой</param>
@@ -537,7 +537,7 @@
 <delivery>true</delivery>
 <name>Корпус 1stPlayer Mi6-1F2-W-WH (Mi6-1F2-W-WH)</name>
 <vendor>1stPlayer</vendor>
-<vendorCode>НФ-00029722</vendorCode>
+<vendorCode>Mi6-1F2-W-WH</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">1</param>
 <param name="Назначение">Игровой</param>
@@ -573,7 +573,7 @@
 <delivery>true</delivery>
 <name>Корпус 1stPlayer Mi7-A-2F2R-1F2 Black</name>
 <vendor>1stPlayer</vendor>
-<vendorCode>НФ-00036019</vendorCode>
+<vendorCode>Mi7-A-2F2R-1F2</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">1</param>
 <param name="Материал корпуса">Сталь</param>
@@ -614,7 +614,7 @@
 <delivery>true</delivery>
 <name>Корпус 1stPlayer Mi7-A-2F2R-W-1F2-W White</name>
 <vendor>1stPlayer</vendor>
-<vendorCode>НФ-00036020</vendorCode>
+<vendorCode>Mi7-A-2F2R-W-1F2-W</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">1</param>
 <param name="Материал корпуса">Сталь</param>
@@ -655,7 +655,7 @@
 <delivery>true</delivery>
 <name>Корпус 1stPlayer UV6-2FCR(AP)-FC(AP) Black</name>
 <vendor>1stPlayer</vendor>
-<vendorCode>НФ-00038636</vendorCode>
+<vendorCode>UV6-2FCR-AP-FC-AP</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
@@ -693,7 +693,7 @@
 <delivery>true</delivery>
 <name>Корпус 1stPlayer X3-M-4F1-BK Black</name>
 <vendor>1stPlayer</vendor>
-<vendorCode>НФ-00040037</vendorCode>
+<vendorCode>X3-M-4F1-BK</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Назначение">Игровой</param>
@@ -722,7 +722,7 @@
 <delivery>true</delivery>
 <name>Корпус 1stPlayer X3-M-4F1-W-WH</name>
 <vendor>1stPlayer</vendor>
-<vendorCode>НФ-00040849</vendorCode>
+<vendorCode>X3-M-4F1-W-WH</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
 </offer>
@@ -741,7 +741,7 @@
 <delivery>true</delivery>
 <name>Корпус 1stPlayer T7-P-4F2(AP) Black</name>
 <vendor>1stPlayer</vendor>
-<vendorCode>НФ-00041746</vendorCode>
+<vendorCode>T7-P-4F2-AP</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">1</param>
 <param name="Материал корпуса">Сталь</param>
@@ -780,7 +780,7 @@
 <delivery>true</delivery>
 <name>Корпус 1stPlayer X2-M-4F1 Black</name>
 <vendor>1stPlayer</vendor>
-<vendorCode>НФ-00041749</vendorCode>
+<vendorCode>X2-M-4F1</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">1</param>
 <param name="Материал корпуса">Сталь</param>
@@ -821,7 +821,7 @@
 <delivery>true</delivery>
 <name>Корпус 1stPlayer X2-M-4F2 (AP) Black</name>
 <vendor>1stPlayer</vendor>
-<vendorCode>НФ-00041750</vendorCode>
+<vendorCode>X2-M-4F2-AP</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">1</param>
 <param name="Материал корпуса">Сталь</param>
@@ -861,7 +861,7 @@
 <delivery>true</delivery>
 <name>Корпус 1stPlayer FD3-4F2 (AP)-BK Black</name>
 <vendor>1stPlayer</vendor>
-<vendorCode>НФ-00036016</vendorCode>
+<vendorCode>FD3-4F2-AP-BK</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">1</param>
 <param name="Материал корпуса">Сталь</param>
@@ -905,7 +905,7 @@
 <delivery>true</delivery>
 <name>Корпус AeroCool Aero One Eclipse-G-BK-v1 (ACCM-PB17143.11)</name>
 <vendor>AeroCool</vendor>
-<vendorCode>НФ-00028734</vendorCode>
+<vendorCode>ACCM-PB17143.11</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -942,7 +942,7 @@
 <delivery>true</delivery>
 <name>Корпус Aerocool Aero One Eclipse White (ACCM-PB17143.21)</name>
 <vendor>AeroCool</vendor>
-<vendorCode>НФ-00028735</vendorCode>
+<vendorCode>ACCM-PB17143.21</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Назначение">Игровой</param>
@@ -977,7 +977,7 @@
 <delivery>true</delivery>
 <name>Корпус AeroCool Aero One Mini Frost-G-WT-v1 (ACCS-PB18043.21)</name>
 <vendor>AeroCool</vendor>
-<vendorCode>НФ-00028737</vendorCode>
+<vendorCode>ACCS-PB18043.21</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -1017,7 +1017,7 @@
 <delivery>true</delivery>
 <name>Корпус AeroCool Aero One-G-BK-v1 (ACCM-PB17013.11)</name>
 <vendor>AeroCool</vendor>
-<vendorCode>НФ-00028738</vendorCode>
+<vendorCode>ACCM-PB17013.11</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -1054,7 +1054,7 @@
 <delivery>true</delivery>
 <name>Корпус Aerocool Aero One White (ACCM-PB17013.21)</name>
 <vendor>AeroCool</vendor>
-<vendorCode>НФ-00028739</vendorCode>
+<vendorCode>ACCM-PB17013.21</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Назначение">Игровой</param>
@@ -1089,7 +1089,7 @@
 <delivery>true</delivery>
 <name>Корпус AeroCool Cylon WG Tempered Glass (ACCM-PV10013.21)</name>
 <vendor>AeroCool</vendor>
-<vendorCode>НФ-00028740</vendorCode>
+<vendorCode>ACCM-PV10013.21</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -1128,7 +1128,7 @@
 <delivery>true</delivery>
 <name>Корпус Aerocool Ore Saturn Tempered Glass FRGB (ACCM-PV21033.11)</name>
 <vendor>AeroCool</vendor>
-<vendorCode>НФ-00028742</vendorCode>
+<vendorCode>ACCM-PV21033.11</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Назначение">Игровой</param>
@@ -1171,7 +1171,7 @@
 <delivery>true</delivery>
 <name>Корпус AeroCool Skribble-G-BK-v1 (ACCM-PB28033.11)</name>
 <vendor>AeroCool</vendor>
-<vendorCode>НФ-00028743</vendorCode>
+<vendorCode>ACCM-PB28033.11</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -1214,7 +1214,7 @@
 <delivery>true</delivery>
 <name>Корпус AeroCool Zauron Saturn FRGB-G-BK-v2 (ACCM-PV23023.11)</name>
 <vendor>AeroCool</vendor>
-<vendorCode>НФ-00028744</vendorCode>
+<vendorCode>ACCM-PV23023.11</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -1258,7 +1258,7 @@
 <delivery>true</delivery>
 <name>Корпус AeroCool Cronus-G-BK-v1 Black (ACCM-PB23013.11)</name>
 <vendor>AeroCool</vendor>
-<vendorCode>НФ-00029063</vendorCode>
+<vendorCode>ACCM-PB23013.11</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">3</param>
 <param name="Материал корпуса">Сталь</param>
@@ -1294,7 +1294,7 @@
 <delivery>true</delivery>
 <name>Корпус AeroCool Cylon BG Black (ACCM-PV10013.11)</name>
 <vendor>AeroCool</vendor>
-<vendorCode>НФ-00029499</vendorCode>
+<vendorCode>ACCM-PV10013.11</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -1341,7 +1341,7 @@
 <delivery>true</delivery>
 <name>Корпус AeroCool Quantum Mesh-G-BK-v2 Black (ACCM-PV31033.11)</name>
 <vendor>AeroCool</vendor>
-<vendorCode>НФ-00029500</vendorCode>
+<vendorCode>ACCM-PV31033.11</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -1384,7 +1384,7 @@
 <delivery>true</delivery>
 <name>Корпус AeroCool Bionic-G-BK-v2 (ACCM-PV34113.11)</name>
 <vendor>AeroCool</vendor>
-<vendorCode>НФ-00030529</vendorCode>
+<vendorCode>ACCM-PV34113.11</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Назначение">Игровой</param>
@@ -1420,7 +1420,7 @@
 <delivery>true</delivery>
 <name>Корпус AeroCool Bionic-G-WT-v2 (ACCM-PV34113.21)</name>
 <vendor>AeroCool</vendor>
-<vendorCode>НФ-00030530</vendorCode>
+<vendorCode>ACCM-PV34113.21</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -1458,7 +1458,7 @@
 <delivery>true</delivery>
 <name>Корпус AeroCool Delta-G-BK-v1 (ACCM-PV45013.11)</name>
 <vendor>AeroCool</vendor>
-<vendorCode>НФ-00030532</vendorCode>
+<vendorCode>ACCM-PV45013.11</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -1498,7 +1498,7 @@
 <delivery>true</delivery>
 <name>Корпус AeroCool Aero One Mini Eclipse-G-BK-v1 (ACCS-PB18143.11)</name>
 <vendor>AeroCool</vendor>
-<vendorCode>НФ-00031890</vendorCode>
+<vendorCode>ACCS-PB18143.11</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -1540,7 +1540,7 @@
 <delivery>true</delivery>
 <name>Корпус AeroCool Aero One Frost-G-WT-v1 (ACCM-PB17043.21)</name>
 <vendor>AeroCool</vendor>
-<vendorCode>НФ-00034521</vendorCode>
+<vendorCode>ACCM-PB17043.21</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Назначение">Игровой</param>
@@ -1575,7 +1575,7 @@
 <delivery>true</delivery>
 <name>Корпус Aerocool Falcon ARGB Black (ACCM-PV41143.11)</name>
 <vendor>AeroCool</vendor>
-<vendorCode>НФ-00036017</vendorCode>
+<vendorCode>ACCM-PV41143.11</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -1611,7 +1611,7 @@
 <delivery>true</delivery>
 <name>Корпус Aerocool Beam Black (ACCM-PV37043.11)</name>
 <vendor>AeroCool</vendor>
-<vendorCode>НФ-00036018</vendorCode>
+<vendorCode>ACCM-PV37043.11</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -1654,7 +1654,7 @@
 <delivery>true</delivery>
 <name>Корпус Aerocool Splinter Duo чорний</name>
 <vendor>AeroCool</vendor>
-<vendorCode>НФ-00037176</vendorCode>
+<vendorCode>ACCM-PB26033.11</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -1679,49 +1679,6 @@
 <param name="Передняя панель" unit="">Пластик</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2308819646" available="true">
-<url>https://tera-flops.com.ua/ua/p2308819646-korpus-aerocool-hexform.html</url>
-<price>1873</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6224457599_korpus-aerocool-hexform-g-bk-v2.jpg</picture>
-<picture>https://images.prom.ua/6224457601_korpus-aerocool-hexform-g-bk-v2.jpg</picture>
-<picture>https://images.prom.ua/6224457603_korpus-aerocool-hexform-g-bk-v2.jpg</picture>
-<picture>https://images.prom.ua/6224458488_korpus-aerocool-hexform-g-bk-v2.jpg</picture>
-<picture>https://images.prom.ua/6224458489_korpus-aerocool-hexform-g-bk-v2.jpg</picture>
-<picture>https://images.prom.ua/6224458490_korpus-aerocool-hexform-g-bk-v2.jpg</picture>
-<picture>https://images.prom.ua/6224458491_korpus-aerocool-hexform-g-bk-v2.jpg</picture>
-<picture>https://images.prom.ua/6224458492_korpus-aerocool-hexform-g-bk-v2.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус AeroCool Hexform-G-BK-v2 (ACCX-PV38002.11) Black + БЖ VX Plus 500 500 W</name>
-<vendor>AeroCool</vendor>
-<vendorCode>НФ-00050132</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
-<param name="Материал корпуса">Сталь</param>
-<param name="Назначение">Игровой</param>
-<param name="Слоты расширения" unit="шт">4</param>
-<param name="Состояние">Новое</param>
-<param name="Типоразмер">Midi-Tower</param>
-<param name="Форм-фактор">Mini-ITX</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="USB 2.0" unit="">2</param>
-<param name="USB 3.2" unit="">1</param>
-<param name="Блок питания" unit="">500W</param>
-<param name="Вбудовані вентилятори/розташування" unit="">Передня панель/2x120, задня панель/1x120 мм</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="Вхід для мікрофона" unit="">Є</param>
-<param name="Габариты (мм)" unit="">200x375x306</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
-<param name="Максимальна висота процесорного кулера (мм)" unit="">159</param>
-<param name="Матеріал боковини" unit="">Загартоване скло</param>
-<param name="Можливість встановлення довгих відеокарт (мм)" unit="">296</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">Передня панель/2x120/140 мм, верхня панель/2x120, задня панель/1x120 мм</param>
-<param name="Особенности" unit="">Пилові фільтри</param>
-<param name="Передняя панель" unit="">Гратчаста</param>
-<param name="Расположение" unit="">Верхнє</param>
-</offer>
 <offer id="2423580336" available="true">
 <url>https://tera-flops.com.ua/ua/p2423580336-korpus-aerocool-tern.html</url>
 <price>2504</price>
@@ -1735,7 +1692,7 @@
 <delivery>true</delivery>
 <name>Корпус AeroCool Tern Mini V2 (ACCS-ES04143.11)</name>
 <vendor>AeroCool</vendor>
-<vendorCode>НФ-00036031</vendorCode>
+<vendorCode>ACCS-ES04143.11</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -1761,78 +1718,6 @@
 <param name="Передняя панель" unit="">Пластик</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="1644916838" available="false">
-<url>https://tera-flops.com.ua/ua/p1644916838-korpus-gamemax-diamond.html</url>
-<price>2219</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6224341192_korpus-gamemax-diamond.jpg</picture>
-<picture>https://images.prom.ua/6224341196_korpus-gamemax-diamond.jpg</picture>
-<picture>https://images.prom.ua/6224341197_korpus-gamemax-diamond.jpg</picture>
-<picture>https://images.prom.ua/6224341199_korpus-gamemax-diamond.jpg</picture>
-<picture>https://images.prom.ua/6224341200_korpus-gamemax-diamond.jpg</picture>
-<picture>https://images.prom.ua/6224341202_korpus-gamemax-diamond.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус GameMax Diamond White (D6931858773027) (TF)</name>
-<vendor>Gamemax</vendor>
-<vendorCode>D6931858773027</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
-<param name="Материал корпуса">Сталь</param>
-<param name="Назначение">Игровой</param>
-<param name="Слоты расширения" unit="шт">7</param>
-<param name="Состояние">Новое</param>
-<param name="Типоразмер">Midi-Tower</param>
-<param name="Форм-фактор">Mini-ITX</param>
-<param name="Цвет корпуса">Белый</param>
-<param name="USB 2.0" unit="">1</param>
-<param name="USB 3.2" unit="">1</param>
-<param name="Блок питания" unit="">Без БЖ</param>
-<param name="Вес (кг)" unit="">4,4</param>
-<param name="Вбудовані вентилятори/розташування" unit="">бічна панель / 1x140 мм, задня панель / 1x120 мм ARGB LED</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="Вхід для мікрофона" unit="">Є</param>
-<param name="Габариты (мм)" unit="">421x210x460</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
-<param name="Максимальна висота процесорного кулера (мм)" unit="">170</param>
-<param name="Матеріал боковини" unit="">Сталь</param>
-<param name="Можливість встановлення довгих відеокарт (мм)" unit="">340</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">передня панель / 3x120 мм, верxняя панель / 2x120 мм, нижня панель / 2x120 мм, задня панель / 1x120 мм</param>
-<param name="Особенности" unit="">Пилові фільтри</param>
-<param name="Передняя панель" unit="">Пластик</param>
-</offer>
-<offer id="1651693829" available="false">
-<url>https://tera-flops.com.ua/ua/p1651693829-korpus-gamemax-typhoon.html</url>
-<price>1837</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6174970712_korpus-gamemax-typhoon.jpg</picture>
-<picture>https://images.prom.ua/6174970713_korpus-gamemax-typhoon.jpg</picture>
-<picture>https://images.prom.ua/6174970714_korpus-gamemax-typhoon.jpg</picture>
-<picture>https://images.prom.ua/6224341623_korpus-gamemax-typhoon.jpg</picture>
-<picture>https://images.prom.ua/6174970718_korpus-gamemax-typhoon.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус GAMEMAX Typhoon COC (3700374) (TF)</name>
-<vendor>Gamemax</vendor>
-<vendorCode>3700374</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
-<param name="Назначение">Игровой</param>
-<param name="Слоты расширения" unit="шт">7</param>
-<param name="Состояние">Новое</param>
-<param name="Типоразмер">Midi-Tower</param>
-<param name="Форм-фактор">ATX</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="Блок питания" unit="">Без БЖ</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="Вхід для мікрофона" unit="">Є</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
-<param name="Матеріал боковини" unit="">Загартоване скло</param>
-<param name="Особенности" unit="">RGB підсвічування</param>
-<param name="Передняя панель" unit="">Сталь</param>
-</offer>
 <offer id="2308816717" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816717-korpus-gamemax-diamond.html</url>
 <price>2174</price>
@@ -1845,7 +1730,7 @@
 <delivery>true</delivery>
 <name>Корпус GameMax Diamond COC BK (Black Diamond COC)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00004846</vendorCode>
+<vendorCode>Black Diamond COC</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -1884,7 +1769,7 @@
 <delivery>true</delivery>
 <name>Корпус GAMEMAX MT507 500W Black (MT507-500W)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024592</vendorCode>
+<vendorCode>MT507-500W</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">7</param>
 <param name="Материал корпуса">Сталь</param>
@@ -1917,7 +1802,7 @@
 <delivery>true</delivery>
 <name>Корпус GAMEMAX MT508-NP (MT508-NP)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024625</vendorCode>
+<vendorCode>MT508-NP</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">7</param>
 <param name="Материал корпуса">Сталь</param>
@@ -1951,7 +1836,7 @@
 <delivery>true</delivery>
 <name>Корпус GAMEMAX G561 White (G561 White)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024627</vendorCode>
+<vendorCode>G561 White</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">4</param>
 <param name="Материал корпуса">Сталь</param>
@@ -1988,7 +1873,7 @@
 <delivery>true</delivery>
 <name>Корпус GAMEMAX ET-209 400W (ET-209-400)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024628</vendorCode>
+<vendorCode>ET-209-400</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Рабочая станция</param>
@@ -2018,7 +1903,7 @@
 <delivery>true</delivery>
 <name>Корпус GAMEMAX ET-211-U3 Black (ET-211-U3 NP)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024633</vendorCode>
+<vendorCode>ET-211-U3 NP</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">3</param>
 <param name="Материал корпуса">Сталь</param>
@@ -2053,7 +1938,7 @@
 <delivery>true</delivery>
 <name>Корпус GAMEMAX ET-209 400W Black (ET-209-400W-2U3)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024635</vendorCode>
+<vendorCode>ET-209-400W-2U3</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Рабочая станция</param>
@@ -2087,7 +1972,7 @@
 <delivery>true</delivery>
 <name>Корпус GAMEMAX ST-102 200W Black (ST102-2U3)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024642</vendorCode>
+<vendorCode>ST102-2U3</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Рабочая станция</param>
@@ -2119,7 +2004,7 @@
 <delivery>true</delivery>
 <name>Корпус GAMEMAX ET-212 Black (ET-212-NP-U3)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024643</vendorCode>
+<vendorCode>ET-212-NP-U3</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">3</param>
 <param name="Материал корпуса">Сталь</param>
@@ -2155,7 +2040,7 @@
 <delivery>true</delivery>
 <name>Корпус GAMEMAX ET-212 450W Black (ET-212-450W-U3)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024645</vendorCode>
+<vendorCode>ET-212-450W-U3</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">4</param>
 <param name="Материал корпуса">Сталь</param>
@@ -2190,7 +2075,7 @@
 <delivery>true</delivery>
 <name>Корпус GameMax MT523B-U3 (MT523B-NP-U3)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024650</vendorCode>
+<vendorCode>MT523B-NP-U3</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">3</param>
 <param name="Материал корпуса">Сталь</param>
@@ -2224,7 +2109,7 @@
 <delivery>true</delivery>
 <name>Корпус GameMax MT523R-U3 (MT523R-NP-U3)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024651</vendorCode>
+<vendorCode>MT523R-NP-U3</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">3</param>
 <param name="Материал корпуса">Сталь</param>
@@ -2259,7 +2144,7 @@
 <delivery>true</delivery>
 <name>Корпус GAMEMAX G510 Optical ARGB Window Black (Optical Black)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024658</vendorCode>
+<vendorCode>Optical Black</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -2295,7 +2180,7 @@
 <delivery>true</delivery>
 <name>Корпус GameMax G510 Optical White (Optical White)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024659</vendorCode>
+<vendorCode>Optical White</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -2332,7 +2217,7 @@
 <delivery>true</delivery>
 <name>Корпус GAMEMAX G515 RockStar RGB Window Black (RockStar)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024661</vendorCode>
+<vendorCode>RockStar</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -2370,7 +2255,7 @@
 <delivery>true</delivery>
 <name>Корпус GAMEMAX G563 Window Black (G563)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024663</vendorCode>
+<vendorCode>G563</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -2409,7 +2294,7 @@
 <delivery>true</delivery>
 <name>Корпус GameMax Abyss-TR (Abyss-TR)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024664</vendorCode>
+<vendorCode>Abyss-TR</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">3</param>
 <param name="Материал корпуса">Сталь</param>
@@ -2448,7 +2333,7 @@
 <delivery>true</delivery>
 <name>Корпус GAMEMAX Master (Master)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024667</vendorCode>
+<vendorCode>Master</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">8</param>
 <param name="Материал корпуса">Сталь</param>
@@ -2487,7 +2372,7 @@
 <delivery>true</delivery>
 <name>Корпус GameMax H608 Mini Abyss (MINI Abyss)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024670</vendorCode>
+<vendorCode>MINI Abyss</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -2525,7 +2410,7 @@
 <delivery>true</delivery>
 <name>Корпус GAMEMAX Fortress (Fortress TG)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024673</vendorCode>
+<vendorCode>Fortress TG</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -2564,7 +2449,7 @@
 <delivery>true</delivery>
 <name>Корпус GAMEMAX Silent Max M903 (Silent Max M903)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024675</vendorCode>
+<vendorCode>Silent Max M903</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">8</param>
 <param name="Материал корпуса">Сталь</param>
@@ -2603,7 +2488,7 @@
 <delivery>true</delivery>
 <name>Корпус GameMax G562 Matrix Black (MATRIX G562)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024688</vendorCode>
+<vendorCode>MATRIX G562</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">4</param>
 <param name="Материал корпуса">Сталь</param>
@@ -2641,7 +2526,7 @@
 <delivery>true</delivery>
 <name>Корпус GAMEMAX Black Hole ARGB (Black Hole)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024690</vendorCode>
+<vendorCode>Black Hole</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -2679,7 +2564,7 @@
 <delivery>true</delivery>
 <name>Корпус GAMEMAX G509 Starlight FRGB Black (StarLight B-FRGB)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024697</vendorCode>
+<vendorCode>StarLight B-FRGB</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -2717,7 +2602,7 @@
 <delivery>true</delivery>
 <name>Корпус GAMEMAX G509 Starlight FRGB White (StarLight W-FRGB)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024698</vendorCode>
+<vendorCode>StarLight W-FRGB</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -2755,7 +2640,7 @@
 <delivery>true</delivery>
 <name>Корпус GAMEMAX Brufen C1 COC ARGB (Brufen C1)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024701</vendorCode>
+<vendorCode>Brufen C1</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -2793,7 +2678,7 @@
 <delivery>true</delivery>
 <name>Корпус GAMEMAX MT307 Black (MT307-4U3C)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024703</vendorCode>
+<vendorCode>MT307-4U3C</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">5</param>
 <param name="Материал корпуса">Сталь</param>
@@ -2829,7 +2714,7 @@
 <delivery>true</delivery>
 <name>Корпус GAMEMAX MoonLight FRGB Tempered Glass White (Moonlight FRGB-White)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024709</vendorCode>
+<vendorCode>Moonlight FRGB-White</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -2865,7 +2750,7 @@
 <delivery>true</delivery>
 <name>Корпус GAMEMAX Contac COC PW (Contac COC PW)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024714</vendorCode>
+<vendorCode>Contac COC PW</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -2903,7 +2788,7 @@
 <delivery>true</delivery>
 <name>Корпус GAMEMAX ET-210 Black (ET-210-NP)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024726</vendorCode>
+<vendorCode>ET-210-NP</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">5</param>
 <param name="Материал корпуса">Сталь</param>
@@ -2938,7 +2823,7 @@
 <delivery>true</delivery>
 <name>Корпус GAMEMAX Cyclops BG (Cyclops BG)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024728</vendorCode>
+<vendorCode>Cyclops BG</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -2976,7 +2861,7 @@
 <delivery>true</delivery>
 <name>Корпус GAMEMAX MT525-2U3TYC-3FAN (MT525-2U3TYC-3FAN)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024730</vendorCode>
+<vendorCode>MT525-2U3TYC-3FAN</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">4</param>
 <param name="Материал корпуса">Сталь</param>
@@ -3013,7 +2898,7 @@
 <delivery>true</delivery>
 <name>Корпус GAMEMAX M60 Black (M60 Black)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024772</vendorCode>
+<vendorCode>M60 Black</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -3051,7 +2936,7 @@
 <delivery>true</delivery>
 <name>Корпус GAMEMAX M60 White (M60 White)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024793</vendorCode>
+<vendorCode>M60 White</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -3089,7 +2974,7 @@
 <delivery>true</delivery>
 <name>Корпус GAMEMAX Storm Tempered Glass White (Storm White)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024796</vendorCode>
+<vendorCode>Storm White</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">3</param>
 <param name="Материал корпуса">Сталь</param>
@@ -3127,7 +3012,7 @@
 <delivery>true</delivery>
 <name>Корпус GAMEMAX Destroyer TGB (Destroyer TGB)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024799</vendorCode>
+<vendorCode>Destroyer TGB</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -3165,7 +3050,7 @@
 <delivery>true</delivery>
 <name>Корпус GameMax Destroyer TG White (Destroyer TGW)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024801</vendorCode>
+<vendorCode>Destroyer TGW</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Назначение">Игровой</param>
@@ -3198,7 +3083,7 @@
 <delivery>true</delivery>
 <name>Корпус GAMEMAX Dark Silent Black (Dark Silent)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024821</vendorCode>
+<vendorCode>Dark Silent</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">4</param>
 <param name="Материал корпуса">Сталь</param>
@@ -3235,7 +3120,7 @@
 <delivery>true</delivery>
 <name>Корпус GAMEMAX ET-210 NP-U3 Black (ET-210 NP-U3)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024838</vendorCode>
+<vendorCode>ET-210 NP-U3</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">1</param>
 <param name="Материал корпуса">Сталь</param>
@@ -3273,7 +3158,7 @@
 <delivery>true</delivery>
 <name>Корпус GameMax ET-210-NP-2U3 (ET-210 NP-2U3)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024839</vendorCode>
+<vendorCode>ET-210 NP-2U3</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">5</param>
 <param name="Материал корпуса">Сталь</param>
@@ -3310,7 +3195,7 @@
 <delivery>true</delivery>
 <name>Корпус GAMEMAX MT-301U3 Black (MT-301U3-NP)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00036954</vendorCode>
+<vendorCode>MT-301U3-NP</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">1</param>
 <param name="Материал корпуса">Сталь</param>
@@ -3346,7 +3231,7 @@
 <delivery>true</delivery>
 <name>Корпус GameMax MT-308-2U3 (MT-308-2U3)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00036957</vendorCode>
+<vendorCode>MT-308-2U3</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">4</param>
 <param name="Материал корпуса">Сталь</param>
@@ -3388,7 +3273,7 @@
 <delivery>true</delivery>
 <name>Корпус Gamemax ZORRO COC White</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00037800</vendorCode>
+<vendorCode>ZORRO COC White</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -3427,7 +3312,7 @@
 <delivery>true</delivery>
 <name>Корпус GameMax H601 White Black (H601-WB)</name>
 <vendor>Gamemax</vendor>
-<vendorCode>НФ-00024603</vendorCode>
+<vendorCode>H601-WB</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Назначение">Игровой</param>
@@ -3462,7 +3347,7 @@
 <delivery>true</delivery>
 <name>Корпус Vinga Vision II (Vision II)</name>
 <vendor>Vinga</vendor>
-<vendorCode>НФ-00009672</vendorCode>
+<vendorCode>Vision II</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -3499,7 +3384,7 @@
 <delivery>true</delivery>
 <name>Корпус Vinga CS213B (CS213B)</name>
 <vendor>Vinga</vendor>
-<vendorCode>НФ-00018782</vendorCode>
+<vendorCode>CS213B</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">3</param>
 <param name="Материал корпуса">Сталь</param>
@@ -3536,7 +3421,7 @@
 <delivery>true</delivery>
 <name>Корпус Vinga Cobalt (Cobalt)</name>
 <vendor>Vinga</vendor>
-<vendorCode>НФ-00026374</vendorCode>
+<vendorCode>Cobalt</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5"">3</param>
 <param name="Назначение">Игровой</param>
@@ -3572,7 +3457,7 @@
 <delivery>true</delivery>
 <name>Корпус Vinga Darklight (Darklight)</name>
 <vendor>Vinga</vendor>
-<vendorCode>НФ-00029267</vendorCode>
+<vendorCode>Darklight</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -3605,7 +3490,7 @@
 <delivery>true</delivery>
 <name>Корпус Vinga Astra (Astra)</name>
 <vendor>Vinga</vendor>
-<vendorCode>НФ-00029268</vendorCode>
+<vendorCode>Astra</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -3641,7 +3526,7 @@
 <delivery>true</delivery>
 <name>Корпус Vinga Black Widow (Black Widow)</name>
 <vendor>Vinga</vendor>
-<vendorCode>НФ-00026211</vendorCode>
+<vendorCode>Black Widow</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -3679,7 +3564,7 @@
 <delivery>true</delivery>
 <name>Корпус Vinga Winston (Winston)</name>
 <vendor>Vinga</vendor>
-<vendorCode>НФ-00026229</vendorCode>
+<vendorCode>Winston</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -3717,7 +3602,7 @@
 <delivery>true</delivery>
 <name>Корпус Vinga Sain 1 (Sain 1)</name>
 <vendor>Vinga</vendor>
-<vendorCode>НФ-00026230</vendorCode>
+<vendorCode>Sain 1</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -3754,7 +3639,7 @@
 <delivery>true</delivery>
 <name>Корпус Vinga Limpid (Limpid)</name>
 <vendor>Vinga</vendor>
-<vendorCode>НФ-00026335</vendorCode>
+<vendorCode>Limpid</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -3789,7 +3674,7 @@
 <delivery>true</delivery>
 <name>Корпус Vinga Tank (Tank)</name>
 <vendor>Vinga</vendor>
-<vendorCode>НФ-00026546</vendorCode>
+<vendorCode>Tank</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -3826,7 +3711,7 @@
 <delivery>true</delivery>
 <name>Корпус Vinga Pillar White (Pillar White)</name>
 <vendor>Vinga</vendor>
-<vendorCode>НФ-00026987</vendorCode>
+<vendorCode>Pillar White</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">3</param>
 <param name="Материал корпуса">Сталь</param>
@@ -3863,7 +3748,7 @@
 <delivery>true</delivery>
 <name>Корпус Vinga Ghost (Ghost)</name>
 <vendor>Vinga</vendor>
-<vendorCode>НФ-00027547</vendorCode>
+<vendorCode>Ghost</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -3900,7 +3785,7 @@
 <delivery>true</delivery>
 <name>Корпус Vinga Galaxy G1 (Galaxy G1)</name>
 <vendor>Vinga</vendor>
-<vendorCode>НФ-00027563</vendorCode>
+<vendorCode>Galaxy G1</vendorCode>
 <param name="Состояние">Новое</param>
 <param name="Тип">Корпус</param>
 <param name="USB 2.0" unit="">2</param>
@@ -3938,7 +3823,7 @@
 <delivery>true</delivery>
 <name>Корпус Vinga CS112B (CS112B)</name>
 <vendor>Vinga</vendor>
-<vendorCode>НФ-00027761</vendorCode>
+<vendorCode>CS112B</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">3</param>
 <param name="Материал корпуса">Сталь</param>
@@ -3974,7 +3859,7 @@
 <delivery>true</delivery>
 <name>Корпус Vinga CS113-400W (CS113-400W)</name>
 <vendor>Vinga</vendor>
-<vendorCode>НФ-00028319</vendorCode>
+<vendorCode>CS113-400W</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">1</param>
 <param name="Материал корпуса">Сталь</param>
@@ -4010,7 +3895,7 @@
 <delivery>true</delivery>
 <name>Корпус Vinga Cello (Cello)</name>
 <vendor>Vinga</vendor>
-<vendorCode>НФ-00029261</vendorCode>
+<vendorCode>Cello</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Назначение">Игровой</param>
@@ -4046,7 +3931,7 @@
 <delivery>true</delivery>
 <name>Корпус Vinga Manatee (Manatee)</name>
 <vendor>Vinga</vendor>
-<vendorCode>НФ-00029264</vendorCode>
+<vendorCode>Manatee</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -4084,7 +3969,7 @@
 <delivery>true</delivery>
 <name>Корпус Vinga Cage (Cage)</name>
 <vendor>Vinga</vendor>
-<vendorCode>НФ-00030159</vendorCode>
+<vendorCode>Cage</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">2</param>
 <param name="Назначение">Игровой</param>
@@ -4117,7 +4002,7 @@
 <delivery>true</delivery>
 <name>Корпус Vinga CS114-450W (CS114-450W)</name>
 <vendor>Vinga</vendor>
-<vendorCode>НФ-00029269</vendorCode>
+<vendorCode>CS114-450W</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">1</param>
 <param name="Материал корпуса">Сталь</param>
@@ -4152,7 +4037,7 @@
 <delivery>true</delivery>
 <name>Корпус Vinga CS115-500W (CS115-500W)</name>
 <vendor>Vinga</vendor>
-<vendorCode>НФ-00029272</vendorCode>
+<vendorCode>CS115-500W</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5"">1</param>
 <param name="Слоты расширения" unit="шт">7</param>
