@@ -661,12 +661,7 @@
 <price>2409</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6175051949_korpus-1stplayer-mi7-a-2f2r-1f2.jpg</picture>
-<picture>https://images.prom.ua/6175051961_korpus-1stplayer-mi7-a-2f2r-1f2.jpg</picture>
-<picture>https://images.prom.ua/6175051970_korpus-1stplayer-mi7-a-2f2r-1f2.jpg</picture>
-<picture>https://images.prom.ua/6175051984_korpus-1stplayer-mi7-a-2f2r-1f2.jpg</picture>
-<picture>https://images.prom.ua/6175051991_korpus-1stplayer-mi7-a-2f2r-1f2.jpg</picture>
-<picture>https://images.prom.ua/6175052001_korpus-1stplayer-mi7-a-2f2r-1f2.jpg</picture>
+<picture>https://images.prom.ua/X6cigFGImrQOd0OMrMUUeWLezsmozejM7aNJ0754jxE=/6175051949_korpus-1stplayer-mi7-a-2f2r-1f2.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус 1stPlayer Mi7-A-2F2R-1F2 Black</name>
@@ -1702,14 +1697,12 @@
 <price>2092</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6175051926_korpus-aerocool-beam.jpg</picture>
-<picture>https://images.prom.ua/6175051931_korpus-aerocool-beam.jpg</picture>
-<picture>https://images.prom.ua/6175051935_korpus-aerocool-beam.jpg</picture>
+<picture>https://images.prom.ua/gWD-YJtxX3zEnF8qC6UwQEe_XJdyfNtbrl1Xl0lc_J0=/6175051926_korpus-aerocool-beam.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус Aerocool Beam Black (ACCM-PV37043.11)</name>
 <vendor>AeroCool</vendor>
-<vendorCode>ACCM-PV37043.11</vendorCode>
+<vendorCode>Beam-G-BK-V2</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
