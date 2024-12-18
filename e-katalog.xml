@@ -331,6 +331,37 @@
 <category id="85364281" parentId="85328850">Жорсткі диски</category>
 </categories>
 <offers>
+<offer id="2280165356" available="true">
+<url>https://tera-flops.com.ua/ua/p2280165356-dbzh-njoy-renton.html</url>
+<price>2912</price>
+<currencyId>UAH</currencyId>
+<categoryId>133045618</categoryId>
+<picture>https://images.prom.ua/6069565537_dbzh-njoy-renton.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>ДБЖ NJOY Renton 650 Plus (UPCSBLS665TRPCG01B)</name>
+<vendor>NJOY</vendor>
+<vendorCode>UPCSBLS665TRPCG01B</vendorCode>
+<param name="Вес" unit="кг">3.96</param>
+<param name="Выходная мощность" unit="Вт">360</param>
+<param name="Выходное напряжение" unit="В">290</param>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Максимальная мощность" unit="Вт">650</param>
+<param name="Состояние">Новое</param>
+<param name="Ток заряда" unit="А">1</param>
+<param name="Ємність комплектної батареї(й) (Агод)" unit="">5</param>
+<param name="Байпас (ввімкнення напряму)" unit="">Нет</param>
+<param name="Вхідна напруга (В)" unit="">162</param>
+<param name="Габариты (мм)" unit="">267х165х87</param>
+<param name="Діапазон вхідної напруги (В)" unit="">230</param>
+<param name="Предохранитель" unit="">Автоматический</param>
+<param name="Захист" unit="">захист від короткого замикання</param>
+<param name="Напруга підключення батареї (В)" unit="">12</param>
+<param name="Тип ИБП" unit="">інтерактивне</param>
+<param name="Тип корпуса" unit="">звичайний</param>
+<param name="Тип розеток" unit="">Тип F (Schuko)</param>
+<param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
+</offer>
 <offer id="2266930039" available="true">
 <url>https://tera-flops.com.ua/ua/p2266930039-zaryadna-stantsiya-bluetti.html</url>
 <price>10000</price>
