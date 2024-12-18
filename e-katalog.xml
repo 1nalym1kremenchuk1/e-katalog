@@ -4433,6 +4433,7 @@
 <param name="Ємність (Вт*год)" unit="">2560</param>
 <param name="Робоча температура розряду (°C)" unit="">-20 / +60</param>
 <param name="Тип акумулятору" unit="">LiFePO4</param>
+</offer>
 <offer id="2441545874" available="true">
 <url>https://tera-flops.com.ua/ua/p2441545874-termoprokladka-fehonda-100x100x175mm.html</url>
 <price>590</price>
