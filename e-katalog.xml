@@ -344,7 +344,7 @@
 <vendor>1stPlayer</vendor>
 <vendorCode>F4-3R1</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">1</param>
+<param name="Количество внутренних отсеков 3,5">1</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
 <param name="Состояние">Новое</param>
@@ -355,7 +355,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">380х185х435</param>
-<param name="Кількість 2,5 "відсіків" unit="">1</param>
+<param name="Кількість 2,5 відсіків" unit="">1</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">160</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">300</param>
@@ -407,7 +407,7 @@
 <vendor>1stPlayer</vendor>
 <vendorCode>F4-3B1</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">1</param>
+<param name="Количество внутренних отсеков 3,5">1</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
 <param name="Состояние">Новое</param>
@@ -419,7 +419,7 @@
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">380x185x435</param>
 <param name="Картрідер" unit="">Є</param>
-<param name="Кількість 2,5 "відсіків" unit="">1</param>
+<param name="Кількість 2,5 відсіків" unit="">1</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">160</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">300</param>
@@ -442,7 +442,7 @@
 <vendor>1stPlayer</vendor>
 <vendorCode>R5-3R1</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
 <param name="Состояние">Новое</param>
@@ -453,7 +453,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">185 x 380 x 435</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">160</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">300</param>
@@ -475,7 +475,7 @@
 <vendor>1stPlayer</vendor>
 <vendorCode>V7-4F1</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
 <param name="Состояние">Новое</param>
@@ -489,7 +489,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">210х480х340</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Передняя панель" unit="">Пластик</param>
 <param name="Расположение" unit="">Нижнє</param>
@@ -507,7 +507,7 @@
 <vendor>1stPlayer</vendor>
 <vendorCode>Mi6-1F2-BK</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">1</param>
+<param name="Количество внутренних отсеков 3,5">1</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">4</param>
 <param name="Состояние">Новое</param>
@@ -518,7 +518,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">440 x 205 x 352</param>
-<param name="Кількість 2,5 "відсіків" unit="">1</param>
+<param name="Кількість 2,5 відсіків" unit="">1</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">165</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">410</param>
@@ -539,7 +539,7 @@
 <vendor>1stPlayer</vendor>
 <vendorCode>Mi6-1F2-W-WH</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">1</param>
+<param name="Количество внутренних отсеков 3,5">1</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">4</param>
 <param name="Состояние">Новое</param>
@@ -549,7 +549,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">440 x 205 x 352</param>
-<param name="Кількість 2,5 "відсіків" unit="">1</param>
+<param name="Кількість 2,5 відсіків" unit="">1</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">165</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">410</param>
@@ -575,7 +575,7 @@
 <vendor>1stPlayer</vendor>
 <vendorCode>Mi7-A-2F2R-1F2</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">1</param>
+<param name="Количество внутренних отсеков 3,5">1</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -591,7 +591,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">235x422x373</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">185</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">360</param>
@@ -616,7 +616,7 @@
 <vendor>1stPlayer</vendor>
 <vendorCode>Mi7-A-2F2R-W-1F2-W</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">1</param>
+<param name="Количество внутренних отсеков 3,5">1</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -630,7 +630,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">235x422x373</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">185</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">360</param>
@@ -695,7 +695,7 @@
 <vendor>1stPlayer</vendor>
 <vendorCode>X3-M-4F1-BK</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">4</param>
 <param name="Состояние">Новое</param>
@@ -743,7 +743,7 @@
 <vendor>1stPlayer</vendor>
 <vendorCode>T7-P-4F2-AP</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">1</param>
+<param name="Количество внутренних отсеков 3,5">1</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -758,7 +758,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">440x235x410</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
+<param name="Кількість 2,5 відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">185</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">340</param>
@@ -782,7 +782,7 @@
 <vendor>1stPlayer</vendor>
 <vendorCode>X2-M-4F1</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">1</param>
+<param name="Количество внутренних отсеков 3,5">1</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">4</param>
@@ -797,7 +797,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">401 x 210 x 322</param>
-<param name="Кількість 2,5 "відсіків" unit="">1</param>
+<param name="Кількість 2,5 відсіків" unit="">1</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">165</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">310</param>
@@ -823,7 +823,7 @@
 <vendor>1stPlayer</vendor>
 <vendorCode>X2-M-4F2-AP</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">1</param>
+<param name="Количество внутренних отсеков 3,5">1</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">4</param>
@@ -838,7 +838,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">401x210x322</param>
-<param name="Кількість 2,5 "відсіків" unit="">1</param>
+<param name="Кількість 2,5 відсіків" unit="">1</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">165</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">310</param>
@@ -863,7 +863,7 @@
 <vendor>1stPlayer</vendor>
 <vendorCode>FD3-4F2-AP-BK</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">1</param>
+<param name="Количество внутренних отсеков 3,5">1</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -879,7 +879,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">192 x 447 x 338</param>
-<param name="Кількість 2,5 "відсіків" unit="">1</param>
+<param name="Кількість 2,5 відсіків" unit="">1</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">155</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">290</param>
@@ -907,7 +907,7 @@
 <vendor>AeroCool</vendor>
 <vendorCode>ACCM-PB17143.11</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -922,7 +922,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">210x520x404</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
+<param name="Кількість 2,5 відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">161</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">327</param>
@@ -944,7 +944,7 @@
 <vendor>AeroCool</vendor>
 <vendorCode>ACCM-PB17143.21</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
 <param name="Состояние">Новое</param>
@@ -956,7 +956,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">210x520x404</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
+<param name="Кількість 2,5 відсіків" unit="">3</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">327</param>
 <param name="Місця під додаткові вентилятори/розташування" unit="">3x120мм або 2x140мм / на передній панелі, 2x120мм / верхня панель, підтримка охолодження відеокарт 2x120мм</param>
@@ -979,7 +979,7 @@
 <vendor>AeroCool</vendor>
 <vendorCode>ACCS-PB18043.21</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">4</param>
@@ -994,7 +994,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">210 x 459 x 403</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
+<param name="Кількість 2,5 відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">161</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">327</param>
@@ -1019,7 +1019,7 @@
 <vendor>AeroCool</vendor>
 <vendorCode>ACCM-PB17013.11</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -1033,7 +1033,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">210x520x404</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
+<param name="Кількість 2,5 відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">161</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">327</param>
@@ -1056,7 +1056,7 @@
 <vendor>AeroCool</vendor>
 <vendorCode>ACCM-PB17013.21</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
 <param name="Состояние">Новое</param>
@@ -1067,7 +1067,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">210x520x404</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
+<param name="Кількість 2,5 відсіків" unit="">3</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">327</param>
 <param name="Місця під додаткові вентилятори/розташування" unit="">3x120мм або 2x140мм / на передній панелі, 2x120мм / верхня панель, підтримка охолодження відеокарт 2x120мм, 1x120мм / позаду</param>
@@ -1091,7 +1091,7 @@
 <vendor>AeroCool</vendor>
 <vendorCode>ACCM-PV10013.21</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -1107,7 +1107,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">198х459х413</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
+<param name="Кількість 2,5 відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">155</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">371</param>
@@ -1130,7 +1130,7 @@
 <vendor>AeroCool</vendor>
 <vendorCode>ACCM-PV21033.11</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
 <param name="Состояние">Новое</param>
@@ -1144,7 +1144,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">188x430x375</param>
-<param name="Кількість 2,5 "відсіків" unit="">5</param>
+<param name="Кількість 2,5 відсіків" unit="">5</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">155</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">371</param>
@@ -1173,7 +1173,7 @@
 <vendor>AeroCool</vendor>
 <vendorCode>ACCM-PB28033.11</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">9</param>
@@ -1187,7 +1187,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">210 x 453 x 441</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
+<param name="Кількість 2,5 відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">167</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">362</param>
@@ -1216,7 +1216,7 @@
 <vendor>AeroCool</vendor>
 <vendorCode>ACCM-PV23023.11</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -1232,7 +1232,7 @@
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">217.7 x 445 x 409</param>
 <param name="Картрідер" unit="">Є</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">166</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">325</param>
@@ -1260,7 +1260,7 @@
 <vendor>AeroCool</vendor>
 <vendorCode>ACCM-PB23013.11</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">3</param>
+<param name="Количество внутренних отсеков 3,5">3</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">10</param>
@@ -1274,7 +1274,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">230x502x468</param>
-<param name="Кількість 2,5 "відсіків" unit="">5</param>
+<param name="Кількість 2,5 відсіків" unit="">5</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">180</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">387</param>
@@ -1296,7 +1296,7 @@
 <vendor>AeroCool</vendor>
 <vendorCode>ACCM-PV10013.11</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -1313,7 +1313,7 @@
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">198х459х413</param>
 <param name="Картрідер" unit="">Є</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
+<param name="Кількість 2,5 відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">155</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">371</param>
@@ -1343,7 +1343,7 @@
 <vendor>AeroCool</vendor>
 <vendorCode>ACCM-PV31033.11</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -1357,7 +1357,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">206x450x360</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">158</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">297</param>
@@ -1386,7 +1386,7 @@
 <vendor>AeroCool</vendor>
 <vendorCode>ACCM-PV34113.11</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
 <param name="Состояние">Новое</param>
@@ -1400,7 +1400,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">206 x 450 x 372</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">158</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">297</param>
@@ -1422,7 +1422,7 @@
 <vendor>AeroCool</vendor>
 <vendorCode>ACCM-PV34113.21</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -1437,7 +1437,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">206 x 450 x 372</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">158</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">297</param>
@@ -1460,7 +1460,7 @@
 <vendor>AeroCool</vendor>
 <vendorCode>ACCM-PV45013.11</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -1474,7 +1474,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">197 x 431 x 357</param>
-<param name="Кількість 2,5 "відсіків" unit="">1</param>
+<param name="Кількість 2,5 відсіків" unit="">1</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">155</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">307</param>
@@ -1500,7 +1500,7 @@
 <vendor>AeroCool</vendor>
 <vendorCode>ACCS-PB18143.11</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">4</param>
@@ -1515,7 +1515,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">210x459x403</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
+<param name="Кількість 2,5 відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">161</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">327</param>
@@ -1542,7 +1542,7 @@
 <vendor>AeroCool</vendor>
 <vendorCode>ACCM-PB17043.21</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
 <param name="Состояние">Новое</param>
@@ -1556,7 +1556,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">210 x 520 x 404</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
+<param name="Кількість 2,5 відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">161</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">327</param>
@@ -1577,7 +1577,7 @@
 <vendor>AeroCool</vendor>
 <vendorCode>ACCM-PV41143.11</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -1590,7 +1590,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">206 x 457 x 357</param>
-<param name="Кількість 2,5 "відсіків" unit="">1</param>
+<param name="Кількість 2,5 відсіків" unit="">1</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">157</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">290</param>
@@ -1613,7 +1613,7 @@
 <vendor>AeroCool</vendor>
 <vendorCode>ACCM-PV37043.11</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">9</param>
@@ -1628,7 +1628,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">205 x 470 x 350</param>
-<param name="Кількість 2,5 "відсіків" unit="">4</param>
+<param name="Кількість 2,5 відсіків" unit="">4</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">160</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">343</param>
@@ -1656,7 +1656,7 @@
 <vendor>AeroCool</vendor>
 <vendorCode>ACCM-PB26033.11</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -1670,7 +1670,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">210 x 519 x 404</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
+<param name="Кількість 2,5 відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">161</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">326</param>
@@ -1694,7 +1694,7 @@
 <vendor>AeroCool</vendor>
 <vendorCode>ACCS-ES04143.11</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">5</param>
@@ -1709,7 +1709,7 @@
 <param name="Вбудовані вентилятори/розташування" unit="">передня панель/3х120 мм ARGB LED, задня панель/1х120 мм ARGB LED</param>
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
+<param name="Кількість 2,5 відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">162</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">409</param>
@@ -1732,7 +1732,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>Black Diamond COC</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -1748,7 +1748,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">421x210x460</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">170</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">340</param>
@@ -1771,7 +1771,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>MT507-500W</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">7</param>
+<param name="Количество внутренних отсеков 3,5">7</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Слоты расширения" unit="шт">7</param>
 <param name="Состояние">Новое</param>
@@ -1783,7 +1783,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">420x377x178</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">330</param>
 <param name="Назначение" unit="">Офісний</param>
@@ -1804,7 +1804,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>MT508-NP</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">7</param>
+<param name="Количество внутренних отсеков 3,5">7</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Рабочая станция</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -1817,7 +1817,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">420x377x178</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">330</param>
 <param name="Передняя панель" unit="">Пластик</param>
@@ -1838,7 +1838,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>G561 White</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">4</param>
+<param name="Количество внутренних отсеков 3,5">4</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -1854,7 +1854,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">452х424х200</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Матеріал боковини" unit="">Акрил</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">370</param>
 <param name="Місця під додаткові вентилятори/розташування" unit="">1х120мм / на передній панелі (з підсвічуванням, 15xLeds Blue LED)</param>
@@ -1905,7 +1905,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>ET-211-U3 NP</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">3</param>
+<param name="Количество внутренних отсеков 3,5">3</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Рабочая станция</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -1985,7 +1985,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">90x235x255</param>
-<param name="Кількість 2,5 "відсіків" unit="">1</param>
+<param name="Кількість 2,5 відсіків" unit="">1</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">60</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Особенности" unit="">Кріплення VESA</param>
@@ -2006,7 +2006,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>ET-212-NP-U3</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">3</param>
+<param name="Количество внутренних отсеков 3,5">3</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -2042,7 +2042,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>ET-212-450W-U3</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">4</param>
+<param name="Количество внутренних отсеков 3,5">4</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Слоты расширения" unit="шт">7</param>
 <param name="Состояние">Новое</param>
@@ -2056,7 +2056,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">175х405х330</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Місця під додаткові вентилятори/розташування" unit="">1х80 / 92 мм / позаду, 2х80 / 92/120 мм / на бічний кришці</param>
 <param name="Назначение" unit="">Офісний</param>
@@ -2077,7 +2077,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>MT523B-NP-U3</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">3</param>
+<param name="Количество внутренних отсеков 3,5">3</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -2090,7 +2090,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">430,5х200х450</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">360</param>
 <param name="Місця під додаткові вентилятори/розташування" unit="">2x120мм / бічна панель, 1x 120мм / задня панель</param>
@@ -2111,7 +2111,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>MT523R-NP-U3</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">3</param>
+<param name="Количество внутренних отсеков 3,5">3</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -2125,7 +2125,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">430,5х200х450</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">360</param>
 <param name="Місця під додаткові вентилятори/розташування" unit="">2x120мм / бічна панель, 1x 120мм / задня панель</param>
@@ -2146,7 +2146,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>Optical Black</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -2160,7 +2160,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">440х205х470</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Матеріал боковини" unit="">Акрил</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">360</param>
 <param name="Місця під додаткові вентилятори/розташування" unit="">2х120мм / наверху</param>
@@ -2182,7 +2182,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>Optical White</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -2197,7 +2197,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">440х205х470</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Матеріал боковини" unit="">Акрил</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">360</param>
 <param name="Місця під додаткові вентилятори/розташування" unit="">2х120мм / наверху</param>
@@ -2219,7 +2219,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>RockStar</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -2235,7 +2235,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">440х205х470</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Матеріал боковини" unit="">Акрил</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">360</param>
 <param name="Місця під додаткові вентилятори/розташування" unit="">2х120мм / наверху</param>
@@ -2257,7 +2257,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>G563</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -2273,7 +2273,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">418х200х452</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">160</param>
 <param name="Матеріал боковини" unit="">Акрил</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">360</param>
@@ -2296,7 +2296,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>Abyss-TR</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">3</param>
+<param name="Количество внутренних отсеков 3,5">3</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -2312,7 +2312,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">512 x 212 x 526</param>
-<param name="Кількість 2,5 "відсіків" unit="">4</param>
+<param name="Кількість 2,5 відсіків" unit="">4</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">170</param>
 <param name="Матеріал боковини" unit="">Акрил</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">455</param>
@@ -2335,7 +2335,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>Master</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">8</param>
+<param name="Количество внутренних отсеков 3,5">8</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Слоты расширения" unit="шт">8</param>
 <param name="Состояние">Новое</param>
@@ -2350,7 +2350,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">520 x 212 x 488</param>
-<param name="Кількість 2,5 "відсіків" unit="">10</param>
+<param name="Кількість 2,5 відсіків" unit="">10</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">170</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">420</param>
@@ -2374,7 +2374,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>MINI Abyss</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">4</param>
@@ -2389,7 +2389,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">403х194х415</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">155</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">340</param>
@@ -2412,7 +2412,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>Fortress TG</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -2427,7 +2427,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">421х210х460</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">170</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">330</param>
@@ -2451,7 +2451,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>Silent Max M903</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">8</param>
+<param name="Количество внутренних отсеков 3,5">8</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">8</param>
@@ -2467,7 +2467,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">527х512х210</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">165</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">450</param>
@@ -2490,7 +2490,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>MATRIX G562</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">4</param>
+<param name="Количество внутренних отсеков 3,5">4</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -2506,7 +2506,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">435х180х412</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">156</param>
 <param name="Матеріал боковини" unit="">Акрил</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">370</param>
@@ -2528,7 +2528,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>Black Hole</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -2543,7 +2543,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">414х215х466</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">170</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">330</param>
@@ -2566,7 +2566,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>StarLight B-FRGB</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -2582,7 +2582,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">462х206х503</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">170</param>
 <param name="Матеріал боковини" unit="">Акрил</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">360</param>
@@ -2604,7 +2604,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>StarLight W-FRGB</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -2619,7 +2619,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">462х206х503</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">170</param>
 <param name="Матеріал боковини" unit="">Акрил</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">360</param>
@@ -2642,7 +2642,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>Brufen C1</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -2658,7 +2658,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">436х210х461</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">170</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">340</param>
@@ -2680,7 +2680,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>MT307-4U3C</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">5</param>
+<param name="Количество внутренних отсеков 3,5">5</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Рабочая станция</param>
 <param name="Слоты расширения" unit="шт">4</param>
@@ -2695,7 +2695,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">372х178х353</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">140</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">295</param>
@@ -2716,7 +2716,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>Moonlight FRGB-White</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -2731,7 +2731,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">440x205x470</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">160</param>
 <param name="Матеріал боковини" unit="">Акрил</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">360</param>
@@ -2752,7 +2752,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>Contac COC PW</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -2766,7 +2766,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">438x210x468</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">170</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">360</param>
@@ -2790,7 +2790,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>ET-210-NP</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">5</param>
+<param name="Количество внутренних отсеков 3,5">5</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Рабочая станция</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -2825,7 +2825,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>Cyclops BG</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">4</param>
@@ -2840,7 +2840,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">350 x 188 x 380</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">155</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">340</param>
@@ -2863,7 +2863,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>MT525-2U3TYC-3FAN</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">4</param>
+<param name="Количество внутренних отсеков 3,5">4</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -2878,7 +2878,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">425 x 200 x 417</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">155</param>
 <param name="Матеріал боковини" unit="">Акрил</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">330</param>
@@ -2900,7 +2900,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>M60 Black</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">4</param>
@@ -2915,7 +2915,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">410 x 193 x 389</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">155</param>
 <param name="Матеріал боковини" unit="">Металева сітка</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">340</param>
@@ -2938,7 +2938,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>M60 White</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">4</param>
@@ -2953,7 +2953,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">410 x 193 x 389</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">155</param>
 <param name="Матеріал боковини" unit="">Металева сітка</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">340</param>
@@ -2976,7 +2976,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>Storm White</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">3</param>
+<param name="Количество внутренних отсеков 3,5">3</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">5</param>
@@ -2991,7 +2991,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">380 x 200 x 450</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">155</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">320</param>
@@ -3014,7 +3014,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>Destroyer TGB</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">5</param>
@@ -3029,7 +3029,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">461 x 210 x 450</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">165</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">410</param>
@@ -3052,7 +3052,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>Destroyer TGW</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">5</param>
 <param name="Состояние">Новое</param>
@@ -3063,7 +3063,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">461 x 210 x 450</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">165</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">410</param>
@@ -3085,7 +3085,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>Dark Silent</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">4</param>
+<param name="Количество внутренних отсеков 3,5">4</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Рабочая станция</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -3101,7 +3101,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">458 x 205 x 476</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">158</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">380</param>
@@ -3122,7 +3122,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>ET-210 NP-U3</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">1</param>
+<param name="Количество внутренних отсеков 3,5">1</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Слоты расширения" unit="шт">7</param>
 <param name="Состояние">Новое</param>
@@ -3137,7 +3137,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">180 x 410 x 385</param>
-<param name="Кількість 2,5 "відсіків" unit="">4</param>
+<param name="Кількість 2,5 відсіків" unit="">4</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">148</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">320</param>
@@ -3160,7 +3160,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>ET-210 NP-2U3</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">5</param>
+<param name="Количество внутренних отсеков 3,5">5</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Рабочая станция</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -3197,7 +3197,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>MT-301U3-NP</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">1</param>
+<param name="Количество внутренних отсеков 3,5">1</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">4</param>
@@ -3213,7 +3213,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">368х173х365</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">330</param>
 <param name="Передняя панель" unit="">Пластик</param>
@@ -3233,7 +3233,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>MT-308-2U3</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">4</param>
+<param name="Количество внутренних отсеков 3,5">4</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Рабочая станция</param>
 <param name="Слоты расширения" unit="шт">4</param>
@@ -3247,7 +3247,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">368 x 173 x 380</param>
-<param name="Кількість 2,5 "відсіків" unit="">1</param>
+<param name="Кількість 2,5 відсіків" unit="">1</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">145</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">350</param>
@@ -3275,7 +3275,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>ZORRO COC White</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -3291,7 +3291,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">438 x 210 x 468</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">170</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">360</param>
@@ -3314,7 +3314,7 @@
 <vendor>Gamemax</vendor>
 <vendorCode>H601-WB</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">4</param>
 <param name="Состояние">Новое</param>
@@ -3328,7 +3328,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">188 x 440 x 407</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Матеріал боковини" unit="">Акрил</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">340</param>
 <param name="Місця під додаткові вентилятори/розташування" unit="">3х120мм / на передній панелі</param>
@@ -3349,7 +3349,7 @@
 <vendor>Vinga</vendor>
 <vendorCode>Vision II</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -3362,7 +3362,7 @@
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">450 x 200 x 383</param>
 <param name="Картрідер" unit="">Є</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">160</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">330</param>
@@ -3386,7 +3386,7 @@
 <vendor>Vinga</vendor>
 <vendorCode>CS213B</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">3</param>
+<param name="Количество внутренних отсеков 3,5">3</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -3400,7 +3400,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">430х330х210</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
+<param name="Кількість 2,5 відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">154</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">315</param>
@@ -3423,7 +3423,7 @@
 <vendor>Vinga</vendor>
 <vendorCode>Cobalt</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5"">3</param>
+<param name="Количество внутренних отсеков 3,5">3</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">8</param>
 <param name="Состояние">Новое</param>
@@ -3436,7 +3436,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">540 х 231 х 521</param>
-<param name="Кількість 2,5 "відсіків" unit="">5</param>
+<param name="Кількість 2,5 відсіків" unit="">5</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">180</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Материал корпуса" unit="">Металл</param>
@@ -3459,7 +3459,7 @@
 <vendor>Vinga</vendor>
 <vendorCode>Darklight</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -3471,7 +3471,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">230 х 470 х 430</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">175</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">400</param>
@@ -3492,7 +3492,7 @@
 <vendor>Vinga</vendor>
 <vendorCode>Astra</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">4</param>
@@ -3506,7 +3506,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">280 x 377 x 415</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
+<param name="Кількість 2,5 відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">157</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">400</param>
@@ -3528,7 +3528,7 @@
 <vendor>Vinga</vendor>
 <vendorCode>Black Widow</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Рабочая станция</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -3543,7 +3543,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">473х230х466</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
+<param name="Кількість 2,5 відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">180</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">415</param>
@@ -3566,7 +3566,7 @@
 <vendor>Vinga</vendor>
 <vendorCode>Winston</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Мультимедийный</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -3581,7 +3581,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">402х205х445</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
+<param name="Кількість 2,5 відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">163</param>
 <param name="Матеріал боковини" unit="">Акрил</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">400</param>
@@ -3604,7 +3604,7 @@
 <vendor>Vinga</vendor>
 <vendorCode>Sain 1</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Слоты расширения" unit="шт">7</param>
 <param name="Состояние">Новое</param>
@@ -3618,7 +3618,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">402х205х445</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
+<param name="Кількість 2,5 відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">163</param>
 <param name="Матеріал боковини" unit="">Акрил</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">400</param>
@@ -3676,7 +3676,7 @@
 <vendor>Vinga</vendor>
 <vendorCode>Tank</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">8</param>
@@ -3690,7 +3690,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">210х510х388</param>
-<param name="Кількість 2,5 "відсіків" unit="">7</param>
+<param name="Кількість 2,5 відсіків" unit="">7</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">165</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">380</param>
@@ -3713,7 +3713,7 @@
 <vendor>Vinga</vendor>
 <vendorCode>Pillar White</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">3</param>
+<param name="Количество внутренних отсеков 3,5">3</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -3728,7 +3728,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">215x480x425</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
+<param name="Кількість 2,5 відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">165</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">350</param>
@@ -3750,7 +3750,7 @@
 <vendor>Vinga</vendor>
 <vendorCode>Ghost</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -3764,7 +3764,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">200 х 455 х 365</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
+<param name="Кількість 2,5 відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">159</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">310</param>
@@ -3796,8 +3796,8 @@
 <param name="Габариты (мм)" unit="">210 x 510 x 490</param>
 <param name="Гарантія, міс" unit="">12</param>
 <param name="Цвет корпуса" unit="">Черный</param>
-<param name="Кількість 2,5 "відсіків" unit="">5</param>
-<param name="Кількість 3,5" відсіків внутрішніх" unit="">12</param>
+<param name="Кількість 2,5 відсіків" unit="">5</param>
+<param name="Кількість 3,5 відсіків внутрішніх" unit="">12</param>
 <param name="Кількість слотів розширення" unit="">8</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">163</param>
 <param name="Матеріал боковини" unit="">Акрил</param>
@@ -3825,7 +3825,7 @@
 <vendor>Vinga</vendor>
 <vendorCode>CS112B</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">3</param>
+<param name="Количество внутренних отсеков 3,5">3</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Слоты расширения" unit="шт">4</param>
 <param name="Состояние">Новое</param>
@@ -3838,7 +3838,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">185 x 352 x 372</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">150</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">330</param>
@@ -3861,7 +3861,7 @@
 <vendor>Vinga</vendor>
 <vendorCode>CS113-400W</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">1</param>
+<param name="Количество внутренних отсеков 3,5">1</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Слоты расширения" unit="шт">7</param>
 <param name="Состояние">Новое</param>
@@ -3874,7 +3874,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">207x412x347</param>
-<param name="Кількість 2,5 "відсіків" unit="">1</param>
+<param name="Кількість 2,5 відсіків" unit="">1</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">165</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">290</param>
@@ -3897,7 +3897,7 @@
 <vendor>Vinga</vendor>
 <vendorCode>Cello</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">5</param>
 <param name="Состояние">Новое</param>
@@ -3910,7 +3910,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">225 x 450 x 390</param>
-<param name="Кількість 2,5 "відсіків" unit="">1</param>
+<param name="Кількість 2,5 відсіків" unit="">1</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">168</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">360</param>
@@ -3933,7 +3933,7 @@
 <vendor>Vinga</vendor>
 <vendorCode>Manatee</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -3947,7 +3947,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">235 x 505 x 490</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">180</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">430</param>
@@ -3971,7 +3971,7 @@
 <vendor>Vinga</vendor>
 <vendorCode>Cage</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">5</param>
 <param name="Состояние">Новое</param>
@@ -3982,7 +3982,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">220 x 430 x 465</param>
-<param name="Кількість 2,5 "відсіків" unit="">1</param>
+<param name="Кількість 2,5 відсіків" unit="">1</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">165</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">380</param>
@@ -4004,7 +4004,7 @@
 <vendor>Vinga</vendor>
 <vendorCode>CS114-450W</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">1</param>
+<param name="Количество внутренних отсеков 3,5">1</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Слоты расширения" unit="шт">7</param>
 <param name="Состояние">Новое</param>
@@ -4015,7 +4015,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">173 x 410 x 370</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">150</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">330</param>
@@ -4039,7 +4039,7 @@
 <vendor>Vinga</vendor>
 <vendorCode>CS115-500W</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5"">1</param>
+<param name="Количество внутренних отсеков 3,5">1</param>
 <param name="Слоты расширения" unit="шт">7</param>
 <param name="Состояние">Новое</param>
 <param name="Типоразмер">Midi-Tower</param>
@@ -4048,7 +4048,7 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">173 x 410 x 370</param>
-<param name="Кількість 2,5 "відсіків" unit="">2</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">150</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">330</param>
@@ -4076,7 +4076,7 @@
 <param name="Форм-фактор">EATX</param>
 <param name="Назначение">Игровой</param>
 <param name="Материал корпуса">Сталь</param>
-<param name="Количество внутренних отсеков 3,5"">4</param>
+<param name="Количество внутренних отсеков 3,5">4</param>
 <param name="Количество USB-портов">2</param>
 <param name="Цвет корпуса">Белый</param>
 <param name="Состояние">Новое</param>
@@ -4103,7 +4103,7 @@
 <param name="Типоразмер">Midi-Tower</param>
 <param name="Форм-фактор">EATX</param>
 <param name="Назначение">Игровой</param>
-<param name="Количество внутренних отсеков 3,5"">8</param>
+<param name="Количество внутренних отсеков 3,5">8</param>
 <param name="Количество USB-портов">3</param>
 <param name="Цвет корпуса">Белый</param>
 <param name="Состояние">Новое</param>
@@ -4129,7 +4129,7 @@
 <param name="Форм-фактор">EATX</param>
 <param name="Назначение">Игровой</param>
 <param name="Материал корпуса">Сталь</param>
-<param name="Количество внутренних отсеков 3,5"">8</param>
+<param name="Количество внутренних отсеков 3,5">8</param>
 <param name="Количество USB-портов">3</param>
 <param name="Цвет корпуса">Белый</param>
 <param name="Состояние">Новое</param>
@@ -4159,7 +4159,7 @@
 <param name="Форм-фактор">EATX</param>
 <param name="Назначение">Игровой</param>
 <param name="Материал корпуса">Сталь</param>
-<param name="Количество внутренних отсеков 3,5"">8</param>
+<param name="Количество внутренних отсеков 3,5">8</param>
 <param name="Количество USB-портов">3</param>
 <param name="Цвет корпуса">Черный</param>
 <param name="Состояние">Новое</param>
@@ -4187,7 +4187,7 @@
 <param name="Форм-фактор">EATX</param>
 <param name="Назначение">Игровой</param>
 <param name="Материал корпуса">Сталь</param>
-<param name="Количество внутренних отсеков 3,5"">8</param>
+<param name="Количество внутренних отсеков 3,5">8</param>
 <param name="Количество USB-портов">3</param>
 <param name="Цвет корпуса">Черный</param>
 <param name="Состояние">Новое</param>
@@ -4213,7 +4213,7 @@
 <param name="Типоразмер">Mini (Micro)-Tower</param>
 <param name="Форм-фактор">Mini-ITX</param>
 <param name="Материал корпуса">Сталь</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Количество USB-портов">2</param>
 <param name="Цвет корпуса">Черный</param>
 <param name="Состояние">Новое</param>
@@ -4240,7 +4240,7 @@
 <param name="Типоразмер">Midi-Tower</param>
 <param name="Форм-фактор">ATX</param>
 <param name="Материал корпуса">Сталь</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Количество USB-портов">2</param>
 <param name="Цвет корпуса">Черный</param>
 <param name="Состояние">Новое</param>
@@ -4267,7 +4267,7 @@
 <param name="Типоразмер">Midi-Tower</param>
 <param name="Форм-фактор">ATX</param>
 <param name="Материал корпуса">Сталь</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Количество USB-портов">2</param>
 <param name="Цвет корпуса">Белый</param>
 <param name="Состояние">Новое</param>
@@ -4294,7 +4294,7 @@
 <param name="Типоразмер">Midi-Tower</param>
 <param name="Форм-фактор">ATX</param>
 <param name="Материал корпуса">Сталь</param>
-<param name="Количество внутренних отсеков 3,5"">2</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Количество USB-портов">2</param>
 <param name="Цвет корпуса">Черный</param>
 <param name="Состояние">Новое</param>
@@ -4321,7 +4321,7 @@
 <param name="Типоразмер">Full-Tower</param>
 <param name="Форм-фактор">ATX</param>
 <param name="Материал корпуса">Сталь</param>
-<param name="Количество внутренних отсеков 3,5"">4</param>
+<param name="Количество внутренних отсеков 3,5">4</param>
 <param name="Количество USB-портов">2</param>
 <param name="Цвет корпуса">Черный</param>
 <param name="Состояние">Новое</param>
@@ -4348,7 +4348,7 @@
 <param name="Типоразмер">Full-Tower</param>
 <param name="Форм-фактор">ATX</param>
 <param name="Материал корпуса">Сталь|Алюминий</param>
-<param name="Количество внутренних отсеков 3,5"">8</param>
+<param name="Количество внутренних отсеков 3,5">8</param>
 <param name="Количество USB-портов">2</param>
 <param name="Цвет корпуса">Белый</param>
 <param name="Состояние">Новое</param>
@@ -4375,7 +4375,7 @@
 <param name="Типоразмер">Full-Tower</param>
 <param name="Форм-фактор">ATX</param>
 <param name="Материал корпуса">Сталь|Алюминий</param>
-<param name="Количество внутренних отсеков 3,5"">4</param>
+<param name="Количество внутренних отсеков 3,5">4</param>
 <param name="Количество USB-портов">2</param>
 <param name="Особенности">Отсеки 2,5"</param>
 <param name="Цвет корпуса">Черный</param>
