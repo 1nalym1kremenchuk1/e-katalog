@@ -590,6 +590,7 @@
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Клавіатура Aula F87 White (6948391202464)</name>
+<vendor>Aula</vendor>
 <vendorCode>6948391202464</vendorCode>
 <param name="Тип">Клавиатура</param>
 <param name="Подключение устройства">Проводное</param>
