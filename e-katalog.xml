@@ -351,7 +351,7 @@
 <param name="Материал амбушюра">Пластик</param>
 <param name="Функция плеера">Нет</param>
 <param name="Цвет">Белый</param>
-<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
 <param name="Индикатор заряда батареи">Нет</param>
 <param name="Тип разъема" unit="">Bluetooth</param>
