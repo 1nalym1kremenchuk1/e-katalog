@@ -331,44 +331,6 @@
 <category id="85364281" parentId="85328850">Жорсткі диски</category>
 </categories>
 <offers>
-<offer id="2457000407" available="true">
-<url>https://tera-flops.com.ua/ua/p2457000407-navushniki-tws-apple.html</url>
-<price>7880</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763473</categoryId>
-<picture>https://images.prom.ua/6432045278_navushniki-tws-apple.jpg</picture>
-<picture>https://images.prom.ua/6432045279_navushniki-tws-apple.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Навушники TWS Apple AirPods 4 with Active Noise Cancellation (MXP93)</name>
-<vendor>Apple</vendor>
-<vendorCode>MXP93</vendorCode>
-<param name="Тип назначения">Наушники</param>
-<param name="Вид наушников">Вкладыши</param>
-<param name="Односторонняя гарнитура">Нет</param>
-<param name="Тип подключения">Bluetooth</param>
-<param name="Тип крепления">Без крепления</param>
-<param name="Материал амбушюра">Пластик</param>
-<param name="Функция плеера">Нет</param>
-<param name="Цвет">Белый</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Состояние">Новое</param>
-<param name="Индикатор заряда батареи">Нет</param>
-<param name="Тип разъема" unit="">Bluetooth</param>
-<param name="Комплектация" unit="">кейс-зарядка</param>
-<param name="Вес" unit="кг">4</param>
-<param name="Час роботи (музика) (год)" unit="">5</param>
-<param name="Матеріал амбушюр" unit="">Пластик</param>
-<param name="Тип крепежа" unit="">Внутрішньоканальні</param>
-<param name="Микрофон" unit="">вбудований у корпус</param>
-<param name="Источник питания" unit="">Акумулятор</param>
-<param name="Вхід зарядки" unit="">Lightning</param>
-<param name="Тип акустичного оформлення" unit="">Відкриті</param>
-<param name="Шумопоглинання мікрофона" unit="">Активне шумозаглушення (ANC)</param>
-<param name="Тип конструкции" unit="">Вкладиші</param>
-<param name="Тип излучателей" unit="">Динамічні</param>
-<param name="Час роботи (з кейсом) (год)" unit="">30</param>
-</offer>
 <offer id="2044886211" available="true">
 <url>https://tera-flops.com.ua/ua/p2044886211-klaviatura-aula-f3287.html</url>
 <price>880</price>
