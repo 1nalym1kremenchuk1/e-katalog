@@ -4707,44 +4707,6 @@
 <param name="Передняя панель" unit="">Загартоване скло</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2349043388" available="true">
-<url>https://tera-flops.com.ua/ua/p2349043388-korpus-vinga-pillar.html</url>
-<price>2025</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6347678795_korpus-vinga-pillar.jpg</picture>
-<picture>https://images.prom.ua/6390146263_korpus-vinga-pillar.jpg</picture>
-<picture>https://images.prom.ua/6347678803_korpus-vinga-pillar.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус Vinga Pillar White (Pillar White)</name>
-<vendor>Vinga</vendor>
-<vendorCode>Pillar White</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5">3</param>
-<param name="Материал корпуса">Сталь</param>
-<param name="Назначение">Игровой</param>
-<param name="Слоты расширения" unit="шт">7</param>
-<param name="Состояние">Новое</param>
-<param name="Типоразмер">Midi-Tower</param>
-<param name="Форм-фактор">Mini-ITX</param>
-<param name="Цвет корпуса">Белый</param>
-<param name="USB 3.2" unit="">2</param>
-<param name="USB Type-C" unit="">1</param>
-<param name="Блок питания" unit="">Нет</param>
-<param name="Вес (кг)" unit="">6,45</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="Вхід для мікрофона" unit="">Є</param>
-<param name="Габариты (мм)" unit="">215x480x425</param>
-<param name="Кількість 2,5 відсіків" unit="">3</param>
-<param name="Максимальна висота процесорного кулера (мм)" unit="">165</param>
-<param name="Матеріал боковини" unit="">Загартоване скло</param>
-<param name="Можливість встановлення довгих відеокарт (мм)" unit="">350</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">3х120 або 2х140 мм / передня панель, 2х120 мм / верхня панель, 1х120 мм / задня панель, 2х120 мм / нижня панель</param>
-<param name="Особенности" unit="">Пилові фільтри</param>
-<param name="Передняя панель" unit="">Гратчаста</param>
-<param name="Расположение" unit="">Нижнє</param>
-</offer>
 <offer id="2349043441" available="true">
 <url>https://tera-flops.com.ua/ua/p2349043441-korpus-vinga-galaxy.html</url>
 <price>1473</price>
