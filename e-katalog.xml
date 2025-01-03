@@ -567,7 +567,7 @@
 </offer>
 <offer id="2445073696" available="true">
 <url>https://tera-flops.com.ua/ua/p2445073696-klaviatura-1stplayer-mk8.html</url>
-<price>1015</price>
+<price>914</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763472</categoryId>
 <picture>https://images.prom.ua/6412647984_klaviatura-1stplayer-mk8.jpg</picture>
@@ -595,7 +595,7 @@
 </offer>
 <offer id="2456291408" available="true">
 <url>https://tera-flops.com.ua/ua/p2456291408-klaviatura-drotova-noxo.html</url>
-<price>789</price>
+<price>827</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763472</categoryId>
 <picture>https://images.prom.ua/6431088511_klaviatura-drotova-noxo.jpg</picture>
@@ -626,7 +626,7 @@
 </offer>
 <offer id="2456290429" available="true">
 <url>https://tera-flops.com.ua/ua/p2456290429-misha-vertux-katana.html</url>
-<price>498</price>
+<price>520</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431089054_misha-vertux-katana.jpg</picture>
@@ -656,7 +656,7 @@
 </offer>
 <offer id="2456290430" available="true">
 <url>https://tera-flops.com.ua/ua/p2456290430-misha-vertux-phoenix.html</url>
-<price>1081</price>
+<price>1123</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431089056_misha-vertux-phoenix.jpg</picture>
@@ -685,65 +685,9 @@
 <param name="Тип подключения" unit="">Дротове</param>
 <param name="Тип сенсора" unit="">Оптичний</param>
 </offer>
-<offer id="2450108769" available="true">
-<url>https://tera-flops.com.ua/ua/p2450108769-misha-bezdrotova-speedlink.html</url>
-<price>229</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763471</categoryId>
-<picture>https://images.prom.ua/6420661063_misha-bezdrotova-speedlink.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Миша бездротова SpeedLink Ceptica Black/Red (SL-630013-BKRD)</name>
-<vendor>SpeedLink</vendor>
-<vendorCode>SL-630013-BKRD</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Цвет">Черный</param>
-<param name="Назначение">Для ноутбука</param>
-<param name="Состояние">Новое</param>
-<param name="Подключение устройства">Беспроводное</param>
-<param name="Тип">Мышь</param>
-<param name="Интерфейс подключения" unit="">USB-A</param>
-<param name="Вага (г)" unit="">80</param>
-<param name="Питание" unit="">1xAA</param>
-<param name="Кнопка зміни DPI" unit="">Да</param>
-<param name="Количество кнопок" unit="">3</param>
-<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1600</param>
-<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">800</param>
-<param name="Розміри (мм)" unit="">100x65x37</param>
-<param name="Тип подключения" unit="">Бездротове</param>
-<param name="Тип сенсора" unit="">Оптичний</param>
-</offer>
-<offer id="2450109270" available="true">
-<url>https://tera-flops.com.ua/ua/p2450109270-misha-bezdrotova-speedlink.html</url>
-<price>229</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763471</categoryId>
-<picture>https://images.prom.ua/6420659615_misha-bezdrotova-speedlink.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Миша бездротова SpeedLink Ceptica Black (SL-630013-BKBK)</name>
-<vendor>SpeedLink</vendor>
-<vendorCode>SL-630013-BKBK</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Цвет">Черный</param>
-<param name="Назначение">Для ноутбука</param>
-<param name="Состояние">Новое</param>
-<param name="Тип">Мышь</param>
-<param name="Подключение устройства">Беспроводное</param>
-<param name="Интерфейс подключения" unit="">USB-A</param>
-<param name="Вага (г)" unit="">80</param>
-<param name="Питание" unit="">1xAA</param>
-<param name="Кнопка зміни DPI" unit="">Да</param>
-<param name="Количество кнопок" unit="">3</param>
-<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1600</param>
-<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">800</param>
-<param name="Розміри (мм)" unit="">100x65x37</param>
-<param name="Тип подключения" unit="">Бездротове</param>
-<param name="Тип сенсора" unit="">Оптичний</param>
-</offer>
 <offer id="2456291407" available="true">
 <url>https://tera-flops.com.ua/ua/p2456291407-misha-bezdrotova-speedlink.html</url>
-<price>246</price>
+<price>258</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431088524_misha-bezdrotova-speedlink.jpg</picture>
@@ -768,7 +712,7 @@
 </offer>
 <offer id="2456291409" available="true">
 <url>https://tera-flops.com.ua/ua/p2456291409-misha-bezdrotova-speedlink.html</url>
-<price>229</price>
+<price>240</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431088512_misha-bezdrotova-speedlink.jpg</picture>
@@ -796,7 +740,7 @@
 </offer>
 <offer id="2456291410" available="true">
 <url>https://tera-flops.com.ua/ua/p2456291410-misha-bezdrotova-speedlink.html</url>
-<price>245</price>
+<price>257</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431088513_misha-bezdrotova-speedlink.jpg</picture>
@@ -824,7 +768,7 @@
 </offer>
 <offer id="2450108774" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108774-misha-bezdrotova-real.html</url>
-<price>245</price>
+<price>256</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420659511_misha-bezdrotova-real-el.jpg</picture>
@@ -852,7 +796,7 @@
 </offer>
 <offer id="2450108808" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108808-misha-bezdrotova-real.html</url>
-<price>417</price>
+<price>437</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420659540_misha-bezdrotova-real-el.jpg</picture>
@@ -880,7 +824,7 @@
 </offer>
 <offer id="2450109220" available="true">
 <url>https://tera-flops.com.ua/ua/p2450109220-misha-bezdrotova-real.html</url>
-<price>434</price>
+<price>455</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431088503_misha-bezdrotova-real-el.jpg</picture>
@@ -908,7 +852,7 @@
 </offer>
 <offer id="2450109224" available="true">
 <url>https://tera-flops.com.ua/ua/p2450109224-misha-bezdrotova-real.html</url>
-<price>448</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420659553_misha-bezdrotova-real-el.jpg</picture>
@@ -934,7 +878,7 @@
 </offer>
 <offer id="2450109235" available="true">
 <url>https://tera-flops.com.ua/ua/p2450109235-misha-bezdrotova-real.html</url>
-<price>565</price>
+<price>591</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420659564_misha-bezdrotova-real-el.jpg</picture>
@@ -964,7 +908,7 @@
 </offer>
 <offer id="2456290424" available="true">
 <url>https://tera-flops.com.ua/ua/p2456290424-misha-real-295.html</url>
-<price>274</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431090183_misha-real-el-rm-295.jpg</picture>
@@ -994,7 +938,7 @@
 </offer>
 <offer id="2456290425" available="true">
 <url>https://tera-flops.com.ua/ua/p2456290425-misha-real-505.html</url>
-<price>238</price>
+<price>249</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431089785_misha-real-el-rm-505.jpg</picture>
@@ -1022,7 +966,7 @@
 </offer>
 <offer id="2456290426" available="true">
 <url>https://tera-flops.com.ua/ua/p2456290426-misha-real-520.html</url>
-<price>257</price>
+<price>269</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431090192_misha-real-el-rm-520.jpg</picture>
@@ -1051,7 +995,7 @@
 </offer>
 <offer id="2456290428" available="true">
 <url>https://tera-flops.com.ua/ua/p2456290428-misha-real-747.html</url>
-<price>492</price>
+<price>514</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431090196_misha-real-el-rm-747.jpg</picture>
@@ -1082,7 +1026,7 @@
 </offer>
 <offer id="2450108687" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108687-misha-bezdrotova-rapoo.html</url>
-<price>343</price>
+<price>359</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420660655_misha-bezdrotova-rapoo.jpg</picture>
@@ -1108,7 +1052,7 @@
 </offer>
 <offer id="2450108727" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108727-misha-bezdrotova-rapoo.html</url>
-<price>429</price>
+<price>448</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431088526_misha-bezdrotova-rapoo.jpg</picture>
@@ -1138,7 +1082,7 @@
 </offer>
 <offer id="2450109268" available="true">
 <url>https://tera-flops.com.ua/ua/p2450109268-misha-bezdrotova-rapoo.html</url>
-<price>502</price>
+<price>525</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420660662_misha-bezdrotova-rapoo.jpg</picture>
@@ -1162,7 +1106,7 @@
 </offer>
 <offer id="2456291364" available="true">
 <url>https://tera-flops.com.ua/ua/p2456291364-misha-bezdrotova-rapoo.html</url>
-<price>343</price>
+<price>359</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431088499_misha-bezdrotova-rapoo.jpg</picture>
@@ -1186,37 +1130,9 @@
 <param name="Тип сенсора" unit="">Оптичний</param>
 <param name="Время работы от аккумулятора" unit="">12 міс</param>
 </offer>
-<offer id="2450108773" available="true">
-<url>https://tera-flops.com.ua/ua/p2450108773-misha-bezdrotova-promate.html</url>
-<price>249</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763471</categoryId>
-<picture>https://images.prom.ua/6420661066_misha-bezdrotova-promate.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Миша бездротова Promate UniGlide Red</name>
-<vendor>Promate</vendor>
-<vendorCode>uniglide.red</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Цвет">Красный</param>
-<param name="Назначение">Для ноутбука</param>
-<param name="Состояние">Новое</param>
-<param name="Подключение устройства">Беспроводное</param>
-<param name="Тип">Мышь</param>
-<param name="Интерфейс подключения" unit="">USB-A</param>
-<param name="Питание" unit="">1xAA</param>
-<param name="Кнопка зміни DPI" unit="">Да</param>
-<param name="Количество кнопок" unit="">3</param>
-<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1600</param>
-<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">800</param>
-<param name="Розміри (мм)" unit="">108x68x39</param>
-<param name="Тип подключения" unit="">Бездротове</param>
-<param name="Тип сенсора" unit="">Оптичний</param>
-<param name="Время работы от аккумулятора" unit="">8 год</param>
-</offer>
 <offer id="2450108776" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108776-misha-bezdrotova-promate.html</url>
-<price>293</price>
+<price>458</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420659513_misha-bezdrotova-promate.jpg</picture>
@@ -1244,7 +1160,7 @@
 </offer>
 <offer id="2450108787" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108787-misha-bezdrotova-promate.html</url>
-<price>366</price>
+<price>382</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420659524_misha-bezdrotova-promate.jpg</picture>
@@ -1272,7 +1188,7 @@
 </offer>
 <offer id="2450108788" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108788-misha-bezdrotova-promate.html</url>
-<price>366</price>
+<price>382</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431088500_misha-bezdrotova-promate.jpg</picture>
@@ -1299,7 +1215,7 @@
 </offer>
 <offer id="2450109219" available="true">
 <url>https://tera-flops.com.ua/ua/p2450109219-misha-bezdrotova-promate.html</url>
-<price>439</price>
+<price>687</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420659548_misha-bezdrotova-promate.jpg</picture>
@@ -1328,7 +1244,7 @@
 </offer>
 <offer id="2450108658" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108658-misha-bezdrotova-frime.html</url>
-<price>262</price>
+<price>274</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420660657_misha-bezdrotova-frime.jpg</picture>
@@ -1351,38 +1267,9 @@
 <param name="Тип подключения" unit="">Бездротове</param>
 <param name="Тип сенсора" unit="">Оптичний</param>
 </offer>
-<offer id="2456290372" available="true">
-<url>https://tera-flops.com.ua/ua/p2456290372-misha-frime-black.html</url>
-<price>657</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763471</categoryId>
-<picture>https://images.prom.ua/6431089773_misha-frime-black.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Миша Frime Black Panther (FMP18100)</name>
-<vendor>Frime</vendor>
-<vendorCode>FMP18100</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Цвет">Черный</param>
-<param name="Состояние">Новое</param>
-<param name="Тип">Мышь</param>
-<param name="Интерфейс подключения" unit="">USB-A</param>
-<param name="Вага (г)" unit="">130</param>
-<param name="Питание" unit="">USB</param>
-<param name="Кнопка зміни DPI" unit="">Да</param>
-<param name="Конструкция" unit="">Ергономічна</param>
-<param name="Количество кнопок" unit="">3</param>
-<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">4 000</param>
-<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">4 000</param>
-<param name="Назначение" unit="">Ігрова</param>
-<param name="Підсвічування корпуса" unit="">RGB</param>
-<param name="Розміри (мм)" unit="">117x65x38</param>
-<param name="Тип подключения" unit="">Дротове</param>
-<param name="Тип сенсора" unit="">Оптичний</param>
-</offer>
 <offer id="2456290373" available="true">
 <url>https://tera-flops.com.ua/ua/p2456290373-misha-frime-conqueror.html</url>
-<price>443</price>
+<price>463</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431089774_misha-frime-conqueror.jpg</picture>
@@ -1414,7 +1301,7 @@
 </offer>
 <offer id="2456290374" available="true">
 <url>https://tera-flops.com.ua/ua/p2456290374-misha-frime-falcon.html</url>
-<price>262</price>
+<price>274</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431089776_misha-frime-falcon.jpg</picture>
@@ -1442,7 +1329,7 @@
 </offer>
 <offer id="2456290375" available="true">
 <url>https://tera-flops.com.ua/ua/p2456290375-misha-frime-hela.html</url>
-<price>309</price>
+<price>323</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431089783_misha-frime-hela.jpg</picture>
@@ -1472,7 +1359,7 @@
 </offer>
 <offer id="2456290376" available="true">
 <url>https://tera-flops.com.ua/ua/p2456290376-misha-frime-invader.html</url>
-<price>309</price>
+<price>323</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431089784_misha-frime-invader.jpg</picture>
@@ -1501,7 +1388,7 @@
 </offer>
 <offer id="2456290377" available="true">
 <url>https://tera-flops.com.ua/ua/p2456290377-misha-frime-smasher.html</url>
-<price>530</price>
+<price>554</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431835490_misha-frime-smasher.jpg</picture>
@@ -1535,7 +1422,7 @@
 </offer>
 <offer id="2450109229" available="true">
 <url>https://tera-flops.com.ua/ua/p2450109229-misha-bezdrotova-canyon.html</url>
-<price>468</price>
+<price>490</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420659558_misha-bezdrotova-canyon.jpg</picture>
@@ -1663,7 +1550,7 @@
 </offer>
 <offer id="2450108646" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108646-misha-bezdrotova-mf225.html</url>
-<price>296</price>
+<price>309</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420661031_misha-bezdrotova-2e.jpg</picture>
@@ -1691,7 +1578,7 @@
 </offer>
 <offer id="2450108717" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108717-misha-bezdrotova-mf280.html</url>
-<price>319</price>
+<price>334</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420659589_misha-bezdrotova-2e.jpg</picture>
@@ -1719,7 +1606,7 @@
 </offer>
 <offer id="2450108725" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108725-misha-bezdrotova-mf300.html</url>
-<price>371</price>
+<price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420659592_misha-bezdrotova-2e.jpg</picture>
@@ -1746,7 +1633,7 @@
 </offer>
 <offer id="2450108796" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108796-misha-bezdrotova-mf300.html</url>
-<price>411</price>
+<price>430</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420659531_misha-bezdrotova-2e.jpg</picture>
@@ -1774,7 +1661,7 @@
 </offer>
 <offer id="2450108798" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108798-misha-bezdrotova-mf300.html</url>
-<price>411</price>
+<price>430</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420659532_misha-bezdrotova-2e.jpg</picture>
@@ -1802,7 +1689,7 @@
 </offer>
 <offer id="2450108799" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108799-misha-bezdrotova-mf300.html</url>
-<price>411</price>
+<price>430</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420659533_misha-bezdrotova-2e.jpg</picture>
@@ -1829,7 +1716,7 @@
 </offer>
 <offer id="2450109267" available="true">
 <url>https://tera-flops.com.ua/ua/p2450109267-misha-bezdrotova-mf280.html</url>
-<price>375</price>
+<price>392</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420659585_misha-bezdrotova-2e.jpg</picture>
@@ -1880,7 +1767,7 @@
 </offer>
 <offer id="2456290350" available="true">
 <url>https://tera-flops.com.ua/ua/p2456290350-misha-gaming-hyperdrive.html</url>
-<price>789</price>
+<price>827</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431089781_misha-2e-gaming.jpg</picture>
@@ -1911,7 +1798,7 @@
 </offer>
 <offer id="2456290351" available="true">
 <url>https://tera-flops.com.ua/ua/p2456290351-misha-gaming-hyperspeed.html</url>
-<price>684</price>
+<price>716</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431089782_misha-2e-gaming.jpg</picture>
@@ -1939,39 +1826,9 @@
 <param name="Тип подключения" unit="">Дротове</param>
 <param name="Тип сенсора" unit="">Оптичний</param>
 </offer>
-<offer id="2456290353" available="true">
-<url>https://tera-flops.com.ua/ua/p2456290353-misha-gaming-mg310.html</url>
-<price>415</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763471</categoryId>
-<picture>https://images.prom.ua/6431090186_misha-2e-gaming.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Миша 2E Gaming MG310 LED Black (2E-MG310UB)</name>
-<vendor>2E</vendor>
-<vendorCode>2E-MG310UB</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Цвет">Черный</param>
-<param name="Состояние">Новое</param>
-<param name="Тип">Мышь</param>
-<param name="Интерфейс подключения" unit="">USB-A</param>
-<param name="Бічні кнопки" unit="">Да</param>
-<param name="Вага (г)" unit="">135</param>
-<param name="Питание" unit="">USB</param>
-<param name="Кнопка зміни DPI" unit="">Да</param>
-<param name="Конструкция" unit="">Ергономічна</param>
-<param name="Количество кнопок" unit="">7</param>
-<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">3 000</param>
-<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1 200</param>
-<param name="Назначение" unit="">Ігрова</param>
-<param name="Підсвічування корпуса" unit="">RGB</param>
-<param name="Розміри (мм)" unit="">122x70x41</param>
-<param name="Тип подключения" unit="">Дротове</param>
-<param name="Тип сенсора" unit="">Оптичний</param>
-</offer>
 <offer id="2456290354" available="true">
 <url>https://tera-flops.com.ua/ua/p2456290354-misha-gaming-mg320.html</url>
-<price>295</price>
+<price>309</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431090188_misha-2e-gaming.jpg</picture>
@@ -2001,7 +1858,7 @@
 </offer>
 <offer id="2456290355" available="true">
 <url>https://tera-flops.com.ua/ua/p2456290355-misha-gaming-mg330.html</url>
-<price>361</price>
+<price>378</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431090190_misha-2e-gaming.jpg</picture>
@@ -2032,7 +1889,7 @@
 </offer>
 <offer id="2456290356" available="true">
 <url>https://tera-flops.com.ua/ua/p2456290356-misha-gaming-mg340.html</url>
-<price>482</price>
+<price>505</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431090198_misha-2e-gaming.jpg</picture>
@@ -2063,7 +1920,7 @@
 </offer>
 <offer id="2456291363" available="true">
 <url>https://tera-flops.com.ua/ua/p2456291363-misha-bezdrotova-mf300.html</url>
-<price>329</price>
+<price>395</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431088497_misha-bezdrotova-2e.jpg</picture>
@@ -2188,7 +2045,7 @@
 </offer>
 <offer id="2308817846" available="true">
 <url>https://tera-flops.com.ua/ua/p2308817846-korpus-1stplayer-3r1.html</url>
-<price>1455</price>
+<price>1493</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175050879_korpus-1stplayer-f4-3r1.jpg</picture>
@@ -2221,7 +2078,7 @@
 </offer>
 <offer id="2308817852" available="true">
 <url>https://tera-flops.com.ua/ua/p2308817852-korpus-1stplayer-rainbow.html</url>
-<price>1500</price>
+<price>1541</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175050996_korpus-1stplayer-rainbow.jpg</picture>
@@ -2251,7 +2108,7 @@
 </offer>
 <offer id="2308817854" available="true">
 <url>https://tera-flops.com.ua/ua/p2308817854-korpus-1stplayer-3b1.html</url>
-<price>1264</price>
+<price>1297</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175051029_korpus-1stplayer-f4-3b1.jpg</picture>
@@ -2285,7 +2142,7 @@
 </offer>
 <offer id="2308818816" available="true">
 <url>https://tera-flops.com.ua/ua/p2308818816-korpus-1stplayer-mi6.html</url>
-<price>2660</price>
+<price>1910</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175327906_korpus-1stplayer-mi6-1f2-bk.jpg</picture>
@@ -2317,7 +2174,7 @@
 </offer>
 <offer id="2308818817" available="true">
 <url>https://tera-flops.com.ua/ua/p2308818817-korpus-1stplayer-mi6.html</url>
-<price>2400</price>
+<price>1910</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175327917_korpus-1stplayer-mi6-1f2-w-wh.jpg</picture>
@@ -2349,7 +2206,7 @@
 </offer>
 <offer id="2308818947" available="true">
 <url>https://tera-flops.com.ua/ua/p2308818947-korpus-1stplayer-mi7.html</url>
-<price>2478</price>
+<price>2546</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/X6cigFGImrQOd0OMrMUUeWLezsmozejM7aNJ0754jxE=/6175051949_korpus-1stplayer-mi7-a-2f2r-1f2.jpg</picture>
@@ -2386,7 +2243,7 @@
 </offer>
 <offer id="2308819635" available="true">
 <url>https://tera-flops.com.ua/ua/p2308819635-korpus-1stplayer-4f2ap.html</url>
-<price>2370</price>
+<price>2438</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175133608_korpus-1stplayer-t7-p-4f2ap.jpg</picture>
@@ -2427,7 +2284,7 @@
 </offer>
 <offer id="2308819637" available="true">
 <url>https://tera-flops.com.ua/ua/p2308819637-korpus-1stplayer-4f1.html</url>
-<price>1729</price>
+<price>1775</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175134794_korpus-1stplayer-x2-m-4f1.jpg</picture>
@@ -2466,7 +2323,7 @@
 </offer>
 <offer id="2308819638" available="true">
 <url>https://tera-flops.com.ua/ua/p2308819638-korpus-1stplayer-4f2.html</url>
-<price>1790</price>
+<price>1836</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175134818_korpus-1stplayer-x2-m-4f2.jpg</picture>
@@ -2507,7 +2364,7 @@
 </offer>
 <offer id="2321321320" available="true">
 <url>https://tera-flops.com.ua/ua/p2321321320-korpus-1stplayer-fd3.html</url>
-<price>1908</price>
+<price>1962</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6224365249_korpus-1stplayer-fd3-4f2.jpg</picture>
@@ -2548,7 +2405,7 @@
 </offer>
 <offer id="2308818770" available="true">
 <url>https://tera-flops.com.ua/ua/p2308818770-korpus-aerocool-aero.html</url>
-<price>2839</price>
+<price>1910</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175240661_korpus-aerocool-aero.jpg</picture>
@@ -2591,7 +2448,7 @@
 </offer>
 <offer id="2308818771" available="true">
 <url>https://tera-flops.com.ua/ua/p2308818771-korpus-aerocool-aero.html</url>
-<price>2250</price>
+<price>1910</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175240699_korpus-aerocool-aero.jpg</picture>
@@ -2623,7 +2480,7 @@
 </offer>
 <offer id="2308818775" available="true">
 <url>https://tera-flops.com.ua/ua/p2308818775-korpus-aerocool-aero.html</url>
-<price>1517</price>
+<price>1432</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175240776_korpus-aerocool-aero.jpg</picture>
@@ -2655,7 +2512,7 @@
 </offer>
 <offer id="2308818777" available="true">
 <url>https://tera-flops.com.ua/ua/p2308818777-korpus-aerocool-ore.html</url>
-<price>2011</price>
+<price>2069</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175240824_korpus-aerocool-ore.jpg</picture>
@@ -2692,7 +2549,7 @@
 </offer>
 <offer id="2308818778" available="true">
 <url>https://tera-flops.com.ua/ua/p2308818778-korpus-aerocool-skribble.html</url>
-<price>2366</price>
+<price>1527</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175240835_korpus-aerocool-skribble-g-bk-v1.jpg</picture>
@@ -2735,7 +2592,7 @@
 </offer>
 <offer id="2308818779" available="true">
 <url>https://tera-flops.com.ua/ua/p2308818779-korpus-aerocool-zauron.html</url>
-<price>1721</price>
+<price>1770</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175240875_korpus-aerocool-zauron.jpg</picture>
@@ -2780,7 +2637,7 @@
 </offer>
 <offer id="2308818788" available="true">
 <url>https://tera-flops.com.ua/ua/p2308818788-korpus-aerocool-cronus.html</url>
-<price>1749</price>
+<price>1799</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175293781_korpus-aerocool-cronus-g-bk-v1.jpg</picture>
@@ -2822,7 +2679,7 @@
 </offer>
 <offer id="2308818797" available="true">
 <url>https://tera-flops.com.ua/ua/p2308818797-korpus-aerocool-cylon.html</url>
-<price>1388</price>
+<price>1426</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175327436_korpus-aerocool-cylon.jpg</picture>
@@ -2861,7 +2718,7 @@
 </offer>
 <offer id="2308818798" available="true">
 <url>https://tera-flops.com.ua/ua/p2308818798-korpus-aerocool-quantum.html</url>
-<price>1693</price>
+<price>1737</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175327452_korpus-aerocool-quantum.jpg</picture>
@@ -2905,7 +2762,7 @@
 </offer>
 <offer id="2308818832" available="true">
 <url>https://tera-flops.com.ua/ua/p2308818832-korpus-aerocool-bionic.html</url>
-<price>1606</price>
+<price>1652</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6174970306_korpus-aerocool-bionic-g-bk-v2.jpg</picture>
@@ -2948,7 +2805,7 @@
 </offer>
 <offer id="2308818833" available="true">
 <url>https://tera-flops.com.ua/ua/p2308818833-korpus-aerocool-bionic.html</url>
-<price>1606</price>
+<price>1652</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6174970317_korpus-aerocool-bionic-g-wt-v2.jpg</picture>
@@ -2985,7 +2842,7 @@
 </offer>
 <offer id="2308818835" available="true">
 <url>https://tera-flops.com.ua/ua/p2308818835-korpus-aerocool-delta.html</url>
-<price>1365</price>
+<price>1404</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6174970324_korpus-aerocool-delta-g-bk-v1.jpg</picture>
@@ -3022,7 +2879,7 @@
 </offer>
 <offer id="2308818887" available="true">
 <url>https://tera-flops.com.ua/ua/p2308818887-korpus-aerocool-aero.html</url>
-<price>2423</price>
+<price>2492</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175134068_korpus-aerocool-aero.jpg</picture>
@@ -3063,7 +2920,7 @@
 </offer>
 <offer id="2308818945" available="true">
 <url>https://tera-flops.com.ua/ua/p2308818945-korpus-aerocool-falcon.html</url>
-<price>2032</price>
+<price>2090</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175051920_korpus-aerocool-falcon.jpg</picture>
@@ -3097,7 +2954,7 @@
 </offer>
 <offer id="2308818972" available="true">
 <url>https://tera-flops.com.ua/ua/p2308818972-korpus-aerocool-splinter.html</url>
-<price>2837</price>
+<price>2918</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175133418_korpus-aerocool-splinter.jpg</picture>
@@ -3139,7 +2996,7 @@
 </offer>
 <offer id="2423580336" available="true">
 <url>https://tera-flops.com.ua/ua/p2423580336-korpus-aerocool-tern.html</url>
-<price>2218</price>
+<price>2282</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6390148303_korpus-aerocool-tern.jpg</picture>
@@ -3178,7 +3035,7 @@
 </offer>
 <offer id="2308816838" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816838-korpus-gamemax-mt508.html</url>
-<price>923</price>
+<price>969</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175190413_korpus-gamemax-mt508-np.jpg</picture>
@@ -3211,7 +3068,7 @@
 </offer>
 <offer id="2308816848" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816848-korpus-gamemax-209.html</url>
-<price>1457</price>
+<price>1505</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6224399736_korpus-gamemax-et-209.jpg</picture>
@@ -3244,7 +3101,7 @@
 </offer>
 <offer id="2308816854" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816854-korpus-gamemax-212.html</url>
-<price>1670</price>
+<price>1723</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6224399743_korpus-gamemax-et-212.jpg</picture>
@@ -3279,7 +3136,7 @@
 </offer>
 <offer id="2308816864" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816864-korpus-gamemax-g510.html</url>
-<price>3103</price>
+<price>3204</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/4621207413_korpus-gamemax-g510.jpg</picture>
@@ -3315,7 +3172,7 @@
 </offer>
 <offer id="2308816865" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816865-korpus-gamemax-g510.html</url>
-<price>3200</price>
+<price>3304</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175190740_korpus-gamemax-g510.jpg</picture>
@@ -3352,7 +3209,7 @@
 </offer>
 <offer id="2308816867" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816867-korpus-gamemax-g515.html</url>
-<price>1838</price>
+<price>2090</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6224399769_korpus-gamemax-g515.jpg</picture>
@@ -3390,7 +3247,7 @@
 </offer>
 <offer id="2308816869" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816869-korpus-gamemax-g563.html</url>
-<price>1817</price>
+<price>1873</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175190774_korpus-gamemax-g563.jpg</picture>
@@ -3429,7 +3286,7 @@
 </offer>
 <offer id="2308816870" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816870-korpus-gamemax-abyss.html</url>
-<price>3968</price>
+<price>4011</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175190781_korpus-gamemax-abyss-tr.jpg</picture>
@@ -3468,7 +3325,7 @@
 </offer>
 <offer id="2308816873" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816873-korpus-gamemax-master.html</url>
-<price>3916</price>
+<price>3968</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175190888_korpus-gamemax-master.jpg</picture>
@@ -3507,7 +3364,7 @@
 </offer>
 <offer id="2308816875" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816875-korpus-gamemax-h608.html</url>
-<price>2153</price>
+<price>2225</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175190924_korpus-gamemax-h608.jpg</picture>
@@ -3545,7 +3402,7 @@
 </offer>
 <offer id="2308816878" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816878-korpus-gamemax-fortress.html</url>
-<price>1956</price>
+<price>2036</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175191101_korpus-gamemax-fortress.jpg</picture>
@@ -3584,7 +3441,7 @@
 </offer>
 <offer id="2308816880" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816880-korpus-gamemax-silent.html</url>
-<price>4280</price>
+<price>4320</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175191124_korpus-gamemax-silent.jpg</picture>
@@ -3623,7 +3480,7 @@
 </offer>
 <offer id="2308816893" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816893-korpus-gamemax-g562.html</url>
-<price>1698</price>
+<price>1751</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175191420_korpus-gamemax-g562.jpg</picture>
@@ -3662,7 +3519,7 @@
 </offer>
 <offer id="2308816902" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816902-korpus-gamemax-g509.html</url>
-<price>2165</price>
+<price>2272</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175191509_korpus-gamemax-g509.jpg</picture>
@@ -3701,7 +3558,7 @@
 </offer>
 <offer id="2308816913" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816913-korpus-gamemax-moonlight.html</url>
-<price>1910</price>
+<price>1977</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175191599_korpus-gamemax-moonlight.jpg</picture>
@@ -3738,7 +3595,7 @@
 </offer>
 <offer id="2308816928" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816928-korpus-gamemax-cyclops.html</url>
-<price>1867</price>
+<price>2225</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6224399971_korpus-gamemax-cyclops.jpg</picture>
@@ -3774,47 +3631,9 @@
 <param name="Передняя панель" unit="">Сталь</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2308817667" available="true">
-<url>https://tera-flops.com.ua/ua/p2308817667-korpus-gamemax-m60.html</url>
-<price>1887</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6175240467_korpus-gamemax-m60.jpg</picture>
-<picture>https://images.prom.ua/6175240470_korpus-gamemax-m60.jpg</picture>
-<picture>https://images.prom.ua/6224418264_korpus-gamemax-m60.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус GAMEMAX M60 White (M60 White)</name>
-<vendor>Gamemax</vendor>
-<vendorCode>M60 White</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5">2</param>
-<param name="Материал корпуса">Сталь</param>
-<param name="Назначение">Игровой</param>
-<param name="Слоты расширения" unit="шт">4</param>
-<param name="Состояние">Новое</param>
-<param name="Типоразмер">Mini (Micro)-Tower</param>
-<param name="Форм-фактор">Mini-ITX</param>
-<param name="Цвет корпуса">Белый</param>
-<param name="USB 2.0" unit="">2</param>
-<param name="USB 3.2" unit="">1</param>
-<param name="Блок питания" unit="">Нет</param>
-<param name="Вбудовані вентилятори/розташування" unit="">задня панель / 1x120 мм</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="Вхід для мікрофона" unit="">Є</param>
-<param name="Габариты (мм)" unit="">410 x 193 x 389</param>
-<param name="Кількість 2,5 відсіків" unit="">2</param>
-<param name="Максимальна висота процесорного кулера (мм)" unit="">155</param>
-<param name="Матеріал боковини" unit="">Металева сітка</param>
-<param name="Можливість встановлення довгих відеокарт (мм)" unit="">340</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">верxняя панель / 2x120 мм</param>
-<param name="Особенности" unit="">Пилові фільтри</param>
-<param name="Передняя панель" unit="">Суцільна</param>
-<param name="Расположение" unit="">Нижнє</param>
-</offer>
 <offer id="2308817670" available="true">
 <url>https://tera-flops.com.ua/ua/p2308817670-korpus-gamemax-storm.html</url>
-<price>1811</price>
+<price>1894</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175240497_korpus-gamemax-storm.jpg</picture>
@@ -3852,7 +3671,7 @@
 </offer>
 <offer id="2308817675" available="true">
 <url>https://tera-flops.com.ua/ua/p2308817675-korpus-gamemax-destroyer.html</url>
-<price>3221</price>
+<price>3361</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175240575_korpus-gamemax-destroyer.jpg</picture>
@@ -3885,7 +3704,7 @@
 </offer>
 <offer id="2308817694" available="true">
 <url>https://tera-flops.com.ua/ua/p2308817694-korpus-gamemax-dark.html</url>
-<price>2577</price>
+<price>2651</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6224427907_korpus-gamemax-dark.jpg</picture>
@@ -3923,7 +3742,7 @@
 </offer>
 <offer id="2308818966" available="true">
 <url>https://tera-flops.com.ua/ua/p2308818966-korpus-gamemax-308.html</url>
-<price>1195</price>
+<price>1238</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6174970594_korpus-gamemax-mt-308-2u3.jpg</picture>
@@ -3959,7 +3778,7 @@
 </offer>
 <offer id="2308819001" available="true">
 <url>https://tera-flops.com.ua/ua/p2308819001-korpus-gamemax-zorro.html</url>
-<price>2966</price>
+<price>2780</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6224365223_korpus-gamemax-zorro.jpg</picture>
@@ -4004,7 +3823,7 @@
 </offer>
 <offer id="2321306547" available="true">
 <url>https://tera-flops.com.ua/ua/p2321306547-korpus-gamemax-h601.html</url>
-<price>1641</price>
+<price>1694</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6390149541_korpus-gamemax-h601.jpg</picture>
@@ -4040,7 +3859,7 @@
 </offer>
 <offer id="2308816719" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816719-korpus-vinga-vision.html</url>
-<price>1009</price>
+<price>1120</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6174970553_korpus-vinga-vision.jpg</picture>
@@ -4074,46 +3893,9 @@
 <param name="Расположение" unit="">Нижнє</param>
 <param name="Форм-фактор" unit="">microATX</param>
 </offer>
-<offer id="2308816724" available="true">
-<url>https://tera-flops.com.ua/ua/p2308816724-korpus-vinga-cs213b.html</url>
-<price>1135</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6224458427_korpus-vinga-cs213b.jpg</picture>
-<picture>https://images.prom.ua/6175327335_korpus-vinga-cs213b.jpg</picture>
-<picture>https://images.prom.ua/6175327339_korpus-vinga-cs213b.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус Vinga CS213B (CS213B)</name>
-<vendor>Vinga</vendor>
-<vendorCode>CS213B</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5">3</param>
-<param name="Материал корпуса">Сталь</param>
-<param name="Назначение">Игровой</param>
-<param name="Слоты расширения" unit="шт">7</param>
-<param name="Состояние">Новое</param>
-<param name="Типоразмер">Midi-Tower</param>
-<param name="Форм-фактор">Mini-ITX</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="USB 2.0" unit="">2</param>
-<param name="USB 3.2" unit="">1</param>
-<param name="Блок питания" unit="">Нет</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="Вхід для мікрофона" unit="">Є</param>
-<param name="Габариты (мм)" unit="">430х330х210</param>
-<param name="Кількість 2,5 відсіків" unit="">3</param>
-<param name="Максимальна висота процесорного кулера (мм)" unit="">154</param>
-<param name="Матеріал боковини" unit="">Загартоване скло</param>
-<param name="Можливість встановлення довгих відеокарт (мм)" unit="">315</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">3x120мм або 2x140мм / на передній панелі, 2x120мм / верхня панель, 1x120мм / позаду</param>
-<param name="Особенности" unit="">Пилові фільтри</param>
-<param name="Передняя панель" unit="">Сталь</param>
-<param name="Расположение" unit="">Нижнє</param>
-</offer>
 <offer id="2308817829" available="true">
 <url>https://tera-flops.com.ua/ua/p2308817829-korpus-vinga-cobalt.html</url>
-<price>2692</price>
+<price>2769</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6174970660_korpus-vinga-cobalt.jpg</picture>
@@ -4149,7 +3931,7 @@
 </offer>
 <offer id="2308818791" available="true">
 <url>https://tera-flops.com.ua/ua/p2308818791-korpus-vinga-darklight.html</url>
-<price>1762</price>
+<price>2296</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175293831_korpus-vinga-darklight.jpg</picture>
@@ -4184,7 +3966,7 @@
 </offer>
 <offer id="2308818792" available="true">
 <url>https://tera-flops.com.ua/ua/p2308818792-korpus-vinga-astra.html</url>
-<price>1796</price>
+<price>1843</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6224458420_korpus-vinga-astra.jpg</picture>
@@ -4219,7 +4001,7 @@
 </offer>
 <offer id="2349043195" available="true">
 <url>https://tera-flops.com.ua/ua/p2349043195-korpus-vinga-black.html</url>
-<price>1749</price>
+<price>1799</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6390143815_korpus-vinga-black.jpg</picture>
@@ -4256,7 +4038,7 @@
 </offer>
 <offer id="2349043202" available="true">
 <url>https://tera-flops.com.ua/ua/p2349043202-korpus-vinga-winston.html</url>
-<price>1174</price>
+<price>1207</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6347672202_korpus-vinga-winston.jpg</picture>
@@ -4294,7 +4076,7 @@
 </offer>
 <offer id="2349043203" available="true">
 <url>https://tera-flops.com.ua/ua/p2349043203-korpus-vinga-sain.html</url>
-<price>1174</price>
+<price>1207</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6347672205_korpus-vinga-sain.jpg</picture>
@@ -4331,7 +4113,7 @@
 </offer>
 <offer id="2349043225" available="true">
 <url>https://tera-flops.com.ua/ua/p2349043225-korpus-vinga-limpid.html</url>
-<price>2048</price>
+<price>2107</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6347674704_korpus-vinga-limpid.jpg</picture>
@@ -4366,7 +4148,7 @@
 </offer>
 <offer id="2349043241" available="true">
 <url>https://tera-flops.com.ua/ua/p2349043241-korpus-vinga-tank.html</url>
-<price>1887</price>
+<price>1941</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6347674755_korpus-vinga-tank.jpg</picture>
@@ -4403,7 +4185,7 @@
 </offer>
 <offer id="2349043441" available="true">
 <url>https://tera-flops.com.ua/ua/p2349043441-korpus-vinga-galaxy.html</url>
-<price>1220</price>
+<price>1255</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6347680441_korpus-vinga-galaxy.jpg</picture>
@@ -4439,45 +4221,9 @@
 <param name="Типоразмер" unit="">Midi-Tower</param>
 <param name="Форм-фактор материнської плати" unit="">Mini-ITX</param>
 </offer>
-<offer id="2349043448" available="true">
-<url>https://tera-flops.com.ua/ua/p2349043448-korpus-vinga-cs112b.html</url>
-<price>1128</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6390147258_korpus-vinga-cs112b.jpg</picture>
-<picture>https://images.prom.ua/6390147259_korpus-vinga-cs112b.jpg</picture>
-<picture>https://images.prom.ua/6390147260_korpus-vinga-cs112b.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус Vinga CS112B (CS112B)</name>
-<vendor>Vinga</vendor>
-<vendorCode>CS112B</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5">3</param>
-<param name="Материал корпуса">Сталь</param>
-<param name="Слоты расширения" unit="шт">4</param>
-<param name="Состояние">Новое</param>
-<param name="Типоразмер">Mini (Micro)-Tower</param>
-<param name="Форм-фактор">Mini-ITX</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="USB 2.0" unit="">2</param>
-<param name="Блок питания" unit="">400W</param>
-<param name="Вес (кг)" unit="">2,4</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="Вхід для мікрофона" unit="">Є</param>
-<param name="Габариты (мм)" unit="">185 x 352 x 372</param>
-<param name="Кількість 2,5 відсіків" unit="">2</param>
-<param name="Максимальна висота процесорного кулера (мм)" unit="">150</param>
-<param name="Матеріал боковини" unit="">Сталь</param>
-<param name="Можливість встановлення довгих відеокарт (мм)" unit="">330</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">передня панель/1x120 мм, задня панель/1x80 мм</param>
-<param name="Назначение" unit="">Офісний</param>
-<param name="Передняя панель" unit="">Пластик</param>
-<param name="Расположение" unit="">Верхнє</param>
-</offer>
 <offer id="2349043569" available="true">
 <url>https://tera-flops.com.ua/ua/p2349043569-korpus-vinga-cs113.html</url>
-<price>1220</price>
+<price>1255</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6347686273_korpus-vinga-cs113-400w.jpg</picture>
@@ -4513,7 +4259,7 @@
 </offer>
 <offer id="2349043642" available="true">
 <url>https://tera-flops.com.ua/ua/p2349043642-korpus-vinga-manatee.html</url>
-<price>2945</price>
+<price>3029</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6347697995_korpus-vinga-manatee.jpg</picture>
@@ -4551,7 +4297,7 @@
 </offer>
 <offer id="2412991174" available="true">
 <url>https://tera-flops.com.ua/ua/p2412991174-korpus-vinga-cs114.html</url>
-<price>1542</price>
+<price>1586</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6390151482_korpus-vinga-cs114-450w.jpg</picture>
@@ -4610,90 +4356,6 @@
 <param name="Глубина" unit="мм">238</param>
 <param name="Вес" unit="кг">12.63</param>
 </offer>
-<offer id="1966498781" available="true">
-<url>https://tera-flops.com.ua/ua/p1966498781-korpus-lian-lancool.html</url>
-<price>7740</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/4920652486_korpus-lian-li.jpg</picture>
-<picture>https://images.prom.ua/4920652496_korpus-lian-li.jpg</picture>
-<picture>https://images.prom.ua/4920652482_korpus-lian-li.jpg</picture>
-<picture>https://images.prom.ua/4920652483_korpus-lian-li.jpg</picture>
-<picture>https://images.prom.ua/4920652488_korpus-lian-li.jpg</picture>
-<picture>https://images.prom.ua/4920652473_korpus-lian-li.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус LIAN LI Lancool III RGB Black (G99.LAN3RX.00) (DW)</name>
-<vendor>Lian Li</vendor>
-<vendorCode>G99.LAN3RX.00</vendorCode>
-<param name="Типоразмер">Midi-Tower</param>
-<param name="Форм-фактор">EATX</param>
-<param name="Назначение">Игровой</param>
-<param name="Материал корпуса">Сталь</param>
-<param name="Количество внутренних отсеков 3,5">8</param>
-<param name="Количество USB-портов">3</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="Состояние">Новое</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Ширина" unit="мм">523</param>
-<param name="Высота" unit="мм">526</param>
-<param name="Глубина" unit="мм">238</param>
-<param name="Вес" unit="кг">12.63</param>
-</offer>
-<offer id="2025804027" available="true">
-<url>https://tera-flops.com.ua/ua/p2025804027-korpus-lian-h2o.html</url>
-<price>8420</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/5129789086_korpus-lian-li.jpg</picture>
-<picture>https://images.prom.ua/5129789072_korpus-lian-li.jpg</picture>
-<picture>https://images.prom.ua/5129789071_korpus-lian-li.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус LIAN LI A4 H2O PCIE 4.0 included Black (G99.A4H2OX4.00) (DW)</name>
-<vendor>Lian Li</vendor>
-<vendorCode>G99.A4H2OX4.00</vendorCode>
-<param name="Типоразмер">Mini (Micro)-Tower</param>
-<param name="Форм-фактор">Mini-ITX</param>
-<param name="Материал корпуса">Сталь</param>
-<param name="Количество внутренних отсеков 3,5">2</param>
-<param name="Количество USB-портов">2</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="Состояние">Новое</param>
-<param name="Слоты расширения" unit="шт">3</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Ширина" unit="мм">326</param>
-<param name="Высота" unit="мм">244</param>
-<param name="Глубина" unit="мм">140</param>
-<param name="Вес" unit="кг">3.1</param>
-</offer>
-<offer id="2025810659" available="true">
-<url>https://tera-flops.com.ua/ua/p2025810659-korpus-lian-lancool.html</url>
-<price>3870</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/5129803370_korpus-lian-li.jpg</picture>
-<picture>https://images.prom.ua/5129803367_korpus-lian-li.jpg</picture>
-<picture>https://images.prom.ua/5129803369_korpus-lian-li.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус LIAN LI LANCOOL 215 Black (G99.LAN215X.00) (DW)</name>
-<vendor>Lian Li</vendor>
-<vendorCode>G99.LAN215X.00</vendorCode>
-<param name="Типоразмер">Midi-Tower</param>
-<param name="Форм-фактор">ATX</param>
-<param name="Материал корпуса">Сталь</param>
-<param name="Количество внутренних отсеков 3,5">2</param>
-<param name="Количество USB-портов">2</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="Состояние">Новое</param>
-<param name="Слоты расширения" unit="шт">7</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Ширина" unit="мм">462</param>
-<param name="Высота" unit="мм">215</param>
-<param name="Глубина" unit="мм">482</param>
-<param name="Вес" unit="кг">8</param>
-</offer>
 <offer id="2025813878" available="true">
 <url>https://tera-flops.com.ua/ua/p2025813878-korpus-lian-lancool.html</url>
 <price>4260</price>
@@ -4720,33 +4382,6 @@
 <param name="Высота" unit="мм">235</param>
 <param name="Глубина" unit="мм">491.7</param>
 <param name="Вес" unit="кг">10.5</param>
-</offer>
-<offer id="2025827195" available="true">
-<url>https://tera-flops.com.ua/ua/p2025827195-korpus-lian-v3000plus.html</url>
-<price>24200</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/5129848374_korpus-lian-li.jpg</picture>
-<picture>https://images.prom.ua/5129848377_korpus-lian-li.jpg</picture>
-<picture>https://images.prom.ua/5129848373_korpus-lian-li.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус LIAN LI V3000PLUS Dual System White (G99.V3000PW.00) (DW)</name>
-<vendor>Lian Li</vendor>
-<vendorCode>G99.V3000PW.00</vendorCode>
-<param name="Типоразмер">Full-Tower</param>
-<param name="Форм-фактор">ATX</param>
-<param name="Материал корпуса">Сталь|Алюминий</param>
-<param name="Количество внутренних отсеков 3,5">8</param>
-<param name="Количество USB-портов">2</param>
-<param name="Цвет корпуса">Белый</param>
-<param name="Состояние">Новое</param>
-<param name="Слоты расширения" unit="шт">8</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Ширина" unit="мм">678.5</param>
-<param name="Высота" unit="мм">279</param>
-<param name="Глубина" unit="мм">674</param>
-<param name="Вес" unit="кг">33</param>
 </offer>
 <offer id="2386075172" available="true">
 <url>https://tera-flops.com.ua/ua/p2386075172-akumulyator-dlya-dbzh.html</url>
