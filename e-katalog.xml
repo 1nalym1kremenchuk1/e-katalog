@@ -5147,7 +5147,7 @@
 </offer>
 <offer id="2222509161" available="true">
 <url>https://tera-flops.com.ua/ua/p2222509161-povitryane-oholodzhennya-jiushark.html</url>
-<price>2100</price>
+<price>2000</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649259</categoryId>
 <picture>https://images.prom.ua/FHMw5-BfnmmsJKfvXa_-37Fy1dLGbJu80rd5R5exQm8=/5857704796_povitryane-oholodzhennya-jiushark.jpg</picture>
@@ -5170,7 +5170,7 @@
 </offer>
 <offer id="2222509162" available="true">
 <url>https://tera-flops.com.ua/ua/p2222509162-povitryane-oholodzhennya-dlya.html</url>
-<price>720</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>131271458</categoryId>
 <picture>https://images.prom.ua/ooaMqtlqK8bMqNo-kHNdI6awLoLpsnzE05UqXYtiGxg=/6403805721_povitryane-oholodzhennya-dlya.jpg</picture>
@@ -5201,7 +5201,7 @@
 </offer>
 <offer id="2222509164" available="true">
 <url>https://tera-flops.com.ua/ua/p2222509164-povitryane-oholodzhennya-dlya.html</url>
-<price>825</price>
+<price>600</price>
 <currencyId>UAH</currencyId>
 <categoryId>131271458</categoryId>
 <picture>https://images.prom.ua/ow68W91WDAd3vzante1-UL8RQ35d3Z83FRML2PkhCFQ=/5857704820_povitryane-oholodzhennya-dlya.jpg</picture>
@@ -5232,7 +5232,7 @@
 </offer>
 <offer id="2222509165" available="true">
 <url>https://tera-flops.com.ua/ua/p2222509165-povitryane-oholodzhennya-dlya.html</url>
-<price>650</price>
+<price>400</price>
 <currencyId>UAH</currencyId>
 <categoryId>131271458</categoryId>
 <picture>https://images.prom.ua/FRRxTLc0mlZPk8MWGtrI2wFKQix9faSE9YBfqXnza5Q=/5857704829_povitryane-oholodzhennya-dlya.jpg</picture>
@@ -5260,7 +5260,7 @@
 </offer>
 <offer id="2224537596" available="true">
 <url>https://tera-flops.com.ua/ua/p2224537596-povitryane-oholodzhennya-jiushark.html</url>
-<price>800</price>
+<price>600</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649259</categoryId>
 <picture>https://images.prom.ua/TvdWa675bg15xIPrT2pbYvrzIXer_ErORMXqro4S6wk=/5865422607_povitryane-oholodzhennya-jiushark.jpg</picture>
@@ -5284,38 +5284,9 @@
 <param name="Тип разъема" unit="">4pin</param>
 <param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
 </offer>
-<offer id="2224537598" available="true">
-<url>https://tera-flops.com.ua/ua/p2224537598-povitryane-oholodzhennya-jiushark.html</url>
-<price>870</price>
-<currencyId>UAH</currencyId>
-<categoryId>97649259</categoryId>
-<picture>https://images.prom.ua/D3mBOas9Upe4FbY9k51q3G6sBNt5VgXPVvCK2WhJaY0=/6405354941_povitryane-oholodzhennya-jiushark.jpg</picture>
-<picture>https://images.prom.ua/5865422604_povitryane-oholodzhennya-jiushark.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Повітряне охолодження Jiushark JF100RS Black RGB (JF100RS Black RGB)</name>
-<vendor>Jiushark</vendor>
-<vendorCode>JF100RS Black RGB</vendorCode>
-<param name="Назначение">Для процессора</param>
-<param name="Количество кулеров">1</param>
-<param name="Диаметр вентилятора" unit="мм">100</param>
-<param name="Максимальная скорость вращения" unit="об/мин">2300</param>
-<param name="Тип подшипника">Скольжения</param>
-<param name="Максимальный уровень шума" unit="дБ">30</param>
-<param name="Состояние">Новое</param>
-<param name="Гарантийный срок" unit="мес">6</param>
-<param name="Тип разъема" unit="">4pin</param>
-<param name="Разъемы" unit="">Socket AM5</param>
-<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
-<param name="Повітряний потік (CFM)" unit="">48</param>
-<param name="Колір підсвітки" unit="">RGB</param>
-<param name="Напряжение питания" unit="">12</param>
-<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
-<param name="Регулювання обертів" unit="">PWM</param>
-</offer>
 <offer id="2224537599" available="true">
 <url>https://tera-flops.com.ua/ua/p2224537599-povitryane-oholodzhennya-jiushark.html</url>
-<price>900</price>
+<price>690</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649259</categoryId>
 <picture>https://images.prom.ua/zmRuyaaGBMkY4z3OKnFwxseIlQaCY3dtPJYKEt2HD-s=/5865422608_povitryane-oholodzhennya-jiushark.jpg</picture>
@@ -5342,7 +5313,7 @@
 </offer>
 <offer id="2224537600" available="true">
 <url>https://tera-flops.com.ua/ua/p2224537600-povitryane-oholodzhennya-jiushark.html</url>
-<price>920</price>
+<price>720</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649259</categoryId>
 <picture>https://images.prom.ua/g75Tj02l40qLb86nFv7jQH--unhE2wDwN3WtvCR1mRw=/6405347850_povitryane-oholodzhennya-jiushark.jpg</picture>
@@ -5371,7 +5342,7 @@
 </offer>
 <offer id="2224537601" available="true">
 <url>https://tera-flops.com.ua/ua/p2224537601-povitryane-oholodzhennya-dlya.html</url>
-<price>900</price>
+<price>720</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649259</categoryId>
 <picture>https://images.prom.ua/NN7WyZAwD6_AO0n0krVa_hfWyM_IL0HW2JZ1rLv6LAs=/5961573927_povitryane-oholodzhennya-dlya.jpg</picture>
@@ -5398,7 +5369,7 @@
 </offer>
 <offer id="2354051392" available="true">
 <url>https://tera-flops.com.ua/ua/p2354051392-povitryane-oholodzhennya-jiushark.html</url>
-<price>770</price>
+<price>700</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649259</categoryId>
 <picture>https://images.prom.ua/9_yrckeITLz019OESXCoGw9SdGICsgK0V_z9WF7DRe4=/6278632957_povitryane-oholodzhennya-jiushark.jpg</picture>
@@ -5428,7 +5399,7 @@
 </offer>
 <offer id="2354051393" available="true">
 <url>https://tera-flops.com.ua/ua/p2354051393-povitryane-oholodzhennya-jiushark.html</url>
-<price>1100</price>
+<price>850</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649259</categoryId>
 <picture>https://images.prom.ua/4cC_4wv1rYiBoXMGenbLXDcfcpqexPMf09NFqMIk4Dg=/6278430496_povitryane-oholodzhennya-jiushark.jpg</picture>
@@ -5461,7 +5432,7 @@
 </offer>
 <offer id="2354051395" available="true">
 <url>https://tera-flops.com.ua/ua/p2354051395-povitryane-oholodzhennya-jiushark.html</url>
-<price>1770</price>
+<price>1550</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649259</categoryId>
 <picture>https://images.prom.ua/7DEM6kN9V_EmVYq4Kzky2h9xLBl3Hl5EYrIjdWE6zUU=/6278430499_povitryane-oholodzhennya-jiushark.jpg</picture>
@@ -5493,7 +5464,7 @@
 </offer>
 <offer id="2354051396" available="true">
 <url>https://tera-flops.com.ua/ua/p2354051396-povitryane-oholodzhennya-jiushark.html</url>
-<price>1970</price>
+<price>1900</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649259</categoryId>
 <picture>https://images.prom.ua/SLYbV_DevqoI7l76RyJCbYwYmxq6MQvOAtXK-q82LxA=/6279154617_povitryane-oholodzhennya-jiushark.jpg</picture>
@@ -5524,7 +5495,7 @@
 </offer>
 <offer id="2354051397" available="true">
 <url>https://tera-flops.com.ua/ua/p2354051397-povitryane-oholodzhennya-jiushark.html</url>
-<price>1950</price>
+<price>1850</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649259</categoryId>
 <picture>https://images.prom.ua/kfkkLJtCviYdHHRcMA8Eh-i8fvKyLyHsJOl7y25ExsQ=/6278430520_povitryane-oholodzhennya-jiushark.jpg</picture>
@@ -5556,7 +5527,7 @@
 </offer>
 <offer id="2354051398" available="true">
 <url>https://tera-flops.com.ua/ua/p2354051398-povitryane-oholodzhennya-jiushark.html</url>
-<price>2000</price>
+<price>1900</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649259</categoryId>
 <picture>https://images.prom.ua/1i_FvobyvOwfZhYlPMulGCtdhNZOwBAOgDUEKYjJTyM=/6278430550_povitryane-oholodzhennya-jiushark.jpg</picture>
@@ -5590,7 +5561,7 @@
 </offer>
 <offer id="2354051399" available="true">
 <url>https://tera-flops.com.ua/ua/p2354051399-povitryane-oholodzhennya-jiushark.html</url>
-<price>2000</price>
+<price>1900</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649259</categoryId>
 <picture>https://images.prom.ua/yKyj4IOW1Kl9vuEbOwBo_BBfO8p_lqnZQECzwgH9hRk=/6278430562_povitryane-oholodzhennya-jiushark.jpg</picture>
@@ -5624,7 +5595,7 @@
 </offer>
 <offer id="2354051400" available="true">
 <url>https://tera-flops.com.ua/ua/p2354051400-povitryane-oholodzhennya-jiushark.html</url>
-<price>1600</price>
+<price>1250</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649259</categoryId>
 <picture>https://images.prom.ua/tkbIOLsieDppuBA2s94rhIRJV5OmJnYq7kSmgVDB_fk=/6278430509_povitryane-oholodzhennya-jiushark.jpg</picture>
@@ -5659,7 +5630,7 @@
 </offer>
 <offer id="2354051401" available="true">
 <url>https://tera-flops.com.ua/ua/p2354051401-povitryane-oholodzhennya-jiushark.html</url>
-<price>1700</price>
+<price>1450</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649259</categoryId>
 <picture>https://images.prom.ua/p_VLxd3R5YsQz4YtoREKlVGa3-wdt6rnuyx6VvAao5M=/6278430525_povitryane-oholodzhennya-jiushark.jpg</picture>
@@ -5694,7 +5665,7 @@
 </offer>
 <offer id="2354051402" available="true">
 <url>https://tera-flops.com.ua/ua/p2354051402-povitryane-oholodzhennya-jiushark.html</url>
-<price>1650</price>
+<price>1400</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649259</categoryId>
 <picture>https://images.prom.ua/bUXD4YzFrpD-K-1eDGxP3CL0f0dEsfy05_s6itPqcio=/6278430530_povitryane-oholodzhennya-jiushark.jpg</picture>
@@ -5728,7 +5699,7 @@
 </offer>
 <offer id="2354051403" available="true">
 <url>https://tera-flops.com.ua/ua/p2354051403-povitryane-oholodzhennya-jiushark.html</url>
-<price>1650</price>
+<price>1450</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649259</categoryId>
 <picture>https://images.prom.ua/1OA5gs_Rk9QxztwVHLwnsYH3kWRPVsK0lJp2ExC_bkc=/6278430590_povitryane-oholodzhennya-jiushark.jpg</picture>
@@ -5758,54 +5729,6 @@
 <param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
 <param name="Висота кулера, мм" unit="">156</param>
 <param name="Регулювання обертів" unit="">PWM</param>
-</offer>
-<offer id="2382797497" available="true">
-<url>https://tera-flops.com.ua/ua/p2382797497-povitryane-oholodzhennya-jiushark.html</url>
-<price>1350</price>
-<currencyId>UAH</currencyId>
-<categoryId>97649259</categoryId>
-<picture>https://images.prom.ua/1tj2BASrO52ckxq9TJYfLfjM3mNDr1cWHtLtvMn2Pqs=/6319628665_povitryane-oholodzhennya-jiushark.jpg</picture>
-<picture>https://images.prom.ua/6319628666_povitryane-oholodzhennya-jiushark.jpg</picture>
-<picture>https://images.prom.ua/6319628667_povitryane-oholodzhennya-jiushark.jpg</picture>
-<picture>https://images.prom.ua/6319628668_povitryane-oholodzhennya-jiushark.jpg</picture>
-<picture>https://images.prom.ua/6319628669_povitryane-oholodzhennya-jiushark.jpg</picture>
-<picture>https://images.prom.ua/6319628670_povitryane-oholodzhennya-jiushark.jpg</picture>
-<picture>https://images.prom.ua/6319628671_povitryane-oholodzhennya-jiushark.jpg</picture>
-<picture>https://images.prom.ua/6319628672_povitryane-oholodzhennya-jiushark.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Повітряне охолодження Jiushark JF100S Black (JF100S Black)</name>
-<vendor>Jiushark</vendor>
-<vendorCode>JF100S Black</vendorCode>
-<country_of_origin>Китай</country_of_origin>
-<param name="Назначение">Для процессора</param>
-<param name="Система охлаждения">Активная (кулер)</param>
-<param name="Количество кулеров">2</param>
-<param name="Диаметр вентилятора" unit="мм">120</param>
-<param name="Разъемы">LGA1700|AM2+/AM3+/ FM1/FM2|AM3|LGA 1151|LGA1200|AM4|AM5</param>
-<param name="Тип подшипника">Гидродинамический</param>
-<param name="Материал радиатора">Алюминий</param>
-<param name="Тип разъема">4-pin</param>
-<param name="Особенности">Регулятор оборотов</param>
-<param name="Состояние">Новое</param>
-<param name="Гарантийный срок" unit="мес">6</param>
-<param name="Тип системы охлаждения">Активное охлаждение</param>
-<param name="Цвет">Черный</param>
-<param name="Вес" unit="г">912</param>
-<param name="Количество вентиляторов" unit="">2</param>
-<param name="Тип" unit="">Повітряне охолодження</param>
-<param name="Мінімальна швидкість обертання, об / хв" unit="">600</param>
-<param name="Повітряний потік (CFM)" unit="">68.04</param>
-<param name="Розсіювана потужність, Вт" unit="">240</param>
-<param name="Максимальна швидкість обертання, об / хв" unit="">1500</param>
-<param name="Діаметр вентилятора, мм" unit="">120</param>
-<param name="Разъем" unit="">4pin</param>
-<param name="Габариты (мм)" unit="">128х101х157</param>
-<param name="Напруга живлення, В" unit="">12</param>
-<param name="Висота кулера, мм" unit="">157</param>
-<param name="Регулювання обертів" unit="">PWM</param>
-<param name="Сокет" unit="">Socket AM4</param>
-<param name="Рівень шуму, дБ" unit="">35</param>
 </offer>
 </offers>
 </shop>
