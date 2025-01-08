@@ -6713,33 +6713,6 @@
 <param name="Тип подключения" unit="">Бездротове</param>
 <param name="Тип сенсора" unit="">Оптичний</param>
 </offer>
-<offer id="2450108780" available="true">
-<url>https://tera-flops.com.ua/ua/p2450108780-misha-bezdrotova-mf300.html</url>
-<price>395</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763471</categoryId>
-<picture>https://images.prom.ua/6420659518_misha-bezdrotova-2e.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Миша бездротова 2E MF300 Pets Cats&Dogs Silent Yellow (2E-MF300WPETSYW)</name>
-<vendor>2E</vendor>
-<vendorCode>2E-MF300WPETSYW</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Цвет">Желтый</param>
-<param name="Назначение">Для ноутбука</param>
-<param name="Состояние">Новое</param>
-<param name="Подключение устройства">Беспроводное</param>
-<param name="Тип">Мышь</param>
-<param name="Интерфейс подключения" unit="">USB-A</param>
-<param name="Вага (г)" unit="">47</param>
-<param name="Питание" unit="">1xAA</param>
-<param name="Количество кнопок" unit="">2</param>
-<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1600</param>
-<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">800</param>
-<param name="Розміри (мм)" unit="">107x59x27</param>
-<param name="Тип подключения" unit="">Бездротове</param>
-<param name="Тип сенсора" unit="">Оптичний</param>
-</offer>
 <offer id="2450108782" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108782-misha-bezdrotova-real.html</url>
 <price>364</price>
