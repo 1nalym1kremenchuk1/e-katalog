@@ -4520,7 +4520,7 @@
 <delivery>true</delivery>
 <name>Корпус Fractal Design North білий</name>
 <vendor>Fractal Design</vendor>
-<vendorCode>North</vendorCode>
+<vendorCode>FD-C-NOR1C-04</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -7806,7 +7806,7 @@
 <delivery>true</delivery>
 <name>Миша Vertux Katana Black</name>
 <vendor>Vertux</vendor>
-<vendorCode>Katana Black</vendorCode>
+<vendorCode>katana.black</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Состояние">Новое</param>
@@ -7836,7 +7836,7 @@
 <delivery>true</delivery>
 <name>Миша Vertux Phoenix Black</name>
 <vendor>Vertux</vendor>
-<vendorCode>Phoenix Black</vendorCode>
+<vendorCode>phoenix.black</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Состояние">Новое</param>
