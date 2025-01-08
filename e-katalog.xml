@@ -664,7 +664,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">195x431x450</param>
-<param name="Кількість 2,5 "відсіків" unit="">4</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">162</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">380</param>
@@ -747,7 +746,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">203x344x412</param>
-<param name="Кількість 2,5 "відсіків" unit="">4</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">315</param>
 <param name="Місця під додаткові вентилятори/розташування" unit="">передня панель 2 x 120/140 мм, задня панель 1 x 120 мм, верхня панель 2 x 120/140 мм, нижня панель 1 x 120 мм</param>
@@ -822,7 +820,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">210x413x453</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">170</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">315</param>
@@ -862,7 +859,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">210x413x412</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">172</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">315</param>
@@ -1349,7 +1345,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">512 x 212 x 526</param>
-<param name="Кількість 2,5 "відсіків" unit="">4</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">170</param>
 <param name="Матеріал боковини" unit="">Акрил</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">455</param>
@@ -1392,7 +1387,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">325x166x310</param>
-<param name="Кількість 2,5 "відсіків" unit="">4</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">120</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">295</param>
@@ -1431,7 +1425,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">520 x 212 x 488</param>
-<param name="Кількість 2,5 "відсіків" unit="">10</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">170</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">420</param>
@@ -1832,7 +1825,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">380х173х368</param>
-<param name="Кількість 2,5 "відсіків" unit="">1</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">230</param>
 <param name="Назначение" unit="">Офісний</param>
@@ -2027,7 +2019,6 @@
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">445х412х185</param>
 <param name="Гарантийный срок" unit="мес">36</param>
-<param name="Кількість 2,5 "відсіків" unit="">1</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">158</param>
 <param name="Матеріал боковини" unit="">Акрил</param>
 <param name="Материал корпуса" unit="">Металл</param>
@@ -2141,7 +2132,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">544x242x530</param>
-<param name="Кількість 2,5 "відсіків" unit="">4</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">188</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">461</param>
@@ -2216,7 +2206,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">215x451x472</param>
-<param name="Кількість 2,5 "відсіків" unit="">4</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">170</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">405</param>
@@ -2259,7 +2248,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">215x451x472</param>
-<param name="Кількість 2,5 "відсіків" unit="">4</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">170</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">405</param>
@@ -2295,7 +2283,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">215x451x472</param>
-<param name="Кількість 2,5 "відсіків" unit="">4</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">170</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">405</param>
@@ -2338,7 +2325,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">215x451x472</param>
-<param name="Кількість 2,5 "відсіків" unit="">4</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">170</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">405</param>
@@ -2859,7 +2845,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">467x222x450</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">174</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">330</param>
@@ -2903,7 +2888,6 @@
 <param name="Вбудовані вентилятори/розташування" unit="">2</param>
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Габариты (мм)" unit="">467x222x450</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">174</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">330</param>
@@ -3598,7 +3582,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">540 х 231 х 521</param>
-<param name="Кількість 2,5 "відсіків" unit="">5</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">180</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Материал корпуса" unit="">Металл</param>
@@ -3631,7 +3614,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">380х185х435</param>
-<param name="Кількість 2,5 "відсіків" unit="">1</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">160</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">300</param>
@@ -3695,7 +3677,6 @@
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">380x185x435</param>
 <param name="Картрідер" unit="">Є</param>
-<param name="Кількість 2,5 "відсіків" unit="">1</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">160</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">300</param>
@@ -3735,7 +3716,6 @@
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">400 x 288 x 384</param>
 <param name="Картрідер" unit="">Немає</param>
-<param name="Кількість 2,5 "відсіків" unit="">4</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">170</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">362</param>
@@ -3777,7 +3757,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">210x520x404</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">161</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">327</param>
@@ -3811,7 +3790,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">210x520x404</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">327</param>
 <param name="Місця під додаткові вентилятори/розташування" unit="">3x120мм або 2x140мм / на передній панелі, 2x120мм / верхня панель, підтримка охолодження відеокарт 2x120мм</param>
@@ -3843,7 +3821,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">210x520x404</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">327</param>
 <param name="Місця під додаткові вентилятори/розташування" unit="">3x120мм або 2x140мм / на передній панелі, 2x120мм / верхня панель, підтримка охолодження відеокарт 2x120мм, 1x120мм / позаду</param>
@@ -3878,7 +3855,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">188x430x375</param>
-<param name="Кількість 2,5 "відсіків" unit="">5</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">155</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">371</param>
@@ -3921,7 +3897,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">210 x 453 x 441</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">167</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">362</param>
@@ -4007,7 +3982,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">230x502x468</param>
-<param name="Кількість 2,5 "відсіків" unit="">5</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">180</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">387</param>
@@ -4076,7 +4050,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">280 x 377 x 415</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">157</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">400</param>
@@ -4115,7 +4088,6 @@
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">198х459х413</param>
 <param name="Картрідер" unit="">Є</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">155</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">371</param>
@@ -4191,7 +4163,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">440 x 205 x 352</param>
-<param name="Кількість 2,5 "відсіків" unit="">1</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">165</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">410</param>
@@ -4222,7 +4193,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">440 x 205 x 352</param>
-<param name="Кількість 2,5 "відсіків" unit="">1</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">165</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">410</param>
@@ -4337,7 +4307,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">197 x 431 x 357</param>
-<param name="Кількість 2,5 "відсіків" unit="">1</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">155</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">307</param>
@@ -4378,7 +4347,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">210x459x403</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">161</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">327</param>
@@ -4412,7 +4380,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">206 x 457 x 357</param>
-<param name="Кількість 2,5 "відсіків" unit="">1</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">157</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">290</param>
@@ -4490,7 +4457,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">368 x 173 x 380</param>
-<param name="Кількість 2,5 "відсіків" unit="">1</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">145</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">350</param>
@@ -4531,7 +4497,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">210 x 519 x 404</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">161</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">326</param>
@@ -4655,7 +4620,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">175x358x410</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">148</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">350</param>
@@ -4736,7 +4700,6 @@
 <param name="Вбудовані вентилятори/розташування" unit="">передня панель 2x120 мм LED</param>
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Габариты (мм)" unit="">205x444x464</param>
-<param name="Кількість 2,5 "відсіків" unit="">1</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">165</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">380</param>
@@ -4818,7 +4781,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">295 x 99 x 365</param>
-<param name="Кількість 2,5 "відсіків" unit="">1</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Передняя панель" unit="">Метал</param>
 <param name="Расположение" unit="">Верхнє</param>
@@ -4973,7 +4935,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">440x235x410</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">185</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">340</param>
@@ -5012,7 +4973,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">401 x 210 x 322</param>
-<param name="Кількість 2,5 "відсіків" unit="">1</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">165</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">310</param>
@@ -5053,7 +5013,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">401x210x322</param>
-<param name="Кількість 2,5 "відсіків" unit="">1</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">165</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">310</param>
@@ -5218,7 +5177,6 @@
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">492x235x481</param>
 <param name="Картрідер" unit="">Немає</param>
-<param name="Кількість 2,5 "відсіків" unit="">6</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">180</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">392</param>
@@ -5256,7 +5214,6 @@
 <param name="Цвет корпуса">Черный</param>
 <param name="Габариты (мм)" unit="">295 x 99 x 365</param>
 <param name="Вбудовані вентилятори/розташування" unit="">верxняя панель / 1x80 мм</param>
-<param name="Кількість 2,5 "відсіків" unit="">1</param>
 <param name="Блок питания" unit="">300W</param>
 <param name="Передняя панель" unit="">Гратчаста</param>
 <param name="Расположение" unit="">Верхнє</param>
@@ -5293,7 +5250,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">473х230х466</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">180</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">415</param>
@@ -5328,7 +5284,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">380х100х300</param>
-<param name="Кількість 2,5 "відсіків" unit="">1</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">75</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">252</param>
@@ -5366,7 +5321,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">402х205х445</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">163</param>
 <param name="Матеріал боковини" unit="">Акрил</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">400</param>
@@ -5403,7 +5357,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">402х205х445</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">163</param>
 <param name="Матеріал боковини" unit="">Акрил</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">400</param>
@@ -5578,7 +5531,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">100x300x380</param>
-<param name="Кількість 2,5 "відсіків" unit="">1</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Місця під додаткові вентилятори/розташування" unit="">верхня панель / 1x80 мм</param>
 <param name="Передняя панель" unit="">Пластик</param>
@@ -5607,7 +5559,6 @@
 <param name="Габариты (мм)" unit="">210 x 510 x 490</param>
 <param name="Гарантія, міс" unit="">12</param>
 <param name="Цвет корпуса" unit="">Черный</param>
-<param name="Кількість 2,5 "відсіків" unit="">5</param>
 <param name="Кількість 3,5" відсіків внутрішніх" unit="">12</param>
 <param name="Кількість слотів розширення" unit="">8</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">163</param>
@@ -5649,7 +5600,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">207x412x347</param>
-<param name="Кількість 2,5 "відсіків" unit="">1</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">165</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">290</param>
@@ -5685,7 +5635,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">225 x 450 x 390</param>
-<param name="Кількість 2,5 "відсіків" unit="">1</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">168</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">360</param>
@@ -5723,7 +5672,6 @@
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">215 x 482 x 410</param>
-<param name="Кількість 2,5 "відсіків" unit="">1</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">163</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">345</param>
@@ -5793,7 +5741,6 @@
 <param name="Місця під додаткові вентилятори/розташування" unit="">передня панель/3х120 мм або 2х140 мм, верхня/3х120 мм або 2х140 мм, бічна панель/2х120 мм, PSU панель/2х120 мм</param>
 <param name="Вбудовані вентилятори/розташування" unit="">передня панель/3х120 мм ARGB LED, задня панель/1х120 мм ARGB LED</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">162</param>
-<param name="Кількість 2,5 "відсіків" unit="">3</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">409</param>
 <param name="Блок питания" unit="">Нет</param>
 <param name="Передняя панель" unit="">Пластик</param>
