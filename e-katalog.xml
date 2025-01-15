@@ -723,41 +723,6 @@
 <param name="Расположение" unit="">Нижнє</param>
 <param name="Форм-фактор" unit="">microATX</param>
 </offer>
-<offer id="2456182180" available="true">
-<url>https://tera-flops.com.ua/ua/p2456182180-korpus-1stplayer-color.html</url>
-<price>1839</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6453821943_korpus-1stplayer-color.jpg</picture>
-<picture>https://images.prom.ua/6453821945_korpus-1stplayer-color.jpg</picture>
-<picture>https://images.prom.ua/6453821946_korpus-1stplayer-color.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус 1stPlayer Color LED Black (D4-4R1-BK)</name>
-<vendor>1stPlayer</vendor>
-<vendorCode>D4-4R1-BK</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5">1</param>
-<param name="Назначение">Игровой</param>
-<param name="Слоты расширения" unit="шт">7</param>
-<param name="Состояние">Новое</param>
-<param name="Типоразмер">Midi-Tower</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="Вес (кг)" unit="">3,9</param>
-<param name="Вбудовані вентилятори/розташування" unit="">передня панель / 3x120 мм, задня панель / 1x120 мм</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="Вхід для мікрофона" unit="">Є</param>
-<param name="Габариты (мм)" unit="">190x447x380</param>
-<param name="Кількість 2,5 відсіків" unit="">2</param>
-<param name="Максимальна висота процесорного кулера (мм)" unit="">160</param>
-<param name="Матеріал боковини" unit="">Сталь</param>
-<param name="Можливість встановлення довгих відеокарт (мм)" unit="">305</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">верxняя панель / 2x120 мм</param>
-<param name="Особенности" unit="">RGB підсвічування</param>
-<param name="Передняя панель" unit="">Пластик</param>
-<param name="Расположение" unit="">Нижнє</param>
-<param name="Форм-фактор" unit="">microATX</param>
-</offer>
 <offer id="2457000407" available="true">
 <url>https://tera-flops.com.ua/ua/p2457000407-navushniki-tws-apple.html</url>
 <price>7880</price>
@@ -1334,74 +1299,6 @@
 <param name="Расположение" unit="">Нижнє</param>
 <param name="Форм-фактор" unit="">microATX</param>
 </offer>
-<offer id="2308816838" available="true">
-<url>https://tera-flops.com.ua/ua/p2308816838-korpus-gamemax-mt508.html</url>
-<price>965</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6175190413_korpus-gamemax-mt508-np.jpg</picture>
-<picture>https://images.prom.ua/6224372364_korpus-gamemax-mt508-np.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус GAMEMAX MT508-NP (MT508-NP)</name>
-<vendor>Gamemax</vendor>
-<vendorCode>MT508-NP</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5">7</param>
-<param name="Материал корпуса">Сталь</param>
-<param name="Назначение">Рабочая станция</param>
-<param name="Слоты расширения" unit="шт">7</param>
-<param name="Состояние">Новое</param>
-<param name="Типоразмер">Midi-Tower</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="USB 2.0" unit="">2</param>
-<param name="Блок питания" unit="">Нет</param>
-<param name="Вес (кг)" unit="">4,3</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="Вхід для мікрофона" unit="">Є</param>
-<param name="Габариты (мм)" unit="">420x377x178</param>
-<param name="Матеріал боковини" unit="">Сталь</param>
-<param name="Можливість встановлення довгих відеокарт (мм)" unit="">330</param>
-<param name="Передняя панель" unit="">Пластик</param>
-<param name="Расположение" unit="">Верхнє</param>
-<param name="Форм-фактор" unit="">microATX</param>
-</offer>
-<offer id="2308816853" available="true">
-<url>https://tera-flops.com.ua/ua/p2308816853-korpus-gamemax-212.html</url>
-<price>1136</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6175190613_korpus-gamemax-et-212.jpg</picture>
-<picture>https://images.prom.ua/6175190617_korpus-gamemax-et-212.jpg</picture>
-<picture>https://images.prom.ua/6175190621_korpus-gamemax-et-212.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус GAMEMAX ET-212 Black (ET-212-NP-U3)</name>
-<vendor>Gamemax</vendor>
-<vendorCode>ET-212-NP-U3</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5">3</param>
-<param name="Материал корпуса">Сталь</param>
-<param name="Назначение">Игровой</param>
-<param name="Слоты расширения" unit="шт">7</param>
-<param name="Состояние">Новое</param>
-<param name="Типоразмер">Midi-Tower</param>
-<param name="Форм-фактор">Mini-ITX</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="USB 2.0" unit="">2</param>
-<param name="USB 3.2" unit="">2</param>
-<param name="Блок питания" unit="">Нет</param>
-<param name="Вес (кг)" unit="">2,4</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="Вхід для мікрофона" unit="">Є</param>
-<param name="Габариты (мм)" unit="">175x405x330</param>
-<param name="Максимальна висота процесорного кулера (мм)" unit="">150</param>
-<param name="Матеріал боковини" unit="">Сталь</param>
-<param name="Можливість встановлення довгих відеокарт (мм)" unit="">320</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">2х120мм / 92мм / 80мм / збоку, 1х80мм / 92мм / ззаду</param>
-<param name="Передняя панель" unit="">Пластик</param>
-<param name="Расположение" unit="">Верхнє</param>
-</offer>
 <offer id="2308816856" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816856-korpus-gamemax-mt523b.html</url>
 <price>1060</price>
@@ -1701,44 +1598,6 @@
 <param name="Передняя панель" unit="">Загартоване скло</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2308816878" available="true">
-<url>https://tera-flops.com.ua/ua/p2308816878-korpus-gamemax-fortress.html</url>
-<price>1814</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6175191101_korpus-gamemax-fortress.jpg</picture>
-<picture>https://images.prom.ua/6175191105_korpus-gamemax-fortress.jpg</picture>
-<picture>https://images.prom.ua/6224399791_korpus-gamemax-fortress.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус GAMEMAX Fortress (Fortress TG)</name>
-<vendor>Gamemax</vendor>
-<vendorCode>Fortress TG</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5">2</param>
-<param name="Материал корпуса">Сталь</param>
-<param name="Назначение">Игровой</param>
-<param name="Слоты расширения" unit="шт">7</param>
-<param name="Состояние">Новое</param>
-<param name="Типоразмер">Midi-Tower</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="USB 2.0" unit="">1</param>
-<param name="USB 3.2" unit="">1</param>
-<param name="Блок питания" unit="">Нет</param>
-<param name="Вес (кг)" unit="">5,5</param>
-<param name="Вбудовані вентилятори/розташування" unit="">2х120мм Black / на передній панелі, х120мм Black / ззаду</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="Вхід для мікрофона" unit="">Є</param>
-<param name="Габариты (мм)" unit="">421х210х460</param>
-<param name="Максимальна висота процесорного кулера (мм)" unit="">170</param>
-<param name="Матеріал боковини" unit="">Загартоване скло</param>
-<param name="Можливість встановлення довгих відеокарт (мм)" unit="">330</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">2х120мм / 140мм / нагорі, 2х120мм / PSU Cover</param>
-<param name="Особенности" unit="">Загартоване скло</param>
-<param name="Передняя панель" unit="">Пластик</param>
-<param name="Расположение" unit="">Нижнє</param>
-<param name="Форм-фактор" unit="">microATX</param>
-</offer>
 <offer id="2308816880" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816880-korpus-gamemax-silent.html</url>
 <price>4331</price>
@@ -2029,85 +1888,6 @@
 <param name="Расположение" unit="">Нижнє</param>
 <param name="Слоты расширения" unit="шт.">12</param>
 </offer>
-<offer id="2308816893" available="true">
-<url>https://tera-flops.com.ua/ua/p2308816893-korpus-gamemax-g562.html</url>
-<price>1743</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6175191420_korpus-gamemax-g562.jpg</picture>
-<picture>https://images.prom.ua/6175191423_korpus-gamemax-g562.jpg</picture>
-<picture>https://images.prom.ua/6175191425_korpus-gamemax-g562.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус GameMax G562 Matrix Black (MATRIX G562)</name>
-<vendor>Gamemax</vendor>
-<vendorCode>MATRIX G562</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5">4</param>
-<param name="Материал корпуса">Сталь</param>
-<param name="Назначение">Игровой</param>
-<param name="Слоты расширения" unit="шт">7</param>
-<param name="Состояние">Новое</param>
-<param name="Типоразмер">Midi-Tower</param>
-<param name="Форм-фактор">Mini-ITX</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="USB 2.0" unit="">2</param>
-<param name="USB 3.2" unit="">1</param>
-<param name="Блок питания" unit="">Нет</param>
-<param name="Вес (кг)" unit="">3,9</param>
-<param name="Вбудовані вентилятори/розташування" unit="">1х120 мм LED / ззаду</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="Вхід для мікрофона" unit="">Є</param>
-<param name="Габариты (мм)" unit="">435х180х412</param>
-<param name="Максимальна висота процесорного кулера (мм)" unit="">156</param>
-<param name="Матеріал боковини" unit="">Акрил</param>
-<param name="Можливість встановлення довгих відеокарт (мм)" unit="">370</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">2х120 або 2х140мм / на передній панелі</param>
-<param name="Особенности" unit="">Пилові фільтри</param>
-<param name="Передняя панель" unit="">Метал</param>
-<param name="Расположение" unit="">Верхнє</param>
-</offer>
-<offer id="2308816897" available="true">
-<url>https://tera-flops.com.ua/ua/p2308816897-korpus-fractal-design.html</url>
-<price>6859</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6224399856_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6238226564_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6175191451_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6175191453_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6175191457_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6224399862_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6238226560_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6175191462_korpus-fractal-design.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус Fractal Design Define 7 Compact (FD-C-DEF7C-01)</name>
-<vendor>Fractal Design</vendor>
-<vendorCode>FD-C-DEF7C-01</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5">2</param>
-<param name="Назначение">Игровой</param>
-<param name="Слоты расширения" unit="шт">7</param>
-<param name="Состояние">Новое</param>
-<param name="Типоразмер">Midi-Tower</param>
-<param name="Форм-фактор">Mini-ITX</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="USB 2.0" unit="">2</param>
-<param name="USB 3.2" unit="">2</param>
-<param name="Блок питания" unit="">Нет</param>
-<param name="Вес (кг)" unit="">8,76</param>
-<param name="Вбудовані вентилятори/розташування" unit="">1х140мм / на передній панелі, 1х120мм / на задній панелі</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="Вхід для мікрофона" unit="">Є</param>
-<param name="Габариты (мм)" unit="">427x210x474</param>
-<param name="Максимальна висота процесорного кулера (мм)" unit="">169</param>
-<param name="Матеріал боковини" unit="">Сталь</param>
-<param name="Можливість встановлення довгих відеокарт (мм)" unit="">341</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">3х120 або 2х140мм / на передній панелі, 2х120 або 140мм / на верхньої панелі, 1х120мм / на нижній панелі</param>
-<param name="Передняя панель" unit="">Сталь</param>
-<param name="Расположение" unit="">Нижнє</param>
-</offer>
 <offer id="2308816898" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816898-korpus-fractal-design.html</url>
 <price>10016</price>
@@ -2152,7 +1932,7 @@
 </offer>
 <offer id="2308816902" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816902-korpus-gamemax-g509.html</url>
-<price>2213</price>
+<price>2272</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175191509_korpus-gamemax-g509.jpg</picture>
@@ -3254,7 +3034,7 @@
 </offer>
 <offer id="2308817691" available="true">
 <url>https://tera-flops.com.ua/ua/p2308817691-korpus-gamemax-m905s.html</url>
-<price>4340</price>
+<price>4329</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175241060_korpus-gamemax-m905s.jpg</picture>
@@ -3287,7 +3067,7 @@
 </offer>
 <offer id="2308817694" available="true">
 <url>https://tera-flops.com.ua/ua/p2308817694-korpus-gamemax-dark.html</url>
-<price>2604</price>
+<price>2651</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6224427907_korpus-gamemax-dark.jpg</picture>
@@ -3324,7 +3104,7 @@
 </offer>
 <offer id="2308817699" available="true">
 <url>https://tera-flops.com.ua/ua/p2308817699-korpus-fractal-design.html</url>
-<price>7786</price>
+<price>7768</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175241267_korpus-fractal-design.jpg</picture>
@@ -3367,7 +3147,7 @@
 </offer>
 <offer id="2308817700" available="true">
 <url>https://tera-flops.com.ua/ua/p2308817700-korpus-fractal-design.html</url>
-<price>7786</price>
+<price>7768</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6238228556_korpus-fractal-design.jpg</picture>
@@ -3408,7 +3188,7 @@
 </offer>
 <offer id="2308817701" available="true">
 <url>https://tera-flops.com.ua/ua/p2308817701-korpus-fractal-design.html</url>
-<price>7786</price>
+<price>7768</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175241333_korpus-fractal-design.jpg</picture>
@@ -5489,7 +5269,7 @@
 </offer>
 <offer id="2450108639" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108639-misha-bezdrotova-mf211.html</url>
-<price>213</price>
+<price>198</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420660665_misha-bezdrotova-2e.jpg</picture>
@@ -5542,33 +5322,6 @@
 <param name="Розміри (мм)" unit="">103x58x35</param>
 <param name="Тип подключения" unit="">Бездротове</param>
 <param name="Тип сенсора" unit="">Оптичний</param>
-</offer>
-<offer id="2450108642" available="true">
-<url>https://tera-flops.com.ua/ua/p2450108642-misha-bezdrotova-mf217.html</url>
-<price>240</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763471</categoryId>
-<picture>https://images.prom.ua/6420661029_misha-bezdrotova-2e.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Миша бездротова 2E MF217 Gray (2E-MF217WC)</name>
-<vendor>2E</vendor>
-<vendorCode>2E-MF217WC</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Цвет">Серый</param>
-<param name="Назначение">Для ноутбука</param>
-<param name="Состояние">Новое</param>
-<param name="Тип">Мышь</param>
-<param name="Подключение устройства">Беспроводное</param>
-<param name="Интерфейс подключения" unit="">USB-A</param>
-<param name="Питание" unit="">1xAA</param>
-<param name="Количество кнопок" unit="">3</param>
-<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1600</param>
-<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">800</param>
-<param name="Розміри (мм)" unit="">107x63x34</param>
-<param name="Тип подключения" unit="">Бездротове</param>
-<param name="Тип сенсора" unit="">Оптичний</param>
-<param name="Время работы от аккумулятора" unit="">6 міс</param>
 </offer>
 <offer id="2450108644" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108644-misha-bezdrotova-mf218.html</url>
@@ -5655,7 +5408,7 @@
 </offer>
 <offer id="2450108653" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108653-misha-bezdrotova-mf280.html</url>
-<price>333</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420661069_misha-bezdrotova-2e.jpg</picture>
@@ -5779,33 +5532,6 @@
 <param name="Тип сенсора" unit="">Оптичний</param>
 <param name="Время работы от аккумулятора" unit="">9 міс</param>
 </offer>
-<offer id="2450108715" available="true">
-<url>https://tera-flops.com.ua/ua/p2450108715-misha-bezdrotova-mf218.html</url>
-<price>257</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763471</categoryId>
-<picture>https://images.prom.ua/6420659588_misha-bezdrotova-2e.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Миша бездротова 2E MF218 Silent Black/Gray (2E-MF218WBG)</name>
-<vendor>2E</vendor>
-<vendorCode>2E-MF218WBG</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Цвет">Серый</param>
-<param name="Назначение">Для ноутбука</param>
-<param name="Состояние">Новое</param>
-<param name="Подключение устройства">Беспроводное</param>
-<param name="Тип">Мышь</param>
-<param name="Интерфейс подключения" unit="">USB-A</param>
-<param name="Питание" unit="">1xAA</param>
-<param name="Кнопка зміни DPI" unit="">Да</param>
-<param name="Количество кнопок" unit="">3</param>
-<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1600</param>
-<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">800</param>
-<param name="Розміри (мм)" unit="">106x61x39</param>
-<param name="Тип подключения" unit="">Бездротове</param>
-<param name="Тип сенсора" unit="">Оптичний</param>
-</offer>
 <offer id="2450108717" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108717-misha-bezdrotova-mf280.html</url>
 <price>333</price>
@@ -5836,7 +5562,7 @@
 </offer>
 <offer id="2450108721" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108721-misha-bezdrotova-mf300.html</url>
-<price>319</price>
+<price>312</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420659591_misha-bezdrotova-2e.jpg</picture>
@@ -6226,7 +5952,7 @@
 </offer>
 <offer id="2450108775" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108775-misha-bezdrotova-mf2030.html</url>
-<price>276</price>
+<price>301</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420659512_misha-bezdrotova-2e.jpg</picture>
@@ -6366,7 +6092,7 @@
 </offer>
 <offer id="2450108787" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108787-misha-bezdrotova-promate.html</url>
-<price>381</price>
+<price>481</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420659524_misha-bezdrotova-promate.jpg</picture>
@@ -6587,7 +6313,7 @@
 </offer>
 <offer id="2450109229" available="true">
 <url>https://tera-flops.com.ua/ua/p2450109229-misha-bezdrotova-canyon.html</url>
-<price>490</price>
+<price>517</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420659558_misha-bezdrotova-canyon.jpg</picture>
@@ -6691,30 +6417,6 @@
 <param name="Вага (г)" unit="">120</param>
 <param name="Питание" unit="">1xAA</param>
 <param name="Конструкция" unit="">Ергономічна</param>
-<param name="Количество кнопок" unit="">2</param>
-<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1 600</param>
-<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1 600</param>
-<param name="Тип подключения" unit="">Бездротове</param>
-<param name="Тип сенсора" unit="">Оптичний</param>
-</offer>
-<offer id="2450109267" available="true">
-<url>https://tera-flops.com.ua/ua/p2450109267-misha-bezdrotova-mf280.html</url>
-<price>391</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763471</categoryId>
-<picture>https://images.prom.ua/6420659585_misha-bezdrotova-2e.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Миша бездротова 2E MF280 Silent Black (2E-MF280WBK)</name>
-<vendor>2E</vendor>
-<vendorCode>2E-MF280WBK</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Цвет">Черный</param>
-<param name="Состояние">Новое</param>
-<param name="Тип">Мышь</param>
-<param name="Подключение устройства">Беспроводное</param>
-<param name="Вага (г)" unit="">120</param>
-<param name="Питание" unit="">1xAA</param>
 <param name="Количество кнопок" unit="">2</param>
 <param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1 600</param>
 <param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1 600</param>
@@ -6920,7 +6622,7 @@
 </offer>
 <offer id="2456290351" available="true">
 <url>https://tera-flops.com.ua/ua/p2456290351-misha-gaming-hyperspeed.html</url>
-<price>716</price>
+<price>855</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431089782_misha-2e-gaming.jpg</picture>
@@ -7008,7 +6710,7 @@
 </offer>
 <offer id="2456290356" available="true">
 <url>https://tera-flops.com.ua/ua/p2456290356-misha-gaming-mg340.html</url>
-<price>505</price>
+<price>684</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431090198_misha-2e-gaming.jpg</picture>
@@ -7330,34 +7032,6 @@
 <param name="Тип подключения" unit="">Дротове</param>
 <param name="Тип сенсора" unit="">Оптичний</param>
 </offer>
-<offer id="2456290425" available="true">
-<url>https://tera-flops.com.ua/ua/p2456290425-misha-real-505.html</url>
-<price>249</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763471</categoryId>
-<picture>https://images.prom.ua/6431089785_misha-real-el-rm-505.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Миша REAL-EL RM-505 Black (EL123200018)</name>
-<vendor>Real-el</vendor>
-<vendorCode>EL123200018</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Цвет">Черный</param>
-<param name="Состояние">Новое</param>
-<param name="Тип">Мышь</param>
-<param name="Интерфейс подключения" unit="">USB-A</param>
-<param name="Вага (г)" unit="">142</param>
-<param name="Питание" unit="">USB</param>
-<param name="Кнопка зміни DPI" unit="">Да</param>
-<param name="Конструкция" unit="">Ергономічна</param>
-<param name="Количество кнопок" unit="">5</param>
-<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">2 400</param>
-<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">2 400</param>
-<param name="Назначение" unit="">Ігрова</param>
-<param name="Підсвічування корпуса" unit="">RGB</param>
-<param name="Тип подключения" unit="">Дротове</param>
-<param name="Тип сенсора" unit="">Оптичний</param>
-</offer>
 <offer id="2456290426" available="true">
 <url>https://tera-flops.com.ua/ua/p2456290426-misha-real-520.html</url>
 <price>269</price>
@@ -7413,67 +7087,6 @@
 <param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">800</param>
 <param name="Назначение" unit="">Ігрова</param>
 <param name="Розміри (мм)" unit="">125x70x30</param>
-<param name="Тип подключения" unit="">Дротове</param>
-<param name="Тип сенсора" unit="">Оптичний</param>
-</offer>
-<offer id="2456290428" available="true">
-<url>https://tera-flops.com.ua/ua/p2456290428-misha-real-747.html</url>
-<price>513</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763471</categoryId>
-<picture>https://images.prom.ua/6431090196_misha-real-el-rm-747.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Миша REAL-EL RM-747 Black (EL123200028)</name>
-<vendor>Real-el</vendor>
-<vendorCode>EL123200028</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Цвет">Черный</param>
-<param name="Состояние">Новое</param>
-<param name="Тип">Мышь</param>
-<param name="Подключение устройства">Беспроводное</param>
-<param name="Интерфейс подключения" unit="">USB-A</param>
-<param name="Бічні кнопки" unit="">Да</param>
-<param name="Вага (г)" unit="">130</param>
-<param name="Питание" unit="">USB</param>
-<param name="Кнопка зміни DPI" unit="">Да</param>
-<param name="Конструкция" unit="">Ергономічна</param>
-<param name="Количество кнопок" unit="">5</param>
-<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">4 800</param>
-<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">800</param>
-<param name="Назначение" unit="">Ігрова</param>
-<param name="Підсвічування корпуса" unit="">RGB</param>
-<param name="Розміри (мм)" unit="">132x75x45</param>
-<param name="Тип подключения" unit="">Дротове</param>
-<param name="Тип сенсора" unit="">Оптичний</param>
-</offer>
-<offer id="2456290429" available="true">
-<url>https://tera-flops.com.ua/ua/p2456290429-misha-vertux-katana.html</url>
-<price>519</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763471</categoryId>
-<picture>https://images.prom.ua/6431089054_misha-vertux-katana.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Миша Vertux Katana Black</name>
-<vendor>Vertux</vendor>
-<vendorCode>katana.black</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Цвет">Черный</param>
-<param name="Состояние">Новое</param>
-<param name="Тип">Мышь</param>
-<param name="Интерфейс подключения" unit="">USB-A</param>
-<param name="Бічні кнопки" unit="">Да</param>
-<param name="Вага (г)" unit="">100</param>
-<param name="Питание" unit="">USB</param>
-<param name="Кнопка зміни DPI" unit="">Да</param>
-<param name="Конструкция" unit="">Ергономічна</param>
-<param name="Количество кнопок" unit="">5</param>
-<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">6 400</param>
-<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">800</param>
-<param name="Назначение" unit="">Ігрова</param>
-<param name="Підсвічування корпуса" unit="">RGB</param>
-<param name="Розміри (мм)" unit="">118x62x40</param>
 <param name="Тип подключения" unit="">Дротове</param>
 <param name="Тип сенсора" unit="">Оптичний</param>
 </offer>
@@ -7533,32 +7146,6 @@
 <param name="Тип подключения" unit="">Бездротове</param>
 <param name="Тип сенсора" unit="">Оптичний</param>
 <param name="Время работы от аккумулятора" unit="">12 міс</param>
-</offer>
-<offer id="2456291367" available="true">
-<url>https://tera-flops.com.ua/ua/p2456291367-misha-real-211.html</url>
-<price>100</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763471</categoryId>
-<picture>https://images.prom.ua/6431088507_misha-real-el-rm-211.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Миша REAL-EL RM-211 White (EL123200014)</name>
-<vendor>Real-el</vendor>
-<vendorCode>EL123200014</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Цвет">Белый</param>
-<param name="Назначение">Для ноутбука</param>
-<param name="Состояние">Новое</param>
-<param name="Тип">Мышь</param>
-<param name="Интерфейс подключения" unit="">USB-A</param>
-<param name="Вага (г)" unit="">88</param>
-<param name="Питание" unit="">USB</param>
-<param name="Конструкция" unit="">Ергономічна</param>
-<param name="Количество кнопок" unit="">2</param>
-<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">800</param>
-<param name="Розміри (мм)" unit="">115x55x38</param>
-<param name="Тип подключения" unit="">Дротове</param>
-<param name="Тип сенсора" unit="">Оптичний</param>
 </offer>
 <offer id="2456291368" available="true">
 <url>https://tera-flops.com.ua/ua/p2456291368-misha-real-210.html</url>
@@ -7809,34 +7396,6 @@
 <param name="Тип подключения" unit="">Бездротове</param>
 <param name="Тип сенсора" unit="">Оптичний</param>
 </offer>
-<offer id="2456291410" available="true">
-<url>https://tera-flops.com.ua/ua/p2456291410-misha-bezdrotova-speedlink.html</url>
-<price>256</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763471</categoryId>
-<picture>https://images.prom.ua/6431088513_misha-bezdrotova-speedlink.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Миша бездротова SPEEDLINK KAPPA red (SL-630011-RD)</name>
-<vendor>SpeedLink</vendor>
-<vendorCode>SL-630011-RD</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Цвет">Красный</param>
-<param name="Назначение">Для ноутбука</param>
-<param name="Состояние">Новое</param>
-<param name="Подключение устройства">Беспроводное</param>
-<param name="Тип">Мышь</param>
-<param name="Интерфейс подключения" unit="">USB-A</param>
-<param name="Вага (г)" unit="">82</param>
-<param name="Питание" unit="">1xAA</param>
-<param name="Конструкция" unit="">Ергономічна</param>
-<param name="Количество кнопок" unit="">2</param>
-<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1600</param>
-<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1600</param>
-<param name="Розміри (мм)" unit="">65x110x37</param>
-<param name="Тип подключения" unit="">Бездротове</param>
-<param name="Тип сенсора" unit="">Оптичний</param>
-</offer>
 <offer id="2468104703" available="true">
 <url>https://tera-flops.com.ua/ua/p2468104703-klaviatura-drotova-aula.html</url>
 <price>1117</price>
@@ -7989,35 +7548,6 @@
 <param name="Бічні кнопки" unit="">Да</param>
 <param name="Кнопка зміни DPI" unit="">Да</param>
 <param name="Підсвічування корпуса" unit="">Різнокольорова</param>
-</offer>
-<offer id="2468104714" available="true">
-<url>https://tera-flops.com.ua/ua/p2468104714-klaviatura-drotova-aula.html</url>
-<price>993</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763472</categoryId>
-<picture>https://images.prom.ua/6447063128_klaviatura-drotova-aula.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Клавіатура дротова AULA F3032 RGB Brown Switch Black (6948391201740)</name>
-<vendor>Aula</vendor>
-<vendorCode>6948391201740</vendorCode>
-<param name="Интерфейс подключения">USB</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Цвет">Черный</param>
-<param name="Состояние">Новое</param>
-<param name="Тип">Клавиатура</param>
-<param name="Подключение устройства">Проводное</param>
-<param name="Anti-Ghosting" unit="">Да</param>
-<param name="Ігровий режим" unit="">Да</param>
-<param name="Вага (г)" unit="">870</param>
-<param name="Перемикачі" unit="">KRGD Brown Switch (Tactile)</param>
-<param name="Підключення" unit="">Дротове</param>
-<param name="Подсветка" unit="">RGB</param>
-<param name="Регулювання гучності" unit="">через Fn</param>
-<param name="Розміри" unit="">367x136x36</param>
-<param name="Тип клавиатуры" unit="">Ігрова</param>
-<param name="Тип клавиш" unit="">Механічний</param>
-<param name="Формат" unit="">Компактна</param>
 </offer>
 <offer id="2468105422" available="true">
 <url>https://tera-flops.com.ua/ua/p2468105422-klaviatura-drotova-aula.html</url>
