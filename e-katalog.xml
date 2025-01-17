@@ -4669,51 +4669,6 @@
 <param name="Передняя панель" unit="">Метал</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2328283283" available="true">
-<url>https://tera-flops.com.ua/ua/p2328283283-korpus-lian-lancool.html</url>
-<price>4251</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6238215196_korpus-lian-li.jpg</picture>
-<picture>https://images.prom.ua/6238215200_korpus-lian-li.jpg</picture>
-<picture>https://images.prom.ua/6238215202_korpus-lian-li.jpg</picture>
-<picture>https://images.prom.ua/6238215205_korpus-lian-li.jpg</picture>
-<picture>https://images.prom.ua/6238215208_korpus-lian-li.jpg</picture>
-<picture>https://images.prom.ua/6238215214_korpus-lian-li.jpg</picture>
-<picture>https://images.prom.ua/6238215217_korpus-lian-li.jpg</picture>
-<picture>https://images.prom.ua/6238215218_korpus-lian-li.jpg</picture>
-<picture>https://images.prom.ua/6238215225_korpus-lian-li.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус Lian Li Lancool 216 чорний</name>
-<vendor>Lian Li</vendor>
-<vendorCode>G99.LAN216RX.00</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5">2</param>
-<param name="Материал корпуса">Сталь</param>
-<param name="Назначение">Игровой</param>
-<param name="Слоты расширения" unit="шт">7</param>
-<param name="Состояние">Новое</param>
-<param name="Типоразмер">Midi-Tower</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="Форм-фактор">ATX</param>
-<param name="USB 3.2" unit="">2</param>
-<param name="USB Type-C" unit="">1</param>
-<param name="Блок питания" unit="">Нет</param>
-<param name="Вес (кг)" unit="">11.8</param>
-<param name="Вбудовані вентилятори/розташування" unit="">3</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="Вхід для мікрофона" unit="">Є</param>
-<param name="Габариты (мм)" unit="">492x235x481</param>
-<param name="Картрідер" unit="">Немає</param>
-<param name="Максимальна висота процесорного кулера (мм)" unit="">180</param>
-<param name="Матеріал боковини" unit="">Загартоване скло</param>
-<param name="Можливість встановлення довгих відеокарт (мм)" unit="">392</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">9</param>
-<param name="Особенности" unit="">Вертикальна установка відеокарти</param>
-<param name="Передняя панель" unit="">Гратчаста</param>
-<param name="Расположение" unit="">Нижнє</param>
-</offer>
 <offer id="2349039816" available="true">
 <url>https://tera-flops.com.ua/ua/p2349039816-korpus-gamemax-612.html</url>
 <price>1988</price>
