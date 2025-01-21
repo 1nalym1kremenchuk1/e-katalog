@@ -541,44 +541,6 @@
 <param name="Передняя панель" unit="">Гратчаста</param>
 <param name="Форм-фактор" unit="">microATX</param>
 </offer>
-<offer id="2308819614" available="true">
-<url>https://tera-flops.com.ua/ua/p2308819614-korpus-1stplayer-4f1.html</url>
-<price>2256</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6453821931_korpus-1stplayer-t3-g-4f1-bk.jpg</picture>
-<picture>https://images.prom.ua/6453821932_korpus-1stplayer-t3-g-4f1-bk.jpg</picture>
-<picture>https://images.prom.ua/6453821933_korpus-1stplayer-t3-g-4f1-bk.jpg</picture>
-<picture>https://images.prom.ua/6453821935_korpus-1stplayer-t3-g-4f1-bk.jpg</picture>
-<picture>https://images.prom.ua/6453821936_korpus-1stplayer-t3-g-4f1-bk.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус 1stPlayer T3-G-4F1-BK</name>
-<vendor>1stPlayer</vendor>
-<vendorCode>T3-G-4F1-BK</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5">2</param>
-<param name="Материал корпуса">Сталь</param>
-<param name="Назначение">Игровой</param>
-<param name="Слоты расширения" unit="шт">4</param>
-<param name="Состояние">Новое</param>
-<param name="Типоразмер">Mini (Micro)-Tower</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="Вес (кг)" unit="">4.5</param>
-<param name="Вбудовані вентилятори/розташування" unit="">передня панель / 3x120 мм, задня панель / 1x120 мм</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="Вхід для мікрофона" unit="">Є</param>
-<param name="Габариты (мм)" unit="">365x210x423</param>
-<param name="Кількість 2,5 відсіків" unit="">2</param>
-<param name="Максимальна висота процесорного кулера (мм)" unit="">165</param>
-<param name="Матеріал боковини" unit="">Загартоване скло</param>
-<param name="Можливість встановлення довгих відеокарт (мм)" unit="">320</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">передня панель / 3x120 мм, верхня панель / 2x120 мм, задня панель / 1x120 мм</param>
-<param name="Особенности" unit="">Пилові фільтри</param>
-<param name="Передняя панель" unit="">Загартоване скло</param>
-<param name="Расположение" unit="">Нижнє</param>
-<param name="Форм-фактор" unit="">microATX</param>
-</offer>
 <offer id="2314949016" available="true">
 <url>https://tera-flops.com.ua/ua/p2314949016-korpus-deepsool-ch370.html</url>
 <price>2821</price>
@@ -651,42 +613,6 @@
 <param name="Передняя панель" unit="">Пластик</param>
 <param name="Расположение" unit="">Нижнє</param>
 <param name="Форм-фактор" unit="">microATX</param>
-</offer>
-<offer id="2436489414" available="true">
-<url>https://tera-flops.com.ua/ua/p2436489414-korpus-1stplayer-3f2ap.html</url>
-<price>1737</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6453821942_korpus-1stplayer-f4-3f2ap.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус 1stPlayer F4-3F2(AP) Black без БЖ</name>
-<vendor>1stPlayer</vendor>
-<vendorCode>F4-3F2</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5">1</param>
-<param name="Материал корпуса">Сталь</param>
-<param name="Назначение">Игровой</param>
-<param name="Слоты расширения" unit="шт">7</param>
-<param name="Состояние">Новое</param>
-<param name="Типоразмер">Midi-Tower</param>
-<param name="Форм-фактор">ATX</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="USB 2.0" unit="">2</param>
-<param name="USB 3.2" unit="">1</param>
-<param name="Вес (кг)" unit="">3.8</param>
-<param name="Вбудовані вентилятори/розташування" unit="">3</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="Вхід для мікрофона" unit="">Є</param>
-<param name="Габариты (мм)" unit="">185x435x380</param>
-<param name="Кількість 2,5 відсіків" unit="">1</param>
-<param name="Максимальна висота процесорного кулера (мм)" unit="">160</param>
-<param name="Матеріал боковини" unit="">Загартоване скло</param>
-<param name="Можливість встановлення довгих відеокарт (мм)" unit="">300</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">6</param>
-<param name="Особенности" unit="">Пилові фільтри</param>
-<param name="Передняя панель" unit="">Сталь</param>
-<param name="Расположение" unit="">Нижнє</param>
 </offer>
 <offer id="2443931332" available="true">
 <url>https://tera-flops.com.ua/ua/p2443931332-korpus-1stplayer-3f2.html</url>
@@ -985,44 +911,6 @@
 <param name="Вес" unit="г">2</param>
 <param name="Состояние">Новое</param>
 </offer>
-<offer id="2308816717" available="true">
-<url>https://tera-flops.com.ua/ua/p2308816717-korpus-gamemax-diamond.html</url>
-<price>2213</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6174970719_korpus-gamemax-diamond.jpg</picture>
-<picture>https://images.prom.ua/6174970720_korpus-gamemax-diamond.jpg</picture>
-<picture>https://images.prom.ua/6174970721_korpus-gamemax-diamond.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус GameMax Diamond COC BK (Black Diamond COC)</name>
-<vendor>Gamemax</vendor>
-<vendorCode>Black Diamond COC</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5">2</param>
-<param name="Материал корпуса">Сталь</param>
-<param name="Назначение">Игровой</param>
-<param name="Слоты расширения" unit="шт">7</param>
-<param name="Состояние">Новое</param>
-<param name="Типоразмер">Midi-Tower</param>
-<param name="Форм-фактор">Mini-ITX</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="USB 2.0" unit="">1</param>
-<param name="USB 3.2" unit="">1</param>
-<param name="Блок питания" unit="">Нет</param>
-<param name="Вес (кг)" unit="">4,4</param>
-<param name="Вбудовані вентилятори/розташування" unit="">бічна панель / 1x140 мм, задня панель / 1x120 мм ARGB LED</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="Вхід для мікрофона" unit="">Є</param>
-<param name="Габариты (мм)" unit="">421x210x460</param>
-<param name="Максимальна висота процесорного кулера (мм)" unit="">170</param>
-<param name="Матеріал боковини" unit="">Загартоване скло</param>
-<param name="Можливість встановлення довгих відеокарт (мм)" unit="">340</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">передня панель / 3x120 мм, верxняя панель / 2x120 мм, нижня панель / 2x120 мм, задня панель / 1x120 мм</param>
-<param name="Особенности" unit="">Загартоване скло</param>
-<param name="Передняя панель" unit="">Суцільна</param>
-<param name="Расположение" unit="">Нижнє</param>
-</offer>
 <offer id="2308816719" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816719-korpus-vinga-vision.html</url>
 <price>1160</price>
@@ -1060,7 +948,7 @@
 </offer>
 <offer id="2308816809" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816809-korpus-fractal-design.html</url>
-<price>3161</price>
+<price>3169</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6224372271_korpus-fractal-design.jpg</picture>
@@ -1103,7 +991,7 @@
 </offer>
 <offer id="2308816811" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816811-korpus-fractal-design.html</url>
-<price>7005</price>
+<price>7021</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175134364_korpus-fractal-design.jpg</picture>
@@ -1146,7 +1034,7 @@
 </offer>
 <offer id="2308816820" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816820-korpus-fractal-design.html</url>
-<price>4101</price>
+<price>4111</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175134498_korpus-fractal-design.jpg</picture>
@@ -1182,44 +1070,9 @@
 <param name="Передняя панель" unit="">Сталь</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2308816828" available="true">
-<url>https://tera-flops.com.ua/ua/p2308816828-korpus-gamemax-mt521.html</url>
-<price>1134</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6175134554_korpus-gamemax-mt521-np.jpg</picture>
-<picture>https://images.prom.ua/6175134556_korpus-gamemax-mt521-np.jpg</picture>
-<picture>https://images.prom.ua/6175134559_korpus-gamemax-mt521-np.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус GAMEMAX MT521-NP Black (MT521-NP)</name>
-<vendor>Gamemax</vendor>
-<vendorCode>MT521-NP</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5">2</param>
-<param name="Материал корпуса">Сталь</param>
-<param name="Слоты расширения" unit="шт">7</param>
-<param name="Состояние">Новое</param>
-<param name="Типоразмер">Midi-Tower</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="USB 2.0" unit="">2</param>
-<param name="USB 3.2" unit="">1</param>
-<param name="Блок питания" unit="">Нет</param>
-<param name="Вес (кг)" unit="">3,5</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="Вхід для мікрофона" unit="">Є</param>
-<param name="Габариты (мм)" unit="">370x180x412</param>
-<param name="Матеріал боковини" unit="">Сталь</param>
-<param name="Можливість встановлення довгих відеокарт (мм)" unit="">330</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">1х 120 мм / позаду</param>
-<param name="Назначение" unit="">Офісний</param>
-<param name="Передняя панель" unit="">Гратчаста</param>
-<param name="Расположение" unit="">Верхнє</param>
-<param name="Форм-фактор" unit="">microATX</param>
-</offer>
 <offer id="2308816831" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816831-korpus-fractal-design.html</url>
-<price>5208</price>
+<price>5220</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6238222883_korpus-fractal-design.jpg</picture>
@@ -1260,7 +1113,7 @@
 </offer>
 <offer id="2308816836" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816836-korpus-fractal-design.html</url>
-<price>5826</price>
+<price>5840</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6238222886_korpus-fractal-design.jpg</picture>
@@ -1301,7 +1154,7 @@
 </offer>
 <offer id="2308816856" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816856-korpus-gamemax-mt523b.html</url>
-<price>1060</price>
+<price>1092</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175190634_korpus-gamemax-mt523b-u3.jpg</picture>
@@ -1335,7 +1188,7 @@
 </offer>
 <offer id="2308816864" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816864-korpus-gamemax-g510.html</url>
-<price>3189</price>
+<price>3196</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/4621207413_korpus-gamemax-g510.jpg</picture>
@@ -1370,7 +1223,7 @@
 </offer>
 <offer id="2308816865" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816865-korpus-gamemax-g510.html</url>
-<price>3288</price>
+<price>3296</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175190740_korpus-gamemax-g510.jpg</picture>
@@ -1404,47 +1257,9 @@
 <param name="Передняя панель" unit="">Акрил</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2308816869" available="true">
-<url>https://tera-flops.com.ua/ua/p2308816869-korpus-gamemax-g563.html</url>
-<price>1864</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6175190774_korpus-gamemax-g563.jpg</picture>
-<picture>https://images.prom.ua/6175190777_korpus-gamemax-g563.jpg</picture>
-<picture>https://images.prom.ua/6224399778_korpus-gamemax-g563.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус GAMEMAX G563 Window Black (G563)</name>
-<vendor>Gamemax</vendor>
-<vendorCode>G563</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5">2</param>
-<param name="Материал корпуса">Сталь</param>
-<param name="Назначение">Игровой</param>
-<param name="Слоты расширения" unit="шт">7</param>
-<param name="Состояние">Новое</param>
-<param name="Типоразмер">Midi-Tower</param>
-<param name="Форм-фактор">Mini-ITX</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="USB 2.0" unit="">2</param>
-<param name="USB 3.2" unit="">1</param>
-<param name="Блок питания" unit="">Нет</param>
-<param name="Вес (кг)" unit="">4</param>
-<param name="Вбудовані вентилятори/розташування" unit="">3х120мм / на передній панелі, 1х120мм / ззаду</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="Вхід для мікрофона" unit="">Є</param>
-<param name="Габариты (мм)" unit="">418х200х452</param>
-<param name="Максимальна висота процесорного кулера (мм)" unit="">160</param>
-<param name="Матеріал боковини" unit="">Акрил</param>
-<param name="Можливість встановлення довгих відеокарт (мм)" unit="">360</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">2х120мм / на передній панелі, 1х120мм / ззаду</param>
-<param name="Особенности" unit="">Пилові фільтри</param>
-<param name="Передняя панель" unit="">Акрил</param>
-<param name="Расположение" unit="">Верхнє</param>
-</offer>
 <offer id="2308816870" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816870-korpus-gamemax-abyss.html</url>
-<price>3992</price>
+<price>4001</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175190781_korpus-gamemax-abyss-tr.jpg</picture>
@@ -1482,7 +1297,7 @@
 </offer>
 <offer id="2308816872" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816872-korpus-fractal-design.html</url>
-<price>7151</price>
+<price>7168</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175190813_korpus-fractal-design.jpg</picture>
@@ -1525,7 +1340,7 @@
 </offer>
 <offer id="2308816873" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816873-korpus-gamemax-master.html</url>
-<price>3950</price>
+<price>3959</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175190888_korpus-gamemax-master.jpg</picture>
@@ -1563,7 +1378,7 @@
 </offer>
 <offer id="2308816875" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816875-korpus-gamemax-h608.html</url>
-<price>2214</price>
+<price>2219</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175190924_korpus-gamemax-h608.jpg</picture>
@@ -1600,7 +1415,7 @@
 </offer>
 <offer id="2308816880" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816880-korpus-gamemax-silent.html</url>
-<price>4331</price>
+<price>4341</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175191124_korpus-gamemax-silent.jpg</picture>
@@ -1638,7 +1453,7 @@
 </offer>
 <offer id="2308816884" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816884-korpus-fractal-design.html</url>
-<price>10306</price>
+<price>10330</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175191222_korpus-fractal-design.jpg</picture>
@@ -1681,7 +1496,7 @@
 </offer>
 <offer id="2308816885" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816885-korpus-fractal-design.html</url>
-<price>10354</price>
+<price>10378</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175191240_korpus-fractal-design.jpg</picture>
@@ -1725,7 +1540,7 @@
 </offer>
 <offer id="2308816886" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816886-korpus-fractal-design.html</url>
-<price>9813</price>
+<price>9837</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175191274_korpus-fractal-design.jpg</picture>
@@ -1763,7 +1578,7 @@
 </offer>
 <offer id="2308816888" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816888-korpus-fractal-design.html</url>
-<price>9717</price>
+<price>9740</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6238226543_korpus-fractal-design.jpg</picture>
@@ -1804,7 +1619,7 @@
 </offer>
 <offer id="2308816889" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816889-korpus-fractal-design.html</url>
-<price>12767</price>
+<price>12735</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6224399836_korpus-fractal-design.jpg</picture>
@@ -1849,7 +1664,7 @@
 </offer>
 <offer id="2308816890" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816890-korpus-fractal-design.html</url>
-<price>12943</price>
+<price>12973</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175191352_korpus-fractal-design.jpg</picture>
@@ -1890,7 +1705,7 @@
 </offer>
 <offer id="2308816898" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816898-korpus-fractal-design.html</url>
-<price>10016</price>
+<price>10040</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175191470_korpus-fractal-design.jpg</picture>
@@ -2004,45 +1819,9 @@
 <param name="Передняя панель" unit="">Сталь</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2308816913" available="true">
-<url>https://tera-flops.com.ua/ua/p2308816913-korpus-gamemax-moonlight.html</url>
-<price>1968</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6175191599_korpus-gamemax-moonlight.jpg</picture>
-<picture>https://images.prom.ua/6175191601_korpus-gamemax-moonlight.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус GAMEMAX MoonLight FRGB Tempered Glass White (Moonlight FRGB-White)</name>
-<vendor>Gamemax</vendor>
-<vendorCode>Moonlight FRGB-White</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5">2</param>
-<param name="Материал корпуса">Сталь</param>
-<param name="Назначение">Игровой</param>
-<param name="Слоты расширения" unit="шт">7</param>
-<param name="Состояние">Новое</param>
-<param name="Типоразмер">Midi-Tower</param>
-<param name="Форм-фактор">Mini-ITX</param>
-<param name="Цвет корпуса">Белый</param>
-<param name="USB 2.0" unit="">2</param>
-<param name="USB 3.2" unit="">1</param>
-<param name="Блок питания" unit="">Нет</param>
-<param name="Вбудовані вентилятори/розташування" unit="">передня панель / 3x120 мм LED, задня панель / 1x120 мм LED</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="Вхід для мікрофона" unit="">Є</param>
-<param name="Габариты (мм)" unit="">440x205x470</param>
-<param name="Максимальна висота процесорного кулера (мм)" unit="">160</param>
-<param name="Матеріал боковини" unit="">Акрил</param>
-<param name="Можливість встановлення довгих відеокарт (мм)" unit="">360</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">верхня панель / 2x120 мм</param>
-<param name="Особенности" unit="">FRGB підсвічування</param>
-<param name="Передняя панель" unit="">Акрил</param>
-<param name="Расположение" unit="">Нижнє</param>
-</offer>
 <offer id="2308816925" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816925-korpus-fractal-design.html</url>
-<price>13570</price>
+<price>13602</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175191731_korpus-fractal-design.jpg</picture>
@@ -2083,7 +1862,7 @@
 </offer>
 <offer id="2308816933" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816933-korpus-fractal-design.html</url>
-<price>4358</price>
+<price>4368</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175191777_korpus-fractal-design.jpg</picture>
@@ -2119,7 +1898,7 @@
 </offer>
 <offer id="2308816934" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816934-korpus-fractal-design.html</url>
-<price>4358</price>
+<price>4368</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6238226602_korpus-fractal-design.jpg</picture>
@@ -2161,7 +1940,7 @@
 </offer>
 <offer id="2308816935" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816935-korpus-fractal-design.html</url>
-<price>4951</price>
+<price>4963</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175239245_korpus-fractal-design.jpg</picture>
@@ -2196,7 +1975,7 @@
 </offer>
 <offer id="2308816936" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816936-korpus-fractal-design.html</url>
-<price>4951</price>
+<price>4963</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6238226606_korpus-fractal-design.jpg</picture>
@@ -2239,7 +2018,7 @@
 </offer>
 <offer id="2308816939" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816939-korpus-fractal-design.html</url>
-<price>8308</price>
+<price>8328</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6224400041_korpus-fractal-design.jpg</picture>
@@ -2277,7 +2056,7 @@
 </offer>
 <offer id="2308816945" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816945-korpus-fractal-design.html</url>
-<price>5826</price>
+<price>5840</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175239583_korpus-fractal-design.jpg</picture>
@@ -2310,7 +2089,7 @@
 </offer>
 <offer id="2308816946" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816946-korpus-fractal-design.html</url>
-<price>5826</price>
+<price>5840</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6347693600_korpus-fractal-design.jpg</picture>
@@ -2353,7 +2132,7 @@
 </offer>
 <offer id="2308816947" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816947-korpus-fractal-design.html</url>
-<price>5826</price>
+<price>5840</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175239601_korpus-fractal-design.jpg</picture>
@@ -2390,7 +2169,7 @@
 </offer>
 <offer id="2308816951" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816951-korpus-fractal-design.html</url>
-<price>5826</price>
+<price>5840</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6224400106_korpus-fractal-design.jpg</picture>
@@ -2431,7 +2210,7 @@
 </offer>
 <offer id="2308816953" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816953-korpus-fractal-design.html</url>
-<price>5954</price>
+<price>5203</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6347693603_korpus-fractal-design.jpg</picture>
@@ -2474,7 +2253,7 @@
 </offer>
 <offer id="2308816954" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816954-korpus-fractal-design.html</url>
-<price>5158</price>
+<price>5171</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6224400130_korpus-fractal-design.jpg</picture>
@@ -2510,7 +2289,7 @@
 </offer>
 <offer id="2308816961" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816961-korpus-fractal-design.html</url>
-<price>6956</price>
+<price>6973</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6238226694_korpus-fractal-design.jpg</picture>
@@ -2550,7 +2329,7 @@
 </offer>
 <offer id="2308816963" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816963-korpus-fractal-design.html</url>
-<price>6712</price>
+<price>6728</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6224400176_korpus-fractal-design.jpg</picture>
@@ -2589,7 +2368,7 @@
 </offer>
 <offer id="2308816964" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816964-korpus-fractal-design.html</url>
-<price>6712</price>
+<price>6728</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6224418107_korpus-fractal-design.jpg</picture>
@@ -2629,7 +2408,7 @@
 </offer>
 <offer id="2308816966" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816966-korpus-fractal-design.html</url>
-<price>7151</price>
+<price>7168</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6238226713_korpus-fractal-design.jpg</picture>
@@ -2671,7 +2450,7 @@
 </offer>
 <offer id="2308816967" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816967-korpus-fractal-design.html</url>
-<price>7151</price>
+<price>7168</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6238226719_korpus-fractal-design.jpg</picture>
@@ -2716,7 +2495,7 @@
 </offer>
 <offer id="2308817639" available="true">
 <url>https://tera-flops.com.ua/ua/p2308817639-korpus-fractal-design.html</url>
-<price>9476</price>
+<price>9498</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6238226730_korpus-fractal-design.jpg</picture>
@@ -2758,52 +2537,9 @@
 <param name="Расположение" unit="">Верхнє</param>
 <param name="Форм-фактор" unit="">E-ATX</param>
 </offer>
-<offer id="2308817641" available="true">
-<url>https://tera-flops.com.ua/ua/p2308817641-korpus-fractal-design.html</url>
-<price>7671</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6238226741_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6175240103_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6175240104_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6224427740_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6175240093_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6224427735_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6224427737_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6175240101_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6175240102_korpus-fractal-design.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус Fractal Design Torrent Compact Black Solid (FD-C-TOR1C-04)</name>
-<vendor>Fractal Design</vendor>
-<vendorCode>FD-C-TOR1C-04</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5">1</param>
-<param name="Материал корпуса">Сталь</param>
-<param name="Назначение">Игровой</param>
-<param name="Слоты расширения" unit="шт">7</param>
-<param name="Состояние">Новое</param>
-<param name="Типоразмер">Midi-Tower</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="USB 3.2" unit="">2</param>
-<param name="USB Type-C" unit="">1</param>
-<param name="Блок питания" unit="">Нет</param>
-<param name="Вес (кг)" unit="">7,4</param>
-<param name="Вбудовані вентилятори/розташування" unit="">2</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="Габариты (мм)" unit="">467x222x450</param>
-<param name="Максимальна висота процесорного кулера (мм)" unit="">174</param>
-<param name="Матеріал боковини" unit="">Сталь</param>
-<param name="Можливість встановлення довгих відеокарт (мм)" unit="">330</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">ззаду 1x120мм, спереду 2x180мм, зверху , знизу 2x180мм</param>
-<param name="Особенности" unit="">Пилові фільтри</param>
-<param name="Передняя панель" unit="">Гратчаста</param>
-<param name="Расположение" unit="">Верхнє</param>
-<param name="Форм-фактор" unit="">E-ATX</param>
-</offer>
 <offer id="2308817651" available="true">
 <url>https://tera-flops.com.ua/ua/p2308817651-korpus-fractal-design.html</url>
-<price>7219</price>
+<price>7236</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6238226757_korpus-fractal-design.jpg</picture>
@@ -2845,7 +2581,7 @@
 </offer>
 <offer id="2308817655" available="true">
 <url>https://tera-flops.com.ua/ua/p2308817655-korpus-fractal-design.html</url>
-<price>6147</price>
+<price>6162</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6347693614_korpus-fractal-design.jpg</picture>
@@ -2888,7 +2624,7 @@
 </offer>
 <offer id="2308817656" available="true">
 <url>https://tera-flops.com.ua/ua/p2308817656-korpus-fractal-design.html</url>
-<price>9505</price>
+<price>9527</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6224427800_korpus-fractal-design.jpg</picture>
@@ -2924,7 +2660,7 @@
 </offer>
 <offer id="2308817660" available="true">
 <url>https://tera-flops.com.ua/ua/p2308817660-korpus-fractal-design.html</url>
-<price>6294</price>
+<price>6308</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6238228496_korpus-fractal-design.jpg</picture>
@@ -2963,46 +2699,9 @@
 <param name="Передняя панель" unit="">Пластик</param>
 <param name="Расположение" unit="">Верхнє</param>
 </offer>
-<offer id="2308817670" available="true">
-<url>https://tera-flops.com.ua/ua/p2308817670-korpus-gamemax-storm.html</url>
-<price>1850</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6175240497_korpus-gamemax-storm.jpg</picture>
-<picture>https://images.prom.ua/6175240500_korpus-gamemax-storm.jpg</picture>
-<picture>https://images.prom.ua/6175240502_korpus-gamemax-storm.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус GAMEMAX Storm Tempered Glass White (Storm White)</name>
-<vendor>Gamemax</vendor>
-<vendorCode>Storm White</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5">3</param>
-<param name="Материал корпуса">Сталь</param>
-<param name="Назначение">Игровой</param>
-<param name="Слоты расширения" unit="шт">5</param>
-<param name="Состояние">Новое</param>
-<param name="Типоразмер">Mini (Micro)-Tower</param>
-<param name="Форм-фактор">Mini-ITX</param>
-<param name="Цвет корпуса">Белый</param>
-<param name="USB 2.0" unit="">2</param>
-<param name="USB 3.2" unit="">1</param>
-<param name="Блок питания" unit="">Нет</param>
-<param name="Вбудовані вентилятори/розташування" unit="">задня панель / 1x120 мм FRGB</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="Вхід для мікрофона" unit="">Є</param>
-<param name="Габариты (мм)" unit="">380 x 200 x 450</param>
-<param name="Максимальна висота процесорного кулера (мм)" unit="">155</param>
-<param name="Матеріал боковини" unit="">Загартоване скло</param>
-<param name="Можливість встановлення довгих відеокарт (мм)" unit="">320</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">передня панель/3x120 мм або 2x140 мм, верхня панель/3x120 мм або 2x140 мм</param>
-<param name="Особенности" unit="">Пилові фільтри</param>
-<param name="Передняя панель" unit="">Гратчаста</param>
-<param name="Расположение" unit="">Нижнє</param>
-</offer>
 <offer id="2308817677" available="true">
 <url>https://tera-flops.com.ua/ua/p2308817677-korpus-fractal-design.html</url>
-<price>8395</price>
+<price>8415</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175240608_korpus-fractal-design.jpg</picture>
@@ -3034,7 +2733,7 @@
 </offer>
 <offer id="2308817691" available="true">
 <url>https://tera-flops.com.ua/ua/p2308817691-korpus-gamemax-m905s.html</url>
-<price>4329</price>
+<price>4340</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175241060_korpus-gamemax-m905s.jpg</picture>
@@ -3067,7 +2766,7 @@
 </offer>
 <offer id="2308817694" available="true">
 <url>https://tera-flops.com.ua/ua/p2308817694-korpus-gamemax-dark.html</url>
-<price>2651</price>
+<price>2438</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6224427907_korpus-gamemax-dark.jpg</picture>
@@ -3104,7 +2803,7 @@
 </offer>
 <offer id="2308817699" available="true">
 <url>https://tera-flops.com.ua/ua/p2308817699-korpus-fractal-design.html</url>
-<price>7768</price>
+<price>7786</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175241267_korpus-fractal-design.jpg</picture>
@@ -3147,7 +2846,7 @@
 </offer>
 <offer id="2308817700" available="true">
 <url>https://tera-flops.com.ua/ua/p2308817700-korpus-fractal-design.html</url>
-<price>7768</price>
+<price>7786</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6238228556_korpus-fractal-design.jpg</picture>
@@ -3188,7 +2887,7 @@
 </offer>
 <offer id="2308817701" available="true">
 <url>https://tera-flops.com.ua/ua/p2308817701-korpus-fractal-design.html</url>
-<price>7768</price>
+<price>7786</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175241333_korpus-fractal-design.jpg</picture>
@@ -3231,7 +2930,7 @@
 </offer>
 <offer id="2308817703" available="true">
 <url>https://tera-flops.com.ua/ua/p2308817703-korpus-fractal-design.html</url>
-<price>9379</price>
+<price>9401</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6224427916_korpus-fractal-design.jpg</picture>
@@ -3269,7 +2968,7 @@
 </offer>
 <offer id="2308817704" available="true">
 <url>https://tera-flops.com.ua/ua/p2308817704-korpus-fractal-design.html</url>
-<price>9379</price>
+<price>9401</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6238228574_korpus-fractal-design.jpg</picture>
@@ -3378,71 +3077,6 @@
 <param name="Передняя панель" unit="">Гратчаста</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2308817846" available="true">
-<url>https://tera-flops.com.ua/ua/p2308817846-korpus-1stplayer-3r1.html</url>
-<price>1505</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6175050879_korpus-1stplayer-f4-3r1.jpg</picture>
-<picture>https://images.prom.ua/6224365145_korpus-1stplayer-f4-3r1.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус 1stPlayer F4-3R1 Color LED Black (F4-3R1)</name>
-<vendor>1stPlayer</vendor>
-<vendorCode>F4-3R1</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5">1</param>
-<param name="Назначение">Игровой</param>
-<param name="Слоты расширения" unit="шт">7</param>
-<param name="Состояние">Новое</param>
-<param name="Типоразмер">Midi-Tower</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="Вес (кг)" unit="">3,79</param>
-<param name="Вбудовані вентилятори/розташування" unit="">передня панель / 2х120 мм RGB LED, задня панель / 1х120 мм RGB LED</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="Вхід для мікрофона" unit="">Є</param>
-<param name="Габариты (мм)" unit="">380х185х435</param>
-<param name="Максимальна висота процесорного кулера (мм)" unit="">160</param>
-<param name="Матеріал боковини" unit="">Сталь</param>
-<param name="Можливість встановлення довгих відеокарт (мм)" unit="">300</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">передня панель / 3х120 мм, верхня панель / 2х120 мм</param>
-<param name="Передняя панель" unit="">Пластик</param>
-<param name="Расположение" unit="">Нижнє</param>
-<param name="Форм-фактор" unit="">microATX</param>
-</offer>
-<offer id="2308817854" available="true">
-<url>https://tera-flops.com.ua/ua/p2308817854-korpus-1stplayer-3b1.html</url>
-<price>1310</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6175051029_korpus-1stplayer-f4-3b1.jpg</picture>
-<picture>https://images.prom.ua/6175051037_korpus-1stplayer-f4-3b1.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус 1stPlayer F4-3B1 Black (F4-3B1)</name>
-<vendor>1stPlayer</vendor>
-<vendorCode>F4-3B1</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5">1</param>
-<param name="Назначение">Игровой</param>
-<param name="Слоты расширения" unit="шт">7</param>
-<param name="Состояние">Новое</param>
-<param name="Типоразмер">Midi-Tower</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="Вес (кг)" unit="">3,79</param>
-<param name="Вбудовані вентилятори/розташування" unit="">передня панель / 2x120 мм, задня панель / 1x120 мм</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="Вхід для мікрофона" unit="">Є</param>
-<param name="Габариты (мм)" unit="">380x185x435</param>
-<param name="Картрідер" unit="">Є</param>
-<param name="Максимальна висота процесорного кулера (мм)" unit="">160</param>
-<param name="Матеріал боковини" unit="">Сталь</param>
-<param name="Можливість встановлення довгих відеокарт (мм)" unit="">300</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">передня панель / 3x120 мм, верхня панель / 2x120 мм</param>
-<param name="Передняя панель" unit="">Сталь</param>
-<param name="Расположение" unit="">Нижнє</param>
-<param name="Форм-фактор" unit="">microATX</param>
-</offer>
 <offer id="2308817876" available="true">
 <url>https://tera-flops.com.ua/ua/p2308817876-korpus-lian-o11.html</url>
 <price>3833</price>
@@ -3479,37 +3113,6 @@
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">362</param>
 <param name="Місця під додаткові вентилятори/розташування" unit="">10</param>
 <param name="Передняя панель" unit="">Гратчаста</param>
-<param name="Расположение" unit="">Нижнє</param>
-</offer>
-<offer id="2308818771" available="true">
-<url>https://tera-flops.com.ua/ua/p2308818771-korpus-aerocool-aero.html</url>
-<price>1910</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6175240699_korpus-aerocool-aero.jpg</picture>
-<picture>https://images.prom.ua/6175240701_korpus-aerocool-aero.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус Aerocool Aero One Eclipse White (ACCM-PB17143.21)</name>
-<vendor>AeroCool</vendor>
-<vendorCode>ACCM-PB17143.21</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5">2</param>
-<param name="Назначение">Игровой</param>
-<param name="Слоты расширения" unit="шт">7</param>
-<param name="Состояние">Новое</param>
-<param name="Типоразмер">Midi-Tower</param>
-<param name="Форм-фактор">Mini-ITX</param>
-<param name="Цвет корпуса">Белый</param>
-<param name="Вес (кг)" unit="">6,1</param>
-<param name="Вбудовані вентилятори/розташування" unit="">3x120мм / на передній панелі, 1x120мм / позаду</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="Вхід для мікрофона" unit="">Є</param>
-<param name="Габариты (мм)" unit="">210x520x404</param>
-<param name="Матеріал боковини" unit="">Загартоване скло</param>
-<param name="Можливість встановлення довгих відеокарт (мм)" unit="">327</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">3x120мм або 2x140мм / на передній панелі, 2x120мм / верхня панель, підтримка охолодження відеокарт 2x120мм</param>
-<param name="Передняя панель" unit="">Пластик</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
 <offer id="2308818777" available="true">
@@ -4068,50 +3671,9 @@
 <param name="Передняя панель" unit="">Пластик</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2308818973" available="true">
-<url>https://tera-flops.com.ua/ua/p2308818973-korpus-fractal-design.html</url>
-<price>9505</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6224341351_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6174970505_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6174970508_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6174970510_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6174970513_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6224341362_korpus-fractal-design.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус Fractal Design North білий</name>
-<vendor>Fractal Design</vendor>
-<vendorCode>FD-C-NOR1C-04</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5">2</param>
-<param name="Материал корпуса">Сталь</param>
-<param name="Назначение">Игровой</param>
-<param name="Слоты расширения" unit="шт">7</param>
-<param name="Состояние">Новое</param>
-<param name="Типоразмер">Midi-Tower</param>
-<param name="Форм-фактор">Mini-ITX</param>
-<param name="Цвет корпуса">Белый</param>
-<param name="USB 3.2" unit="">2</param>
-<param name="USB Type-C" unit="">1</param>
-<param name="Блок питания" unit="">Нет</param>
-<param name="Вес (кг)" unit="">7,7</param>
-<param name="Вбудовані вентилятори/розташування" unit="">передня панель / 2x140 мм</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="Вхід для мікрофона" unit="">Є</param>
-<param name="Габариты (мм)" unit="">447 x 215 x 469</param>
-<param name="Максимальна висота процесорного кулера (мм)" unit="">170</param>
-<param name="Матеріал боковини" unit="">Сталь</param>
-<param name="Можливість встановлення довгих відеокарт (мм)" unit="">355</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">передня панель/2x140 або 3x120 мм, верхня панель/2x120/140 мм, задня панель/1x120 мм</param>
-<param name="Особенности" unit="">Загартоване скло</param>
-<param name="Передняя панель" unit="">Дерево</param>
-<param name="Расположение" unit="">Нижнє</param>
-</offer>
 <offer id="2308818976" available="true">
 <url>https://tera-flops.com.ua/ua/p2308818976-korpus-fractal-design.html</url>
-<price>5573</price>
+<price>5586</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6238213746_korpus-fractal-design.jpg</picture>
@@ -4152,7 +3714,7 @@
 </offer>
 <offer id="2308818977" available="true">
 <url>https://tera-flops.com.ua/ua/p2308818977-korpus-fractal-design.html</url>
-<price>2607</price>
+<price>2614</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6224365163_korpus-fractal-design.jpg</picture>
@@ -4192,7 +3754,7 @@
 </offer>
 <offer id="2308818978" available="true">
 <url>https://tera-flops.com.ua/ua/p2308818978-korpus-fractal-design.html</url>
-<price>8057</price>
+<price>8076</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6175051611_korpus-fractal-design.jpg</picture>
@@ -4232,7 +3794,7 @@
 </offer>
 <offer id="2308818979" available="true">
 <url>https://tera-flops.com.ua/ua/p2308818979-korpus-fractal-design.html</url>
-<price>3755</price>
+<price>3764</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6238215057_korpus-fractal-design.jpg</picture>
@@ -4273,7 +3835,7 @@
 </offer>
 <offer id="2308818981" available="true">
 <url>https://tera-flops.com.ua/ua/p2308818981-korpus-fractal-design.html</url>
-<price>6264</price>
+<price>6279</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6224365329_korpus-fractal-design.jpg</picture>
@@ -4309,48 +3871,9 @@
 <param name="Расположение" unit="">Нижнє</param>
 <param name="Типоразмер" unit="">Cube</param>
 </offer>
-<offer id="2308818998" available="true">
-<url>https://tera-flops.com.ua/ua/p2308818998-korpus-gamemax-612.html</url>
-<price>2509</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6224341440_korpus-gamemax-st-612-2u3-tyc.jpg</picture>
-<picture>https://images.prom.ua/6224341445_korpus-gamemax-st-612-2u3-tyc.jpg</picture>
-<picture>https://images.prom.ua/6224341450_korpus-gamemax-st-612-2u3-tyc.jpg</picture>
-<picture>https://images.prom.ua/6224341457_korpus-gamemax-st-612-2u3-tyc.jpg</picture>
-<picture>https://images.prom.ua/6224341459_korpus-gamemax-st-612-2u3-tyc.jpg</picture>
-<picture>https://images.prom.ua/6224341463_korpus-gamemax-st-612-2u3-tyc.jpg</picture>
-<picture>https://images.prom.ua/6224341466_korpus-gamemax-st-612-2u3-tyc.jpg</picture>
-<picture>https://images.prom.ua/6224341472_korpus-gamemax-st-612-2u3-tyc.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус Gamemax ST-612-2U3-TYC 400W</name>
-<vendor>Gamemax</vendor>
-<vendorCode>ST-612-2U3-TYC 400W</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5">2</param>
-<param name="Материал корпуса">Сталь</param>
-<param name="Назначение">Рабочая станция</param>
-<param name="Слоты расширения" unit="шт">4</param>
-<param name="Состояние">Новое</param>
-<param name="Типоразмер">Mini (Micro)-Tower</param>
-<param name="Форм-фактор">Mini-ITX</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="USB 2.0" unit="">2</param>
-<param name="USB 3.2" unit="">2</param>
-<param name="USB Type-C" unit="">1</param>
-<param name="Блок питания" unit="">400W</param>
-<param name="Вбудовані вентилятори/розташування" unit="">верхня панель / 1x80мм</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="Вхід для мікрофона" unit="">Є</param>
-<param name="Габариты (мм)" unit="">295 x 99 x 365</param>
-<param name="Матеріал боковини" unit="">Сталь</param>
-<param name="Передняя панель" unit="">Метал</param>
-<param name="Расположение" unit="">Верхнє</param>
-</offer>
 <offer id="2308819001" available="true">
 <url>https://tera-flops.com.ua/ua/p2308819001-korpus-gamemax-zorro.html</url>
-<price>2794</price>
+<price>2800</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6224365223_korpus-gamemax-zorro.jpg</picture>
@@ -4394,7 +3917,7 @@
 </offer>
 <offer id="2308819582" available="true">
 <url>https://tera-flops.com.ua/ua/p2308819582-korpus-fractal-design.html</url>
-<price>7053</price>
+<price>7070</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6347683444_korpus-fractal-design.jpg</picture>
@@ -4472,44 +3995,6 @@
 <param name="Передняя панель" unit="">Гратчаста</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2308819637" available="true">
-<url>https://tera-flops.com.ua/ua/p2308819637-korpus-1stplayer-4f1.html</url>
-<price>1825</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6175134794_korpus-1stplayer-x2-m-4f1.jpg</picture>
-<picture>https://images.prom.ua/6224372359_korpus-1stplayer-x2-m-4f1.jpg</picture>
-<picture>https://images.prom.ua/6224372363_korpus-1stplayer-x2-m-4f1.jpg</picture>
-<picture>https://images.prom.ua/6175134816_korpus-1stplayer-x2-m-4f1.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус 1stPlayer X2-M-4F1 Black</name>
-<vendor>1stPlayer</vendor>
-<vendorCode>X2-M-4F1</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5">1</param>
-<param name="Материал корпуса">Сталь</param>
-<param name="Назначение">Игровой</param>
-<param name="Слоты расширения" unit="шт">4</param>
-<param name="Состояние">Новое</param>
-<param name="Типоразмер">Mini (Micro)-Tower</param>
-<param name="Форм-фактор">Mini-ITX</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="USB 2.0" unit="">1</param>
-<param name="USB 3.2" unit="">1</param>
-<param name="Блок питания" unit="">Нет</param>
-<param name="Вбудовані вентилятори/розташування" unit="">передня панель/3х120 мм FRGB, задня панель/1х120 мм FRGB</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="Вхід для мікрофона" unit="">Є</param>
-<param name="Габариты (мм)" unit="">401 x 210 x 322</param>
-<param name="Максимальна висота процесорного кулера (мм)" unit="">165</param>
-<param name="Матеріал боковини" unit="">Загартоване скло</param>
-<param name="Можливість встановлення довгих відеокарт (мм)" unit="">310</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">передня панель/3х120 мм, верхня панель/2х120 мм, нижня панель/1х120 мм</param>
-<param name="Особенности" unit="">FRGB підсвічування</param>
-<param name="Передняя панель" unit="">Загартоване скло</param>
-<param name="Расположение" unit="">Нижнє</param>
-</offer>
 <offer id="2308819638" available="true">
 <url>https://tera-flops.com.ua/ua/p2308819638-korpus-1stplayer-4f2.html</url>
 <price>1863</price>
@@ -4552,7 +4037,7 @@
 </offer>
 <offer id="2321306547" available="true">
 <url>https://tera-flops.com.ua/ua/p2321306547-korpus-gamemax-h601.html</url>
-<price>1686</price>
+<price>1690</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6390149541_korpus-gamemax-h601.jpg</picture>
@@ -4587,7 +4072,7 @@
 </offer>
 <offer id="2321321323" available="true">
 <url>https://tera-flops.com.ua/ua/p2321321323-korpus-fractal-design.html</url>
-<price>5914</price>
+<price>5928</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6224338247_korpus-fractal-design.jpg</picture>
@@ -4629,7 +4114,7 @@
 </offer>
 <offer id="2321321324" available="true">
 <url>https://tera-flops.com.ua/ua/p2321321324-korpus-fractal-design.html</url>
-<price>7219</price>
+<price>7236</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6224341128_korpus-fractal-design.jpg</picture>
@@ -5137,7 +4622,7 @@
 </offer>
 <offer id="2445073640" available="true">
 <url>https://tera-flops.com.ua/ua/p2445073640-klaviatura-aula-f2066.html</url>
-<price>677</price>
+<price>679</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763472</categoryId>
 <picture>https://images.prom.ua/6447063126_klaviatura-aula-f2066-ii.jpg</picture>
@@ -5195,7 +4680,7 @@
 </offer>
 <offer id="2445073700" available="true">
 <url>https://tera-flops.com.ua/ua/p2445073700-klaviatura-aula-mechanical.html</url>
-<price>1253</price>
+<price>1256</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763472</categoryId>
 <picture>https://images.prom.ua/6412647990_klaviatura-aula-mechanical.jpg</picture>
@@ -5224,7 +4709,7 @@
 </offer>
 <offer id="2450108639" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108639-misha-bezdrotova-mf211.html</url>
-<price>198</price>
+<price>213</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420660665_misha-bezdrotova-2e.jpg</picture>
@@ -5252,7 +4737,7 @@
 </offer>
 <offer id="2450108640" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108640-misha-bezdrotova-mf216.html</url>
-<price>240</price>
+<price>241</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420661028_misha-bezdrotova-2e.jpg</picture>
@@ -5280,7 +4765,7 @@
 </offer>
 <offer id="2450108644" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108644-misha-bezdrotova-mf218.html</url>
-<price>257</price>
+<price>258</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420661030_misha-bezdrotova-2e.jpg</picture>
@@ -5363,7 +4848,7 @@
 </offer>
 <offer id="2450108653" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108653-misha-bezdrotova-mf280.html</url>
-<price>314</price>
+<price>333</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420661069_misha-bezdrotova-2e.jpg</picture>
@@ -5411,7 +4896,7 @@
 </offer>
 <offer id="2450108657" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108657-misha-bezdrotova-frime.html</url>
-<price>140</price>
+<price>154</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431089777_misha-bezdrotova-frime.jpg</picture>
@@ -5436,88 +4921,9 @@
 <param name="Тип подключения" unit="">Бездротове</param>
 <param name="Тип сенсора" unit="">Оптичний</param>
 </offer>
-<offer id="2450108658" available="true">
-<url>https://tera-flops.com.ua/ua/p2450108658-misha-bezdrotova-frime.html</url>
-<price>273</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763471</categoryId>
-<picture>https://images.prom.ua/6420660657_misha-bezdrotova-frime.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Миша бездротова Frime FWMO-300В Black</name>
-<vendor>Frime</vendor>
-<vendorCode>FWMO-300В</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Цвет">Черный</param>
-<param name="Назначение">Для ноутбука</param>
-<param name="Состояние">Новое</param>
-<param name="Подключение устройства">Беспроводное</param>
-<param name="Тип">Мышь</param>
-<param name="Интерфейс подключения" unit="">USB-A</param>
-<param name="Питание" unit="">1xAA</param>
-<param name="Количество кнопок" unit="">3</param>
-<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1600</param>
-<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">800</param>
-<param name="Тип подключения" unit="">Бездротове</param>
-<param name="Тип сенсора" unit="">Оптичний</param>
-</offer>
-<offer id="2450108687" available="true">
-<url>https://tera-flops.com.ua/ua/p2450108687-misha-bezdrotova-rapoo.html</url>
-<price>358</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763471</categoryId>
-<picture>https://images.prom.ua/6420660655_misha-bezdrotova-rapoo.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Миша бездротова Rapoo M10 Plus Black</name>
-<vendor>Rapoo</vendor>
-<vendorCode>M10 Plus Black</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Цвет">Черный</param>
-<param name="Назначение">Для ноутбука</param>
-<param name="Состояние">Новое</param>
-<param name="Подключение устройства">Беспроводное</param>
-<param name="Тип">Мышь</param>
-<param name="Интерфейс подключения" unit="">USB-A</param>
-<param name="Питание" unit="">1xAA</param>
-<param name="Количество кнопок" unit="">2</param>
-<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1000</param>
-<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">100</param>
-<param name="Тип подключения" unit="">Бездротове</param>
-<param name="Тип сенсора" unit="">Оптичний</param>
-<param name="Время работы от аккумулятора" unit="">9 міс</param>
-</offer>
-<offer id="2450108717" available="true">
-<url>https://tera-flops.com.ua/ua/p2450108717-misha-bezdrotova-mf280.html</url>
-<price>333</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763471</categoryId>
-<picture>https://images.prom.ua/6420659589_misha-bezdrotova-2e.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Миша бездротова 2E MF280 Silent Gray (2E-MF280WGR)</name>
-<vendor>2E</vendor>
-<vendorCode>2E-MF280WGR</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Цвет">Серый</param>
-<param name="Назначение">Для ноутбука</param>
-<param name="Состояние">Новое</param>
-<param name="Тип">Мышь</param>
-<param name="Подключение устройства">Беспроводное</param>
-<param name="Интерфейс подключения" unit="">USB-A</param>
-<param name="Вага (г)" unit="">120</param>
-<param name="Питание" unit="">1xAA</param>
-<param name="Количество кнопок" unit="">2</param>
-<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1600</param>
-<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">800</param>
-<param name="Розміри (мм)" unit="">112х75х43</param>
-<param name="Тип подключения" unit="">Бездротове</param>
-<param name="Тип сенсора" unit="">Оптичний</param>
-<param name="Время работы от аккумулятора" unit="">12 міс</param>
-</offer>
 <offer id="2450108721" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108721-misha-bezdrotova-mf300.html</url>
-<price>312</price>
+<price>338</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420659591_misha-bezdrotova-2e.jpg</picture>
@@ -5600,34 +5006,6 @@
 <param name="Тип сенсора" unit="">Оптичний</param>
 <param name="Время работы от аккумулятора" unit="">12 міс</param>
 </offer>
-<offer id="2450108752" available="true">
-<url>https://tera-flops.com.ua/ua/p2450108752-misha-bezdrotova-real.html</url>
-<price>163</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763471</categoryId>
-<picture>https://images.prom.ua/6420661046_misha-bezdrotova-real-el.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Миша бездротова REAL-EL RM-311 Black (EL123200041)</name>
-<vendor>Real-el</vendor>
-<vendorCode>EL123200041</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Цвет">Черный</param>
-<param name="Назначение">Для ноутбука</param>
-<param name="Состояние">Новое</param>
-<param name="Подключение устройства">Беспроводное</param>
-<param name="Тип">Мышь</param>
-<param name="Интерфейс подключения" unit="">USB-A</param>
-<param name="Вага (г)" unit="">52</param>
-<param name="Питание" unit="">1xAA</param>
-<param name="Конструкция" unit="">Симетрична</param>
-<param name="Количество кнопок" unit="">4</param>
-<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1000</param>
-<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">100</param>
-<param name="Розміри (мм)" unit="">103x52x30</param>
-<param name="Тип подключения" unit="">Бездротове</param>
-<param name="Тип сенсора" unit="">Оптичний</param>
-</offer>
 <offer id="2450108753" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108753-misha-bezdrotova-real.html</url>
 <price>169</price>
@@ -5658,7 +5036,7 @@
 </offer>
 <offer id="2450108754" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108754-misha-bezdrotova-frime.html</url>
-<price>175</price>
+<price>182</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420661048_misha-bezdrotova-frime.jpg</picture>
@@ -5685,7 +5063,7 @@
 </offer>
 <offer id="2450108756" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108756-misha-bezdrotova-frime.html</url>
-<price>175</price>
+<price>182</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420661050_misha-bezdrotova-frime.jpg</picture>
@@ -5712,7 +5090,7 @@
 </offer>
 <offer id="2450108757" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108757-misha-bezdrotova-frime.html</url>
-<price>175</price>
+<price>182</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420661051_misha-bezdrotova-frime.jpg</picture>
@@ -5760,35 +5138,6 @@
 <param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1600</param>
 <param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">800</param>
 <param name="Розміри (мм)" unit="">103x61x32</param>
-<param name="Тип подключения" unit="">Бездротове</param>
-<param name="Тип сенсора" unit="">Оптичний</param>
-</offer>
-<offer id="2450108765" available="true">
-<url>https://tera-flops.com.ua/ua/p2450108765-misha-bezdrotova-mf2030.html</url>
-<price>257</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763471</categoryId>
-<picture>https://images.prom.ua/6420661061_misha-bezdrotova-2e.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Миша бездротова 2E MF2030 Rechargeable Red (2E-MF2030WR)</name>
-<vendor>2E</vendor>
-<vendorCode>2E-MF2030WR</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Цвет">Красный</param>
-<param name="Назначение">Для ноутбука</param>
-<param name="Состояние">Новое</param>
-<param name="Подключение устройства">Беспроводное</param>
-<param name="Тип">Мышь</param>
-<param name="Интерфейс подключения" unit="">USB-A</param>
-<param name="Бічні кнопки" unit="">Да</param>
-<param name="Вага (г)" unit="">75</param>
-<param name="Питание" unit="">1xAA</param>
-<param name="Кнопка зміни DPI" unit="">Да</param>
-<param name="Количество кнопок" unit="">5</param>
-<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1600</param>
-<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">800</param>
-<param name="Розміри (мм)" unit="">110x62x40</param>
 <param name="Тип подключения" unit="">Бездротове</param>
 <param name="Тип сенсора" unit="">Оптичний</param>
 </offer>
@@ -6020,7 +5369,7 @@
 </offer>
 <offer id="2450108779" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108779-misha-bezdrotova-mf300.html</url>
-<price>395</price>
+<price>367</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420659516_misha-bezdrotova-2e.jpg</picture>
@@ -6155,37 +5504,9 @@
 <param name="Тип подключения" unit="">Бездротове</param>
 <param name="Тип сенсора" unit="">Оптичний</param>
 </offer>
-<offer id="2450108808" available="true">
-<url>https://tera-flops.com.ua/ua/p2450108808-misha-bezdrotova-real.html</url>
-<price>437</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763471</categoryId>
-<picture>https://images.prom.ua/6420659540_misha-bezdrotova-real-el.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Миша бездротова REAL-EL RM-450 Black (EL123200046)</name>
-<vendor>Real-el</vendor>
-<vendorCode>EL123200046</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Цвет">Черный</param>
-<param name="Назначение">Для ноутбука</param>
-<param name="Состояние">Новое</param>
-<param name="Тип">Мышь</param>
-<param name="Подключение устройства">Беспроводное</param>
-<param name="Интерфейс подключения" unit="">USB-A</param>
-<param name="Вага (г)" unit="">68</param>
-<param name="Питание" unit="">1xAA</param>
-<param name="Количество кнопок" unit="">3</param>
-<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">2400</param>
-<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">800</param>
-<param name="Розміри (мм)" unit="">107×64×39</param>
-<param name="Тип подключения" unit="">Бездротове</param>
-<param name="Тип сенсора" unit="">Оптичний</param>
-<param name="Время работы от аккумулятора" unit="">2 роки</param>
-</offer>
 <offer id="2450109219" available="true">
 <url>https://tera-flops.com.ua/ua/p2450109219-misha-bezdrotova-promate.html</url>
-<price>532</price>
+<price>534</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420659548_misha-bezdrotova-promate.jpg</picture>
@@ -6268,7 +5589,7 @@
 </offer>
 <offer id="2450109229" available="true">
 <url>https://tera-flops.com.ua/ua/p2450109229-misha-bezdrotova-canyon.html</url>
-<price>517</price>
+<price>611</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420659558_misha-bezdrotova-canyon.jpg</picture>
@@ -6326,33 +5647,6 @@
 <param name="Тип сенсора" unit="">Оптичний</param>
 <param name="Время работы от аккумулятора" unit="">6 міс</param>
 </offer>
-<offer id="2450109263" available="true">
-<url>https://tera-flops.com.ua/ua/p2450109263-misha-bezdrotova-frime.html</url>
-<price>175</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763471</categoryId>
-<picture>https://images.prom.ua/6420660661_misha-bezdrotova-frime.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Миша бездротова Frime FWMO-220BG Black/Gray</name>
-<vendor>Frime</vendor>
-<vendorCode>FWMO-220BG</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Цвет">Серый</param>
-<param name="Назначение">Для ноутбука</param>
-<param name="Состояние">Новое</param>
-<param name="Тип">Мышь</param>
-<param name="Подключение устройства">Беспроводное</param>
-<param name="Интерфейс подключения" unit="">USB-A</param>
-<param name="Вага (г)" unit="">52</param>
-<param name="Питание" unit="">1xAA</param>
-<param name="Количество кнопок" unit="">2</param>
-<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1200</param>
-<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">600</param>
-<param name="Розміри (мм)" unit="">100x60x36</param>
-<param name="Тип подключения" unit="">Бездротове</param>
-<param name="Тип сенсора" unit="">Оптичний</param>
-</offer>
 <offer id="2450109266" available="true">
 <url>https://tera-flops.com.ua/ua/p2450109266-misha-bezdrotova-mf300.html</url>
 <price>257</price>
@@ -6375,30 +5669,6 @@
 <param name="Количество кнопок" unit="">2</param>
 <param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1 600</param>
 <param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1 600</param>
-<param name="Тип подключения" unit="">Бездротове</param>
-<param name="Тип сенсора" unit="">Оптичний</param>
-</offer>
-<offer id="2450109268" available="true">
-<url>https://tera-flops.com.ua/ua/p2450109268-misha-bezdrotova-rapoo.html</url>
-<price>525</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763471</categoryId>
-<picture>https://images.prom.ua/6420660662_misha-bezdrotova-rapoo.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Миша бездротова Rapoo M200 Silent White</name>
-<vendor>Rapoo</vendor>
-<vendorCode>M200 Silent White</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Цвет">Белый</param>
-<param name="Назначение">Для ноутбука</param>
-<param name="Состояние">Новое</param>
-<param name="Подключение устройства">Беспроводное</param>
-<param name="Тип">Мышь</param>
-<param name="Питание" unit="">1xAA</param>
-<param name="Количество кнопок" unit="">2</param>
-<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1 000</param>
-<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1 000</param>
 <param name="Тип подключения" unit="">Бездротове</param>
 <param name="Тип сенсора" unit="">Оптичний</param>
 </offer>
@@ -6459,7 +5729,7 @@
 </offer>
 <offer id="2450109271" available="true">
 <url>https://tera-flops.com.ua/ua/p2450109271-misha-bezdrotova-mf250.html</url>
-<price>292</price>
+<price>266</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420659586_misha-bezdrotova-2e.jpg</picture>
@@ -6515,7 +5785,7 @@
 </offer>
 <offer id="2450109273" available="true">
 <url>https://tera-flops.com.ua/ua/p2450109273-klaviatura-aula-f87.html</url>
-<price>1253</price>
+<price>1256</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763472</categoryId>
 <picture>https://images.prom.ua/6447521035_klaviatura-aula-f87.jpg</picture>
@@ -6546,7 +5816,7 @@
 </offer>
 <offer id="2456290350" available="true">
 <url>https://tera-flops.com.ua/ua/p2456290350-misha-gaming-hyperdrive.html</url>
-<price>1095</price>
+<price>1099</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431089781_misha-2e-gaming.jpg</picture>
@@ -6577,7 +5847,7 @@
 </offer>
 <offer id="2456290351" available="true">
 <url>https://tera-flops.com.ua/ua/p2456290351-misha-gaming-hyperspeed.html</url>
-<price>855</price>
+<price>858</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431089782_misha-2e-gaming.jpg</picture>
@@ -6665,7 +5935,7 @@
 </offer>
 <offer id="2456290356" available="true">
 <url>https://tera-flops.com.ua/ua/p2456290356-misha-gaming-mg340.html</url>
-<price>684</price>
+<price>686</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431090198_misha-2e-gaming.jpg</picture>
@@ -6814,7 +6084,7 @@
 </offer>
 <offer id="2456290377" available="true">
 <url>https://tera-flops.com.ua/ua/p2456290377-misha-frime-smasher.html</url>
-<price>553</price>
+<price>595</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431835490_misha-frime-smasher.jpg</picture>
@@ -6843,34 +6113,6 @@
 <param name="Назначение" unit="">Ігрова</param>
 <param name="Підсвічування корпуса" unit="">RGB</param>
 <param name="Розміри (мм)" unit="">120x70x40</param>
-<param name="Тип подключения" unit="">Дротове</param>
-<param name="Тип сенсора" unit="">Оптичний</param>
-</offer>
-<offer id="2456290413" available="true">
-<url>https://tera-flops.com.ua/ua/p2456290413-misha-rapoo-n100.html</url>
-<price>183</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763471</categoryId>
-<picture>https://images.prom.ua/6431089775_misha-rapoo-n100.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Миша Rapoo N100 Black</name>
-<vendor>Rapoo</vendor>
-<vendorCode>N100 Black</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Цвет">Черный</param>
-<param name="Назначение">Для ноутбука</param>
-<param name="Состояние">Новое</param>
-<param name="Тип">Мышь</param>
-<param name="Подключение устройства">Проводное</param>
-<param name="Интерфейс подключения" unit="">USB-A</param>
-<param name="Вага (г)" unit="">79</param>
-<param name="Питание" unit="">USB</param>
-<param name="Конструкция" unit="">Ергономічна</param>
-<param name="Количество кнопок" unit="">2</param>
-<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1600</param>
-<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1000</param>
-<param name="Розміри (мм)" unit="">116х62х35</param>
 <param name="Тип подключения" unit="">Дротове</param>
 <param name="Тип сенсора" unit="">Оптичний</param>
 </offer>
@@ -7047,7 +6289,7 @@
 </offer>
 <offer id="2456290430" available="true">
 <url>https://tera-flops.com.ua/ua/p2456290430-misha-vertux-phoenix.html</url>
-<price>1118</price>
+<price>1122</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431089056_misha-vertux-phoenix.jpg</picture>
@@ -7212,61 +6454,6 @@
 <param name="Тип подключения" unit="">Дротове</param>
 <param name="Тип сенсора" unit="">Оптичний</param>
 </offer>
-<offer id="2456291372" available="true">
-<url>https://tera-flops.com.ua/ua/p2456291372-misha-real-217.html</url>
-<price>136</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763471</categoryId>
-<picture>https://images.prom.ua/6431089060_misha-real-el-rm-217.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Миша REAL-EL RM-217 Black (EL123200038)</name>
-<vendor>Real-el</vendor>
-<vendorCode>EL123200038</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Цвет">Черный</param>
-<param name="Назначение">Для ноутбука</param>
-<param name="Состояние">Новое</param>
-<param name="Тип">Мышь</param>
-<param name="Интерфейс подключения" unit="">USB-A</param>
-<param name="Вага (г)" unit="">88</param>
-<param name="Питание" unit="">USB</param>
-<param name="Конструкция" unit="">Ергономічна</param>
-<param name="Количество кнопок" unit="">2</param>
-<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1000</param>
-<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">100</param>
-<param name="Розміри (мм)" unit="">115x55x38</param>
-<param name="Тип подключения" unit="">Дротове</param>
-<param name="Тип сенсора" unit="">Оптичний</param>
-</offer>
-<offer id="2456291373" available="true">
-<url>https://tera-flops.com.ua/ua/p2456291373-misha-real-222.html</url>
-<price>142</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763471</categoryId>
-<picture>https://images.prom.ua/6431089062_misha-real-el-rm-222.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Миша REAL-EL RM-222 Black (EL123200040)</name>
-<vendor>Real-el</vendor>
-<vendorCode>EL123200040</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Цвет">Черный</param>
-<param name="Назначение">Для ноутбука</param>
-<param name="Состояние">Новое</param>
-<param name="Тип">Мышь</param>
-<param name="Подключение устройства">Проводное</param>
-<param name="Интерфейс подключения" unit="">USB-A</param>
-<param name="Вага (г)" unit="">79</param>
-<param name="Питание" unit="">USB</param>
-<param name="Конструкция" unit="">Ергономічна</param>
-<param name="Количество кнопок" unit="">3</param>
-<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1600</param>
-<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1000</param>
-<param name="Розміри (мм)" unit="">60x112x30</param>
-<param name="Тип подключения" unit="">Дротове</param>
-<param name="Тип сенсора" unit="">Оптичний</param>
-</offer>
 <offer id="2456291407" available="true">
 <url>https://tera-flops.com.ua/ua/p2456291407-misha-bezdrotova-speedlink.html</url>
 <price>256</price>
@@ -7353,7 +6540,7 @@
 </offer>
 <offer id="2468104703" available="true">
 <url>https://tera-flops.com.ua/ua/p2468104703-klaviatura-drotova-aula.html</url>
-<price>1117</price>
+<price>1120</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763472</categoryId>
 <picture>https://images.prom.ua/6431855227_klaviatura-drotova-aula.jpg</picture>
@@ -7385,7 +6572,7 @@
 </offer>
 <offer id="2468104704" available="true">
 <url>https://tera-flops.com.ua/ua/p2468104704-klaviatura-drotova-aula.html</url>
-<price>1253</price>
+<price>1256</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763472</categoryId>
 <picture>https://images.prom.ua/6447064243_klaviatura-drotova-aula.jpg</picture>
@@ -7415,7 +6602,7 @@
 </offer>
 <offer id="2468104705" available="true">
 <url>https://tera-flops.com.ua/ua/p2468104705-klaviatura-drotova-aula.html</url>
-<price>1253</price>
+<price>1256</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763472</categoryId>
 <picture>https://images.prom.ua/6447066458_klaviatura-drotova-aula.jpg</picture>
@@ -7439,36 +6626,6 @@
 <param name="Подсветка" unit="">Різнокольорова</param>
 <param name="Регулювання гучності" unit="">колесом</param>
 <param name="Розміри" unit="">368x136x36</param>
-<param name="Тип клавиатуры" unit="">Ігрова</param>
-<param name="Тип клавиш" unit="">Механічний</param>
-<param name="Формат" unit="">Стандартна</param>
-</offer>
-<offer id="2468104706" available="true">
-<url>https://tera-flops.com.ua/ua/p2468104706-klaviatura-drotova-aula.html</url>
-<price>822</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763472</categoryId>
-<picture>https://images.prom.ua/6447066459_klaviatura-drotova-aula.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Клавіатура дротова AULA S2022 KRGD Blue Black (6948391202235)</name>
-<vendor>Aula</vendor>
-<vendorCode>6948391202235</vendorCode>
-<param name="Интерфейс подключения">USB</param>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Цвет">Черный</param>
-<param name="Состояние">Новое</param>
-<param name="Тип">Клавиатура</param>
-<param name="Подключение устройства">Проводное</param>
-<param name="Anti-Ghosting" unit="">Да</param>
-<param name="Ігровий режим" unit="">Да</param>
-<param name="Вага (г)" unit="">664</param>
-<param name="Количество клавиш" unit="">104</param>
-<param name="Перемикачі" unit="">KRGD Blue Switch</param>
-<param name="Підключення" unit="">Дротове</param>
-<param name="Подсветка" unit="">Різнокольорова</param>
-<param name="Регулювання гучності" unit="">через Fn</param>
-<param name="Розміри" unit="">435x125x40</param>
 <param name="Тип клавиатуры" unit="">Ігрова</param>
 <param name="Тип клавиш" unit="">Механічний</param>
 <param name="Формат" unit="">Стандартна</param>
@@ -7506,7 +6663,7 @@
 </offer>
 <offer id="2468105422" available="true">
 <url>https://tera-flops.com.ua/ua/p2468105422-klaviatura-drotova-aula.html</url>
-<price>1117</price>
+<price>1120</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763472</categoryId>
 <picture>https://images.prom.ua/6431857452_klaviatura-drotova-aula.jpg</picture>
@@ -7598,7 +6755,7 @@
 </offer>
 <offer id="2468105432" available="true">
 <url>https://tera-flops.com.ua/ua/p2468105432-klaviatura-drotova-aula.html</url>
-<price>1164</price>
+<price>1167</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763472</categoryId>
 <picture>https://images.prom.ua/6447061710_klaviatura-drotova-aula.jpg</picture>
@@ -7975,37 +7132,6 @@
 <param name="Тип">Термопрокладка</param>
 <param name="Гарантія, міс" unit="">1</param>
 </offer>
-<offer id="2441545886" available="true">
-<url>https://tera-flops.com.ua/ua/p2441545886-termoprokladka-fehonda-100x100x05mm.html</url>
-<price>230</price>
-<currencyId>UAH</currencyId>
-<categoryId>128411779</categoryId>
-<picture>https://images.prom.ua/h8nn-B0oxGEyZUPLEqhWO-X0pZ3XS5thU33slW0LdUA=/6407789270_termoprokladka-fehonda-100x100x05mm.jpg</picture>
-<picture>https://images.prom.ua/6407789271_termoprokladka-fehonda-100x100x05mm.jpg</picture>
-<picture>https://images.prom.ua/6407789272_termoprokladka-fehonda-100x100x05mm.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Термопрокладка Fehonda 100x100x0.5mm 8W/m*k (18671)</name>
-<vendor>FEHONDA</vendor>
-<vendorCode>F-TP-05-8</vendorCode>
-<param name="Состояние">Новое</param>
-<param name="Гарантія, міс" unit="">1</param>
-</offer>
-<offer id="2441545888" available="true">
-<url>https://tera-flops.com.ua/ua/p2441545888-termoprokladka-fehonda-100x100x10mm.html</url>
-<price>290</price>
-<currencyId>UAH</currencyId>
-<categoryId>128411779</categoryId>
-<picture>https://images.prom.ua/82Hpwvpo0Kg2LBXdzjQLfrktGZXx-AmHW6d47fcyE6U=/6407789277_termoprokladka-fehonda-100x100x10mm.jpg</picture>
-<picture>https://images.prom.ua/6407789278_termoprokladka-fehonda-100x100x10mm.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Термопрокладка Fehonda 100x100x1.0mm 8W/m*k (18673)</name>
-<vendor>FEHONDA</vendor>
-<vendorCode>F-TP-10-8</vendorCode>
-<param name="Состояние">Новое</param>
-<param name="Гарантія, міс" unit="">1</param>
-</offer>
 <offer id="2441545889" available="true">
 <url>https://tera-flops.com.ua/ua/p2441545889-termoprokladka-fehonda-100x100x125mm.html</url>
 <price>340</price>
@@ -8101,22 +7227,6 @@
 <vendorCode>F-TP-125-128</vendorCode>
 <param name="Состояние">Новое</param>
 <param name="Тип">Термопрокладка</param>
-<param name="Гарантія, міс" unit="">1</param>
-</offer>
-<offer id="2441545900" available="true">
-<url>https://tera-flops.com.ua/ua/p2441545900-termoprokladka-fehonda-100x100x20mm.html</url>
-<price>600</price>
-<currencyId>UAH</currencyId>
-<categoryId>128411779</categoryId>
-<picture>https://images.prom.ua/rfjpxAugUGBQGR3ld2RrVivFCh5rx79anr_6urnt8L0=/6407789371_termoprokladka-fehonda-100x100x20mm.jpg</picture>
-<picture>https://images.prom.ua/6407789372_termoprokladka-fehonda-100x100x20mm.jpg</picture>
-<picture>https://images.prom.ua/6407789373_termoprokladka-fehonda-100x100x20mm.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Термопрокладка Fehonda 100x100x2.0mm 12.8W/m*k (18827)</name>
-<vendor>FEHONDA</vendor>
-<vendorCode>F-TP-20-128</vendorCode>
-<param name="Состояние">Новое</param>
 <param name="Гарантія, міс" unit="">1</param>
 </offer>
 <offer id="2441545901" available="true">
@@ -8239,68 +7349,6 @@
 <param name="Тип разъема" unit="">4pin</param>
 <param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
 </offer>
-<offer id="2222509162" available="true">
-<url>https://tera-flops.com.ua/ua/p2222509162-povitryane-oholodzhennya-dlya.html</url>
-<price>500</price>
-<currencyId>UAH</currencyId>
-<categoryId>131271458</categoryId>
-<picture>https://images.prom.ua/ooaMqtlqK8bMqNo-kHNdI6awLoLpsnzE05UqXYtiGxg=/6403805721_povitryane-oholodzhennya-dlya.jpg</picture>
-<picture>https://images.prom.ua/5857704781_povitryane-oholodzhennya-dlya.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Повітряне охолодження для M.2 Jiushark THREE Black (M.2-THREE Black)</name>
-<vendor>Jiushark</vendor>
-<vendorCode>M.2-THREE Black</vendorCode>
-<param name="Назначение">SSD</param>
-<param name="Система охлаждения">Активная (кулер)</param>
-<param name="Количество кулеров">1</param>
-<param name="Тип подшипника">Скольжения</param>
-<param name="Материал радиатора">Алюминий</param>
-<param name="Тип разъема">4-pin</param>
-<param name="Особенности">Регулятор оборотов</param>
-<param name="Состояние">Новое</param>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Тип системы охлаждения">Активное охлаждение</param>
-<param name="Количество вентиляторов" unit="">1</param>
-<param name="Тип" unit="">Повітряне охолодження</param>
-<param name="Повітряний потік (CFM)" unit="">14</param>
-<param name="Максимальна швидкість обертання, об / хв" unit="">3000</param>
-<param name="Діаметр вентилятора, мм" unit="">80</param>
-<param name="Гарантія, міс" unit="">24</param>
-<param name="Напруга живлення, В" unit="">12</param>
-<param name="Регулювання обертів" unit="">PWM</param>
-</offer>
-<offer id="2222509164" available="true">
-<url>https://tera-flops.com.ua/ua/p2222509164-povitryane-oholodzhennya-dlya.html</url>
-<price>600</price>
-<currencyId>UAH</currencyId>
-<categoryId>131271458</categoryId>
-<picture>https://images.prom.ua/ow68W91WDAd3vzante1-UL8RQ35d3Z83FRML2PkhCFQ=/5857704820_povitryane-oholodzhennya-dlya.jpg</picture>
-<picture>https://images.prom.ua/5857704825_povitryane-oholodzhennya-dlya.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Повітряне охолодження для M.2 Jiushark FOUR ARGB (M.2-FOUR ARGB)</name>
-<vendor>Jiushark</vendor>
-<vendorCode>M.2-FOUR ARGB</vendorCode>
-<param name="Назначение">SSD</param>
-<param name="Система охлаждения">Активная (кулер)</param>
-<param name="Количество кулеров">1</param>
-<param name="Тип подшипника">Скольжения</param>
-<param name="Материал радиатора">Алюминий</param>
-<param name="Тип разъема">4-pin</param>
-<param name="Особенности">Подсветка</param>
-<param name="Состояние">Новое</param>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Тип системы охлаждения">Активное охлаждение</param>
-<param name="Количество вентиляторов" unit="">1</param>
-<param name="Тип" unit="">Повітряне охолодження</param>
-<param name="Мінімальна швидкість обертання, об / хв" unit="">900</param>
-<param name="Максимальна швидкість обертання, об / хв" unit="">3500</param>
-<param name="Діаметр вентилятора, мм" unit="">80</param>
-<param name="Гарантія, міс" unit="">6</param>
-<param name="Колір підсвітки" unit="">ARGB</param>
-<param name="Напруга живлення, В" unit="">12</param>
-</offer>
 <offer id="2222509165" available="true">
 <url>https://tera-flops.com.ua/ua/p2222509165-povitryane-oholodzhennya-dlya.html</url>
 <price>400</price>
@@ -8381,35 +7429,6 @@
 <param name="Регулювання обертів" unit="">PWM</param>
 <param name="Тип разъема" unit="">4pin</param>
 <param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
-</offer>
-<offer id="2224537600" available="true">
-<url>https://tera-flops.com.ua/ua/p2224537600-povitryane-oholodzhennya-jiushark.html</url>
-<price>720</price>
-<currencyId>UAH</currencyId>
-<categoryId>97649259</categoryId>
-<picture>https://images.prom.ua/g75Tj02l40qLb86nFv7jQH--unhE2wDwN3WtvCR1mRw=/6405347850_povitryane-oholodzhennya-jiushark.jpg</picture>
-<picture>https://images.prom.ua/6280253687_povitryane-oholodzhennya-jiushark.jpg</picture>
-<picture>https://images.prom.ua/6280254768_povitryane-oholodzhennya-jiushark.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Повітряне охолодження Jiushark JF100RS White ARGB (JF100RS White ARGB)</name>
-<vendor>Jiushark</vendor>
-<vendorCode>JF100RS White ARGB</vendorCode>
-<param name="Гарантийный срок" unit="мес">6</param>
-<param name="Диаметр вентилятора" unit="мм">100</param>
-<param name="Количество кулеров">1</param>
-<param name="Максимальная скорость вращения" unit="об/мин">2300</param>
-<param name="Максимальный уровень шума" unit="дБ">30</param>
-<param name="Разъемы">LGA1150|LGA1200|LGA1700</param>
-<param name="Состояние">Новое</param>
-<param name="Тип подшипника">Скольжения</param>
-<param name="Тип разъема" unit="">4pin</param>
-<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
-<param name="Повітряний потік (CFM)" unit="">48</param>
-<param name="Колір підсвітки" unit="">ARGB</param>
-<param name="Напряжение питания" unit="">12</param>
-<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
-<param name="Регулювання обертів" unit="">PWM</param>
 </offer>
 <offer id="2224537601" available="true">
 <url>https://tera-flops.com.ua/ua/p2224537601-povitryane-oholodzhennya-dlya.html</url>
@@ -8594,40 +7613,6 @@
 <param name="Габариты (мм)" unit="">128x153x158</param>
 <param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
 <param name="Висота кулера, мм" unit="">158</param>
-<param name="Регулювання обертів" unit="">PWM</param>
-</offer>
-<offer id="2354051398" available="true">
-<url>https://tera-flops.com.ua/ua/p2354051398-povitryane-oholodzhennya-jiushark.html</url>
-<price>1900</price>
-<currencyId>UAH</currencyId>
-<categoryId>97649259</categoryId>
-<picture>https://images.prom.ua/1i_FvobyvOwfZhYlPMulGCtdhNZOwBAOgDUEKYjJTyM=/6278430550_povitryane-oholodzhennya-jiushark.jpg</picture>
-<picture>https://images.prom.ua/6278430553_povitryane-oholodzhennya-jiushark.jpg</picture>
-<picture>https://images.prom.ua/6278430556_povitryane-oholodzhennya-jiushark.jpg</picture>
-<picture>https://images.prom.ua/6278430558_povitryane-oholodzhennya-jiushark.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Повітряне охолодження Jiushark JF13K Mini ARGB Black (JF13K Mini ARGB Black)</name>
-<vendor>Jiushark</vendor>
-<vendorCode>JF13K Mini ARGB Black</vendorCode>
-<param name="Вес" unit="г">1050</param>
-<param name="Гарантийный срок" unit="мес">6</param>
-<param name="Диаметр вентилятора" unit="мм">100</param>
-<param name="Количество кулеров">2</param>
-<param name="Максимальная скорость вращения" unit="об/мин">2200</param>
-<param name="Максимальный уровень шума" unit="дБ">30</param>
-<param name="Разъемы">LGA1150|LGA1700|LGA1200</param>
-<param name="Состояние">Новое</param>
-<param name="Тип подшипника">Гидродинамический</param>
-<param name="Тип разъема" unit="">4pin</param>
-<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
-<param name="Повітряний потік (CFM)" unit="">47.54</param>
-<param name="Розсіювана потужність, Вт" unit="">260</param>
-<param name="Колір підсвітки" unit="">ARGB</param>
-<param name="Напряжение питания" unit="">12</param>
-<param name="Габариты (мм)" unit="">204x123x101</param>
-<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
-<param name="Висота кулера, мм" unit="">101</param>
 <param name="Регулювання обертів" unit="">PWM</param>
 </offer>
 <offer id="2354051399" available="true">
