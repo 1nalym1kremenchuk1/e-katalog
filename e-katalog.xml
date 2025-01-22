@@ -331,6 +331,2429 @@
 <category id="85364281" parentId="85328850">Жорсткі диски</category>
 </categories>
 <offers>
+<offer id="2465743663" available="true">
+<url>https://tera-flops.com.ua/ua/p2465743663-kilimok-dlya-mishi.html</url>
+<price>323</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6456460734_kilimok-dlya-mishi.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші DM PAD L DREAM MACHINES</name>
+<vendor>Dream Machines</vendor>
+<vendorCode>DM_Pad_L</vendorCode>
+<param name="Материал поверхности">Ткань</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет">Черный</param>
+<param name="Гарантія, міс" unit="">12</param>
+<param name="Розмір, мм" unit="">450x400x3</param>
+</offer>
+<offer id="2465743665" available="true">
+<url>https://tera-flops.com.ua/ua/p2465743665-kilimok-dlya-mishi.html</url>
+<price>513</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6456460736_kilimok-dlya-mishi.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші DM PAD XL DREAM MACHINES</name>
+<vendor>Dream Machines</vendor>
+<vendorCode>DM_Pad_XL</vendorCode>
+<param name="Материал поверхности">Ткань</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет">Черный</param>
+<param name="Гарантія, міс" unit="">12</param>
+<param name="Розмір, мм" unit="">800x450x3</param>
+</offer>
+<offer id="2465743668" available="true">
+<url>https://tera-flops.com.ua/ua/p2465743668-kilimok-dlya-mishi.html</url>
+<price>1234</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6456460739_kilimok-dlya-mishi.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші DM PAD XXL DREAM MACHINES</name>
+<vendor>Dream Machines</vendor>
+<vendorCode>DM_Pad_XXL</vendorCode>
+<param name="Материал поверхности">Ткань</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет">Черный</param>
+<param name="Гарантія, міс" unit="">12</param>
+<param name="Розмір, мм" unit="">1200x600x3</param>
+</offer>
+<offer id="2448028253" available="true">
+<url>https://tera-flops.com.ua/ua/p2448028253-misha-bezdrotova-logitech.html</url>
+<price>2862</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6431089021_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech G305 Lightspeed Black (910-005282)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-005282</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Интерфейс подключения" unit="">Радіоканал</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">99</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Конструкция" unit="">Симетрична</param>
+<param name="Количество кнопок" unit="">6</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">12000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Настроювані клавіші" unit="">Да</param>
+<param name="Назначение" unit="">Ігрова</param>
+<param name="Розміри (мм)" unit="">116,6x62,15x38,2</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">250 годин</param>
+</offer>
+<offer id="2450108662" available="true">
+<url>https://tera-flops.com.ua/ua/p2450108662-misha-bezdrotova-logitech.html</url>
+<price>364</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420660658_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech B170 Black (910-004798)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-004798</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">71</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">100</param>
+<param name="Розміри (мм)" unit="">98x62x35</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">12 міс</param>
+</offer>
+<offer id="2450108666" available="true">
+<url>https://tera-flops.com.ua/ua/p2450108666-misha-bezdrotova-logitech.html</url>
+<price>453</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420660667_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech M190 Blue (910-005907)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-005907</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Синий</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">90</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">100</param>
+<param name="Розміри (мм)" unit="">115x66x40</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">18 міс</param>
+</offer>
+<offer id="2450108669" available="true">
+<url>https://tera-flops.com.ua/ua/p2450108669-misha-bezdrotova-logitech.html</url>
+<price>1012</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420661033_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech M240 Silent Charcoal (910-007119)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-007119</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Вага (г)" unit="">74</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Цвет" unit="">Графит</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">4 000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">400</param>
+<param name="Розміри (мм)" unit="">99x60x39</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+</offer>
+<offer id="2450108671" available="true">
+<url>https://tera-flops.com.ua/ua/p2450108671-misha-bezdrotova-logitech.html</url>
+<price>1402</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420661034_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech M325s Dark Silver (910-006812)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-006812</vendorCode>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">93</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">100</param>
+<param name="Розміри (мм)" unit="">95x57x39</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">18 міс</param>
+</offer>
+<offer id="2450108673" available="true">
+<url>https://tera-flops.com.ua/ua/p2450108673-misha-bezdrotova-logitech.html</url>
+<price>3554</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420661071_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech M720 Triathlon Black (910-004791)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-004791</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">135</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Количество кнопок" unit="">6</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">3000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Розміри (мм)" unit="">115x74x45</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">24 міс</param>
+</offer>
+<offer id="2450108675" available="true">
+<url>https://tera-flops.com.ua/ua/p2450108675-misha-bezdrotova-logitech.html</url>
+<price>2395</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420661072_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech M705 Marathon Black (910-001949)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-001949</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">135</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Количество кнопок" unit="">5</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">100</param>
+<param name="Розміри (мм)" unit="">109x71x42</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">36 міс</param>
+</offer>
+<offer id="2450108678" available="true">
+<url>https://tera-flops.com.ua/ua/p2450108678-misha-bezdrotova-logitech.html</url>
+<price>3726</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420661073_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech MX Anywhere 3S Graphite (910-006929)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-006929</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">99</param>
+<param name="Питание" unit="">Аккумулятор</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Цвет" unit="">Графит</param>
+<param name="Количество кнопок" unit="">5</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">8 000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">200</param>
+<param name="Розміри (мм)" unit="">100x65x34</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">70 днів</param>
+</offer>
+<offer id="2450108679" available="true">
+<url>https://tera-flops.com.ua/ua/p2450108679-misha-bezdrotova-logitech.html</url>
+<price>4873</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420661074_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech MX Master 3S Pale Grey (910-006560)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-006560</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Серый</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">141</param>
+<param name="Питание" unit="">Аккумулятор</param>
+<param name="Количество кнопок" unit="">6</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">8 000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">200</param>
+<param name="Настроювані клавіші" unit="">Да</param>
+<param name="Розміри (мм)" unit="">125x84x51</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">70 днів</param>
+</offer>
+<offer id="2450108680" available="true">
+<url>https://tera-flops.com.ua/ua/p2450108680-misha-bezdrotova-logitech.html</url>
+<price>1169</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420661075_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech Pop Mouse with Emoji Graphite (910-007412)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-007412</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">82</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Цвет" unit="">Графит</param>
+<param name="Количество кнопок" unit="">3</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">4000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Розміри (мм)" unit="">105x59x35</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">2 роки</param>
+</offer>
+<offer id="2450108681" available="true">
+<url>https://tera-flops.com.ua/ua/p2450108681-misha-bezdrotova-logitech.html</url>
+<price>1928</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420661076_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech Signature M650 Graphite (910-006274)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-006274</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">101</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Цвет" unit="">Графит</param>
+<param name="Количество кнопок" unit="">4</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">4000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">400</param>
+<param name="Розміри (мм)" unit="">107x62x38</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">24 міс</param>
+</offer>
+<offer id="2450108682" available="true">
+<url>https://tera-flops.com.ua/ua/p2450108682-misha-bezdrotova-logitech.html</url>
+<price>387</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420661077_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech M170 Grey/Black (910-004642)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-004642</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Серый</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">71</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">100</param>
+<param name="Розміри (мм)" unit="">98x62x35</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">12 міс</param>
+</offer>
+<offer id="2450108683" available="true">
+<url>https://tera-flops.com.ua/ua/p2450108683-misha-bezdrotova-logitech.html</url>
+<price>492</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6431090206_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech M171 Blue/Black (910-004640)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-004640</vendorCode>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Цвет">Черный</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">71</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">100</param>
+<param name="Розміри (мм)" unit="">98x62x35</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">12 міс</param>
+</offer>
+<offer id="2450108684" available="true">
+<url>https://tera-flops.com.ua/ua/p2450108684-misha-bezdrotova-logitech.html</url>
+<price>798</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420661079_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech M185 Grey (910-002238)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-002238</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Серый</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">75</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">100</param>
+<param name="Розміри (мм)" unit="">99x60x39</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">12 міс</param>
+</offer>
+<offer id="2450108685" available="true">
+<url>https://tera-flops.com.ua/ua/p2450108685-misha-bezdrotova-logitech.html</url>
+<price>989</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420661080_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech M235 Grey (910-002201)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-002201</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Серый</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">100</param>
+<param name="Розміри (мм)" unit="">95x56x38</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+</offer>
+<offer id="2450108686" available="true">
+<url>https://tera-flops.com.ua/ua/p2450108686-misha-bezdrotova-logitech.html</url>
+<price>1012</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420659510_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech M280 Black (910-004287)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-004287</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">91</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">100</param>
+<param name="Розміри (мм)" unit="">105x68x38</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">18 міс</param>
+</offer>
+<offer id="2450108731" available="true">
+<url>https://tera-flops.com.ua/ua/p2450108731-misha-bezdrotova-logitech.html</url>
+<price>1169</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420659598_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech M240 (910-007182)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-007182</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">74</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">4000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">400</param>
+<param name="Розміри (мм)" unit="">99x60x39</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">18 міс</param>
+</offer>
+<offer id="2450108732" available="true">
+<url>https://tera-flops.com.ua/ua/p2450108732-misha-bezdrotova-logitech.html</url>
+<price>1928</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420659599_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech Signature M650 Graphite (910-006348)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-006348</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">101</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Цвет" unit="">Графит</param>
+<param name="Количество кнопок" unit="">4</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">4000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">400</param>
+<param name="Розміри (мм)" unit="">107x62x38</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">24 міс</param>
+</offer>
+<offer id="2450108734" available="true">
+<url>https://tera-flops.com.ua/ua/p2450108734-misha-bezdrotova-logitech.html</url>
+<price>1986</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420659602_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech Signature M650 Graphite (910-006253)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-006253</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">101</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Цвет" unit="">Графит</param>
+<param name="Количество кнопок" unit="">4</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">4000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">400</param>
+<param name="Розміри (мм)" unit="">107x62x38</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">24 міс</param>
+</offer>
+<offer id="2450108735" available="true">
+<url>https://tera-flops.com.ua/ua/p2450108735-misha-bezdrotova-logitech.html</url>
+<price>1986</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420659603_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech Signature M650 L Left Graphite (910-006239)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-006239</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">111</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Цвет" unit="">Графит</param>
+<param name="Количество кнопок" unit="">4</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">4000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">400</param>
+<param name="Розміри (мм)" unit="">118x66x42</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">24 міс</param>
+</offer>
+<offer id="2450108736" available="true">
+<url>https://tera-flops.com.ua/ua/p2450108736-misha-bezdrotova-logitech.html</url>
+<price>1986</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420659604_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech Signature M650 L Left Off-White (910-006240)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-006240</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Белый</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">111</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Количество кнопок" unit="">4</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">4000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">400</param>
+<param name="Розміри (мм)" unit="">118x66x42</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">24 міс</param>
+</offer>
+<offer id="2450108738" available="true">
+<url>https://tera-flops.com.ua/ua/p2450108738-misha-bezdrotova-logitech.html</url>
+<price>1986</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420659600_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech Signature M650 Off-White (910-006255)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-006255</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Белый</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">101</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Количество кнопок" unit="">4</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">4000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">400</param>
+<param name="Розміри (мм)" unit="">107x62x38</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">24 міс</param>
+</offer>
+<offer id="2450108741" available="true">
+<url>https://tera-flops.com.ua/ua/p2450108741-misha-bezdrotova-logitech.html</url>
+<price>2921</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420659609_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech Lift Bluetooth Ergonomic White (910-006496)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-006496</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Белый</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">125</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Конструкция" unit="">Вертикальная</param>
+<param name="Количество кнопок" unit="">5</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">4000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">400</param>
+<param name="Назначение" unit="">Ергономічна (вертикальна)</param>
+<param name="Розміри (мм)" unit="">108x70x71</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">24 міс</param>
+</offer>
+<offer id="2450108742" available="true">
+<url>https://tera-flops.com.ua/ua/p2450108742-misha-bezdrotova-logitech.html</url>
+<price>2978</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420659610_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech Lift Ergonomic White (910-006477)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-006477</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Белый</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">125</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Конструкция" unit="">Вертикальная</param>
+<param name="Количество кнопок" unit="">5</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">4000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">400</param>
+<param name="Розміри (мм)" unit="">108x70x71</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">24 міс</param>
+</offer>
+<offer id="2450108743" available="true">
+<url>https://tera-flops.com.ua/ua/p2450108743-misha-bezdrotova-logitech.html</url>
+<price>3037</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420659611_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech Lift Ergonomic Graphite (910-006473)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-006473</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">5</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Цвет" unit="">Графит</param>
+<param name="Конструкция" unit="">Вертикальная</param>
+<param name="Количество кнопок" unit="">5</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">4000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">400</param>
+<param name="Розміри (мм)" unit="">108x70x71</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">24 міс</param>
+</offer>
+<offer id="2450108748" available="true">
+<url>https://tera-flops.com.ua/ua/p2450108748-misha-bezdrotova-logitech.html</url>
+<price>3726</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420659614_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech MX Anywhere 3S Pale Grey (910-006959)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-006959</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Серый</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">99</param>
+<param name="Питание" unit="">Аккумулятор</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Количество кнопок" unit="">5</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">8000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">200</param>
+<param name="Розміри (мм)" unit="">100x65x34</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">420 ч</param>
+</offer>
+<offer id="2450108750" available="true">
+<url>https://tera-flops.com.ua/ua/p2450108750-misha-bezdrotova-logitech.html</url>
+<price>4460</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420661044_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech MX Master 3S Pale Grey (910-006572)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-006572</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Серый</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">141</param>
+<param name="Питание" unit="">Аккумулятор</param>
+<param name="Количество кнопок" unit="">6</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">8000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">200</param>
+<param name="Розміри (мм)" unit="">125x84x51</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">70 днів</param>
+</offer>
+<offer id="2450108803" available="true">
+<url>https://tera-flops.com.ua/ua/p2450108803-misha-bezdrotova-logitech.html</url>
+<price>453</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420659538_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech M190 Grey (910-005906)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-005906</vendorCode>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Цвет">Серый</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">90</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">100</param>
+<param name="Розміри (мм)" unit="">115x66x40</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">18 міс</param>
+</offer>
+<offer id="2450108805" available="true">
+<url>https://tera-flops.com.ua/ua/p2450108805-misha-bezdrotova-logitech.html</url>
+<price>453</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420659539_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech M190 Red (910-005908)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-005908</vendorCode>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Цвет">Красный</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">90</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">100</param>
+<param name="Розміри (мм)" unit="">115x66x40</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">18 міс</param>
+</offer>
+<offer id="2450109225" available="true">
+<url>https://tera-flops.com.ua/ua/p2450109225-misha-bezdrotova-logitech.html</url>
+<price>507</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420659554_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech M171 Grey/Black (910-004424)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-004424</vendorCode>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Цвет">Серый</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">71</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">100</param>
+<param name="Розміри (мм)" unit="">98x62x35</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">12 міс</param>
+</offer>
+<offer id="2450109226" available="true">
+<url>https://tera-flops.com.ua/ua/p2450109226-misha-bezdrotova-logitech.html</url>
+<price>492</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420659555_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech M171 Red/Black (910-004641)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-004641</vendorCode>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Цвет">Красный</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">71</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">100</param>
+<param name="Розміри (мм)" unit="">98x62x35</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">12 міс</param>
+</offer>
+<offer id="2450109234" available="true">
+<url>https://tera-flops.com.ua/ua/p2450109234-misha-bezdrotova-logitech.html</url>
+<price>607</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420659563_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech M171 Off-White (910-006867)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-006867</vendorCode>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Цвет">Белый</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">71</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">100</param>
+<param name="Розміри (мм)" unit="">98x62x35</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">12 міс</param>
+</offer>
+<offer id="2450109237" available="true">
+<url>https://tera-flops.com.ua/ua/p2450109237-misha-bezdrotova-logitech.html</url>
+<price>798</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420659566_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech M185 Blue (910-002239)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-002239</vendorCode>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Цвет">Синий</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">75</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">100</param>
+<param name="Розміри (мм)" unit="">99x60x39</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">12 міс</param>
+</offer>
+<offer id="2450109238" available="true">
+<url>https://tera-flops.com.ua/ua/p2450109238-misha-bezdrotova-logitech.html</url>
+<price>608</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420659567_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech M185 Red (910-002240)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-002240</vendorCode>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Цвет">Красный</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">75</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">100</param>
+<param name="Розміри (мм)" unit="">99x60x39</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">12 міс</param>
+</offer>
+<offer id="2450109239" available="true">
+<url>https://tera-flops.com.ua/ua/p2450109239-misha-bezdrotova-logitech.html</url>
+<price>1071</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420659568_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech Pebble Mouse 2 M350s Rose (910-007014)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-007014</vendorCode>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Цвет">Розовый</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">76</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">100</param>
+<param name="Розміри (мм)" unit="">107x59x27</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">24 міс</param>
+</offer>
+<offer id="2450109240" available="true">
+<url>https://tera-flops.com.ua/ua/p2450109240-misha-bezdrotova-logitech.html</url>
+<price>1101</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420659569_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech M235 Red (910-002496)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-002496</vendorCode>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Цвет">Красный</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1600</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">800</param>
+<param name="Розміри (мм)" unit="">95x56x38</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">12 міс</param>
+</offer>
+<offer id="2450109241" available="true">
+<url>https://tera-flops.com.ua/ua/p2450109241-misha-bezdrotova-logitech.html</url>
+<price>1636</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420659570_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech M330 Silent Plus Blue (910-004910)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-004910</vendorCode>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Цвет">Синий</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">91</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">100</param>
+<param name="Розміри (мм)" unit="">105x68x38</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">18 міс</param>
+</offer>
+<offer id="2450109244" available="true">
+<url>https://tera-flops.com.ua/ua/p2450109244-misha-bezdrotova-logitech.html</url>
+<price>2862</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420659573_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech G305 White (910-005291)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-005291</vendorCode>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Цвет">Белый</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">99</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Количество кнопок" unit="">5</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">12000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">200</param>
+<param name="Розміри (мм)" unit="">116x62x38</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">250 годин</param>
+</offer>
+<offer id="2450109250" available="true">
+<url>https://tera-flops.com.ua/ua/p2450109250-misha-bezdrotova-logitech.html</url>
+<price>3726</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420659579_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech MX Anywhere 3S Pale Grey (910-006930)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-006930</vendorCode>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Цвет">Серый</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">99</param>
+<param name="Питание" unit="">Аккумулятор</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Количество кнопок" unit="">5</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">8000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">200</param>
+<param name="Розміри (мм)" unit="">100x65x34</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">420 ч</param>
+</offer>
+<offer id="2456290397" available="true">
+<url>https://tera-flops.com.ua/ua/p2456290397-misha-logitech-b100.html</url>
+<price>261</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6431089778_misha-logitech-b100.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша Logitech B100 Black (910-003357)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-003357</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Подключение устройства">Проводное</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Питание" unit="">USB</param>
+<param name="Конструкция" unit="">Симетрична</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">800</param>
+<param name="Розміри (мм)" unit="">113x62x37</param>
+<param name="Тип подключения" unit="">Дротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+</offer>
+<offer id="2456290399" available="true">
+<url>https://tera-flops.com.ua/ua/p2456290399-misha-logitech-g102.html</url>
+<price>1373</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6431089786_misha-logitech-g102.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша Logitech G102 Lightsync Blue (910-005801)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-005801</vendorCode>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Цвет">Синий</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">85</param>
+<param name="Встроенная память" unit="">Да</param>
+<param name="Питание" unit="">USB</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">5</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">8 000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">200</param>
+<param name="Настроювані клавіші" unit="">Да</param>
+<param name="Назначение" unit="">Ігрова</param>
+<param name="Підсвічування корпуса" unit="">RGB</param>
+<param name="Розміри (мм)" unit="">117x62x38</param>
+<param name="Тип подключения" unit="">Дротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+</offer>
+<offer id="2456290400" available="true">
+<url>https://tera-flops.com.ua/ua/p2456290400-misha-logitech-g502.html</url>
+<price>2950</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6431089791_misha-logitech-g502.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша Logitech G502 X Black (910-006138)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-006138</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">89</param>
+<param name="Встроенная память" unit="">Да</param>
+<param name="Питание" unit="">USB</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">9</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">25 600</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">100</param>
+<param name="Настроювані клавіші" unit="">Да</param>
+<param name="Назначение" unit="">Ігрова</param>
+<param name="Розміри (мм)" unit="">131x79x41</param>
+<param name="Тип подключения" unit="">Дротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+</offer>
+<offer id="2456290402" available="true">
+<url>https://tera-flops.com.ua/ua/p2456290402-misha-logitech-g502.html</url>
+<price>5651</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6431089799_misha-logitech-g502.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша Logitech G502 X Plus Black (910-006162)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-006162</vendorCode>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Цвет">Черный</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">106</param>
+<param name="Встроенная память" unit="">Да</param>
+<param name="Питание" unit="">Аккумулятор</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">9</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">25 600</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">100</param>
+<param name="Настроювані клавіші" unit="">Да</param>
+<param name="Назначение" unit="">Ігрова</param>
+<param name="Підсвічування корпуса" unit="">RGB</param>
+<param name="Розміри (мм)" unit="">131x79x41</param>
+<param name="Тип подключения" unit="">Дротове + бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">5 днів</param>
+</offer>
+<offer id="2456290403" available="true">
+<url>https://tera-flops.com.ua/ua/p2456290403-misha-bezdrotova-logitech.html</url>
+<price>3864</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6431089800_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech G705 White (910-006367)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-006367</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Белый</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">85</param>
+<param name="Питание" unit="">Аккумулятор</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">5</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">8 200</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">100</param>
+<param name="Настроювані клавіші" unit="">Да</param>
+<param name="Назначение" unit="">Ігрова</param>
+<param name="Підсвічування корпуса" unit="">RGB</param>
+<param name="Розміри (мм)" unit="">106x68x39</param>
+<param name="Тип подключения" unit="">Дротове + бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">2 днів</param>
+</offer>
+<offer id="2456290405" available="true">
+<url>https://tera-flops.com.ua/ua/p2456290405-misha-logitech-advanced.html</url>
+<price>1285</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6431090177_misha-logitech-advanced.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша Logitech Advanced Corded M500s Black (910-005784)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-005784</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Подключение устройства">Проводное</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">144</param>
+<param name="Питание" unit="">USB</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">5</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">4000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">400</param>
+<param name="Розміри (мм)" unit="">126x69x42</param>
+<param name="Тип подключения" unit="">Дротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+</offer>
+<offer id="2456291375" available="true">
+<url>https://tera-flops.com.ua/ua/p2456291375-misha-logitech-b100.html</url>
+<price>274</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6431089066_misha-logitech-b100.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша Logitech B100 White (910-003360)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-003360</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Белый</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Подключение устройства">Проводное</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Питание" unit="">USB</param>
+<param name="Конструкция" unit="">Симетрична</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">800</param>
+<param name="Розміри (мм)" unit="">113x62x37</param>
+<param name="Тип подключения" unit="">Дротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+</offer>
+<offer id="2456291398" available="true">
+<url>https://tera-flops.com.ua/ua/p2456291398-misha-logitech-g502.html</url>
+<price>2950</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6431089018_misha-logitech-g502.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша Logitech G502 X White (910-006146)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-006146</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Белый</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">89</param>
+<param name="Встроенная память" unit="">Да</param>
+<param name="Питание" unit="">USB</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">9</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">25600</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">100</param>
+<param name="Настроювані клавіші" unit="">Да</param>
+<param name="Назначение" unit="">Ігрова</param>
+<param name="Розміри (мм)" unit="">131x79x41</param>
+<param name="Тип подключения" unit="">Дротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+</offer>
+<offer id="2463013628" available="true">
+<url>https://tera-flops.com.ua/ua/p2463013628-misha-bluetooth-logitech.html</url>
+<price>4873</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6456460740_misha-bluetooth-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша Bluetooth Logitech MX Master 3S Graphite (910-006559)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-006559</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">141</param>
+<param name="Питание" unit="">Аккумулятор</param>
+<param name="Цвет" unit="">Графит</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">6</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">8000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">200</param>
+<param name="Настроювані клавіші" unit="">Да</param>
+<param name="Розміри (мм)" unit="">125x84x51</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Лазерний</param>
+<param name="Время работы от аккумулятора" unit="">70 днів</param>
+</offer>
+<offer id="2463013632" available="true">
+<url>https://tera-flops.com.ua/ua/p2463013632-misha-bezdrotova-logitech.html</url>
+<price>1169</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6456460743_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech Pop Mouse with Emoji Rose (910-007413)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-007413</vendorCode>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Цвет">Розовый</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">82</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">3</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">4000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Розміри (мм)" unit="">105x59x35</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">24 міс</param>
+</offer>
+<offer id="2463013635" available="true">
+<url>https://tera-flops.com.ua/ua/p2463013635-misha-bezdrotova-logitech.html</url>
+<price>1169</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6456460745_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech Pop Mouse with Emoji Lilac (910-007414)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-007414</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Фиолетовый</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">82</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">3</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">4000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Розміри (мм)" unit="">105x59x35</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">24 міс</param>
+</offer>
+<offer id="2463013637" available="true">
+<url>https://tera-flops.com.ua/ua/p2463013637-misha-bezdrotova-logitech.html</url>
+<price>1169</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6456460748_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech Pop Mouse with Emoji Off-White (910-007411)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-007411</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Белый</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">82</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">3</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">4000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Розміри (мм)" unit="">105x59x35</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">24 міс</param>
+</offer>
+<offer id="2463013638" available="true">
+<url>https://tera-flops.com.ua/ua/p2463013638-misha-bezdrotova-logitech.html</url>
+<price>1928</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6456460749_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech Signature M650 for Business Large Off-White (910-006349)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-006349</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Белый</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">115</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">4</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">4000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">400</param>
+<param name="Розміри (мм)" unit="">118x66x42</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">24 міс</param>
+</offer>
+<offer id="2474599061" available="true">
+<url>https://tera-flops.com.ua/ua/p2474599061-misha-bezdrotova-logitech.html</url>
+<price>1139</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6456459815_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech M220 Silent Charcoal (910-004878)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-004878</vendorCode>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Цвет">Черный</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Вага (г)" unit="">75</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1 000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1 000</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+</offer>
+<offer id="2474599062" available="true">
+<url>https://tera-flops.com.ua/ua/p2474599062-misha-bezdrotova-logitech.html</url>
+<price>1636</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6456459818_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech M330 Silent Plus Black (910-004909)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-004909</vendorCode>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Цвет">Черный</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Вага (г)" unit="">91</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1 000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1 000</param>
+<param name="Розміри (мм)" unit="">105x68x38</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+</offer>
+<offer id="2474600396" available="true">
+<url>https://tera-flops.com.ua/ua/p2474600396-misha-logitech-m90.html</url>
+<price>275</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6456453082_misha-logitech-m90.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша Logitech M90 Dark (910-001793)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-001793</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Подключение устройства">Проводное</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Питание" unit="">USB</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Тип подключения" unit="">Дротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+</offer>
+<offer id="2474600398" available="true">
+<url>https://tera-flops.com.ua/ua/p2474600398-misha-bezdrotova-logitech.html</url>
+<price>608</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6456453084_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech M185 swift grey (910-002235)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-002235</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Серый</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">75</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Розміри (мм)" unit="">99x60x39</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">12 міс</param>
+</offer>
+<offer id="2465743654" available="true">
+<url>https://tera-flops.com.ua/ua/p2465743654-misha-usb-optical.html</url>
+<price>1680</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6456460725_misha-usb-optical.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Mиша USB OPTICAL WRL MM311 MM-311-WWOW1 COOLER MASTER</name>
+<vendor>Cooler Master</vendor>
+<vendorCode>MM-311-WWOW1</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Белый</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">54</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">5</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">10000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">400</param>
+<param name="Назначение" unit="">Ігрова</param>
+<param name="Підсвічування корпуса" unit="">RGB</param>
+<param name="Розміри (мм)" unit="">126x71x41</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">50 годин</param>
+</offer>
+<offer id="2465743657" available="true">
+<url>https://tera-flops.com.ua/ua/p2465743657-misha-usb-optical.html</url>
+<price>1278</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6456460728_misha-usb-optical.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Mиша USB OPTICAL WRL MM311 MM-311-KKOW1 COOLER MASTER</name>
+<vendor>Cooler Master</vendor>
+<vendorCode>MM-311-KKOW1</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">54</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">5</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">10000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">400</param>
+<param name="Назначение" unit="">Ігрова</param>
+<param name="Розміри (мм)" unit="">126x71x41</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">50 годин</param>
+</offer>
+<offer id="2465743658" available="true">
+<url>https://tera-flops.com.ua/ua/p2465743658-misha-usb-optical.html</url>
+<price>988</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6456460729_misha-usb-optical.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Mиша USB OPTICAL MM310 MM-310-KKOL1 COOLER MASTER</name>
+<vendor>Cooler Master</vendor>
+<vendorCode>MM-310-KKOL1</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">50</param>
+<param name="Встроенная память" unit="">Да</param>
+<param name="Питание" unit="">USB</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">5</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">12000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">400</param>
+<param name="Настроювані клавіші" unit="">Да</param>
+<param name="Назначение" unit="">Ігрова</param>
+<param name="Підсвічування корпуса" unit="">RGB</param>
+<param name="Розміри (мм)" unit="">126x71x41</param>
+<param name="Тип подключения" unit="">Дротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+</offer>
+<offer id="2465743659" available="true">
+<url>https://tera-flops.com.ua/ua/p2465743659-misha-usb-optical.html</url>
+<price>988</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6456460730_misha-usb-optical.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Mиша USB OPTICAL MM310 MM-310-WWOL1 COOLER MASTER</name>
+<vendor>Cooler Master</vendor>
+<vendorCode>MM-310-WWOL1</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Белый</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">50</param>
+<param name="Встроенная память" unit="">Да</param>
+<param name="Питание" unit="">USB</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">5</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">12000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">400</param>
+<param name="Настроювані клавіші" unit="">Да</param>
+<param name="Назначение" unit="">Ігрова</param>
+<param name="Підсвічування корпуса" unit="">RGB</param>
+<param name="Розміри (мм)" unit="">126x71x41</param>
+<param name="Тип подключения" unit="">Дротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+</offer>
+<offer id="2465743637" available="true">
+<url>https://tera-flops.com.ua/ua/p2465743637-kilimok-dlya-mishi.html</url>
+<price>348</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6456459835_kilimok-dlya-mishi.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші NMP810 NP.MSP11.00D ACER</name>
+<vendor>Acer</vendor>
+<vendorCode>NP.MSP11.00D</vendorCode>
+<param name="Материал поверхности">Ткань</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">12</param>
+<param name="Розмір, мм" unit="">355x255x3</param>
+<param name="Цвет" unit="">різнокольоровий</param>
+</offer>
+<offer id="2465743638" available="true">
+<url>https://tera-flops.com.ua/ua/p2465743638-misha-usb-optical.html</url>
+<price>974</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6456459837_misha-usb-optical.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Mиша USB OPTICAL WRL VERTICAL BLACK HP.EXPBG.009 ACER</name>
+<vendor>Acer</vendor>
+<vendorCode>HP.EXPBG.009</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">65</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Конструкция" unit="">Вертикальная</param>
+<param name="Количество кнопок" unit="">5</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1600</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Розміри (мм)" unit="">126x90x73</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">6 міс</param>
+</offer>
+<offer id="2465743639" available="true">
+<url>https://tera-flops.com.ua/ua/p2465743639-misha-usb-optical.html</url>
+<price>1558</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6456459840_misha-usb-optical.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Mиша USB OPTICAL PREDATOR CESTUS 315 GP.MCE11.014 ACER</name>
+<vendor>Acer</vendor>
+<vendorCode>GP.MCE11.014</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">123</param>
+<param name="Встроенная память" unit="">Да</param>
+<param name="Питание" unit="">USB</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">7</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">6500</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Настроювані клавіші" unit="">Да</param>
+<param name="Назначение" unit="">Ігрова</param>
+<param name="Підсвічування корпуса" unit="">RGB</param>
+<param name="Розміри (мм)" unit="">136х72х40</param>
+<param name="Тип подключения" unit="">Дротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+</offer>
+<offer id="2465743641" available="true">
+<url>https://tera-flops.com.ua/ua/p2465743641-misha-usb-optical.html</url>
+<price>752</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6456459846_misha-usb-optical.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Mиша USB OPTICAL WRL BLACK GP.MCE11.00S ACER</name>
+<vendor>Acer</vendor>
+<vendorCode>GP.MCE11.00S</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">55</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1600</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Розміри (мм)" unit="">96.5x58.4x35.5</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">12 міс</param>
+</offer>
+<offer id="2465743643" available="true">
+<url>https://tera-flops.com.ua/ua/p2465743643-misha-usb-optical.html</url>
+<price>835</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6467196575_misha-usb-optical.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Mиша USB OPTICAL VERO GP.MCE11.022 ACER</name>
+<vendor>Acer</vendor>
+<vendorCode>GP.MCE11.022</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Серый</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">48</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1600</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Розміри (мм)" unit="">80.6x130.3x40.2</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">12 міс</param>
+</offer>
+<offer id="2465743644" available="true">
+<url>https://tera-flops.com.ua/ua/p2465743644-kilimok-dlya-mishi.html</url>
+<price>265</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6456459852_kilimok-dlya-mishi.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші VERO GREY GP.MSP11.00A ACER</name>
+<vendor>Acer</vendor>
+<vendorCode>GP.MSP11.00A</vendorCode>
+<param name="Материал поверхности">Ткань</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет">Серый</param>
+<param name="Гарантія, міс" unit="">12</param>
+<param name="Розмір, мм" unit="">211x180x3</param>
+</offer>
+<offer id="2465743645" available="true">
+<url>https://tera-flops.com.ua/ua/p2465743645-misha-usb-optical.html</url>
+<price>835</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6456459855_misha-usb-optical.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Mиша USB OPTICAL VERO M502 BLACK GP.MCE11.023 ACER</name>
+<vendor>Acer</vendor>
+<vendorCode>GP.MCE11.023</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">48</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1600</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Розміри (мм)" unit="">80.6x130.3x40.2</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">12 міс</param>
+</offer>
+<offer id="2465743647" available="true">
+<url>https://tera-flops.com.ua/ua/p2465743647-misha-usb-optical.html</url>
+<price>752</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6456459858_misha-usb-optical.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Mиша USB OPTICAL WRL WHITE GP.MCE11.00Y ACER</name>
+<vendor>Acer</vendor>
+<vendorCode>GP.MCE11.00Y</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Белый</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">55</param>
+<param name="Питание" unit="">2xAA</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1600</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Розміри (мм)" unit="">95×58×35</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">6 міс</param>
+</offer>
+<offer id="2465743648" available="true">
+<url>https://tera-flops.com.ua/ua/p2465743648-misha-usb-optical.html</url>
+<price>709</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6456459860_misha-usb-optical.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Mиша USB OPTICAL WRL M502 GRAY GP.MCE11.01J ACER</name>
+<vendor>Acer</vendor>
+<vendorCode>GP.MCE11.01J</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Серый</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">55</param>
+<param name="Питание" unit="">2xAA</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1200</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Розміри (мм)" unit="">40х110х90</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">12 міс</param>
+</offer>
+<offer id="2465743649" available="true">
+<url>https://tera-flops.com.ua/ua/p2465743649-kilimok-dlya-mishi.html</url>
+<price>265</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6456459861_kilimok-dlya-mishi.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші VERO BLACK GP.MSP11.00B ACER</name>
+<vendor>Acer</vendor>
+<vendorCode>GP.MSP11.00B</vendorCode>
+<param name="Материал поверхности">Ткань</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет">Черный</param>
+<param name="Гарантія, міс" unit="">12</param>
+<param name="Розмір, мм" unit="">211x180x3</param>
+</offer>
+<offer id="2465743650" available="true">
+<url>https://tera-flops.com.ua/ua/p2465743650-misha-usb-optical.html</url>
+<price>256</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6456459862_misha-usb-optical.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Mиша USB OPTICAL BLACK BULK HP.EXPBG.008 ACER</name>
+<vendor>Acer</vendor>
+<vendorCode>HP.EXPBG.008</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">68</param>
+<param name="Питание" unit="">USB</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Розміри (мм)" unit="">110x70x35</param>
+<param name="Тип подключения" unit="">Дротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+</offer>
+<offer id="2465743651" available="true">
+<url>https://tera-flops.com.ua/ua/p2465743651-kilimok-dlya-mishi.html</url>
+<price>1558</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6467196578_kilimok-dlya-mishi.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Килимок для міші PREDATOR GAMING XXL GP.MSP11.005 ACER</name>
+<vendor>Acer</vendor>
+<vendorCode>GP.MSP11.005</vendorCode>
+<param name="Материал поверхности">Ткань</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет">Черный</param>
+<param name="Гарантія, міс" unit="">12</param>
+<param name="Розмір, мм" unit="">930x450x3</param>
+</offer>
+<offer id="2465743652" available="true">
+<url>https://tera-flops.com.ua/ua/p2465743652-misha-usb-optical.html</url>
+<price>796</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6469248590_misha-usb-optical.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Mиша USB OPTICAL NITRO II NMW200 BLACK GP.MCE11.039 ACER</name>
+<vendor>Acer</vendor>
+<vendorCode>GP.MCE11.039</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Назначение" unit="">Ігрова</param>
+<param name="Тип подключения" unit="">Дротове</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">140</param>
+<param name="Розміри (мм)" unit="">125x73x39</param>
+<param name="Питание" unit="">USB</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">7200</param>
+<param name="Количество кнопок" unit="">5</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">800</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Підсвічування корпуса" unit="">RGB</param>
+</offer>
+<offer id="2465743653" available="true">
+<url>https://tera-flops.com.ua/ua/p2465743653-kilimok-dlya-mishi.html</url>
+<price>265</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6467196580_kilimok-dlya-mishi.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші ERGONOMIC GP.MSP11.007 ACER</name>
+<vendor>Acer</vendor>
+<vendorCode>GP.MSP11.007</vendorCode>
+<param name="Материал поверхности">Ткань</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет">Черный</param>
+<param name="Гарантія, міс" unit="">12</param>
+<param name="Розмір, мм" unit="">185x230x23</param>
+</offer>
+<offer id="2468106204" available="true">
+<url>https://tera-flops.com.ua/ua/p2468106204-vedmedik-acer-predator.html</url>
+<price>1742</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6467190878_vedmedik-acer-predator.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Ведмедик Acer Predator Cestus 330 (NP.MCE11.00V)</name>
+<vendor>Acer</vendor>
+<vendorCode>NP.MCE11.00V</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">85</param>
+<param name="Питание" unit="">USB</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">6</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">16000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">800</param>
+<param name="Настроювані клавіші" unit="">Да</param>
+<param name="Назначение" unit="">Ігрова</param>
+<param name="Підсвічування корпуса" unit="">RGB</param>
+<param name="Розміри (мм)" unit="">124x64x41</param>
+<param name="Тип подключения" unit="">Дротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+</offer>
+<offer id="2468106240" available="true">
+<url>https://tera-flops.com.ua/ua/p2468106240-mishka-acer-omr010.html</url>
+<price>318</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6467187511_mishka-acer-omr010.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Мишка Acer OMR010 Wireless Black (ZL.MCEEE.028)</name>
+<vendor>Acer</vendor>
+<vendorCode>ZL.MCEEE.028</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">58</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">3</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1200</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">800</param>
+<param name="Розміри (мм)" unit="">105x66x39</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">12 міс</param>
+</offer>
+<offer id="2468106241" available="true">
+<url>https://tera-flops.com.ua/ua/p2468106241-mishka-acer-omr031.html</url>
+<price>330</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6467187512_mishka-acer-omr031.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Мишка Acer OMR031 Wireless Blue (ZL.MCEEE.02B)</name>
+<vendor>Acer</vendor>
+<vendorCode>ZL.MCEEE.02B</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Синий</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">69</param>
+<param name="Питание" unit="">1xAAA</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">3</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1600</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">800</param>
+<param name="Розміри (мм)" unit="">111х72х39</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">12 міс</param>
+</offer>
+<offer id="2465743671" available="true">
+<url>https://tera-flops.com.ua/ua/p2465743671-klaviatura-usb-tkl.html</url>
+<price>5324</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763472</categoryId>
+<picture>https://images.prom.ua/6456460750_klaviatura-usb-tkl.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Клавіатура USB TKL DR MK87DR MONTECH</name>
+<vendor>Montech</vendor>
+<vendorCode>MK87DR</vendorCode>
+<param name="Интерфейс подключения">USB</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Клавиатура</param>
+<param name="Anti-Ghosting" unit="">Да</param>
+<param name="Вага (г)" unit="">1335</param>
+<param name="Колір літер кирилиці" unit="">Прозорі</param>
+<param name="Количество клавиш" unit="">87</param>
+<param name="Перемикачі" unit="">Gateron G Pro Red 2.0 (Linear)</param>
+<param name="Підключення" unit="">Дротове</param>
+<param name="Подсветка" unit="">RGB</param>
+<param name="Регулювання гучності" unit="">колесом</param>
+<param name="Розміри" unit="">363x136x41</param>
+<param name="Тип клавиатуры" unit="">Ігрова</param>
+<param name="Тип клавиш" unit="">Механічний</param>
+<param name="Формат" unit="">Компактна</param>
+</offer>
+<offer id="2465743672" available="true">
+<url>https://tera-flops.com.ua/ua/p2465743672-kilimok-dlya-mishi.html</url>
+<price>969</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6456460751_kilimok-dlya-mishi.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші MONTECH RED GMP 101 (RED)</name>
+<vendor>Montech</vendor>
+<vendorCode>GMP 101 (RED)</vendorCode>
+<param name="Материал поверхности">Ткань</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет">Красный</param>
+<param name="Гарантія, міс" unit="">12</param>
+<param name="Розмір, мм" unit="">900x400x5</param>
+</offer>
+<offer id="2465743673" available="true">
+<url>https://tera-flops.com.ua/ua/p2465743673-klaviatura-usb-full.html</url>
+<price>5798</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763472</categoryId>
+<picture>https://images.prom.ua/6456460752_klaviatura-usb-full.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Клавіатура USB FULL SIZE DR MK105DR MONTECH</name>
+<vendor>Montech</vendor>
+<vendorCode>MK105DR</vendorCode>
+<param name="Интерфейс подключения">USB</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Клавиатура</param>
+<param name="Anti-Ghosting" unit="">Да</param>
+<param name="Вага (г)" unit="">1563</param>
+<param name="Колір літер кирилиці" unit="">Прозорі</param>
+<param name="Количество клавиш" unit="">104</param>
+<param name="Перемикачі" unit="">Gateron G Pro Red 2.0 (Linear)</param>
+<param name="Підключення" unit="">Дротове</param>
+<param name="Подсветка" unit="">RGB</param>
+<param name="Регулювання гучності" unit="">колесом</param>
+<param name="Розміри" unit="">443x136x41</param>
+<param name="Тип клавиатуры" unit="">Ігрова</param>
+<param name="Тип клавиш" unit="">Механічний</param>
+<param name="Формат" unit="">Стандартна</param>
+</offer>
+<offer id="2465743674" available="true">
+<url>https://tera-flops.com.ua/ua/p2465743674-klaviatura-usb-tkl.html</url>
+<price>5324</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763472</categoryId>
+<picture>https://images.prom.ua/6456460753_klaviatura-usb-tkl.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Клавіатура USB TKL FR MK87FR MONTECH</name>
+<vendor>Montech</vendor>
+<vendorCode>MK87FR</vendorCode>
+<param name="Интерфейс подключения">USB</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Клавиатура</param>
+<param name="Anti-Ghosting" unit="">Да</param>
+<param name="Вага (г)" unit="">1335</param>
+<param name="Цвет" unit="">різнокольоровий</param>
+<param name="Колір літер кирилиці" unit="">Прозорі</param>
+<param name="Количество клавиш" unit="">104</param>
+<param name="Перемикачі" unit="">Gateron G Pro Red 2.0 (Linear)</param>
+<param name="Підключення" unit="">Дротове</param>
+<param name="Подсветка" unit="">RGB</param>
+<param name="Регулювання гучності" unit="">колесом</param>
+<param name="Розміри" unit="">363x136x41</param>
+<param name="Тип клавиатуры" unit="">Ігрова</param>
+<param name="Тип клавиш" unit="">Механічний</param>
+<param name="Формат" unit="">Компактна</param>
+</offer>
+<offer id="2465743675" available="true">
+<url>https://tera-flops.com.ua/ua/p2465743675-klaviatura-usb-tkl.html</url>
+<price>5324</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763472</categoryId>
+<picture>https://images.prom.ua/6456460754_klaviatura-usb-tkl.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Клавіатура USB TKL DB MK87DB MONTECH</name>
+<vendor>Montech</vendor>
+<vendorCode>MK87DB</vendorCode>
+<param name="Интерфейс подключения">USB</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Клавиатура</param>
+<param name="Anti-Ghosting" unit="">Да</param>
+<param name="Вага (г)" unit="">335</param>
+<param name="Колір літер кирилиці" unit="">Прозорі</param>
+<param name="Количество клавиш" unit="">87</param>
+<param name="Перемикачі" unit="">Gateron G Pro Brown 2.0 (Tactile)</param>
+<param name="Підключення" unit="">Дротове</param>
+<param name="Подсветка" unit="">RGB</param>
+<param name="Регулювання гучності" unit="">колесом</param>
+<param name="Розміри" unit="">363x136x41</param>
+<param name="Тип клавиатуры" unit="">Ігрова</param>
+<param name="Тип клавиш" unit="">Механічний</param>
+<param name="Формат" unit="">Компактна</param>
+</offer>
+<offer id="2465743676" available="true">
+<url>https://tera-flops.com.ua/ua/p2465743676-klaviatura-usb-full.html</url>
+<price>5798</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763472</categoryId>
+<picture>https://images.prom.ua/6456460755_klaviatura-usb-full.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Клавіатура USB FULL SIZE FR MK105FR MONTECH</name>
+<vendor>Montech</vendor>
+<vendorCode>MK105FR</vendorCode>
+<param name="Интерфейс подключения">USB</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Клавиатура</param>
+<param name="Подключение устройства">Проводное</param>
+<param name="Цвет">Зелёный</param>
+<param name="Anti-Ghosting" unit="">Да</param>
+<param name="Вага (г)" unit="">1563</param>
+<param name="Колір літер кирилиці" unit="">Прозорі</param>
+<param name="Количество клавиш" unit="">104</param>
+<param name="Перемикачі" unit="">Gateron G Pro Red 2.0 (Linear)</param>
+<param name="Підключення" unit="">Дротове</param>
+<param name="Подсветка" unit="">RGB</param>
+<param name="Регулювання гучності" unit="">колесом</param>
+<param name="Розміри" unit="">443x136x41</param>
+<param name="Тип клавиатуры" unit="">Ігрова</param>
+<param name="Тип клавиш" unit="">Механічний</param>
+<param name="Формат" unit="">Стандартна</param>
+</offer>
+<offer id="2465743677" available="true">
+<url>https://tera-flops.com.ua/ua/p2465743677-klaviatura-usb-tkl.html</url>
+<price>5324</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763472</categoryId>
+<picture>https://images.prom.ua/6456460756_klaviatura-usb-tkl.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Клавіатура USB TKL FB MK87FB MONTECH</name>
+<vendor>Montech</vendor>
+<vendorCode>MK87FB</vendorCode>
+<param name="Интерфейс подключения">USB</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Клавиатура</param>
+<param name="Цвет">Оранжевый</param>
+<param name="Anti-Ghosting" unit="">Да</param>
+<param name="Вага (г)" unit="">1335</param>
+<param name="Колір літер кирилиці" unit="">Прозорі</param>
+<param name="Количество клавиш" unit="">104</param>
+<param name="Перемикачі" unit="">Gateron G Pro Brown 2.0 (Tactile)</param>
+<param name="Підключення" unit="">Дротове</param>
+<param name="Подсветка" unit="">RGB</param>
+<param name="Регулювання гучності" unit="">колесом</param>
+<param name="Розміри" unit="">363x136x41</param>
+<param name="Тип клавиатуры" unit="">Ігрова</param>
+<param name="Тип клавиш" unit="">Механічний</param>
+<param name="Формат" unit="">Компактна</param>
+</offer>
 <offer id="2308818812" available="true">
 <url>https://tera-flops.com.ua/ua/p2308818812-korpus-deepcool-cc360.html</url>
 <price>2537</price>
