@@ -331,6 +331,385 @@
 <category id="85364281" parentId="85328850">Жорсткі диски</category>
 </categories>
 <offers>
+<offer id="2450109231" available="true">
+<url>https://tera-flops.com.ua/ua/p2450109231-misha-bezdrotova-a4tech.html</url>
+<price>481</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420659560_misha-bezdrotova-a4tech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова A4Tech FG30S Grey/Black</name>
+<vendor>A4Tech</vendor>
+<vendorCode>FG30S Grey</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">76</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Количество кнопок" unit="">5</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">2000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Розміри (мм)" unit="">105x70x42</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">12 міс</param>
+</offer>
+<offer id="2468104710" available="true">
+<url>https://tera-flops.com.ua/ua/p2468104710-misha-a4tech-fstyler.html</url>
+<price>260</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6495372809_misha-a4tech-fstyler.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша A4Tech Fstyler FM12S Black</name>
+<vendor>A4Tech</vendor>
+<vendorCode>FM12S Black</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Подключение устройства">Проводное</param>
+<param name="Тип подключения" unit="">Дротове</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">104</param>
+<param name="Розміри (мм)" unit="">108x64x35</param>
+<param name="Питание" unit="">USB</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Количество кнопок" unit="">3</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">100</param>
+</offer>
+<offer id="2474600391" available="true">
+<url>https://tera-flops.com.ua/ua/p2474600391-misha-bezdrotova-genius.html</url>
+<price>320</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6456453077_misha-bezdrotova-genius.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Genius NX-8006 Silent Black (31030024400)</name>
+<vendor>Genius</vendor>
+<vendorCode>31030024400</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">58</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1200</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Розміри (мм)" unit="">100x63x40</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+</offer>
+<offer id="2474600392" available="true">
+<url>https://tera-flops.com.ua/ua/p2474600392-misha-bezdrotova-genius.html</url>
+<price>370</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6456453078_misha-bezdrotova-genius.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Genius Ergo 8200S Black (31030029400)</name>
+<vendor>Genius</vendor>
+<vendorCode>31030029400</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">65</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1200</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Розміри (мм)" unit="">108x74x41</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+</offer>
+<offer id="2474600397" available="true">
+<url>https://tera-flops.com.ua/ua/p2474600397-misha-logitech-m185.html</url>
+<price>570</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6471959756_misha-logitech-m185.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша Logitech M185 blue (910-002236)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-002236</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Синий</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">74</param>
+<param name="Питание" unit="">USB</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Розміри (мм)" unit="">99x60x39</param>
+<param name="Тип подключения" unit="">Дротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">12 міс</param>
+</offer>
+<offer id="2474600399" available="true">
+<url>https://tera-flops.com.ua/ua/p2474600399-misha-logitech-m235.html</url>
+<price>765</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6456453085_misha-logitech-m235.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша Logitech M235 Cordless Grey (910-002692)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-002692</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Серый</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">75</param>
+<param name="Питание" unit="">USB</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Розміри (мм)" unit="">99x60x39</param>
+<param name="Тип подключения" unit="">Дротове + бездротове</param>
+<param name="Тип сенсора" unit="">Лазерний</param>
+<param name="Время работы от аккумулятора" unit="">12 міс</param>
+</offer>
+<offer id="2474600403" available="true">
+<url>https://tera-flops.com.ua/ua/p2474600403-misha-bezdrotova-logitech.html</url>
+<price>1200</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6495373500_misha-bezdrotova-logitech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Logitech M325s Dark Silver (910-006812)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-006812</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет" unit="">Серебристый</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">93</param>
+<param name="Розміри (мм)" unit="">95x57x39</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Время работы от аккумулятора" unit="">18 міс</param>
+</offer>
+<offer id="2474600409" available="true">
+<url>https://tera-flops.com.ua/ua/p2474600409-misha-bezdrotova-a4tech.html</url>
+<price>460</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6456455263_misha-bezdrotova-a4tech.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова A4Tech FG30 Grey</name>
+<vendor>A4Tech</vendor>
+<vendorCode>FG30 Grey</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Серый</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">76</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">5</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">2000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Розміри (мм)" unit="">105x70x42</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">12 міс</param>
+</offer>
+<offer id="2474600411" available="true">
+<url>https://tera-flops.com.ua/ua/p2474600411-misha-a4tech-fb10c.html</url>
+<price>510</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6467187489_misha-a4tech-fb10c.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша A4Tech FB10C Ash Blue</name>
+<vendor>A4Tech</vendor>
+<vendorCode>FB10C Ash Blue</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Синий</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">95</param>
+<param name="Питание" unit="">Аккумулятор</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">3</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">2000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1200</param>
+<param name="Розміри (мм)" unit="">108x64x35</param>
+<param name="Тип подключения" unit="">Дротове + бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+</offer>
+<offer id="2474600415" available="true">
+<url>https://tera-flops.com.ua/ua/p2474600415-misha-a4tech-bloody.html</url>
+<price>920</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6456455279_misha-a4tech-bloody.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша A4Tech Bloody A90 Black</name>
+<vendor>A4Tech</vendor>
+<vendorCode>4711421917827</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">144</param>
+<param name="Встроенная память" unit="">Да</param>
+<param name="Питание" unit="">USB</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">7</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">4000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">800</param>
+<param name="Настроювані клавіші" unit="">Да</param>
+<param name="Назначение" unit="">Ігрова</param>
+<param name="Підсвічування корпуса" unit="">RGB</param>
+<param name="Розміри (мм)" unit="">125x66x42</param>
+<param name="Тип подключения" unit="">Дротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+</offer>
+<offer id="2474600416" available="true">
+<url>https://tera-flops.com.ua/ua/p2474600416-misha-a4tech-bloody.html</url>
+<price>1065</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6456455281_misha-a4tech-bloody.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша A4Tech Bloody W95 Max Sports RGB Navy</name>
+<vendor>A4Tech</vendor>
+<vendorCode>4711421985659</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Белый</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">150</param>
+<param name="Встроенная память" unit="">Да</param>
+<param name="Питание" unit="">USB</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">6</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">12000</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">100</param>
+<param name="Настроювані клавіші" unit="">Да</param>
+<param name="Назначение" unit="">Ігрова</param>
+<param name="Підсвічування корпуса" unit="">RGB</param>
+<param name="Розміри (мм)" unit="">135x77x43</param>
+<param name="Тип подключения" unit="">Дротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+</offer>
+<offer id="2483170101" available="true">
+<url>https://tera-flops.com.ua/ua/p2483170101-misha-logitech-b330.html</url>
+<price>1257</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6471968707_misha-logitech-b330.jpg</picture>
+<picture>https://images.prom.ua/6471968709_misha-logitech-b330.jpg</picture>
+<picture>https://images.prom.ua/6471968713_misha-logitech-b330.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша Logitech B330 Silent plus Black (910-004913)</name>
+<vendor>Logitech</vendor>
+<vendorCode>910-004913</vendorCode>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Цвет">Черный</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">Радіоканал</param>
+<param name="Вага (г)" unit="">90</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">3</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1000</param>
+<param name="Назначение" unit="">для настільних ПК</param>
+<param name="Розміри (мм)" unit="">105,4x67,9x38,4</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+</offer>
+<offer id="2468105433" available="true">
+<url>https://tera-flops.com.ua/ua/p2468105433-klaviatura-aula-f2028.html</url>
+<price>497</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763472</categoryId>
+<picture>https://images.prom.ua/6447534601_klaviatura-aula-f2028.jpg</picture>
+<picture>https://images.prom.ua/6447534603_klaviatura-aula-f2028.jpg</picture>
+<picture>https://images.prom.ua/6447534604_klaviatura-aula-f2028.jpg</picture>
+<picture>https://images.prom.ua/6447534602_klaviatura-aula-f2028.jpg</picture>
+<picture>https://images.prom.ua/6447534659_klaviatura-aula-f2028.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Клавіатура Aula F2028 RGB Black (6948391240015)</name>
+<vendor>Aula</vendor>
+<vendorCode>6948391240015</vendorCode>
+<param name="Интерфейс подключения">USB</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Состояние">Новое</param>
+<param name="Подсветка" unit="">RGB</param>
+<param name="Тип клавиатуры" unit="">Ігрова</param>
+<param name="Вага (г)" unit="">713</param>
+<param name="Розміри" unit="">440x135x35</param>
+<param name="Количество клавиш" unit="">106</param>
+<param name="Підключення" unit="">Дротове</param>
+<param name="Формат" unit="">Стандартна</param>
+<param name="Тип клавиш" unit="">Мембранний</param>
+<param name="Колір літер кирилиці" unit="">залежно від підсвічування</param>
+</offer>
 <offer id="2465743663" available="true">
 <url>https://tera-flops.com.ua/ua/p2465743663-kilimok-dlya-mishi.html</url>
 <price>325</price>
@@ -2427,7 +2806,7 @@
 </offer>
 <offer id="2465743671" available="true">
 <url>https://tera-flops.com.ua/ua/p2465743671-klaviatura-usb-tkl.html</url>
-<price>4676</price>
+<price>4370</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763472</categoryId>
 <picture>https://images.prom.ua/6456460750_klaviatura-usb-tkl.jpg</picture>
@@ -2456,7 +2835,7 @@
 </offer>
 <offer id="2465743673" available="true">
 <url>https://tera-flops.com.ua/ua/p2465743673-klaviatura-usb-full.html</url>
-<price>5085</price>
+<price>4770</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763472</categoryId>
 <picture>https://images.prom.ua/6456460752_klaviatura-usb-full.jpg</picture>
@@ -2485,7 +2864,7 @@
 </offer>
 <offer id="2465743674" available="true">
 <url>https://tera-flops.com.ua/ua/p2465743674-klaviatura-usb-tkl.html</url>
-<price>4676</price>
+<price>4370</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763472</categoryId>
 <picture>https://images.prom.ua/6456460753_klaviatura-usb-tkl.jpg</picture>
@@ -2514,7 +2893,7 @@
 </offer>
 <offer id="2465743675" available="true">
 <url>https://tera-flops.com.ua/ua/p2465743675-klaviatura-usb-tkl.html</url>
-<price>4676</price>
+<price>4370</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763472</categoryId>
 <picture>https://images.prom.ua/6456460754_klaviatura-usb-tkl.jpg</picture>
@@ -2543,7 +2922,7 @@
 </offer>
 <offer id="2465743676" available="true">
 <url>https://tera-flops.com.ua/ua/p2465743676-klaviatura-usb-full.html</url>
-<price>5085</price>
+<price>4770</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763472</categoryId>
 <picture>https://images.prom.ua/6456460755_klaviatura-usb-full.jpg</picture>
@@ -2573,7 +2952,7 @@
 </offer>
 <offer id="2465743677" available="true">
 <url>https://tera-flops.com.ua/ua/p2465743677-klaviatura-usb-tkl.html</url>
-<price>4676</price>
+<price>4370</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763472</categoryId>
 <picture>https://images.prom.ua/6456460756_klaviatura-usb-tkl.jpg</picture>
@@ -5907,7 +6286,7 @@
 </offer>
 <offer id="2445073700" available="true">
 <url>https://tera-flops.com.ua/ua/p2445073700-klaviatura-aula-mechanical.html</url>
-<price>1265</price>
+<price>1262</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763472</categoryId>
 <picture>https://images.prom.ua/6412647990_klaviatura-aula-mechanical.jpg</picture>
@@ -6624,7 +7003,7 @@
 </offer>
 <offer id="2450109273" available="true">
 <url>https://tera-flops.com.ua/ua/p2450109273-klaviatura-aula-f87.html</url>
-<price>1265</price>
+<price>1230</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763472</categoryId>
 <picture>https://images.prom.ua/6447521035_klaviatura-aula-f87.jpg</picture>
@@ -7259,7 +7638,7 @@
 </offer>
 <offer id="2468104703" available="true">
 <url>https://tera-flops.com.ua/ua/p2468104703-klaviatura-drotova-aula.html</url>
-<price>1128</price>
+<price>1100</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763472</categoryId>
 <picture>https://images.prom.ua/6431855227_klaviatura-drotova-aula.jpg</picture>
@@ -7291,7 +7670,7 @@
 </offer>
 <offer id="2468104704" available="true">
 <url>https://tera-flops.com.ua/ua/p2468104704-klaviatura-drotova-aula.html</url>
-<price>1265</price>
+<price>1262</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763472</categoryId>
 <picture>https://images.prom.ua/6447064243_klaviatura-drotova-aula.jpg</picture>
@@ -7321,7 +7700,7 @@
 </offer>
 <offer id="2468104705" available="true">
 <url>https://tera-flops.com.ua/ua/p2468104705-klaviatura-drotova-aula.html</url>
-<price>1265</price>
+<price>1262</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763472</categoryId>
 <picture>https://images.prom.ua/6447066458_klaviatura-drotova-aula.jpg</picture>
@@ -7382,7 +7761,7 @@
 </offer>
 <offer id="2468105422" available="true">
 <url>https://tera-flops.com.ua/ua/p2468105422-klaviatura-drotova-aula.html</url>
-<price>1128</price>
+<price>1125</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763472</categoryId>
 <picture>https://images.prom.ua/6431857452_klaviatura-drotova-aula.jpg</picture>
@@ -7474,7 +7853,7 @@
 </offer>
 <offer id="2468105432" available="true">
 <url>https://tera-flops.com.ua/ua/p2468105432-klaviatura-drotova-aula.html</url>
-<price>1175</price>
+<price>1144</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763472</categoryId>
 <picture>https://images.prom.ua/6447061710_klaviatura-drotova-aula.jpg</picture>
