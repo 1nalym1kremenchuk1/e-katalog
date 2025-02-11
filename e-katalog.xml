@@ -331,6 +331,63 @@
 <category id="85364281" parentId="85328850">Жорсткі диски</category>
 </categories>
 <offers>
+<offer id="2352264772" available="true">
+<url>https://tera-flops.com.ua/ua/p2352264772-umb-baseus-amblight.html</url>
+<price>2200</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6272762646_umb-baseus-amblight.jpg</picture>
+<picture>https://images.prom.ua/6272762645_umb-baseus-amblight.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>УМБ Baseus Amblight 65W 30000mAh Black (PPLG-A01)</name>
+<vendor>Baseus</vendor>
+<vendorCode>PPLG-A01</vendorCode>
+<param name="Вес" unit="г">550</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Емкость аккумулятора" unit="мА/ч">30000</param>
+<param name="Состояние">Новое</param>
+<param name="Розміри (мм)" unit="">145х65х38</param>
+<param name="Ємність батареї (Вт*год)" unit="">111</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">30W / 15W</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB-A" unit="">4</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">65W</param>
+<param name="Кількість USB type C" unit="">1</param>
+<param name="Технології швидкої зарядки" unit="">Huawei SuperCharge Protocol</param>
+<param name="Тип акумуляторів" unit="">Li-Pol</param>
+</offer>
+<offer id="2508195181" available="true">
+<url>https://tera-flops.com.ua/ua/p2508195181-zovnishnij-akumulyator-umb.html</url>
+<price>2200</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522645</categoryId>
+<picture>https://images.prom.ua/6505270674_zovnishnij-akumulyator-umb.jpg</picture>
+<picture>https://images.prom.ua/6505270676_zovnishnij-akumulyator-umb.jpg</picture>
+<picture>https://images.prom.ua/6505270678_zovnishnij-akumulyator-umb.jpg</picture>
+<picture>https://images.prom.ua/6505270680_zovnishnij-akumulyator-umb.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Зовнішній акумулятор (УМБ) Hoco J142 100000mAh 22.5W Black (J142)</name>
+<vendor>Hoco</vendor>
+<vendorCode>J142</vendorCode>
+<param name="Вес" unit="г">1.89</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Емкость аккумулятора" unit="мА/ч">100000</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="Розміри (мм)" unit="">165.6x105.5x97</param>
+<param name="Потужність заряду пристрою (Вт)" unit="">22.5</param>
+<param name="USB-A (потужність; напруга/струм)" unit="">4.5V-5A; 5V-4.5A; 9V-2A; 12V-1.5A</param>
+<param name="Входи зарядки пристрою" unit="">USB type C</param>
+<param name="Кількість USB-A" unit="">6</param>
+<param name="Функции" unit="">інфо-дисплей</param>
+<param name="Струм заряду по USB (A)" unit="">3</param>
+<param name="USB type С (потужність; напруга/струм)" unit="">5V-3A; 9V-2.22A; 12V-1.67A</param>
+<param name="Кількість USB type C" unit="">2</param>
+<param name="Технології швидкої зарядки" unit="">Samsung Adaptive Fast Charging</param>
+<param name="Тип акумуляторів" unit="">Li-Pol</param>
+</offer>
 <offer id="2450109231" available="true">
 <url>https://tera-flops.com.ua/ua/p2450109231-misha-bezdrotova-a4tech.html</url>
 <price>483</price>
