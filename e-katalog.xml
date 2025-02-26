@@ -7665,7 +7665,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша Rapoo N100 Black</name>
 <vendor>Rapoo</vendor>
-<vendorCode>НФ-00045988</vendorCode>
+<vendorCode>18050</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Цвет">Черный</param>
 <param name="Назначение">Для ноутбука</param>
@@ -7693,7 +7693,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша REAL-EL RM-207 Black (EL123200015)</name>
 <vendor>Real-el</vendor>
-<vendorCode>НФ-00046034</vendorCode>
+<vendorCode>EL123200015</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Назначение">Для ноутбука</param>
@@ -7721,7 +7721,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша REAL-EL RM-208 Black (EL123200030)</name>
 <vendor>Real-el</vendor>
-<vendorCode>НФ-00046035</vendorCode>
+<vendorCode>EL123200030</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Назначение">Для ноутбука</param>
@@ -7749,7 +7749,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша REAL-EL RM-220 Black (EL123200026)</name>
 <vendor>Real-el</vendor>
-<vendorCode>НФ-00046037</vendorCode>
+<vendorCode>EL123200026</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Назначение">Для ноутбука</param>
@@ -7776,7 +7776,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша REAL-EL RM-295 Black (EL123200031)</name>
 <vendor>Real-el</vendor>
-<vendorCode>НФ-00046040</vendorCode>
+<vendorCode>EL123200031</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Состояние">Новое</param>
@@ -7806,7 +7806,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша REAL-EL RM-505 Black (EL123200018)</name>
 <vendor>Real-el</vendor>
-<vendorCode>НФ-00046047</vendorCode>
+<vendorCode>EL123200018</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Состояние">Новое</param>
@@ -7834,7 +7834,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша REAL-EL RM-520 Gaming Black (EL123200020)</name>
 <vendor>Real-el</vendor>
-<vendorCode>НФ-00046048</vendorCode>
+<vendorCode>EL123200020</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Состояние">Новое</param>
@@ -7863,7 +7863,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша REAL-EL RM-525 Black (EL123200029)</name>
 <vendor>Real-el</vendor>
-<vendorCode>НФ-00046049</vendorCode>
+<vendorCode>EL123200029</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Состояние">Новое</param>
@@ -7892,7 +7892,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша REAL-EL RM-747 Black (EL123200028)</name>
 <vendor>Real-el</vendor>
-<vendorCode>НФ-00046052</vendorCode>
+<vendorCode>EL123200028</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Состояние">Новое</param>
@@ -7923,7 +7923,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша Vertux Katana Black</name>
 <vendor>Vertux</vendor>
-<vendorCode>НФ-00046260</vendorCode>
+<vendorCode>katana.black</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Состояние">Новое</param>
@@ -7953,7 +7953,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша Vertux Phoenix Black</name>
 <vendor>Vertux</vendor>
-<vendorCode>НФ-00046261</vendorCode>
+<vendorCode>phoenix.black</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Состояние">Новое</param>
@@ -7984,7 +7984,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша бездротова 2E MF300 Flora Poppy Silent Yellow (2E-MF300WFLORAYW)</name>
 <vendor>2E</vendor>
-<vendorCode>НФ-00052890</vendorCode>
+<vendorCode>2E-MF300WFLORAYW</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Желтый</param>
 <param name="Назначение">Для ноутбука</param>
@@ -8011,7 +8011,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша бездротова Rapoo M10 Plus Blue</name>
 <vendor>Rapoo</vendor>
-<vendorCode>НФ-00052893</vendorCode>
+<vendorCode>17301</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Белый</param>
 <param name="Назначение">Для ноутбука</param>
@@ -8037,7 +8037,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша REAL-EL RM-211 White (EL123200014)</name>
 <vendor>Real-el</vendor>
-<vendorCode>НФ-00052962</vendorCode>
+<vendorCode>EL123200014</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Белый</param>
 <param name="Назначение">Для ноутбука</param>
@@ -8063,7 +8063,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша REAL-EL RM-210 Black (EL123200036)</name>
 <vendor>Real-el</vendor>
-<vendorCode>НФ-00052963</vendorCode>
+<vendorCode>EL123200036</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Назначение">Для ноутбука</param>
@@ -8091,7 +8091,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша 2E MF160 Black (2E-MF160UB)</name>
 <vendor>2E</vendor>
-<vendorCode>НФ-00052964</vendorCode>
+<vendorCode>2E-MF160UB</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Назначение">Для ноутбука</param>
@@ -8119,7 +8119,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша REAL-EL RM-215 Black (EL123200037)</name>
 <vendor>Real-el</vendor>
-<vendorCode>НФ-00052966</vendorCode>
+<vendorCode>EL123200037</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Назначение">Для ноутбука</param>
@@ -8146,7 +8146,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша REAL-EL RM-214 Black (EL123200039)</name>
 <vendor>Real-el</vendor>
-<vendorCode>НФ-00052970</vendorCode>
+<vendorCode>EL123200039</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Назначение">Для ноутбука</param>
@@ -8173,7 +8173,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша REAL-EL RM-217 Black (EL123200038)</name>
 <vendor>Real-el</vendor>
-<vendorCode>НФ-00052972</vendorCode>
+<vendorCode>EL123200038</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Назначение">Для ноутбука</param>
@@ -8200,7 +8200,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша REAL-EL RM-222 Black (EL123200040)</name>
 <vendor>Real-el</vendor>
-<vendorCode>НФ-00052973</vendorCode>
+<vendorCode>EL123200040</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Назначение">Для ноутбука</param>
@@ -8228,7 +8228,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша Logitech B100 White (910-003360)</name>
 <vendor>Logitech</vendor>
-<vendorCode>НФ-00052977</vendorCode>
+<vendorCode>910-003360</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Белый</param>
 <param name="Назначение">Для ноутбука</param>
@@ -8254,7 +8254,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша Logitech G502 X White (910-006146)</name>
 <vendor>Logitech</vendor>
-<vendorCode>НФ-00053025</vendorCode>
+<vendorCode>910-006146</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Белый</param>
 <param name="Состояние">Новое</param>
@@ -8285,7 +8285,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша бездротова SpeedLink Kappa Black (SL-630011-BK)</name>
 <vendor>SpeedLink</vendor>
-<vendorCode>НФ-00053190</vendorCode>
+<vendorCode>SL-630011-BK</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Назначение">Для ноутбука</param>
@@ -8310,7 +8310,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Клавіатура дротова NOXO Conqueror Blue Switch Black (4770070882023)</name>
 <vendor>NOXO</vendor>
-<vendorCode>НФ-00053360</vendorCode>
+<vendorCode>4770070882023</vendorCode>
 <param name="Интерфейс подключения">USB</param>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
@@ -8341,7 +8341,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша бездротова SPEEDLINK KAPPA blue (SL-630011-BE)</name>
 <vendor>SpeedLink</vendor>
-<vendorCode>НФ-00053368</vendorCode>
+<vendorCode>SL-630011-BE</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Синий</param>
 <param name="Назначение">Для ноутбука</param>
@@ -8369,7 +8369,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша бездротова SPEEDLINK KAPPA red (SL-630011-RD)</name>
 <vendor>SpeedLink</vendor>
-<vendorCode>НФ-00053369</vendorCode>
+<vendorCode>SL-630011-RD</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Красный</param>
 <param name="Назначение">Для ноутбука</param>
@@ -8398,7 +8398,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Вентилятор UPSIREN UF-2 Prism 7 PRO-X Black (UF-2 Prism 7 PRO-X Black)</name>
 <vendor>Upsiren</vendor>
-<vendorCode>НФ-00052035</vendorCode>
+<vendorCode>UF-2 Prism 7 PRO-X Black</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Диаметр вентилятора" unit="мм">120</param>
 <param name="Количество кулеров">1</param>
@@ -8425,7 +8425,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Вентилятор UPSIREN UF-2 Prism 7 PRO-X White (UF-2 Prism 7 PRO-X White)</name>
 <vendor>Upsiren</vendor>
-<vendorCode>НФ-00052036</vendorCode>
+<vendorCode>UF-2 Prism 7 PRO-X White</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Диаметр вентилятора" unit="мм">120</param>
 <param name="Количество кулеров">1</param>
@@ -8452,7 +8452,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Вентилятор UPSIREN UF-1 Prism 6 PRO White (UF-1 Prism 6 PRO White)</name>
 <vendor>Upsiren</vendor>
-<vendorCode>НФ-00052037</vendorCode>
+<vendorCode>UF-1 Prism 6 PRO White</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Диаметр вентилятора" unit="мм">120</param>
 <param name="Количество кулеров">1</param>
@@ -8468,34 +8468,6 @@ This XML file does not appear to have any style information associated with it. 
 <param name="Напруга живлення, В" unit="">12</param>
 <param name="Регулювання обертів" unit="">PWM</param>
 <param name="Габарити,мм" unit="">120x120x25</param>
-</offer>
-<offer id="2461182834" available="false">
-<url>https://tera-flops.com.ua/ua/p2461182834-ventilyator-upsiren-prism.html</url>
-<oldprice>280</oldprice>
-<price>240</price>
-<currencyId>UAH</currencyId>
-<categoryId>97649262</categoryId>
-<picture>https://images.prom.ua/6437626611_ventilyator-upsiren-uf-1.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Вентилятор UPSIREN UF-1 Prism 6 PRO Black (UF-1 Prism 6 PRO Black)</name>
-<vendor>Upsiren</vendor>
-<vendorCode>НФ-00052038</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Диаметр вентилятора" unit="мм">120</param>
-<param name="Количество кулеров">1</param>
-<param name="Максимальная скорость вращения" unit="об/мин">1500</param>
-<param name="Максимальный уровень шума" unit="дБ">20</param>
-<param name="Состояние">Новое</param>
-<param name="Тип подшипника">Гидродинамический</param>
-<param name="Габарити,мм" unit="">120x120x25</param>
-<param name="Колір підсвітки" unit="">ARGB</param>
-<param name="Мінімальна швидкість обертання, об / хв" unit="">600</param>
-<param name="Напруга живлення, В" unit="">12</param>
-<param name="Повітряний потік (CFM)" unit="">45.2</param>
-<param name="Регулювання обертів" unit="">PWM</param>
-<param name="Разъем" unit="">3pin ARGB</param>
-<param name="Тип системы охлаждения" unit="">Вентилятор</param>
 </offer>
 <offer id="2461182835" available="true">
 <url>https://tera-flops.com.ua/ua/p2461182835-ventilyator-upsiren-prism.html</url>
@@ -8508,7 +8480,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Вентилятор UPSIREN UF Prism 4 PRO White (UF Prism 4 PRO White)</name>
 <vendor>Upsiren</vendor>
-<vendorCode>НФ-00052039</vendorCode>
+<vendorCode>UF Prism 4 PRO White</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Диаметр вентилятора" unit="мм">120</param>
 <param name="Количество кулеров">1</param>
@@ -8537,7 +8509,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Вентилятор UPSIREN UF Prism 4 PRO Black (UF Prism 4 PRO Black)</name>
 <vendor>Upsiren</vendor>
-<vendorCode>НФ-00052040</vendorCode>
+<vendorCode>UF Prism 4 PRO Black</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Диаметр вентилятора" unit="мм">120</param>
 <param name="Количество кулеров">1</param>
@@ -8566,7 +8538,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Вентилятор UPSIREN Prism II Black ARGB (Prism II Black ARGB)</name>
 <vendor>Upsiren</vendor>
-<vendorCode>НФ-00052041</vendorCode>
+<vendorCode>Prism II Black ARGB</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Диаметр вентилятора" unit="мм">120</param>
 <param name="Количество кулеров">1</param>
@@ -8593,7 +8565,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Вентилятор UPSIREN Prism II White ARGB (Prism II White ARGB)</name>
 <vendor>Upsiren</vendor>
-<vendorCode>НФ-00052042</vendorCode>
+<vendorCode>Prism II White ARGB</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Диаметр вентилятора" unit="мм">120</param>
 <param name="Количество кулеров">1</param>
@@ -8619,7 +8591,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша Bluetooth Logitech MX Master 3S Graphite (910-006559)</name>
 <vendor>Logitech</vendor>
-<vendorCode>НФ-00053435</vendorCode>
+<vendorCode>910-006559</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Назначение">Для ноутбука</param>
 <param name="Состояние">Новое</param>
@@ -8650,7 +8622,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша бездротова Logitech Pop Mouse with Emoji Rose (910-007413)</name>
 <vendor>Logitech</vendor>
-<vendorCode>НФ-00053439</vendorCode>
+<vendorCode>910-007413</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Цвет">Розовый</param>
 <param name="Назначение">Для ноутбука</param>
@@ -8679,7 +8651,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша бездротова Logitech Pop Mouse with Emoji Lilac (910-007414)</name>
 <vendor>Logitech</vendor>
-<vendorCode>НФ-00053442</vendorCode>
+<vendorCode>910-007414</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Фиолетовый</param>
 <param name="Назначение">Для ноутбука</param>
@@ -8708,7 +8680,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша бездротова Logitech Pop Mouse with Emoji Off-White (910-007411)</name>
 <vendor>Logitech</vendor>
-<vendorCode>НФ-00053445</vendorCode>
+<vendorCode>910-007411</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Белый</param>
 <param name="Назначение">Для ноутбука</param>
@@ -8737,7 +8709,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша бездротова Logitech Signature M650 for Business Large Off-White (910-006349)</name>
 <vendor>Logitech</vendor>
-<vendorCode>НФ-00053446</vendorCode>
+<vendorCode>910-006349</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Белый</param>
 <param name="Назначение">Для ноутбука</param>
@@ -8767,7 +8739,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Килимок для миші NMP810 NP.MSP11.00D ACER</name>
 <vendor>Acer</vendor>
-<vendorCode>НФ-00053402</vendorCode>
+<vendorCode>NP.MSP11.00D</vendorCode>
 <param name="Материал поверхности">Ткань</param>
 <param name="Состояние">Новое</param>
 <param name="Гарантія, міс" unit="">12</param>
@@ -8784,7 +8756,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Mиша USB OPTICAL WRL VERTICAL BLACK HP.EXPBG.009 ACER</name>
 <vendor>Acer</vendor>
-<vendorCode>НФ-00053403</vendorCode>
+<vendorCode>HP.EXPBG.009</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Назначение">Для ноутбука</param>
@@ -8815,7 +8787,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Mиша USB OPTICAL PREDATOR CESTUS 315 GP.MCE11.014 ACER</name>
 <vendor>Acer</vendor>
-<vendorCode>НФ-00053404</vendorCode>
+<vendorCode>GP.MCE11.014</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Состояние">Новое</param>
@@ -8847,7 +8819,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Mиша USB OPTICAL WRL BLACK GP.MCE11.00S ACER</name>
 <vendor>Acer</vendor>
-<vendorCode>НФ-00053406</vendorCode>
+<vendorCode>GP.MCE11.00S</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Назначение">Для ноутбука</param>
@@ -8876,7 +8848,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Mиша USB OPTICAL VERO GP.MCE11.022 ACER</name>
 <vendor>Acer</vendor>
-<vendorCode>НФ-00053408</vendorCode>
+<vendorCode>GP.MCE11.022</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Серый</param>
 <param name="Назначение">Для ноутбука</param>
@@ -8905,7 +8877,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Килимок для миші VERO GREY GP.MSP11.00A ACER</name>
 <vendor>Acer</vendor>
-<vendorCode>НФ-00053409</vendorCode>
+<vendorCode>GP.MSP11.00A</vendorCode>
 <param name="Материал поверхности">Ткань</param>
 <param name="Состояние">Новое</param>
 <param name="Цвет">Серый</param>
@@ -8922,7 +8894,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Mиша USB OPTICAL VERO M502 BLACK GP.MCE11.023 ACER</name>
 <vendor>Acer</vendor>
-<vendorCode>НФ-00053410</vendorCode>
+<vendorCode>GP.MCE11.023</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Назначение">Для ноутбука</param>
@@ -8951,7 +8923,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Mиша USB OPTICAL WRL WHITE GP.MCE11.00Y ACER</name>
 <vendor>Acer</vendor>
-<vendorCode>НФ-00053412</vendorCode>
+<vendorCode>GP.MCE11.00Y</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Белый</param>
 <param name="Назначение">Для ноутбука</param>
@@ -8980,7 +8952,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Mиша USB OPTICAL WRL M502 GRAY GP.MCE11.01J ACER</name>
 <vendor>Acer</vendor>
-<vendorCode>НФ-00053413</vendorCode>
+<vendorCode>GP.MCE11.01J</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Серый</param>
 <param name="Назначение">Для ноутбука</param>
@@ -9009,7 +8981,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Килимок для миші VERO BLACK GP.MSP11.00B ACER</name>
 <vendor>Acer</vendor>
-<vendorCode>НФ-00053414</vendorCode>
+<vendorCode>GP.MSP11.00B</vendorCode>
 <param name="Материал поверхности">Ткань</param>
 <param name="Состояние">Новое</param>
 <param name="Цвет">Черный</param>
@@ -9026,7 +8998,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Mиша USB OPTICAL BLACK BULK HP.EXPBG.008 ACER</name>
 <vendor>Acer</vendor>
-<vendorCode>НФ-00053415</vendorCode>
+<vendorCode>HP.EXPBG.008</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Назначение">Для ноутбука</param>
@@ -9053,7 +9025,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Килимок для міші PREDATOR GAMING XXL GP.MSP11.005 ACER</name>
 <vendor>Acer</vendor>
-<vendorCode>НФ-00053416</vendorCode>
+<vendorCode>GP.MSP11.005</vendorCode>
 <param name="Материал поверхности">Ткань</param>
 <param name="Состояние">Новое</param>
 <param name="Цвет">Черный</param>
@@ -9070,7 +9042,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Mиша USB OPTICAL NITRO II NMW200 BLACK GP.MCE11.039 ACER</name>
 <vendor>Acer</vendor>
-<vendorCode>НФ-00053417</vendorCode>
+<vendorCode>GP.MCE11.039</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Состояние">Новое</param>
@@ -9100,7 +9072,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Килимок для миші ERGONOMIC GP.MSP11.007 ACER</name>
 <vendor>Acer</vendor>
-<vendorCode>НФ-00053418</vendorCode>
+<vendorCode>GP.MSP11.007</vendorCode>
 <param name="Материал поверхности">Ткань</param>
 <param name="Состояние">Новое</param>
 <param name="Цвет">Черный</param>
@@ -9117,7 +9089,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Mиша USB OPTICAL WRL MM311 MM-311-WWOW1 COOLER MASTER</name>
 <vendor>Cooler Master</vendor>
-<vendorCode>НФ-00053419</vendorCode>
+<vendorCode>MM-311-WWOW1</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Белый</param>
 <param name="Состояние">Новое</param>
@@ -9149,7 +9121,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Mиша USB OPTICAL WRL MM311 MM-311-KKOW1 COOLER MASTER</name>
 <vendor>Cooler Master</vendor>
-<vendorCode>НФ-00053422</vendorCode>
+<vendorCode>MM-311-KKOW1</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Состояние">Новое</param>
@@ -9180,7 +9152,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Mиша USB OPTICAL MM310 MM-310-KKOL1 COOLER MASTER</name>
 <vendor>Cooler Master</vendor>
-<vendorCode>НФ-00053423</vendorCode>
+<vendorCode>MM-310-KKOL1</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Состояние">Новое</param>
@@ -9212,7 +9184,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Mиша USB OPTICAL MM310 MM-310-WWOL1 COOLER MASTER</name>
 <vendor>Cooler Master</vendor>
-<vendorCode>НФ-00053424</vendorCode>
+<vendorCode>MM-310-WWOL1</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Белый</param>
 <param name="Состояние">Новое</param>
@@ -9244,7 +9216,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Килимок для миші DM PAD L DREAM MACHINES</name>
 <vendor>Dream Machines</vendor>
-<vendorCode>НФ-00053428</vendorCode>
+<vendorCode>DM_Pad_L</vendorCode>
 <param name="Материал поверхности">Ткань</param>
 <param name="Состояние">Новое</param>
 <param name="Цвет">Черный</param>
@@ -9261,7 +9233,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Килимок для миші DM PAD XL DREAM MACHINES</name>
 <vendor>Dream Machines</vendor>
-<vendorCode>НФ-00053430</vendorCode>
+<vendorCode>DM_Pad_XL</vendorCode>
 <param name="Материал поверхности">Ткань</param>
 <param name="Состояние">Новое</param>
 <param name="Цвет">Черный</param>
@@ -9278,7 +9250,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Килимок для миші DM PAD XXL DREAM MACHINES</name>
 <vendor>Dream Machines</vendor>
-<vendorCode>НФ-00053433</vendorCode>
+<vendorCode>DM_Pad_XXL</vendorCode>
 <param name="Материал поверхности">Ткань</param>
 <param name="Состояние">Новое</param>
 <param name="Цвет">Черный</param>
@@ -9295,7 +9267,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Клавіатура USB TKL DR MK87DR MONTECH</name>
 <vendor>Montech</vendor>
-<vendorCode>НФ-00053447</vendorCode>
+<vendorCode>MK87DR</vendorCode>
 <param name="Интерфейс подключения">USB</param>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
@@ -9324,7 +9296,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Клавіатура USB FULL SIZE DR MK105DR MONTECH</name>
 <vendor>Montech</vendor>
-<vendorCode>НФ-00053449</vendorCode>
+<vendorCode>MK105DR</vendorCode>
 <param name="Интерфейс подключения">USB</param>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
@@ -9353,7 +9325,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Клавіатура USB TKL FR MK87FR MONTECH</name>
 <vendor>Montech</vendor>
-<vendorCode>НФ-00053450</vendorCode>
+<vendorCode>MK87FR</vendorCode>
 <param name="Интерфейс подключения">USB</param>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
@@ -9382,7 +9354,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Клавіатура USB TKL DB MK87DB MONTECH</name>
 <vendor>Montech</vendor>
-<vendorCode>НФ-00053451</vendorCode>
+<vendorCode>MK87DB</vendorCode>
 <param name="Интерфейс подключения">USB</param>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
@@ -9411,7 +9383,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Клавіатура USB FULL SIZE FR MK105FR MONTECH</name>
 <vendor>Montech</vendor>
-<vendorCode>НФ-00053452</vendorCode>
+<vendorCode>MK105FR</vendorCode>
 <param name="Интерфейс подключения">USB</param>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
@@ -9441,7 +9413,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Клавіатура USB TKL FB MK87FB MONTECH</name>
 <vendor>Montech</vendor>
-<vendorCode>НФ-00053453</vendorCode>
+<vendorCode>MK87FB</vendorCode>
 <param name="Интерфейс подключения">USB</param>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Состояние">Новое</param>
@@ -9470,7 +9442,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Килимок для миші AGILITY GD21 MSI</name>
 <vendor>MSI</vendor>
-<vendorCode>НФ-00053467</vendorCode>
+<vendorCode>J02-VXXXXX6-V34</vendorCode>
 <param name="Материал поверхности">Ткань</param>
 <param name="Состояние">Новое</param>
 <param name="Цвет">Черный</param>
@@ -9487,7 +9459,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Повітряне охолодження Jiushark JF100 White ARGB</name>
 <vendor>Jiushark</vendor>
-<vendorCode>НФ-00032267</vendorCode>
+<vendorCode>JF100 White ARGB</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Диаметр вентилятора" unit="мм">100</param>
 <param name="Количество кулеров">1</param>
@@ -9515,7 +9487,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Повітряне охолодження Jiushark JF200 Mini FRGB Black</name>
 <vendor>Jiushark</vendor>
-<vendorCode>НФ-00032275</vendorCode>
+<vendorCode>JF200 Mini FRGB Black</vendorCode>
 <param name="Вес" unit="г">866</param>
 <param name="Гарантийный срок" unit="мес">6</param>
 <param name="Диаметр вентилятора" unit="мм">100</param>
@@ -9550,7 +9522,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Клавіатура дротова AULA F3287 Blue Switch White/Grey (6948391240688)</name>
 <vendor>Aula</vendor>
-<vendorCode>НФ-00036078</vendorCode>
+<vendorCode>6948391240688</vendorCode>
 <param name="Интерфейс подключения">USB</param>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Серый</param>
@@ -9579,7 +9551,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Клавіатура дротова AULA F2088 PRO RGB Orange Switch White/Blue (6948391234908)</name>
 <vendor>Aula</vendor>
-<vendorCode>НФ-00037942</vendorCode>
+<vendorCode>6948391234908</vendorCode>
 <param name="Интерфейс подключения">USB</param>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Синий</param>
@@ -9609,7 +9581,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Клавіатура дротова Aula F2088 Pro Black/Gray (6948391234892)</name>
 <vendor>Aula</vendor>
-<vendorCode>НФ-00043621</vendorCode>
+<vendorCode>6948391234892</vendorCode>
 <param name="Интерфейс подключения">USB</param>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
@@ -9639,7 +9611,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Клавіатура дротова AULA S2022 KRGD Blue Black (6948391202235)</name>
 <vendor>Aula</vendor>
-<vendorCode>НФ-00043626</vendorCode>
+<vendorCode>6948391202235</vendorCode>
 <param name="Интерфейс подключения">USB</param>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
@@ -9669,7 +9641,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша A4Tech Fstyler FM12S Black</name>
 <vendor>A4Tech</vendor>
-<vendorCode>НФ-00044712</vendorCode>
+<vendorCode>FM12S Black</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Назначение">Для ноутбука</param>
@@ -9698,7 +9670,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша Aula S13 Gaming Black (6948391213095)</name>
 <vendor>Aula</vendor>
-<vendorCode>НФ-00046421</vendorCode>
+<vendorCode>6948391213095</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Состояние">Новое</param>
@@ -9733,7 +9705,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Клавіатура дротова AULA F3287 Blue Switch Grey/White (6948391240954)</name>
 <vendor>Aula</vendor>
-<vendorCode>НФ-00053002</vendorCode>
+<vendorCode>6948391240954</vendorCode>
 <param name="Интерфейс подключения">USB</param>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Белый</param>
@@ -9763,7 +9735,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша Aula F805 Black (6948391212906)</name>
 <vendor>Aula</vendor>
-<vendorCode>НФ-00053287</vendorCode>
+<vendorCode>6948391212906</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Назначение">Для ноутбука</param>
@@ -9794,7 +9766,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша Aula S12 Mountain Black</name>
 <vendor>Aula</vendor>
-<vendorCode>НФ-00053288</vendorCode>
+<vendorCode>6948391239262</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Назначение">Для ноутбука</param>
@@ -9825,7 +9797,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Клавіатура дротова Aula F75 KRGD Blue Black (6948391202846)</name>
 <vendor>Aula</vendor>
-<vendorCode>НФ-00053345</vendorCode>
+<vendorCode>6948391202846</vendorCode>
 <param name="Интерфейс подключения">USB</param>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
@@ -9855,7 +9827,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша Aula F812 Black (6948391213132)</name>
 <vendor>Aula</vendor>
-<vendorCode>НФ-00053370</vendorCode>
+<vendorCode>6948391213132</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Назначение">Для ноутбука</param>
@@ -9885,7 +9857,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Мишка Acer OMR010 Wireless Black (ZL.MCEEE.028)</name>
 <vendor>Acer</vendor>
-<vendorCode>НФ-00053719</vendorCode>
+<vendorCode>ZL.MCEEE.028</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Назначение">Для ноутбука</param>
@@ -9915,7 +9887,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Мишка Acer OMR031 Wireless Blue (ZL.MCEEE.02B)</name>
 <vendor>Acer</vendor>
-<vendorCode>НФ-00053720</vendorCode>
+<vendorCode>ZL.MCEEE.02B</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Синий</param>
 <param name="Назначение">Для ноутбука</param>
@@ -9945,7 +9917,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша бездротова Logitech M220 Silent Charcoal (910-004878)</name>
 <vendor>Logitech</vendor>
-<vendorCode>НФ-00045727</vendorCode>
+<vendorCode>910-004878</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Цвет">Черный</param>
 <param name="Назначение">Для ноутбука</param>
@@ -9970,7 +9942,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша бездротова Logitech M330 Silent Plus Black (910-004909)</name>
 <vendor>Logitech</vendor>
-<vendorCode>НФ-00045731</vendorCode>
+<vendorCode>910-004909</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Цвет">Черный</param>
 <param name="Назначение">Для ноутбука</param>
@@ -9996,7 +9968,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша бездротова Genius NX-8006 Silent Black (31030024400)</name>
 <vendor>Genius</vendor>
-<vendorCode>НФ-00053822</vendorCode>
+<vendorCode>31030024400</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Назначение">Для ноутбука</param>
@@ -10024,7 +9996,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша бездротова Genius Ergo 8200S Black (31030029400)</name>
 <vendor>Genius</vendor>
-<vendorCode>НФ-00053823</vendorCode>
+<vendorCode>31030029400</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Назначение">Для ноутбука</param>
@@ -10052,7 +10024,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша Logitech M90 Dark (910-001793)</name>
 <vendor>Logitech</vendor>
-<vendorCode>НФ-00053827</vendorCode>
+<vendorCode>910-001793</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Назначение">Для ноутбука</param>
@@ -10078,7 +10050,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша Logitech M185 blue (910-002236)</name>
 <vendor>Logitech</vendor>
-<vendorCode>НФ-00053828</vendorCode>
+<vendorCode>910-002236</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Синий</param>
 <param name="Назначение">Для ноутбука</param>
@@ -10107,7 +10079,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша бездротова Logitech M185 swift grey (910-002235)</name>
 <vendor>Logitech</vendor>
-<vendorCode>НФ-00053829</vendorCode>
+<vendorCode>910-002235</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Серый</param>
 <param name="Назначение">Для ноутбука</param>
@@ -10136,7 +10108,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша Logitech M235 Cordless Grey (910-002692)</name>
 <vendor>Logitech</vendor>
-<vendorCode>НФ-00053830</vendorCode>
+<vendorCode>910-002692</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Серый</param>
 <param name="Назначение">Для ноутбука</param>
@@ -10165,7 +10137,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша бездротова Logitech M325s Dark Silver (910-006812,910-006825)</name>
 <vendor>Logitech</vendor>
-<vendorCode>НФ-00053834</vendorCode>
+<vendorCode>910-006812</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Назначение">Для ноутбука</param>
 <param name="Состояние">Новое</param>
@@ -10193,7 +10165,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша бездротова A4Tech FG30 Grey</name>
 <vendor>A4Tech</vendor>
-<vendorCode>НФ-00053840</vendorCode>
+<vendorCode>FG30 Grey</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Серый</param>
 <param name="Назначение">Для ноутбука</param>
@@ -10224,7 +10196,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша A4Tech FB10C Ash Blue</name>
 <vendor>A4Tech</vendor>
-<vendorCode>НФ-00053842</vendorCode>
+<vendorCode>FB10C Ash Blue</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Синий</param>
 <param name="Назначение">Для ноутбука</param>
@@ -10252,7 +10224,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша A4Tech Bloody A90 Black</name>
 <vendor>A4Tech</vendor>
-<vendorCode>НФ-00053846</vendorCode>
+<vendorCode>Bloody A90 Black</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Состояние">Новое</param>
@@ -10284,7 +10256,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша A4Tech Bloody W95 Max Sports RGB Navy</name>
 <vendor>A4Tech</vendor>
-<vendorCode>НФ-00053847</vendorCode>
+<vendorCode>Bloody W95 Max Sports RGB Navy</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Белый</param>
 <param name="Состояние">Новое</param>
@@ -10318,7 +10290,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Миша Logitech B330 Silent plus Black (910-004913)</name>
 <vendor>Logitech</vendor>
-<vendorCode>НФ-00054067</vendorCode>
+<vendorCode>910-004913</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Цвет">Черный</param>
 <param name="Состояние">Новое</param>
@@ -10348,7 +10320,7 @@ This XML file does not appear to have any style information associated with it. 
 <delivery>true</delivery>
 <name>Зовнішній акумулятор (УМБ) Hoco J142 100000mAh 22.5W Black (J142)</name>
 <vendor>Hoco</vendor>
-<vendorCode>НФ-00051282</vendorCode>
+<vendorCode>J142</vendorCode>
 <param name="Вес" unit="г">1.89</param>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Емкость аккумулятора" unit="мА/ч">100000</param>
