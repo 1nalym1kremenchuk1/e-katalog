@@ -1,4 +1,4 @@
-<yml_catalog date="2025-02-25 17:41">
+<yml_catalog date="2025-03-04 16:14">
 <shop>
 <name>TeraFlops Store</name>
 <company>TeraFlops Store</company>
@@ -67,7 +67,6 @@
 <category id="130691868" parentId="128988099">Відеокарти</category>
 <category id="130691869" parentId="130691868">AMD Radeon</category>
 <category id="130691870" parentId="130691868">Nvidia GeForce</category>
-<category id="140312451" parentId="85763431">Картрідери і USB-хаби</category>
 <category id="133512176" parentId="85423690">Сервери</category>
 <category id="132256966" parentId="131315093">Socket AM3</category>
 <category id="132256967" parentId="131315093">Socket AM3+</category>
@@ -139,6 +138,14 @@
 <category id="108121065" parentId="85364265">DDR5</category>
 <category id="131730126">FPV дрони та комплектуючі</category>
 <category id="85423625" parentId="85423690">ПК для Дому/Роботи</category>
+<category id="140708572" parentId="131923919">HDD 3.5" 18000</category>
+<category id="140708573" parentId="131923919">HDD 3.5" 20000 і більше</category>
+<category id="140708574" parentId="137926819">Arctic</category>
+<category id="140708575" parentId="137926819">Gelid</category>
+<category id="140708576" parentId="137926819">EKWB</category>
+<category id="140708577" parentId="137926819">Zezzio</category>
+<category id="140708578" parentId="137926819">Gembird</category>
+<category id="140708579" parentId="137926819">Iceberg Thermal</category>
 <category id="124618909">Послуги ремонту</category>
 <category id="124619023" parentId="124618909">Ремонт відеокарт</category>
 <category id="85423690">Комп'ютери TeraFlops</category>
@@ -148,6 +155,7 @@
 <category id="139646930" parentId="139646929">Вентилятори (кулери) для відеокарт</category>
 <category id="125067175" parentId="85763431">Ігрові крісла</category>
 <category id="139651237" parentId="135329199">Пилові фільтри</category>
+<category id="140312451" parentId="85763431">Картрідери і USB-хаби</category>
 <category id="85328850">Комплектуючі для ПК</category>
 <category id="85763431">Комп'ютерна периферія</category>
 <category id="87698682">Послуги</category>
@@ -206,6 +214,20 @@
 <category id="137076530" parentId="132693858">Аналізатори спектру</category>
 <category id="133045618" parentId="112486618">Джерела безперебійного живлення</category>
 <category id="97644297" parentId="85364244">Socket AM3+</category>
+<category id="140722112" parentId="131148187">Термопаста</category>
+<category id="140722113" parentId="140722112">Arctic</category>
+<category id="140722114" parentId="140722112">DeepCool</category>
+<category id="140722115" parentId="140722112">Noctua</category>
+<category id="140722116" parentId="140722112">Piko</category>
+<category id="140722117" parentId="140722112">Thermalright</category>
+<category id="140722118" parentId="140722112">Vinga</category>
+<category id="140722119" parentId="140722112">2E</category>
+<category id="140722120" parentId="140722112">Zalman</category>
+<category id="140722121" parentId="140722112">Zezzio</category>
+<category id="140722122" parentId="140722112">Gelid Solutions</category>
+<category id="140722123" parentId="140722112">Gembird</category>
+<category id="140722124" parentId="140722112">Prolimatech</category>
+<category id="140722125" parentId="140722112">Titan</category>
 <category id="133294369">Стабілізатори напруги</category>
 <category id="116597011" parentId="85328850">Комплектуючі до відеокарт</category>
 <category id="136063147" parentId="135661374">1150</category>
@@ -278,7 +300,6 @@
 <category id="134241840" parentId="85364265">DDR5 SO-DIMM</category>
 <category id="138885635" parentId="134490739">SFX 505-590W</category>
 <category id="134263332" parentId="132693858">Система скиду боєприпасів</category>
-<category id="85364244" parentId="85328850">Материнські плати</category>
 <category id="134777283" parentId="131923912">SSD серверні</category>
 <category id="134777284" parentId="134777283">2.5"</category>
 <category id="134993993" parentId="134490739">SFX 400W</category>
@@ -288,6 +309,7 @@
 <category id="134721563" parentId="134721561">Діагональ 31 - 32</category>
 <category id="138069870" parentId="132693858">Станція керування FPV</category>
 <category id="137157859" parentId="131148187">Вентилятори для корпусів</category>
+<category id="134389610" parentId="131923918">SSD M.2 120-128</category>
 <category id="134870766" parentId="131315093">Socket TRX4</category>
 <category id="134870767" parentId="131315093">Socket TR4</category>
 <category id="133479176" parentId="112486618">Зарядки для акумуляторних батарейок</category>
@@ -330,7 +352,7 @@
 <category id="137926820" parentId="137926819">Fehonda</category>
 <category id="139844022" parentId="139646929">Підставки для відеокарт</category>
 <category id="137482523" parentId="130691869">Radeon HD-Series</category>
-<category id="134389610" parentId="131923918">SSD M.2 120-128</category>
+<category id="138230350" parentId="85330301">LGA 1851</category>
 <category id="85364272" parentId="85328850">Кулери і системи охолодження</category>
 <category id="138445498" parentId="133007151">Навушники</category>
 <category id="85364265" parentId="85328850">Оперативна пам'ять</category>
@@ -340,37 +362,37 @@
 <category id="140312453" parentId="140312451">Картрідери</category>
 <category id="139200342" parentId="131923913">HDD зовнішні</category>
 <category id="97641453" parentId="85330301">LGA 1356</category>
-<category id="97640692" parentId="85330301">LGA 1151v1</category>
-<category id="138230350" parentId="85330301">LGA 1851</category>
 <category id="139962433" parentId="85763431">Засоби для чищення техніки</category>
 <category id="139962434" parentId="139962433">Чистячі набори</category>
 <category id="139962435" parentId="139962433">Серветки</category>
+<category id="107166007" parentId="85330301">Socket AM2+</category>
 <category id="85328986" parentId="85328850">Відеокарти</category>
 <category id="138313212" parentId="112486618">Аксесуари до зарядних станцій</category>
 <category id="140515566" parentId="133007151">Тримач для кабелю</category>
 <category id="85364281" parentId="85328850">Жорсткі диски</category>
 <category id="85364275" parentId="85328850">Блоки живлення</category>
-<category id="107166007" parentId="85330301">Socket AM2+</category>
+<category id="140508401" parentId="131923919">HDD 3.5" 16000</category>
 <category id="97641455" parentId="85330301">LGA 1366</category>
 <category id="101264478" parentId="85330301">Socket TR4</category>
 <category id="135772118" parentId="85330301">Процесори AMD</category>
-<category id="97641444" parentId="85330301">LGA 1156</category>
-<category id="140508401" parentId="131923919">HDD 3.5" 16000</category>
-<category id="131386276" parentId="85330301">Socket AM5</category>
+<category id="85364276" parentId="85328850">SSD накопичувачі</category>
 <category id="97641439" parentId="85330301">LGA 1155</category>
+<category id="97641444" parentId="85330301">LGA 1156</category>
+<category id="85330301" parentId="85328850">Процесори</category>
+<category id="85364244" parentId="85328850">Материнські плати</category>
 <category id="97640686" parentId="85330301">LGA 1150</category>
+<category id="97640692" parentId="85330301">LGA 1151v1</category>
 <category id="97641434" parentId="85330301">LGA 1151v2</category>
 <category id="97641447" parentId="85330301">LGA 1200</category>
-<category id="107182575" parentId="85330301">Socket FM2+</category>
 <category id="103891356" parentId="85330301">LGA 1700</category>
 <category id="97641458" parentId="85330301">LGA 2011v1</category>
-<category id="97641530" parentId="85330301">Socket AM3</category>
 <category id="97641514" parentId="85330301">LGA 2011v3</category>
+<category id="97642378" parentId="85330301">Socket FM2</category>
+<category id="107182575" parentId="85330301">Socket FM2+</category>
+<category id="97641530" parentId="85330301">Socket AM3</category>
 <category id="97641533" parentId="85330301">Socket AM3+</category>
 <category id="131386275" parentId="85330301">Socket AM4</category>
-<category id="97642378" parentId="85330301">Socket FM2</category>
-<category id="85364276" parentId="85328850">SSD накопичувачі</category>
-<category id="85330301" parentId="85328850">Процесори</category>
+<category id="131386276" parentId="85330301">Socket AM5</category>
 </categories>
 <offers>
 <offer id="2045811636" available="true">
@@ -402,6 +424,17 @@
 <name>Повітряне охолодження Jiushark JF13K White ARGB (JF13K White ARGB)</name>
 <vendor>Deepcool</vendor>
 <vendorCode>JF13K White ARGB</vendorCode>
+<param name="Гарантийный срок" unit="мес">6</param>
+<param name="Диаметр вентилятора" unit="мм">120</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">1850</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Скольжения</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
 </offer>
 <offer id="2224537596" available="true">
 <url>https://tera-flops.com.ua/ua/p2224537596-povitryane-oholodzhennya-jiushark.html</url>
@@ -421,6 +454,13 @@
 <param name="Максимальный уровень шума" unit="дБ">30</param>
 <param name="Состояние">Новое</param>
 <param name="Тип подшипника">Скольжения</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Повітряний потік (CFM)" unit="">48</param>
+<param name="Разъемы" unit="">Socket AM5</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
 </offer>
 <offer id="2224537599" available="true">
 <url>https://tera-flops.com.ua/ua/p2224537599-povitryane-oholodzhennya-jiushark.html</url>
@@ -442,6 +482,14 @@
 <param name="Тип подшипника">Скольжения</param>
 <param name="Назначение">Для процессора</param>
 <param name="Колір підсвітки" unit="">RGB</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Повітряний потік (CFM)" unit="">48</param>
+<param name="Разъемы" unit="">Socket AM5</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Розсіювана потужність, Вт" unit="">180</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
 </offer>
 <offer id="2257623472" available="true" group_id="797078515">
 <url>https://tera-flops.com.ua/ua/p2257623472-zaryadna-stantsiya-bluetti.html</url>
@@ -512,8 +560,7 @@
 </offer>
 <offer id="2267140508" available="true">
 <url>https://tera-flops.com.ua/ua/p2267140508-universalna-mobilna-batareya.html</url>
-<oldprice>350</oldprice>
-<price>300</price>
+<price>399</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522645</categoryId>
 <picture>https://images.prom.ua/6024407388_universalna-mobilna-batareya.jpg</picture>
@@ -542,73 +589,6 @@
 <param name="Тип акумуляторів" unit="">Li-Pol</param>
 <param name="Функции" unit="">світильник</param>
 <param name="Час повної зарядки (год)" unit="">4</param>
-</offer>
-<offer id="2267140518" available="true">
-<url>https://tera-flops.com.ua/ua/p2267140518-universalna-mobilna-batareya.html</url>
-<oldprice>400</oldprice>
-<price>300</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522645</categoryId>
-<picture>https://images.prom.ua/6310905794_universalna-mobilna-batareya.jpg</picture>
-<picture>https://images.prom.ua/6310905795_universalna-mobilna-batareya.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Універсальна мобільна батарея TX-10 10000mAh, 2USB, Mix color, Box Black (TX-10/29362)</name>
-<vendor>Power Way</vendor>
-<vendorCode>TX-10/29362</vendorCode>
-<param name="Вес" unit="г">245</param>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
-<param name="Материал корпуса">Алюминий</param>
-<param name="Состояние">Новое</param>
-<param name="USB type С (потужність; напруга/струм)" unit="">10.5</param>
-<param name="USB-A (потужність; напруга/струм)" unit="">10.5</param>
-<param name="Ємність батареї (Вт*год)" unit="">37</param>
-<param name="Входи зарядки пристрою" unit="">USB type C</param>
-<param name="Кількість USB type C" unit="">2</param>
-<param name="Кількість USB-A" unit="">1</param>
-<param name="Макс. потужність (на 1 порт)" unit="">10.5</param>
-<param name="Потужність заряду пристрою (Вт)" unit="">10</param>
-<param name="Реальна ємність" unit="">6300</param>
-<param name="Розміри (мм)" unit="">145x69x27</param>
-<param name="Струм заряду по USB (A)" unit="">2</param>
-<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
-<param name="Тип акумуляторів" unit="">Li-Pol</param>
-<param name="Функции" unit="">світильник</param>
-<param name="Час повної зарядки (год)" unit="">4</param>
-</offer>
-<offer id="2267140536" available="true">
-<url>https://tera-flops.com.ua/ua/p2267140536-universalna-mobilna-batareya.html</url>
-<oldprice>400</oldprice>
-<price>350</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522645</categoryId>
-<picture>https://images.prom.ua/6024407462_universalna-mobilna-batareya.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Універсальна мобільна батарея Sinko Q5 (20000 mAh) USB Type-C White (Q5TC225)</name>
-<vendor>Sinko</vendor>
-<vendorCode>Q5TC225</vendorCode>
-<param name="Вес" unit="г">440</param>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Емкость аккумулятора" unit="мА/ч">20000</param>
-<param name="Материал корпуса">Пластик</param>
-<param name="Состояние">Новое</param>
-<param name="Розміри (мм)" unit="">145x69x27</param>
-<param name="Потужність заряду пристрою (Вт)" unit="">5</param>
-<param name="Ємність батареї (Вт*год)" unit="">74</param>
-<param name="USB-A (потужність; напруга/струм)" unit="">10.5</param>
-<param name="Входи зарядки пристрою" unit="">USB type C</param>
-<param name="Кількість USB-A" unit="">2</param>
-<param name="Функции" unit="">світильник</param>
-<param name="Струм заряду по USB (A)" unit="">2.1</param>
-<param name="USB type С (потужність; напруга/струм)" unit="">10.5</param>
-<param name="Кількість USB type C" unit="">1</param>
-<param name="Макс. потужність (на 1 порт)" unit="">10.5</param>
-<param name="Час повної зарядки (год)" unit="">4</param>
-<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
-<param name="Тип акумуляторів" unit="">Li-Pol</param>
-<param name="Реальна ємність" unit="">12600</param>
 </offer>
 <offer id="2280165356" available="true">
 <url>https://tera-flops.com.ua/ua/p2280165356-dbzh-njoy-renton.html</url>
@@ -640,72 +620,6 @@
 <param name="Тип корпуса" unit="">звичайний</param>
 <param name="Тип розеток" unit="">Тип F (Schuko)</param>
 <param name="Форма выходного напряжения" unit="">подібна до синусоїди (апроксимована)</param>
-</offer>
-<offer id="2288561697" available="true">
-<url>https://tera-flops.com.ua/ua/p2288561697-poverbank-remax-landon.html</url>
-<oldprice>390</oldprice>
-<price>300</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522645</categoryId>
-<picture>https://images.prom.ua/6099193823_poverbank-remax-landon.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Повербанк Remax Landon 10000 mAh RPP-295 Black (6954851208853)</name>
-<vendor>Remax</vendor>
-<vendorCode>6954851208853</vendorCode>
-<param name="Вес" unit="г">250</param>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
-<param name="Материал корпуса">Пластик</param>
-<param name="Состояние">Новое</param>
-<param name="Розміри (мм)" unit="">138x68.5x15.5</param>
-<param name="Потужність заряду пристрою (Вт)" unit="">5</param>
-<param name="Ємність батареї (Вт*год)" unit="">37</param>
-<param name="USB-A (потужність; напруга/струм)" unit="">10</param>
-<param name="Входи зарядки пристрою" unit="">USB type C</param>
-<param name="Кількість USB-A" unit="">1</param>
-<param name="Функции" unit="">світильник</param>
-<param name="Струм заряду по USB (A)" unit="">2.1</param>
-<param name="USB type С (потужність; напруга/струм)" unit="">10</param>
-<param name="Кількість USB type C" unit="">2</param>
-<param name="Макс. потужність (на 1 порт)" unit="">10</param>
-<param name="Час повної зарядки (год)" unit="">4</param>
-<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
-<param name="Тип акумуляторів" unit="">Li-Pol</param>
-<param name="Реальна ємність" unit="">6300</param>
-</offer>
-<offer id="2288561714" available="true">
-<url>https://tera-flops.com.ua/ua/p2288561714-poverbank-promate-torq.html</url>
-<oldprice>650</oldprice>
-<price>550</price>
-<currencyId>UAH</currencyId>
-<categoryId>132522645</categoryId>
-<picture>https://images.prom.ua/6099203861_poverbank-promate-torq-10.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Повербанк Promate Torq-10 10000mAh Black</name>
-<vendor>Promate</vendor>
-<vendorCode>torq-10.black</vendorCode>
-<param name="Вес" unit="г">236</param>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Емкость аккумулятора" unit="мА/ч">10000</param>
-<param name="Материал корпуса">Пластик</param>
-<param name="Состояние">Новое</param>
-<param name="Розміри (мм)" unit="">145х70х18</param>
-<param name="Потужність заряду пристрою (Вт)" unit="">20</param>
-<param name="Ємність батареї (Вт*год)" unit="">37</param>
-<param name="USB-A (потужність; напруга/струм)" unit="">18</param>
-<param name="Входи зарядки пристрою" unit="">USB type C</param>
-<param name="Кількість USB-A" unit="">1</param>
-<param name="Функции" unit="">інфо-дисплей</param>
-<param name="Струм заряду по USB (A)" unit="">3</param>
-<param name="USB type С (потужність; напруга/струм)" unit="">20</param>
-<param name="Кількість USB type C" unit="">1</param>
-<param name="Макс. потужність (на 1 порт)" unit="">20</param>
-<param name="Час повної зарядки (год)" unit="">5</param>
-<param name="Технології швидкої зарядки" unit="">Power Delivery 3.0</param>
-<param name="Тип акумуляторів" unit="">Li-Pol</param>
-<param name="Реальна ємність" unit="">6300</param>
 </offer>
 <offer id="2308816717" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816717-korpus-gamemax-diamond.html</url>
@@ -751,9 +665,8 @@
 <price>1149</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/4660677652_korpus-vinga-vision.jpg</picture>
-<picture>https://images.prom.ua/6174970553_korpus-vinga-vision.jpg</picture>
-<picture>https://images.prom.ua/6224341376_korpus-vinga-vision.jpg</picture>
+<picture>https://images.prom.ua/6539618082_korpus-vinga-vision.jpg</picture>
+<picture>https://images.prom.ua/6539618083_korpus-vinga-vision.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус Vinga Vision II (Vision II)</name>
@@ -766,9 +679,13 @@
 <param name="Слоты расширения" unit="шт">7</param>
 <param name="Состояние">Новое</param>
 <param name="Типоразмер">Midi-Tower</param>
+<param name="Форм-фактор">ATX</param>
 <param name="Цвет корпуса">Черный</param>
+<param name="USB 2.0" unit="">2</param>
+<param name="USB 3.2" unit="">1</param>
 <param name="Блок питания" unit="">Нет</param>
 <param name="Вес (кг)" unit="">2,8</param>
+<param name="Вбудовані вентилятори/розташування" unit="">1</param>
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">450 x 200 x 383</param>
@@ -777,11 +694,10 @@
 <param name="Максимальна висота процесорного кулера (мм)" unit="">160</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">330</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">передня панель/3x120 мм, верхня панель/2x 120 мм, задня панель/1x120 мм</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">6</param>
 <param name="Особенности" unit="">Пилові фільтри</param>
 <param name="Передняя панель" unit="">Пластик</param>
 <param name="Расположение" unit="">Нижнє</param>
-<param name="Форм-фактор" unit="">microATX</param>
 </offer>
 <offer id="2308816809" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816809-korpus-fractal-design.html</url>
@@ -832,13 +748,13 @@
 <price>4149</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6238222873_korpus-fractal-design.jpg</picture>
 <picture>https://images.prom.ua/6175134498_korpus-fractal-design.jpg</picture>
 <picture>https://images.prom.ua/6224372289_korpus-fractal-design.jpg</picture>
 <picture>https://images.prom.ua/6175134501_korpus-fractal-design.jpg</picture>
 <picture>https://images.prom.ua/6224372290_korpus-fractal-design.jpg</picture>
 <picture>https://images.prom.ua/6224372291_korpus-fractal-design.jpg</picture>
 <picture>https://images.prom.ua/6224372292_korpus-fractal-design.jpg</picture>
+<picture>https://images.prom.ua/6238222873_korpus-fractal-design.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус Fractal Design Define Nano S (FD-CA-DEF-NANO-S-BK-W)</name>
@@ -886,6 +802,7 @@
 <param name="Слоты расширения" unit="шт">7</param>
 <param name="Состояние">Новое</param>
 <param name="Типоразмер">Midi-Tower</param>
+<param name="Форм-фактор">microATX</param>
 <param name="Цвет корпуса">Черный</param>
 <param name="USB 2.0" unit="">2</param>
 <param name="USB 3.2" unit="">1</param>
@@ -901,27 +818,20 @@
 <param name="Назначение" unit="">Офісний</param>
 <param name="Передняя панель" unit="">Гратчаста</param>
 <param name="Расположение" unit="">Верхнє</param>
-<param name="Форм-фактор" unit="">microATX</param>
 </offer>
 <offer id="2308816831" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816831-korpus-fractal-design.html</url>
 <price>5269</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6238222883_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6224372328_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6224372330_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6175134586_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6175134589_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6175134593_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6224372335_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6224372337_korpus-fractal-design.jpg</picture>
+<picture>https://images.prom.ua/6539631348_korpus-fractal-design.jpg</picture>
+<picture>https://images.prom.ua/6539631349_korpus-fractal-design.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус Fractal Design Define C (FD-CA-DEF-C-BK)</name>
 <vendor>Fractal Design</vendor>
 <vendorCode>FD-CA-DEF-C-BK</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Слоты расширения" unit="шт">7</param>
@@ -932,16 +842,18 @@
 <param name="USB 3.2" unit="">2</param>
 <param name="Блок питания" unit="">Нет</param>
 <param name="Вес (кг)" unit="">7,4</param>
-<param name="Вбудовані вентилятори/розташування" unit="">передня панель 1x120 мм, задня панель 1x120 мм</param>
+<param name="Вбудовані вентилятори/розташування" unit="">2</param>
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">210x413x453</param>
+<param name="Картрідер" unit="">Немає</param>
 <param name="Кількість 2,5 відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">170</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">315</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">передня панель 3x120 / 140 мм, задня панель 1x120 мм, верхня панель 2x120 / 140 мм, нижня панель 1x120 мм</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">7</param>
 <param name="Назначение" unit="">Офісний</param>
+<param name="Особенности" unit="">Пилові фільтри</param>
 <param name="Передняя панель" unit="">Сталь</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
@@ -968,6 +880,7 @@
 <param name="Слоты расширения" unit="шт">5</param>
 <param name="Состояние">Новое</param>
 <param name="Типоразмер">Mini (Micro)-Tower</param>
+<param name="Форм-фактор">microATX</param>
 <param name="Цвет корпуса">Черный</param>
 <param name="USB 3.2" unit="">2</param>
 <param name="Блок питания" unit="">Нет</param>
@@ -985,40 +898,46 @@
 <param name="Особенности" unit="">Пилові фільтри</param>
 <param name="Передняя панель" unit="">Сталь</param>
 <param name="Расположение" unit="">Нижнє</param>
-<param name="Форм-фактор" unit="">microATX</param>
 </offer>
 <offer id="2308816842" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816842-korpus-gamemax-209.html</url>
 <price>1579</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6175190433_korpus-gamemax-et-209.jpg</picture>
-<picture>https://images.prom.ua/6175190437_korpus-gamemax-et-209.jpg</picture>
-<picture>https://images.prom.ua/6224372370_korpus-gamemax-et-209.jpg</picture>
+<picture>https://images.prom.ua/6539631502_korpus-gamemax-et-209.jpg</picture>
+<picture>https://images.prom.ua/6539631503_korpus-gamemax-et-209.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус GAMEMAX ET-209 450W Black (ET-209-450)</name>
 <vendor>Gamemax</vendor>
 <vendorCode>ET-209-450</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Количество внутренних отсеков 3,5">3</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Рабочая станция</param>
 <param name="Слоты расширения" unit="шт">7</param>
 <param name="Состояние">Новое</param>
 <param name="Типоразмер">Midi-Tower</param>
+<param name="Форм-фактор">ATX</param>
 <param name="Цвет корпуса">Черный</param>
 <param name="USB 2.0" unit="">2</param>
 <param name="Блок питания" unit="">450W</param>
 <param name="Вес (кг)" unit="">3,45</param>
+<param name="Вбудовані вентилятори/розташування" unit="">1</param>
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">405 x 330 x 175</param>
+<param name="Картрідер" unit="">Немає</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
+<param name="Максимальна висота процесорного кулера (мм)" unit="">148</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
+<param name="Можливість встановлення довгих відеокарт (мм)" unit="">230</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">3</param>
+<param name="Особенности" unit="">Пилові фільтри</param>
 <param name="Передняя панель" unit="">Сталь</param>
 <param name="Расположение" unit="">Верхнє</param>
-<param name="Форм-фактор" unit="">microATX</param>
 </offer>
-<offer id="2308816872" available="true">
+<offer id="2308816872" available="false">
 <url>https://tera-flops.com.ua/ua/p2308816872-korpus-fractal-design.html</url>
 <price>7339</price>
 <currencyId>UAH</currencyId>
@@ -1144,53 +1063,47 @@
 <price>4309</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6175191124_korpus-gamemax-silent.jpg</picture>
-<picture>https://images.prom.ua/6175191125_korpus-gamemax-silent.jpg</picture>
-<picture>https://images.prom.ua/6224392834_korpus-gamemax-silent.jpg</picture>
+<picture>https://images.prom.ua/6539631506_korpus-gamemax-silent.jpg</picture>
+<picture>https://images.prom.ua/6539631507_korpus-gamemax-silent.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус GAMEMAX Silent Max M903 (Silent Max M903)</name>
 <vendor>Gamemax</vendor>
 <vendorCode>Silent Max M903</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5">8</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">8</param>
 <param name="Состояние">Новое</param>
 <param name="Типоразмер">Full-Tower</param>
-<param name="Форм-фактор">Mini-ITX</param>
 <param name="Цвет корпуса">Черный</param>
+<param name="Форм-фактор">ATX</param>
 <param name="USB 2.0" unit="">2</param>
 <param name="USB 3.2" unit="">2</param>
 <param name="Блок питания" unit="">Нет</param>
 <param name="Вес (кг)" unit="">10,6</param>
-<param name="Вбудовані вентилятори/розташування" unit="">передня панель / 2 х 120 мм, задня панель / 1 х 120 мм</param>
+<param name="Вбудовані вентилятори/розташування" unit="">6</param>
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">527х512х210</param>
+<param name="Картрідер" unit="">Немає</param>
 <param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">165</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">450</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">верхня панель / 2 х 120 мм, нижня панель / 1 х 120 мм</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">6</param>
 <param name="Особенности" unit="">Шумоізоляція</param>
 <param name="Передняя панель" unit="">Алюміній</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2308816884" available="true">
+<offer id="2308816884" available="false">
 <url>https://tera-flops.com.ua/ua/p2308816884-korpus-fractal-design.html</url>
 <price>10679</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6175191218_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6175191222_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6175191225_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6224399812_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6175191230_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6224399815_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6224399816_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6175191238_korpus-fractal-design.jpg</picture>
+<picture>https://images.prom.ua/6539631508_korpus-fractal-design.jpg</picture>
+<picture>https://images.prom.ua/6539631509_korpus-fractal-design.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус Fractal Design Define 7 Black TG Dark Tint (FD-C-DEF7A-03)</name>
@@ -1203,27 +1116,28 @@
 <param name="Слоты расширения" unit="шт">9</param>
 <param name="Состояние">Новое</param>
 <param name="Типоразмер">Midi-Tower</param>
-<param name="Форм-фактор">Mini-ITX</param>
 <param name="Цвет корпуса">Черный</param>
+<param name="Форм-фактор">ATX</param>
 <param name="USB 2.0" unit="">2</param>
 <param name="USB 3.2" unit="">2</param>
 <param name="USB Type-C" unit="">1</param>
 <param name="Блок питания" unit="">Нет</param>
 <param name="Вес (кг)" unit="">13,45</param>
-<param name="Вбудовані вентилятори/розташування" unit="">2x140 мм / на передній панелі, 1х140 мм / позаду</param>
+<param name="Вбудовані вентилятори/розташування" unit="">3</param>
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">547x240x475</param>
+<param name="Картрідер" unit="">Немає</param>
 <param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">185</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">315</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">3х120 / 140 мм / передня панель, 3х120 / 140 мм / верхня панель, 2х120 / 140 мм / нижня панель, 1х120 / 140 мм / позаду</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">9</param>
 <param name="Особенности" unit="">Контроллер вентиляторів</param>
 <param name="Передняя панель" unit="">Сталь</param>
 <param name="Расположение" unit="">Верхнє</param>
 </offer>
-<offer id="2308816885" available="true">
+<offer id="2308816885" available="false">
 <url>https://tera-flops.com.ua/ua/p2308816885-korpus-fractal-design.html</url>
 <price>10729</price>
 <currencyId>UAH</currencyId>
@@ -1268,7 +1182,7 @@
 <param name="Передняя панель" unit="">Сталь</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2308816886" available="true">
+<offer id="2308816886" available="false">
 <url>https://tera-flops.com.ua/ua/p2308816886-korpus-fractal-design.html</url>
 <price>10169</price>
 <currencyId>UAH</currencyId>
@@ -1307,18 +1221,18 @@
 <param name="Передняя панель" unit="">Сталь</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2308816888" available="true">
+<offer id="2308816888" available="false">
 <url>https://tera-flops.com.ua/ua/p2308816888-korpus-fractal-design.html</url>
 <price>10069</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6238226543_korpus-fractal-design.jpg</picture>
+<picture>https://images.prom.ua/6175191303_korpus-fractal-design.jpg</picture>
+<picture>https://images.prom.ua/6175191306_korpus-fractal-design.jpg</picture>
 <picture>https://images.prom.ua/6238226546_korpus-fractal-design.jpg</picture>
 <picture>https://images.prom.ua/6238226548_korpus-fractal-design.jpg</picture>
 <picture>https://images.prom.ua/6238226550_korpus-fractal-design.jpg</picture>
 <picture>https://images.prom.ua/6238226551_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6175191303_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6175191306_korpus-fractal-design.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус Fractal Design Define 7 White Solid (FD-C-DEF7A-09)</name>
@@ -1349,7 +1263,7 @@
 <param name="Передняя панель" unit="">Алюміній</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2308816889" available="true">
+<offer id="2308816889" available="false">
 <url>https://tera-flops.com.ua/ua/p2308816889-korpus-fractal-design.html</url>
 <price>13359</price>
 <currencyId>UAH</currencyId>
@@ -1371,7 +1285,6 @@
 <vendorCode>FD-C-DEF7X-02</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5">8</param>
-<param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Состояние">Новое</param>
 <param name="Типоразмер">Full-Tower</param>
@@ -1395,7 +1308,7 @@
 <param name="Расположение" unit="">Нижнє</param>
 <param name="Слоты расширения" unit="шт.">12</param>
 </offer>
-<offer id="2308816898" available="true">
+<offer id="2308816898" available="false">
 <url>https://tera-flops.com.ua/ua/p2308816898-korpus-fractal-design.html</url>
 <price>10379</price>
 <currencyId>UAH</currencyId>
@@ -1443,36 +1356,36 @@
 <price>2089</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6175191509_korpus-gamemax-g509.jpg</picture>
-<picture>https://images.prom.ua/6175191510_korpus-gamemax-g509.jpg</picture>
-<picture>https://images.prom.ua/6175191512_korpus-gamemax-g509.jpg</picture>
+<picture>https://images.prom.ua/6539631514_korpus-gamemax-g509.jpg</picture>
+<picture>https://images.prom.ua/6539631515_korpus-gamemax-g509.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус GAMEMAX G509 Starlight FRGB Black (StarLight B-FRGB)</name>
 <vendor>Gamemax</vendor>
 <vendorCode>StarLight B-FRGB</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
 <param name="Состояние">Новое</param>
 <param name="Типоразмер">Midi-Tower</param>
-<param name="Форм-фактор">Mini-ITX</param>
+<param name="Форм-фактор">ATX</param>
 <param name="Цвет корпуса">Черный</param>
 <param name="USB 2.0" unit="">2</param>
 <param name="USB 3.2" unit="">1</param>
 <param name="Блок питания" unit="">Нет</param>
 <param name="Вес (кг)" unit="">4,7</param>
-<param name="Вбудовані вентилятори/розташування" unit="">3х120 мм ARGB / передня панель, 1х120 мм ARGB / задня панель</param>
+<param name="Вбудовані вентилятори/розташування" unit="">4</param>
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">462х206х503</param>
+<param name="Картрідер" unit="">Немає</param>
 <param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">170</param>
 <param name="Матеріал боковини" unit="">Акрил</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">360</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">3х120 мм / передня панель, 2х120 мм / верхня панель, 2х120 мм / нижня панель</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">8</param>
 <param name="Особенности" unit="">ARGB підсвічування</param>
 <param name="Передняя панель" unit="">Акрил</param>
 <param name="Расположение" unit="">Нижнє</param>
@@ -1600,38 +1513,40 @@
 <price>5009</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6175239245_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6175239250_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6175239255_korpus-fractal-design.jpg</picture>
+<picture>https://images.prom.ua/6539631522_korpus-fractal-design.jpg</picture>
+<picture>https://images.prom.ua/6539631523_korpus-fractal-design.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус Fractal Design Focus 2 RGB Black (FD-C-FOC2A-03)</name>
 <vendor>Fractal Design</vendor>
 <vendorCode>FD-C-FOC2A-03</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
 <param name="Состояние">Новое</param>
 <param name="Типоразмер">Midi-Tower</param>
-<param name="Форм-фактор">Mini-ITX</param>
+<param name="Форм-фактор">ATX</param>
 <param name="Цвет корпуса">Черный</param>
+<param name="USB 3.2" unit="">2</param>
 <param name="Блок питания" unit="">Нет</param>
 <param name="Вес (кг)" unit="">6,4</param>
-<param name="Вбудовані вентилятори/розташування" unit="">передня панель / 2 х 140 мм</param>
+<param name="Вбудовані вентилятори/розташування" unit="">2</param>
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">215x451x472</param>
+<param name="Картрідер" unit="">Немає</param>
 <param name="Кількість 2,5 відсіків" unit="">4</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">170</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">405</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">ззаду / 1 х 120 мм, верхня панель / 2 х 120/140 мм</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">6</param>
+<param name="Особенности" unit="">вентилятор з підсвічуванням</param>
 <param name="Передняя панель" unit="">Сталь</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2308816939" available="true">
+<offer id="2308816939" available="false">
 <url>https://tera-flops.com.ua/ua/p2308816939-korpus-fractal-design.html</url>
 <price>8609</price>
 <currencyId>UAH</currencyId>
@@ -1670,7 +1585,7 @@
 <param name="Расположение" unit="">Нижнє</param>
 <param name="Форм-фактор" unit="">E-ATX</param>
 </offer>
-<offer id="2308816945" available="true">
+<offer id="2308816945" available="false">
 <url>https://tera-flops.com.ua/ua/p2308816945-korpus-fractal-design.html</url>
 <price>5979</price>
 <currencyId>UAH</currencyId>
@@ -1748,7 +1663,7 @@
 <param name="Передняя панель" unit="">Гратчаста</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2308816947" available="true">
+<offer id="2308816947" available="false">
 <url>https://tera-flops.com.ua/ua/p2308816947-korpus-fractal-design.html</url>
 <price>5979</price>
 <currencyId>UAH</currencyId>
@@ -1786,7 +1701,7 @@
 <param name="Передняя панель" unit="">Гратчаста</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2308816951" available="true">
+<offer id="2308816951" available="false">
 <url>https://tera-flops.com.ua/ua/p2308816951-korpus-fractal-design.html</url>
 <price>5979</price>
 <currencyId>UAH</currencyId>
@@ -1910,17 +1825,17 @@
 <param name="Передняя панель" unit="">Суцільна</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2308816961" available="true">
+<offer id="2308816961" available="false">
 <url>https://tera-flops.com.ua/ua/p2308816961-korpus-fractal-design.html</url>
 <price>7139</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6238226694_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6238226697_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6238226699_korpus-fractal-design.jpg</picture>
 <picture>https://images.prom.ua/6175239883_korpus-fractal-design.jpg</picture>
 <picture>https://images.prom.ua/6175239890_korpus-fractal-design.jpg</picture>
 <picture>https://images.prom.ua/6175239896_korpus-fractal-design.jpg</picture>
+<picture>https://images.prom.ua/6238226694_korpus-fractal-design.jpg</picture>
+<picture>https://images.prom.ua/6238226697_korpus-fractal-design.jpg</picture>
+<picture>https://images.prom.ua/6238226699_korpus-fractal-design.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус Fractal Design Pop XL Air RGB White TG (FD-C-POR1X-01)</name>
@@ -1951,7 +1866,7 @@
 <param name="Передняя панель" unit="">Гратчаста</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2308816963" available="true">
+<offer id="2308816963" available="false">
 <url>https://tera-flops.com.ua/ua/p2308816963-korpus-fractal-design.html</url>
 <price>6889</price>
 <currencyId>UAH</currencyId>
@@ -1991,7 +1906,7 @@
 <param name="Передняя панель" unit="">Сталь</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2308816964" available="true">
+<offer id="2308816964" available="false">
 <url>https://tera-flops.com.ua/ua/p2308816964-korpus-fractal-design.html</url>
 <price>6889</price>
 <currencyId>UAH</currencyId>
@@ -2032,7 +1947,7 @@
 <param name="Передняя панель" unit="">Сталь</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2308816966" available="true">
+<offer id="2308816966" available="false">
 <url>https://tera-flops.com.ua/ua/p2308816966-korpus-fractal-design.html</url>
 <price>7339</price>
 <currencyId>UAH</currencyId>
@@ -2075,13 +1990,12 @@
 <param name="Передняя панель" unit="">Сталь</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2308816967" available="true">
+<offer id="2308816967" available="false">
 <url>https://tera-flops.com.ua/ua/p2308816967-korpus-fractal-design.html</url>
 <price>7339</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6238226719_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6238226721_korpus-fractal-design.jpg</picture>
 <picture>https://images.prom.ua/6224427703_korpus-fractal-design.jpg</picture>
 <picture>https://images.prom.ua/6175240023_korpus-fractal-design.jpg</picture>
 <picture>https://images.prom.ua/6175240025_korpus-fractal-design.jpg</picture>
@@ -2089,6 +2003,7 @@
 <picture>https://images.prom.ua/6175240030_korpus-fractal-design.jpg</picture>
 <picture>https://images.prom.ua/6224427705_korpus-fractal-design.jpg</picture>
 <picture>https://images.prom.ua/6224427712_korpus-fractal-design.jpg</picture>
+<picture>https://images.prom.ua/6238226721_korpus-fractal-design.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус Fractal Design Define 7 Mini TG Black Light Tint (FD-C-DEF7M-02)</name>
@@ -2121,7 +2036,7 @@
 <param name="Передняя панель" unit="">Сталь</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2308817639" available="true">
+<offer id="2308817639" available="false">
 <url>https://tera-flops.com.ua/ua/p2308817639-korpus-fractal-design.html</url>
 <price>9819</price>
 <currencyId>UAH</currencyId>
@@ -2166,7 +2081,7 @@
 <param name="Расположение" unit="">Верхнє</param>
 <param name="Форм-фактор" unit="">E-ATX</param>
 </offer>
-<offer id="2308817651" available="true">
+<offer id="2308817651" available="false">
 <url>https://tera-flops.com.ua/ua/p2308817651-korpus-fractal-design.html</url>
 <price>7409</price>
 <currencyId>UAH</currencyId>
@@ -2209,20 +2124,20 @@
 <param name="Передняя панель" unit="">Сталь</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2308817655" available="true">
+<offer id="2308817655" available="false">
 <url>https://tera-flops.com.ua/ua/p2308817655-korpus-fractal-design.html</url>
 <price>6309</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6347693614_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6238228484_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6238228483_korpus-fractal-design.jpg</picture>
 <picture>https://images.prom.ua/6175240184_korpus-fractal-design.jpg</picture>
 <picture>https://images.prom.ua/6175240185_korpus-fractal-design.jpg</picture>
 <picture>https://images.prom.ua/6175240190_korpus-fractal-design.jpg</picture>
 <picture>https://images.prom.ua/6175240179_korpus-fractal-design.jpg</picture>
 <picture>https://images.prom.ua/6175240194_korpus-fractal-design.jpg</picture>
 <picture>https://images.prom.ua/6175240196_korpus-fractal-design.jpg</picture>
+<picture>https://images.prom.ua/6238228484_korpus-fractal-design.jpg</picture>
+<picture>https://images.prom.ua/6238228483_korpus-fractal-design.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус Fractal Design Define 7 Nano Black TG Light Tint (FD-C-DEF7N-02)</name>
@@ -2253,7 +2168,7 @@
 <param name="Передняя панель" unit="">Сталь</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2308817656" available="true">
+<offer id="2308817656" available="false">
 <url>https://tera-flops.com.ua/ua/p2308817656-korpus-fractal-design.html</url>
 <price>9849</price>
 <currencyId>UAH</currencyId>
@@ -2290,7 +2205,7 @@
 <param name="Передняя панель" unit="">Гратчаста</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2308817660" available="true">
+<offer id="2308817660" available="false">
 <url>https://tera-flops.com.ua/ua/p2308817660-korpus-fractal-design.html</url>
 <price>6459</price>
 <currencyId>UAH</currencyId>
@@ -2403,7 +2318,7 @@
 <param name="Передняя панель" unit="">Пластик</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2308817677" available="true">
+<offer id="2308817677" available="false">
 <url>https://tera-flops.com.ua/ua/p2308817677-korpus-fractal-design.html</url>
 <price>8699</price>
 <currencyId>UAH</currencyId>
@@ -2476,40 +2391,41 @@
 <price>2459</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6224427907_korpus-gamemax-dark.jpg</picture>
-<picture>https://images.prom.ua/6175241091_korpus-gamemax-dark.jpg</picture>
-<picture>https://images.prom.ua/6175241094_korpus-gamemax-dark.jpg</picture>
+<picture>https://images.prom.ua/6539632058_korpus-gamemax-dark.jpg</picture>
+<picture>https://images.prom.ua/6539632061_korpus-gamemax-dark.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус GAMEMAX Dark Silent Black (Dark Silent)</name>
 <vendor>Gamemax</vendor>
 <vendorCode>Dark Silent</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5">4</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Рабочая станция</param>
 <param name="Слоты расширения" unit="шт">7</param>
 <param name="Состояние">Новое</param>
 <param name="Типоразмер">Midi-Tower</param>
-<param name="Форм-фактор">Mini-ITX</param>
+<param name="Форм-фактор">ATX</param>
 <param name="Цвет корпуса">Черный</param>
 <param name="USB 2.0" unit="">1</param>
 <param name="USB 3.2" unit="">1</param>
 <param name="Блок питания" unit="">Нет</param>
 <param name="Вес (кг)" unit="">4,7</param>
-<param name="Вбудовані вентилятори/розташування" unit="">передня панель 2 х 120 мм, верхня панель 2 х 120 мм, задня панель 1 х 120 мм</param>
+<param name="Вбудовані вентилятори/розташування" unit="">5</param>
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">458 x 205 x 476</param>
+<param name="Картрідер" unit="">Немає</param>
 <param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">158</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">380</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">передня панель 2 х 120 мм, верхня панель 2 х 120 мм, задня панель 1 х 120 мм</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">5</param>
+<param name="Особенности" unit="">Вертикальна установка відеокарти</param>
 <param name="Передняя панель" unit="">Сталь</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2308817699" available="true">
+<offer id="2308817699" available="false">
 <url>https://tera-flops.com.ua/ua/p2308817699-korpus-fractal-design.html</url>
 <price>8049</price>
 <currencyId>UAH</currencyId>
@@ -2553,7 +2469,7 @@
 <param name="Передняя панель" unit="">Сталь</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2308817700" available="true">
+<offer id="2308817700" available="false">
 <url>https://tera-flops.com.ua/ua/p2308817700-korpus-fractal-design.html</url>
 <price>8049</price>
 <currencyId>UAH</currencyId>
@@ -2595,7 +2511,7 @@
 <param name="Передняя панель" unit="">Сталь</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2308817701" available="true">
+<offer id="2308817701" available="false">
 <url>https://tera-flops.com.ua/ua/p2308817701-korpus-fractal-design.html</url>
 <price>8049</price>
 <currencyId>UAH</currencyId>
@@ -2639,7 +2555,7 @@
 <param name="Передняя панель" unit="">Гратчаста</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2308817703" available="true">
+<offer id="2308817703" available="false">
 <url>https://tera-flops.com.ua/ua/p2308817703-korpus-fractal-design.html</url>
 <price>9719</price>
 <currencyId>UAH</currencyId>
@@ -2678,7 +2594,7 @@
 <param name="Передняя панель" unit="">Гратчаста</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2308817704" available="true">
+<offer id="2308817704" available="false">
 <url>https://tera-flops.com.ua/ua/p2308817704-korpus-fractal-design.html</url>
 <price>9719</price>
 <currencyId>UAH</currencyId>
@@ -2736,6 +2652,7 @@
 <vendorCode>CS210B</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5">2</param>
+<param name="Материал корпуса">Металл</param>
 <param name="Назначение">Рабочая станция</param>
 <param name="Слоты расширения" unit="шт">7</param>
 <param name="Состояние">Новое</param>
@@ -2751,7 +2668,6 @@
 <param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">166</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
-<param name="Материал корпуса" unit="">Металл</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">370</param>
 <param name="Місця під додаткові вентилятори/розташування" unit="">2х120мм / на передній панелі, 2 / 120мм / на бічній панелі, 1х120мм / на задній панелі</param>
 <param name="Передняя панель" unit="">Пластик</param>
@@ -2762,9 +2678,8 @@
 <price>2769</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6174970660_korpus-vinga-cobalt.jpg</picture>
-<picture>https://images.prom.ua/6174970661_korpus-vinga-cobalt.jpg</picture>
-<picture>https://images.prom.ua/6174970662_korpus-vinga-cobalt.jpg</picture>
+<picture>https://images.prom.ua/6539619605_korpus-vinga-cobalt.jpg</picture>
+<picture>https://images.prom.ua/6539619607_korpus-vinga-cobalt.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус Vinga Cobalt (Cobalt)</name>
@@ -2772,6 +2687,7 @@
 <vendorCode>Cobalt</vendorCode>
 <param name="Гарантийный срок" unit="мес">24</param>
 <param name="Количество внутренних отсеков 3,5">3</param>
+<param name="Материал корпуса">Металл</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">8</param>
 <param name="Состояние">Новое</param>
@@ -2780,16 +2696,19 @@
 <param name="Цвет корпуса">Черный</param>
 <param name="USB 2.0" unit="">2</param>
 <param name="USB 3.2" unit="">1</param>
-<param name="Вбудовані вентилятори/розташування" unit="">1х120мм/</param>
+<param name="Блок питания" unit="">Нет</param>
+<param name="Вес (кг)" unit="">2.5</param>
+<param name="Вбудовані вентилятори/розташування" unit="">1</param>
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">540 х 231 х 521</param>
+<param name="Картрідер" unit="">Немає</param>
 <param name="Кількість 2,5 відсіків" unit="">5</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">180</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
-<param name="Материал корпуса" unit="">Металл</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">440</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">2х120мм / 140мм / на передній панелі</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">6</param>
+<param name="Особенности" unit="">Пилові фільтри</param>
 <param name="Передняя панель" unit="">Гратчаста</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
@@ -2835,16 +2754,8 @@
 <price>1819</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6175240875_korpus-aerocool-zauron.jpg</picture>
-<picture>https://images.prom.ua/6175240887_korpus-aerocool-zauron.jpg</picture>
-<picture>https://images.prom.ua/6175240890_korpus-aerocool-zauron.jpg</picture>
-<picture>https://images.prom.ua/6175240891_korpus-aerocool-zauron.jpg</picture>
-<picture>https://images.prom.ua/6175240894_korpus-aerocool-zauron.jpg</picture>
-<picture>https://images.prom.ua/6175240896_korpus-aerocool-zauron.jpg</picture>
-<picture>https://images.prom.ua/6175240900_korpus-aerocool-zauron.jpg</picture>
-<picture>https://images.prom.ua/6175240903_korpus-aerocool-zauron.jpg</picture>
-<picture>https://images.prom.ua/6238228532_korpus-aerocool-zauron.jpg</picture>
-<picture>https://images.prom.ua/6238228533_korpus-aerocool-zauron.jpg</picture>
+<picture>https://images.prom.ua/6539631722_korpus-aerocool-zauron.jpg</picture>
+<picture>https://images.prom.ua/6539631723_korpus-aerocool-zauron.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус AeroCool Zauron Saturn FRGB-G-BK-v2 (ACCM-PV23023.11)</name>
@@ -2857,12 +2768,12 @@
 <param name="Слоты расширения" unit="шт">7</param>
 <param name="Состояние">Новое</param>
 <param name="Типоразмер">Midi-Tower</param>
-<param name="Форм-фактор">Mini-ITX</param>
+<param name="Форм-фактор">ATX</param>
 <param name="Цвет корпуса">Черный</param>
 <param name="USB 3.2" unit="">2</param>
 <param name="Блок питания" unit="">Нет</param>
 <param name="Вес (кг)" unit="">4,5</param>
-<param name="Вбудовані вентилятори/розташування" unit="">передня панель/1x120 мм FRGB, задня панель/1x120 мм FRGB</param>
+<param name="Вбудовані вентилятори/розташування" unit="">2</param>
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">217.7 x 445 x 409</param>
@@ -2871,8 +2782,43 @@
 <param name="Максимальна висота процесорного кулера (мм)" unit="">166</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">325</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">передня панель / 3x120 або 2x140 мм, верхня панель / 2x120 мм</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">6</param>
 <param name="Особенности" unit="">Пилові фільтри</param>
+<param name="Передняя панель" unit="">Гратчаста</param>
+<param name="Расположение" unit="">Нижнє</param>
+</offer>
+<offer id="2308818791" available="true">
+<url>https://tera-flops.com.ua/ua/p2308818791-korpus-vinga-darklight.html</url>
+<price>2299</price>
+<currencyId>UAH</currencyId>
+<categoryId>85364282</categoryId>
+<picture>https://images.prom.ua/6175293831_korpus-vinga-darklight.jpg</picture>
+<picture>https://images.prom.ua/6175293833_korpus-vinga-darklight.jpg</picture>
+<picture>https://images.prom.ua/6175293834_korpus-vinga-darklight.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Корпус Vinga Darklight (Darklight)</name>
+<vendor>Vinga</vendor>
+<vendorCode>Darklight</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
+<param name="Материал корпуса">Сталь</param>
+<param name="Назначение">Игровой</param>
+<param name="Слоты расширения" unit="шт">7</param>
+<param name="Состояние">Новое</param>
+<param name="Типоразмер">Midi-Tower</param>
+<param name="Форм-фактор">Mini-ITX</param>
+<param name="Цвет корпуса">Черный</param>
+<param name="Блок питания" unit="">Нет</param>
+<param name="Выход на наушники" unit="">Є</param>
+<param name="Вхід для мікрофона" unit="">Є</param>
+<param name="Габариты (мм)" unit="">230 х 470 х 430</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
+<param name="Максимальна висота процесорного кулера (мм)" unit="">175</param>
+<param name="Матеріал боковини" unit="">Загартоване скло</param>
+<param name="Можливість встановлення довгих відеокарт (мм)" unit="">400</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">верхня панель/3x120/140 мм, передня панель/3x120/140 мм, задня панель/1x120 мм</param>
+<param name="Особенности" unit="">Загартоване скло</param>
 <param name="Передняя панель" unit="">Гратчаста</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
@@ -2881,9 +2827,8 @@
 <price>1989</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6175293836_korpus-vinga-astra.jpg</picture>
-<picture>https://images.prom.ua/6224458420_korpus-vinga-astra.jpg</picture>
-<picture>https://images.prom.ua/6224457515_korpus-vinga-astra.jpg</picture>
+<picture>https://images.prom.ua/6539634992_korpus-vinga-astra.jpg</picture>
+<picture>https://images.prom.ua/6539634994_korpus-vinga-astra.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус Vinga Astra (Astra)</name>
@@ -2896,19 +2841,22 @@
 <param name="Слоты расширения" unit="шт">4</param>
 <param name="Состояние">Новое</param>
 <param name="Типоразмер">Mini (Micro)-Tower</param>
-<param name="Форм-фактор">Mini-ITX</param>
+<param name="Форм-фактор">microATX</param>
 <param name="Цвет корпуса">Черный</param>
 <param name="USB 2.0" unit="">1</param>
 <param name="USB 3.2" unit="">1</param>
 <param name="Блок питания" unit="">Нет</param>
+<param name="Вес (кг)" unit="">3</param>
+<param name="Вбудовані вентилятори/розташування" unit="">1</param>
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">280 x 377 x 415</param>
+<param name="Картрідер" unit="">Немає</param>
 <param name="Кількість 2,5 відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">157</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">400</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">збоку / 2x120 мм, верхня панель / 3x120 мм, нижня панель / 3x120 мм, задня панель / 1x120 мм</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">9</param>
 <param name="Особенности" unit="">Загартоване скло</param>
 <param name="Передняя панель" unit="">Загартоване скло</param>
 <param name="Расположение" unit="">Нижнє</param>
@@ -2918,9 +2866,8 @@
 <price>2649</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6175327833_korpus-deepcool-cc360.jpg</picture>
-<picture>https://images.prom.ua/6175327841_korpus-deepcool-cc360.jpg</picture>
-<picture>https://images.prom.ua/6175327847_korpus-deepcool-cc360.jpg</picture>
+<picture>https://images.prom.ua/6539638681_korpus-deepcool-cc360.jpg</picture>
+<picture>https://images.prom.ua/6539638683_korpus-deepcool-cc360.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус Deepcool CC360 WH ARGB (R-CC360-WHAPM3-G-1)</name>
@@ -2933,21 +2880,22 @@
 <param name="Слоты расширения" unit="шт">4</param>
 <param name="Состояние">Новое</param>
 <param name="Типоразмер">Mini (Micro)-Tower</param>
-<param name="Форм-фактор">Mini-ITX</param>
+<param name="Форм-фактор">microATX</param>
 <param name="Цвет корпуса">Белый</param>
 <param name="USB 2.0" unit="">1</param>
 <param name="USB 3.2" unit="">1</param>
 <param name="Блок питания" unit="">Нет</param>
 <param name="Вес (кг)" unit="">4,9</param>
-<param name="Вбудовані вентилятори/розташування" unit="">передня панель / 2 х 120 мм АRGB, ззаду / 1 х 120 мм АRGB</param>
+<param name="Вбудовані вентилятори/розташування" unit="">1</param>
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">418х215х431</param>
+<param name="Картрідер" unit="">Немає</param>
 <param name="Кількість 2,5 відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">165</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">320</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">передня панель / 3 х 120 або 2 х 140 мм, верхня панель / 2 х 120/140 мм, БП / 2 х 120 мм</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">3</param>
 <param name="Особенности" unit="">Загартоване скло</param>
 <param name="Передняя панель" unit="">Гратчаста</param>
 <param name="Расположение" unit="">Нижнє</param>
@@ -3072,16 +3020,8 @@
 <price>3559</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6175133853_korpus-deepcool-cc560.jpg</picture>
-<picture>https://images.prom.ua/6175133733_korpus-deepcool-cc560.jpg</picture>
-<picture>https://images.prom.ua/6175133859_korpus-deepcool-cc560.jpg</picture>
-<picture>https://images.prom.ua/6175133745_korpus-deepcool-cc560.jpg</picture>
-<picture>https://images.prom.ua/6175133865_korpus-deepcool-cc560.jpg</picture>
-<picture>https://images.prom.ua/6175133869_korpus-deepcool-cc560.jpg</picture>
-<picture>https://images.prom.ua/6175133874_korpus-deepcool-cc560.jpg</picture>
-<picture>https://images.prom.ua/6175133756_korpus-deepcool-cc560.jpg</picture>
-<picture>https://images.prom.ua/6175133761_korpus-deepcool-cc560.jpg</picture>
-<picture>https://images.prom.ua/6175133889_korpus-deepcool-cc560.jpg</picture>
+<picture>https://images.prom.ua/6539629737_korpus-deepcool-cc560.jpg</picture>
+<picture>https://images.prom.ua/6539629740_korpus-deepcool-cc560.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус DeepCool CC560 ARGB V2 (R-CC560-BKTAA4-G-2)</name>
@@ -3094,21 +3034,22 @@
 <param name="Слоты расширения" unit="шт">7</param>
 <param name="Состояние">Новое</param>
 <param name="Типоразмер">Midi-Tower</param>
-<param name="Форм-фактор">Mini-ITX</param>
+<param name="Форм-фактор">ATX</param>
 <param name="Цвет корпуса">Черный</param>
 <param name="USB 2.0" unit="">1</param>
 <param name="USB 3.2" unit="">1</param>
 <param name="Блок питания" unit="">Нет</param>
 <param name="Вес (кг)" unit="">7,2</param>
-<param name="Вбудовані вентилятори/розташування" unit="">передня панель / 3x120 мм ARGB, задня панель / 1x120 мм ARGB</param>
+<param name="Вбудовані вентилятори/розташування" unit="">4</param>
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">432 x 215 x 483</param>
+<param name="Картрідер" unit="">Немає</param>
 <param name="Кількість 2,5 відсіків" unit="">2</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">165</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">370</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">передня панель/3x120/140 мм, верхня панель/2x120/140 мм, блок живлення в кожусі/2x120 мм, задня панель/1x120 мм</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">8</param>
 <param name="Особенности" unit="">Загартоване скло</param>
 <param name="Передняя панель" unit="">Гратчаста</param>
 <param name="Расположение" unit="">Нижнє</param>
@@ -3234,6 +3175,46 @@
 <param name="Передняя панель" unit="">Суцільна</param>
 <param name="Расположение" unit="">Верхнє</param>
 </offer>
+<offer id="2308818978" available="false">
+<url>https://tera-flops.com.ua/ua/p2308818978-korpus-fractal-design.html</url>
+<price>8349</price>
+<currencyId>UAH</currencyId>
+<categoryId>85364282</categoryId>
+<picture>https://images.prom.ua/6224365205_korpus-fractal-design.jpg</picture>
+<picture>https://images.prom.ua/6175051604_korpus-fractal-design.jpg</picture>
+<picture>https://images.prom.ua/6175051607_korpus-fractal-design.jpg</picture>
+<picture>https://images.prom.ua/6175051611_korpus-fractal-design.jpg</picture>
+<picture>https://images.prom.ua/6175051613_korpus-fractal-design.jpg</picture>
+<picture>https://images.prom.ua/6175051615_korpus-fractal-design.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Корпус Fractal Design Define XL чорний</name>
+<vendor>Fractal Design</vendor>
+<vendorCode>FD-CA-DEF-XL-R2-BL</vendorCode>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Количество внутренних отсеков 3,5">8</param>
+<param name="Материал корпуса">Сталь</param>
+<param name="Назначение">Рабочая станция</param>
+<param name="Слоты расширения" unit="шт">9</param>
+<param name="Состояние">Новое</param>
+<param name="Типоразмер">Full-Tower</param>
+<param name="Форм-фактор">Mini-ITX</param>
+<param name="Цвет корпуса">Черный</param>
+<param name="USB 2.0" unit="">2</param>
+<param name="USB 3.2" unit="">2</param>
+<param name="Блок питания" unit="">Нет</param>
+<param name="Вес (кг)" unit="">16,4</param>
+<param name="Вбудовані вентилятори/розташування" unit="">1x140мм/на передній панелі, 1x140мм/на задній панелі, 1x140мм/внизу</param>
+<param name="Выход на наушники" unit="">Є</param>
+<param name="Вхід для мікрофона" unit="">Є</param>
+<param name="Габариты (мм)" unit="">560x559x232</param>
+<param name="Максимальна висота процесорного кулера (мм)" unit="">170</param>
+<param name="Матеріал боковини" unit="">Сталь</param>
+<param name="Можливість встановлення довгих відеокарт (мм)" unit="">480</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">1x120/140мм/на передній панелі, 1x140мм/на бічний панелі, 2x120/140мм/на верхньої панелі</param>
+<param name="Передняя панель" unit="">Суцільна</param>
+<param name="Расположение" unit="">Нижнє</param>
+</offer>
 <offer id="2308818979" available="true">
 <url>https://tera-flops.com.ua/ua/p2308818979-korpus-fractal-design.html</url>
 <price>3799</price>
@@ -3326,16 +3307,8 @@
 <price>2599</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6224427955_korpus-deepcool-ch160.jpg</picture>
-<picture>https://images.prom.ua/6224427956_korpus-deepcool-ch160.jpg</picture>
-<picture>https://images.prom.ua/6224427957_korpus-deepcool-ch160.jpg</picture>
-<picture>https://images.prom.ua/6224427959_korpus-deepcool-ch160.jpg</picture>
-<picture>https://images.prom.ua/6224427962_korpus-deepcool-ch160.jpg</picture>
-<picture>https://images.prom.ua/6224427964_korpus-deepcool-ch160.jpg</picture>
-<picture>https://images.prom.ua/6224427965_korpus-deepcool-ch160.jpg</picture>
-<picture>https://images.prom.ua/6224418686_korpus-deepcool-ch160.jpg</picture>
-<picture>https://images.prom.ua/6528496437_korpus-deepcool-ch160.jpg</picture>
-<picture>https://images.prom.ua/6238228612_korpus-deepcool-ch160.jpg</picture>
+<picture>https://images.prom.ua/6539632579_korpus-deepcool-ch160.jpg</picture>
+<picture>https://images.prom.ua/6539632580_korpus-deepcool-ch160.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус DeepCool CH160 White (R-CH160-WHNGI0-G-1) без БЖ</name>
@@ -3354,14 +3327,16 @@
 <param name="USB Type-C" unit="">1</param>
 <param name="Блок питания" unit="">Нет</param>
 <param name="Вес (кг)" unit="">3,3</param>
+<param name="Вбудовані вентилятори/розташування" unit="">1</param>
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">284 x 200 x 336</param>
+<param name="Картрідер" unit="">Немає</param>
 <param name="Кількість 2,5 відсіків" unit="">1</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">172</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">305</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">передня панель / 1x120 мм, верхня панель / 2x120 мм, задня панель / 1x120 мм</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">4</param>
 <param name="Особенности" unit="">Пилові фільтри</param>
 <param name="Передняя панель" unit="">Гратчаста</param>
 <param name="Расположение" unit="">Верхнє</param>
@@ -3371,11 +3346,8 @@
 <price>2299</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6453821937_korpus-1stplayer-t3-4f1-w-wh.jpg</picture>
-<picture>https://images.prom.ua/6453821938_korpus-1stplayer-t3-4f1-w-wh.jpg</picture>
-<picture>https://images.prom.ua/6453821939_korpus-1stplayer-t3-4f1-w-wh.jpg</picture>
-<picture>https://images.prom.ua/6453821940_korpus-1stplayer-t3-4f1-w-wh.jpg</picture>
-<picture>https://images.prom.ua/6453821941_korpus-1stplayer-t3-4f1-w-wh.jpg</picture>
+<picture>https://images.prom.ua/6539618086_korpus-1stplayer-t3-4f1-w-wh.jpg</picture>
+<picture>https://images.prom.ua/6539618088_korpus-1stplayer-t3-4f1-w-wh.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус 1stPlayer T3-4F1-W-WH</name>
@@ -3388,11 +3360,12 @@
 <param name="Слоты расширения" unit="шт">4</param>
 <param name="Состояние">Новое</param>
 <param name="Типоразмер">Mini (Micro)-Tower</param>
+<param name="Форм-фактор">microATX</param>
 <param name="Цвет корпуса">Белый</param>
 <param name="USB 2.0" unit="">2</param>
 <param name="USB 3.2" unit="">1</param>
 <param name="Вес (кг)" unit="">4,5</param>
-<param name="Вбудовані вентилятори/розташування" unit="">передня панель / 3x120 мм, задня панель / 1x120 мм</param>
+<param name="Вбудовані вентилятори/розташування" unit="">4</param>
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">365x210x423</param>
@@ -3400,54 +3373,54 @@
 <param name="Максимальна висота процесорного кулера (мм)" unit="">165</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">320</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">передня панель / 3x120 мм, верхня панель / 2x120 мм, задня панель / 1x120 мм</param>
-<param name="Особенности" unit="">RGB підсвічування</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">8</param>
+<param name="Особенности" unit="">FRGB підсвічування</param>
 <param name="Передняя панель" unit="">Гратчаста</param>
-<param name="Форм-фактор" unit="">microATX</param>
+<param name="Расположение" unit="">Нижнє</param>
 </offer>
 <offer id="2308818998" available="true">
 <url>https://tera-flops.com.ua/ua/p2308818998-korpus-gamemax-612.html</url>
 <price>2369</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6224341440_korpus-gamemax-st-612-2u3-tyc.jpg</picture>
-<picture>https://images.prom.ua/6224341445_korpus-gamemax-st-612-2u3-tyc.jpg</picture>
-<picture>https://images.prom.ua/6224341450_korpus-gamemax-st-612-2u3-tyc.jpg</picture>
-<picture>https://images.prom.ua/6224341457_korpus-gamemax-st-612-2u3-tyc.jpg</picture>
-<picture>https://images.prom.ua/6224341459_korpus-gamemax-st-612-2u3-tyc.jpg</picture>
-<picture>https://images.prom.ua/6224341463_korpus-gamemax-st-612-2u3-tyc.jpg</picture>
-<picture>https://images.prom.ua/6224341466_korpus-gamemax-st-612-2u3-tyc.jpg</picture>
-<picture>https://images.prom.ua/6224341472_korpus-gamemax-st-612-2u3-tyc.jpg</picture>
+<picture>https://images.prom.ua/6539618476_korpus-gamemax-st-612-2u3-tyc.jpg</picture>
+<picture>https://images.prom.ua/6539618477_korpus-gamemax-st-612-2u3-tyc.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус Gamemax ST-612-2U3-TYC 400W</name>
 <vendor>Gamemax</vendor>
-<vendorCode>ST-612-2U3-TYC 400W</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
+<vendorCode>ST-612-2U3-TYC</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Рабочая станция</param>
 <param name="Слоты расширения" unit="шт">4</param>
 <param name="Состояние">Новое</param>
 <param name="Типоразмер">Mini (Micro)-Tower</param>
-<param name="Форм-фактор">Mini-ITX</param>
+<param name="Форм-фактор">microATX</param>
 <param name="Цвет корпуса">Черный</param>
 <param name="USB 2.0" unit="">2</param>
 <param name="USB 3.2" unit="">2</param>
 <param name="USB Type-C" unit="">1</param>
 <param name="Блок питания" unit="">400W</param>
-<param name="Вбудовані вентилятори/розташування" unit="">верхня панель / 1x80мм</param>
+<param name="Вес (кг)" unit="">3</param>
+<param name="Вбудовані вентилятори/розташування" unit="">1</param>
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">295 x 99 x 365</param>
+<param name="Картрідер" unit="">Немає</param>
 <param name="Кількість 2,5 відсіків" unit="">1</param>
+<param name="Максимальна висота процесорного кулера (мм)" unit="">165</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
+<param name="Можливість встановлення довгих відеокарт (мм)" unit="">320</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">1</param>
+<param name="Особенности" unit="">Пилові фільтри</param>
 <param name="Передняя панель" unit="">Метал</param>
 <param name="Расположение" unit="">Верхнє</param>
 </offer>
 <offer id="2308819001" available="true">
 <url>https://tera-flops.com.ua/ua/p2308819001-korpus-gamemax-zorro.html</url>
-<price>2799</price>
+<price>2689</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6224365223_korpus-gamemax-zorro.jpg</picture>
@@ -3490,7 +3463,7 @@
 <param name="Передняя панель" unit="">Суцільна</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2308819582" available="true">
+<offer id="2308819582" available="false">
 <url>https://tera-flops.com.ua/ua/p2308819582-korpus-fractal-design.html</url>
 <price>7239</price>
 <currencyId>UAH</currencyId>
@@ -3578,16 +3551,8 @@
 <price>2949</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6453821953_korpus-deepsool-ch370.jpg</picture>
-<picture>https://images.prom.ua/6453821954_korpus-deepsool-ch370.jpg</picture>
-<picture>https://images.prom.ua/6490682995_korpus-deepsool-ch370.jpg</picture>
-<picture>https://images.prom.ua/6490682996_korpus-deepsool-ch370.jpg</picture>
-<picture>https://images.prom.ua/6453821957_korpus-deepsool-ch370.jpg</picture>
-<picture>https://images.prom.ua/6490683000_korpus-deepsool-ch370.jpg</picture>
-<picture>https://images.prom.ua/6490683001_korpus-deepsool-ch370.jpg</picture>
-<picture>https://images.prom.ua/6453821960_korpus-deepsool-ch370.jpg</picture>
-<picture>https://images.prom.ua/6453821962_korpus-deepsool-ch370.jpg</picture>
-<picture>https://images.prom.ua/6490683002_korpus-deepsool-ch370.jpg</picture>
+<picture>https://images.prom.ua/6539629692_korpus-deepsool-ch370.jpg</picture>
+<picture>https://images.prom.ua/6539629694_korpus-deepsool-ch370.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус DeepСool CH370 Black (R-CH370-BKNAM1-G-1)</name>
@@ -3600,25 +3565,26 @@
 <param name="Слоты расширения" unit="шт">4</param>
 <param name="Состояние">Новое</param>
 <param name="Типоразмер">Mini (Micro)-Tower</param>
-<param name="Форм-фактор">Mini-ITX</param>
+<param name="Форм-фактор">microATX</param>
 <param name="Цвет корпуса">Черный</param>
 <param name="USB 3.2" unit="">2</param>
 <param name="Блок питания" unit="">Нет</param>
 <param name="Вес (кг)" unit="">5,3</param>
-<param name="Вбудовані вентилятори/розташування" unit="">задня панель / 1x120 мм</param>
+<param name="Вбудовані вентилятори/розташування" unit="">1</param>
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">413 x 215 x 431</param>
+<param name="Картрідер" unit="">Немає</param>
 <param name="Кількість 2,5 відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">165</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">320</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">передня панель/3x120 або 2х 140 мм, верхня панель/2x120/140 мм, блок живлення/2x120 мм</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">3</param>
 <param name="Особенности" unit="">Пилові фільтри</param>
 <param name="Передняя панель" unit="">Гратчаста</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2321321324" available="true">
+<offer id="2321321324" available="false">
 <url>https://tera-flops.com.ua/ua/p2321321324-korpus-fractal-design.html</url>
 <price>7409</price>
 <currencyId>UAH</currencyId>
@@ -3666,47 +3632,46 @@
 <price>1879</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6224341440_korpus-gamemax-st-612.jpg</picture>
-<picture>https://images.prom.ua/6224341445_korpus-gamemax-st-612.jpg</picture>
-<picture>https://images.prom.ua/6224341450_korpus-gamemax-st-612.jpg</picture>
-<picture>https://images.prom.ua/6224341457_korpus-gamemax-st-612.jpg</picture>
-<picture>https://images.prom.ua/6224341459_korpus-gamemax-st-612.jpg</picture>
-<picture>https://images.prom.ua/6224341463_korpus-gamemax-st-612.jpg</picture>
-<picture>https://images.prom.ua/6224341466_korpus-gamemax-st-612.jpg</picture>
-<picture>https://images.prom.ua/6224341472_korpus-gamemax-st-612.jpg</picture>
+<picture>https://images.prom.ua/6539631518_korpus-gamemax-st-612.jpg</picture>
+<picture>https://images.prom.ua/6539631519_korpus-gamemax-st-612.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус GameMax ST-612 300W Black (ST612-2U3-TYC)</name>
 <vendor>Gamemax</vendor>
 <vendorCode>ST612-2U3-TYC</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Рабочая станция</param>
 <param name="Слоты расширения" unit="шт">4</param>
 <param name="Состояние">Новое</param>
 <param name="Типоразмер">Desktop</param>
-<param name="Форм-фактор">Mini-ITX</param>
+<param name="Форм-фактор">microATX</param>
 <param name="Цвет корпуса">Черный</param>
-<param name="Габариты (мм)" unit="">295 x 99 x 365</param>
-<param name="Вбудовані вентилятори/розташування" unit="">верxняя панель / 1x80 мм</param>
-<param name="Кількість 2,5 відсіків" unit="">1</param>
+<param name="USB 3.2" unit="">2</param>
 <param name="Блок питания" unit="">300W</param>
+<param name="Вес (кг)" unit="">2.6</param>
+<param name="Вбудовані вентилятори/розташування" unit="">1</param>
+<param name="Выход на наушники" unit="">Є</param>
+<param name="Вхід для мікрофона" unit="">Є</param>
+<param name="Габариты (мм)" unit="">295 x 99 x 365</param>
+<param name="Картрідер" unit="">Немає</param>
+<param name="Кількість 2,5 відсіків" unit="">1</param>
+<param name="Максимальна висота процесорного кулера (мм)" unit="">165</param>
+<param name="Матеріал боковини" unit="">Сталь</param>
+<param name="Можливість встановлення довгих відеокарт (мм)" unit="">320</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">2</param>
+<param name="Особенности" unit="">Пилові фільтри</param>
 <param name="Передняя панель" unit="">Гратчаста</param>
 <param name="Расположение" unit="">Верхнє</param>
-<param name="Матеріал боковини" unit="">Сталь</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="USB 3.2" unit="">2</param>
-<param name="Вхід для мікрофона" unit="">Є</param>
 </offer>
 <offer id="2349043195" available="true">
 <url>https://tera-flops.com.ua/ua/p2349043195-korpus-vinga-black.html</url>
 <price>1799</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6347672191_korpus-vinga-black.jpg</picture>
-<picture>https://images.prom.ua/6390143815_korpus-vinga-black.jpg</picture>
-<picture>https://images.prom.ua/6347672193_korpus-vinga-black.jpg</picture>
+<picture>https://images.prom.ua/6539618769_korpus-vinga-black.jpg</picture>
+<picture>https://images.prom.ua/6539618770_korpus-vinga-black.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус Vinga Black Widow (Black Widow)</name>
@@ -3725,14 +3690,16 @@
 <param name="USB 3.2" unit="">2</param>
 <param name="Блок питания" unit="">Нет</param>
 <param name="Вес (кг)" unit="">8,6</param>
+<param name="Вбудовані вентилятори/розташування" unit="">1</param>
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">473х230х466</param>
+<param name="Картрідер" unit="">Немає</param>
 <param name="Кількість 2,5 відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">180</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">415</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">ззаду / 1x120 мм, спереду / 2x120 / 140, зверху 2x120 / 140 мм</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">5</param>
 <param name="Особенности" unit="">Пилові фільтри</param>
 <param name="Передняя панель" unit="">Сталь</param>
 <param name="Расположение" unit="">Нижнє</param>
@@ -3742,9 +3709,8 @@
 <price>1499</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6347672194_korpus-vinga-cs302b.jpg</picture>
-<picture>https://images.prom.ua/6347672195_korpus-vinga-cs302b.jpg</picture>
-<picture>https://images.prom.ua/6347672196_korpus-vinga-cs302b.jpg</picture>
+<picture>https://images.prom.ua/6539618774_korpus-vinga-cs302b.jpg</picture>
+<picture>https://images.prom.ua/6539618775_korpus-vinga-cs302b.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус Vinga CS302B (CS302B)</name>
@@ -3757,30 +3723,32 @@
 <param name="Слоты расширения" unit="шт">4</param>
 <param name="Состояние">Новое</param>
 <param name="Типоразмер">Desktop</param>
+<param name="Форм-фактор">microATX</param>
 <param name="Цвет корпуса">Черный</param>
 <param name="USB 2.0" unit="">2</param>
 <param name="Блок питания" unit="">400W</param>
 <param name="Вес (кг)" unit="">3,3</param>
+<param name="Вбудовані вентилятори/розташування" unit="">1</param>
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">380х100х300</param>
+<param name="Картрідер" unit="">Немає</param>
 <param name="Кількість 2,5 відсіків" unit="">1</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">75</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">252</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">зверху / 80 мм</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">1</param>
+<param name="Особенности" unit="">Пилові фільтри</param>
 <param name="Передняя панель" unit="">Сталь</param>
 <param name="Расположение" unit="">Верхнє</param>
-<param name="Форм-фактор" unit="">microATX</param>
 </offer>
 <offer id="2349043202" available="true">
 <url>https://tera-flops.com.ua/ua/p2349043202-korpus-vinga-winston.html</url>
 <price>1389</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6347672202_korpus-vinga-winston.jpg</picture>
-<picture>https://images.prom.ua/6347672203_korpus-vinga-winston.jpg</picture>
-<picture>https://images.prom.ua/6347672204_korpus-vinga-winston.jpg</picture>
+<picture>https://images.prom.ua/6539618776_korpus-vinga-winston.jpg</picture>
+<picture>https://images.prom.ua/6539618777_korpus-vinga-winston.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус Vinga Winston (Winston)</name>
@@ -3799,14 +3767,16 @@
 <param name="USB 3.2" unit="">1</param>
 <param name="Блок питания" unit="">Нет</param>
 <param name="Вес (кг)" unit="">5</param>
+<param name="Вбудовані вентилятори/розташування" unit="">1</param>
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">402х205х445</param>
+<param name="Картрідер" unit="">Немає</param>
 <param name="Кількість 2,5 відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">163</param>
 <param name="Матеріал боковини" unit="">Акрил</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">400</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">2x 120/140 мм / на передній панелі, 1х 120 мм / позаду, 2х 120 мм / зверху</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">5</param>
 <param name="Особенности" unit="">Пилові фільтри</param>
 <param name="Передняя панель" unit="">Пластик</param>
 <param name="Расположение" unit="">Нижнє</param>
@@ -3816,9 +3786,8 @@
 <price>1419</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6347672205_korpus-vinga-sain.jpg</picture>
-<picture>https://images.prom.ua/6390143824_korpus-vinga-sain.jpg</picture>
-<picture>https://images.prom.ua/6347672207_korpus-vinga-sain.jpg</picture>
+<picture>https://images.prom.ua/6539618778_korpus-vinga-sain.jpg</picture>
+<picture>https://images.prom.ua/6539618779_korpus-vinga-sain.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус Vinga Sain 1 (Sain 1)</name>
@@ -3836,15 +3805,18 @@
 <param name="USB 3.2" unit="">1</param>
 <param name="Блок питания" unit="">Нет</param>
 <param name="Вес (кг)" unit="">5</param>
+<param name="Вбудовані вентилятори/розташування" unit="">1</param>
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">402х205х445</param>
+<param name="Картрідер" unit="">Немає</param>
 <param name="Кількість 2,5 відсіків" unit="">3</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">163</param>
 <param name="Матеріал боковини" unit="">Акрил</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">400</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">2x 120/140 мм / на передній панелі, 1х 120 мм / позаду, 2х 120 мм / зверху</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">5</param>
 <param name="Назначение" unit="">Офісний</param>
+<param name="Особенности" unit="">Пилові фільтри</param>
 <param name="Передняя панель" unit="">Пластик</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
@@ -3853,31 +3825,33 @@
 <price>2089</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6347674704_korpus-vinga-limpid.jpg</picture>
-<picture>https://images.prom.ua/6347674705_korpus-vinga-limpid.jpg</picture>
-<picture>https://images.prom.ua/6347674706_korpus-vinga-limpid.jpg</picture>
+<picture>https://images.prom.ua/6539619595_korpus-vinga-limpid.jpg</picture>
+<picture>https://images.prom.ua/6539619598_korpus-vinga-limpid.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус Vinga Limpid (Limpid)</name>
 <vendor>Vinga</vendor>
 <vendorCode>Limpid</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
+<param name="Материал корпуса">Металл</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">7</param>
 <param name="Состояние">Новое</param>
-<param name="Форм-фактор">Mini-ITX</param>
+<param name="Форм-фактор">ATX</param>
 <param name="Цвет корпуса">Черный</param>
 <param name="USB 2.0" unit="">2</param>
 <param name="USB 3.2" unit="">1</param>
 <param name="Блок питания" unit="">Нет</param>
-<param name="Вбудовані вентилятори/розташування" unit="">1х200 мм (передня панель), 1х200 мм (верхня панель)</param>
+<param name="Вес (кг)" unit="">7.3</param>
+<param name="Вбудовані вентилятори/розташування" unit="">2</param>
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">370x280x460</param>
+<param name="Картрідер" unit="">Немає</param>
+<param name="Максимальна висота процесорного кулера (мм)" unit="">160</param>
 <param name="Матеріал боковини" unit="">Загартоване скло</param>
-<param name="Материал корпуса" unit="">Металл</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">290</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">1х120 / 240 мм (передня панель), 1х80 мм (задня панель)</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">3</param>
 <param name="Особенности" unit="">Загартоване скло</param>
 <param name="Передняя панель" unit="">Загартоване скло</param>
 <param name="Расположение" unit="">Нижнє</param>
@@ -3888,9 +3862,8 @@
 <price>1779</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6347674707_korpus-vinga-apache-450w.jpg</picture>
-<picture>https://images.prom.ua/6347674708_korpus-vinga-apache-450w.jpg</picture>
-<picture>https://images.prom.ua/6347674710_korpus-vinga-apache-450w.jpg</picture>
+<picture>https://images.prom.ua/6539619600_korpus-vinga-apache-450w.jpg</picture>
+<picture>https://images.prom.ua/6539619602_korpus-vinga-apache-450w.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус Vinga Apache-450W (Apache-450W)</name>
@@ -3898,24 +3871,28 @@
 <vendorCode>Apache-450W</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5">2</param>
+<param name="Материал корпуса">Металл</param>
 <param name="Назначение">Мультимедийный</param>
 <param name="Слоты расширения" unit="шт">7</param>
 <param name="Состояние">Новое</param>
 <param name="Типоразмер">Midi-Tower</param>
-<param name="Форм-фактор">Mini-ITX</param>
+<param name="Форм-фактор">ATX</param>
 <param name="Цвет корпуса">Черный</param>
 <param name="USB 2.0" unit="">2</param>
 <param name="USB 3.2" unit="">1</param>
 <param name="Блок питания" unit="">450W</param>
-<param name="Вбудовані вентилятори/розташування" unit="">1х120 мм/позаду</param>
+<param name="Вес (кг)" unit="">2.6</param>
+<param name="Вбудовані вентилятори/розташування" unit="">1</param>
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">413х198х422</param>
+<param name="Картрідер" unit="">Немає</param>
 <param name="Кількість 2,5 відсіків" unit="">2</param>
+<param name="Максимальна висота процесорного кулера (мм)" unit="">166</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
-<param name="Материал корпуса" unit="">Металл</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">370</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">2x 120 мм (передня панель), 2x 120 мм (бічна панель)</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">5</param>
+<param name="Особенности" unit="">Пилові фільтри</param>
 <param name="Передняя панель" unit="">Пластик</param>
 <param name="Расположение" unit="">Верхнє</param>
 </offer>
@@ -3995,9 +3972,8 @@
 <price>1799</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6347680441_korpus-vinga-galaxy.jpg</picture>
-<picture>https://images.prom.ua/6347680442_korpus-vinga-galaxy.jpg</picture>
-<picture>https://images.prom.ua/6347680443_korpus-vinga-galaxy.jpg</picture>
+<picture>https://images.prom.ua/6539625289_korpus-vinga-galaxy.jpg</picture>
+<picture>https://images.prom.ua/6539625290_korpus-vinga-galaxy.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус Vinga Galaxy G1 (Galaxy G1)</name>
@@ -4008,10 +3984,13 @@
 <param name="USB 2.0" unit="">2</param>
 <param name="USB 3.2" unit="">1</param>
 <param name="Блок питания" unit="">Нет</param>
+<param name="Вес (кг)" unit="">2.5</param>
+<param name="Вбудовані вентилятори/розташування" unit="">1</param>
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">210 x 510 x 490</param>
 <param name="Гарантія, міс" unit="">12</param>
+<param name="Картрідер" unit="">Немає</param>
 <param name="Цвет корпуса" unit="">Черный</param>
 <param name="Кількість 2,5 відсіків" unit="">5</param>
 <param name="Кількість 3,5 відсіків внутрішніх" unit="">12</param>
@@ -4020,22 +3999,21 @@
 <param name="Матеріал боковини" unit="">Акрил</param>
 <param name="Материал корпуса" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">423</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">передня панель/3x120 мм, верхня панель/3x120 мм, задня панель/1x120 мм</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">7</param>
 <param name="Особенности" unit="">Пилові фільтри</param>
 <param name="Передняя панель" unit="">Сталь</param>
 <param name="Назначение" unit="">Игровой</param>
 <param name="Расположение" unit="">Нижнє</param>
 <param name="Типоразмер" unit="">Midi-Tower</param>
-<param name="Форм-фактор материнської плати" unit="">Mini-ITX</param>
+<param name="Форм-фактор материнської плати" unit="">ATX</param>
 </offer>
 <offer id="2349043569" available="true">
 <url>https://tera-flops.com.ua/ua/p2349043569-korpus-vinga-cs113.html</url>
 <price>1269</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6347686273_korpus-vinga-cs113-400w.jpg</picture>
-<picture>https://images.prom.ua/6347686274_korpus-vinga-cs113-400w.jpg</picture>
-<picture>https://images.prom.ua/6347686275_korpus-vinga-cs113-400w.jpg</picture>
+<picture>https://images.prom.ua/6539628651_korpus-vinga-cs113-400w.jpg</picture>
+<picture>https://images.prom.ua/6539628652_korpus-vinga-cs113-400w.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус Vinga CS113-400W (CS113-400W)</name>
@@ -4047,20 +4025,23 @@
 <param name="Слоты расширения" unit="шт">7</param>
 <param name="Состояние">Новое</param>
 <param name="Типоразмер">Midi-Tower</param>
-<param name="Форм-фактор">Mini-ITX</param>
+<param name="Форм-фактор">ATX</param>
 <param name="Цвет корпуса">Черный</param>
 <param name="USB 2.0" unit="">2</param>
 <param name="Блок питания" unit="">400W</param>
 <param name="Вес (кг)" unit="">2,6</param>
+<param name="Вбудовані вентилятори/розташування" unit="">1</param>
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
 <param name="Габариты (мм)" unit="">207x412x347</param>
+<param name="Картрідер" unit="">Немає</param>
 <param name="Кількість 2,5 відсіків" unit="">1</param>
 <param name="Максимальна висота процесорного кулера (мм)" unit="">165</param>
 <param name="Матеріал боковини" unit="">Сталь</param>
 <param name="Можливість встановлення довгих відеокарт (мм)" unit="">290</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">передня панель/2x120 мм, задня панель/1x80/120 мм</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">3</param>
 <param name="Назначение" unit="">Офісний</param>
+<param name="Особенности" unit="">Пилові фільтри</param>
 <param name="Передняя панель" unit="">Пластик</param>
 <param name="Расположение" unit="">Верхнє</param>
 </offer>
@@ -4140,8 +4121,7 @@
 </offer>
 <offer id="2352264772" available="true">
 <url>https://tera-flops.com.ua/ua/p2352264772-umb-baseus-amblight.html</url>
-<oldprice>2100</oldprice>
-<price>1800</price>
+<price>2100</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522645</categoryId>
 <picture>https://images.prom.ua/6272762646_umb-baseus-amblight.jpg</picture>
@@ -4192,39 +4172,6 @@
 <param name="Разъемы" unit="">Socket AM4</param>
 <param name="Регулювання обертів" unit="">PWM</param>
 <param name="Розсіювана потужність, Вт" unit="">240</param>
-<param name="Тип разъема" unit="">4pin</param>
-<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
-</offer>
-<offer id="2354051393" available="true">
-<url>https://tera-flops.com.ua/ua/p2354051393-povitryane-oholodzhennya-jiushark.html</url>
-<price>850</price>
-<currencyId>UAH</currencyId>
-<categoryId>97649259</categoryId>
-<picture>https://images.prom.ua/6278430496_povitryane-oholodzhennya-jiushark.jpg</picture>
-<picture>https://images.prom.ua/6278430497_povitryane-oholodzhennya-jiushark.jpg</picture>
-<picture>https://images.prom.ua/6278430498_povitryane-oholodzhennya-jiushark.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Повітряне охолодження Jiushark JF100 ARGB Black (JF100 ARGB Black)</name>
-<vendor>Deepcool</vendor>
-<vendorCode>JF100 ARGB Black</vendorCode>
-<param name="Вес" unit="г">912</param>
-<param name="Гарантийный срок" unit="мес">6</param>
-<param name="Диаметр вентилятора" unit="мм">120</param>
-<param name="Количество кулеров">1</param>
-<param name="Максимальная скорость вращения" unit="об/мин">2300</param>
-<param name="Максимальный уровень шума" unit="дБ">35</param>
-<param name="Разъемы">LGA1700</param>
-<param name="Состояние">Новое</param>
-<param name="Тип подшипника">Гидродинамический</param>
-<param name="Висота кулера, мм" unit="">157</param>
-<param name="Габариты (мм)" unit="">128x76x157</param>
-<param name="Колір підсвітки" unit="">ARGB</param>
-<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
-<param name="Напряжение питания" unit="">12</param>
-<param name="Повітряний потік (CFM)" unit="">68</param>
-<param name="Регулювання обертів" unit="">PWM</param>
-<param name="Розсіювана потужність, Вт" unit="">230</param>
 <param name="Тип разъема" unit="">4pin</param>
 <param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
 </offer>
@@ -4427,40 +4374,6 @@
 <param name="Тип разъема" unit="">4pin</param>
 <param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
 </offer>
-<offer id="2354051402" available="true">
-<url>https://tera-flops.com.ua/ua/p2354051402-povitryane-oholodzhennya-jiushark.html</url>
-<price>1400</price>
-<currencyId>UAH</currencyId>
-<categoryId>97649259</categoryId>
-<picture>https://images.prom.ua/6278430530_povitryane-oholodzhennya-jiushark.jpg</picture>
-<picture>https://images.prom.ua/6278430531_povitryane-oholodzhennya-jiushark.jpg</picture>
-<picture>https://images.prom.ua/6278430533_povitryane-oholodzhennya-jiushark.jpg</picture>
-<picture>https://images.prom.ua/6278430534_povitryane-oholodzhennya-jiushark.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Повітряне охолодження Jiushark JF200 Mini ARGB Black (JF200 Mini ARGB Black)</name>
-<vendor>Jiushark</vendor>
-<vendorCode>JF200 Mini ARGB Black</vendorCode>
-<param name="Вес" unit="г">866</param>
-<param name="Гарантийный срок" unit="мес">6</param>
-<param name="Диаметр вентилятора" unit="мм">100</param>
-<param name="Количество кулеров">2</param>
-<param name="Максимальная скорость вращения" unit="об/мин">2300</param>
-<param name="Максимальный уровень шума" unit="дБ">30</param>
-<param name="Состояние">Новое</param>
-<param name="Тип подшипника">Гидродинамический</param>
-<param name="Висота кулера, мм" unit="">144</param>
-<param name="Габариты (мм)" unit="">100x154x144</param>
-<param name="Колір підсвітки" unit="">ARGB</param>
-<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
-<param name="Напряжение питания" unit="">12</param>
-<param name="Повітряний потік (CFM)" unit="">47.54</param>
-<param name="Разъемы" unit="">Socket AM5</param>
-<param name="Регулювання обертів" unit="">PWM</param>
-<param name="Розсіювана потужність, Вт" unit="">250</param>
-<param name="Тип разъема" unit="">4pin</param>
-<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
-</offer>
 <offer id="2386075172" available="true">
 <url>https://tera-flops.com.ua/ua/p2386075172-akumulyator-dlya-dbzh.html</url>
 <price>11500</price>
@@ -4528,8 +4441,8 @@
 <param name="Слоты расширения" unit="шт">7</param>
 <param name="Состояние">Новое</param>
 <param name="Типоразмер">Midi-Tower</param>
+<param name="Форм-фактор">microATX</param>
 <param name="Цвет корпуса">Белый</param>
-<param name="Форм-фактор" unit="">microATX</param>
 <param name="Габариты (мм)" unit="">190x447x380</param>
 <param name="Вес (кг)" unit="">3,9</param>
 <param name="Місця під додаткові вентилятори/розташування" unit="">верxняя панель / 2x120 мм</param>
@@ -4584,9 +4497,8 @@
 <price>2199</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6453821950_korpus-1stplayer-d3-3f2-plus.jpg</picture>
-<picture>https://images.prom.ua/6453821951_korpus-1stplayer-d3-3f2-plus.jpg</picture>
-<picture>https://images.prom.ua/6453821952_korpus-1stplayer-d3-3f2-plus.jpg</picture>
+<picture>https://images.prom.ua/6539626644_korpus-1stplayer-d3-3f2-plus.jpg</picture>
+<picture>https://images.prom.ua/6539626646_korpus-1stplayer-d3-3f2-plus.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус 1stPlayer D3-3F2-PLUS Black (D3-3F2-PLUS)</name>
@@ -4594,27 +4506,32 @@
 <vendorCode>D3-3F2-PLUS</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5">2</param>
+<param name="Материал корпуса">Сталь</param>
 <param name="Назначение">Игровой</param>
 <param name="Слоты расширения" unit="шт">4</param>
 <param name="Состояние">Новое</param>
 <param name="Типоразмер">Mini (Micro)-Tower</param>
+<param name="Форм-фактор">microATX</param>
 <param name="Цвет корпуса">Черный</param>
-<param name="Форм-фактор" unit="">microATX</param>
-<param name="Габариты (мм)" unit="">230 x 375 x 400</param>
+<param name="USB 2.0" unit="">2</param>
+<param name="USB 3.2" unit="">1</param>
+<param name="Блок питания" unit="">Нет</param>
 <param name="Вес (кг)" unit="">4,2</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">передня панель / 2x120 або 1х140/1x200 мм, верхня панель / 2x120/140 мм</param>
-<param name="Вбудовані вентилятори/розташування" unit="">передня панель/2x140 мм, задня панель/1x140 мм</param>
-<param name="Максимальна висота процесорного кулера (мм)" unit="">190</param>
-<param name="Кількість 2,5 відсіків" unit="">3</param>
-<param name="Можливість встановлення довгих відеокарт (мм)" unit="">340</param>
-<param name="Передняя панель" unit="">Пластик</param>
-<param name="Расположение" unit="">Нижнє</param>
-<param name="Матеріал боковини" unit="">Сталь</param>
+<param name="Вбудовані вентилятори/розташування" unit="">3</param>
 <param name="Выход на наушники" unit="">Є</param>
 <param name="Вхід для мікрофона" unit="">Є</param>
+<param name="Габариты (мм)" unit="">230 x 375 x 400</param>
 <param name="Картрідер" unit="">Є</param>
+<param name="Кількість 2,5 відсіків" unit="">3</param>
+<param name="Максимальна висота процесорного кулера (мм)" unit="">190</param>
+<param name="Матеріал боковини" unit="">Сталь</param>
+<param name="Можливість встановлення довгих відеокарт (мм)" unit="">340</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">5</param>
+<param name="Особенности" unit="">вентилятор з підсвічуванням</param>
+<param name="Передняя панель" unit="">Пластик</param>
+<param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2445073640" available="false">
+<offer id="2445073640" available="true">
 <url>https://tera-flops.com.ua/ua/p2445073640-klaviatura-aula-f2066.html</url>
 <price>699</price>
 <currencyId>UAH</currencyId>
@@ -5116,7 +5033,7 @@
 </offer>
 <offer id="2450108675" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108675-misha-bezdrotova-logitech.html</url>
-<price>1802</price>
+<price>1801</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420661072_misha-bezdrotova-logitech.jpg</picture>
@@ -6022,8 +5939,7 @@
 </offer>
 <offer id="2450108765" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108765-misha-bezdrotova-mf2030.html</url>
-<oldprice>299</oldprice>
-<price>250</price>
+<price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420661061_misha-bezdrotova-2e.jpg</picture>
@@ -7142,8 +7058,7 @@
 </offer>
 <offer id="2450109273" available="true">
 <url>https://tera-flops.com.ua/ua/p2450109273-klaviatura-aula-f87.html</url>
-<oldprice>1350</oldprice>
-<price>1290</price>
+<price>1399</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763472</categoryId>
 <picture>https://images.prom.ua/6447061709_klaviatura-aula-f87.jpg</picture>
@@ -7205,8 +7120,7 @@
 </offer>
 <offer id="2456290351" available="true">
 <url>https://tera-flops.com.ua/ua/p2456290351-misha-gaming-hyperspeed.html</url>
-<oldprice>995</oldprice>
-<price>890</price>
+<price>999</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431089782_misha-2e-gaming.jpg</picture>
@@ -7264,8 +7178,7 @@
 </offer>
 <offer id="2456290354" available="true">
 <url>https://tera-flops.com.ua/ua/p2456290354-misha-gaming-mg320.html</url>
-<oldprice>595</oldprice>
-<price>535</price>
+<price>599</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431090188_misha-2e-gaming.jpg</picture>
@@ -7624,34 +7537,6 @@
 <param name="Максимальна роздільна здатність сенсора (DPI)" unit="">4000</param>
 <param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">400</param>
 <param name="Розміри (мм)" unit="">126x69x42</param>
-<param name="Тип подключения" unit="">Дротове</param>
-<param name="Тип сенсора" unit="">Оптичний</param>
-</offer>
-<offer id="2456290413" available="true">
-<url>https://tera-flops.com.ua/ua/p2456290413-misha-rapoo-n100.html</url>
-<price>299</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763471</categoryId>
-<picture>https://images.prom.ua/6431089775_misha-rapoo-n100.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Миша Rapoo N100 Black</name>
-<vendor>Rapoo</vendor>
-<vendorCode>18050</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Цвет">Черный</param>
-<param name="Назначение">Для ноутбука</param>
-<param name="Состояние">Новое</param>
-<param name="Тип">Мышь</param>
-<param name="Подключение устройства">Проводное</param>
-<param name="Интерфейс подключения" unit="">USB-A</param>
-<param name="Вага (г)" unit="">79</param>
-<param name="Питание" unit="">USB</param>
-<param name="Конструкция" unit="">Ергономічна</param>
-<param name="Количество кнопок" unit="">2</param>
-<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1600</param>
-<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1000</param>
-<param name="Розміри (мм)" unit="">116х62х35</param>
 <param name="Тип подключения" unit="">Дротове</param>
 <param name="Тип сенсора" unit="">Оптичний</param>
 </offer>
@@ -8361,8 +8246,7 @@
 </offer>
 <offer id="2461182831" available="true">
 <url>https://tera-flops.com.ua/ua/p2461182831-ventilyator-upsiren-prism.html</url>
-<oldprice>310</oldprice>
-<price>260</price>
+<price>310</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649262</categoryId>
 <picture>https://images.prom.ua/6437626623_ventilyator-upsiren-uf-2.jpg</picture>
@@ -8388,8 +8272,7 @@
 </offer>
 <offer id="2461182832" available="true">
 <url>https://tera-flops.com.ua/ua/p2461182832-ventilyator-upsiren-prism.html</url>
-<oldprice>320</oldprice>
-<price>260</price>
+<price>320</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649262</categoryId>
 <picture>https://images.prom.ua/6437626606_ventilyator-upsiren-uf-2.jpg</picture>
@@ -8415,8 +8298,7 @@
 </offer>
 <offer id="2461182833" available="true">
 <url>https://tera-flops.com.ua/ua/p2461182833-ventilyator-upsiren-prism.html</url>
-<oldprice>290</oldprice>
-<price>240</price>
+<price>290</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649262</categoryId>
 <picture>https://images.prom.ua/6437626603_ventilyator-upsiren-uf-1.jpg</picture>
@@ -8443,8 +8325,7 @@
 </offer>
 <offer id="2461182835" available="true">
 <url>https://tera-flops.com.ua/ua/p2461182835-ventilyator-upsiren-prism.html</url>
-<oldprice>240</oldprice>
-<price>200</price>
+<price>240</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649262</categoryId>
 <picture>https://images.prom.ua/6437626614_ventilyator-upsiren-uf.jpg</picture>
@@ -8472,8 +8353,7 @@
 </offer>
 <offer id="2461182836" available="true">
 <url>https://tera-flops.com.ua/ua/p2461182836-ventilyator-upsiren-prism.html</url>
-<oldprice>245</oldprice>
-<price>200</price>
+<price>245</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649262</categoryId>
 <picture>https://images.prom.ua/6437626627_ventilyator-upsiren-uf.jpg</picture>
@@ -8501,8 +8381,7 @@
 </offer>
 <offer id="2461182837" available="true">
 <url>https://tera-flops.com.ua/ua/p2461182837-ventilyator-upsiren-prism.html</url>
-<oldprice>190</oldprice>
-<price>160</price>
+<price>190</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649262</categoryId>
 <picture>https://images.prom.ua/6437626609_ventilyator-upsiren-prism.jpg</picture>
@@ -8528,8 +8407,7 @@
 </offer>
 <offer id="2461182838" available="true">
 <url>https://tera-flops.com.ua/ua/p2461182838-ventilyator-upsiren-prism.html</url>
-<oldprice>199</oldprice>
-<price>160</price>
+<price>199</price>
 <currencyId>UAH</currencyId>
 <categoryId>97649262</categoryId>
 <picture>https://images.prom.ua/6437626621_ventilyator-upsiren-prism.jpg</picture>
@@ -9014,7 +8892,7 @@
 <delivery>true</delivery>
 <name>Mиша USB OPTICAL NITRO II NMW200 BLACK GP.MCE11.039 ACER</name>
 <vendor>Acer</vendor>
-<vendorCode>GP.MCE11.039</vendorCode>
+<vendorCode>0053417</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Состояние">Новое</param>
@@ -9188,7 +9066,7 @@
 <delivery>true</delivery>
 <name>Килимок для миші DM PAD L DREAM MACHINES</name>
 <vendor>Dream Machines</vendor>
-<vendorCode>DM_Pad_L</vendorCode>
+<vendorCode>DM_PAD_L</vendorCode>
 <param name="Материал поверхности">Ткань</param>
 <param name="Состояние">Новое</param>
 <param name="Цвет">Черный</param>
@@ -9205,7 +9083,7 @@
 <delivery>true</delivery>
 <name>Килимок для миші DM PAD XL DREAM MACHINES</name>
 <vendor>Dream Machines</vendor>
-<vendorCode>DM_Pad_XL</vendorCode>
+<vendorCode>DM_PAD_XL</vendorCode>
 <param name="Материал поверхности">Ткань</param>
 <param name="Состояние">Новое</param>
 <param name="Цвет">Черный</param>
@@ -9222,7 +9100,7 @@
 <delivery>true</delivery>
 <name>Килимок для миші DM PAD XXL DREAM MACHINES</name>
 <vendor>Dream Machines</vendor>
-<vendorCode>DM_Pad_XXL</vendorCode>
+<vendorCode>DM_PAD_XXL</vendorCode>
 <param name="Материал поверхности">Ткань</param>
 <param name="Состояние">Новое</param>
 <param name="Цвет">Черный</param>
@@ -9482,8 +9360,7 @@
 </offer>
 <offer id="2468104703" available="true">
 <url>https://tera-flops.com.ua/ua/p2468104703-klaviatura-drotova-aula.html</url>
-<oldprice>999</oldprice>
-<price>950</price>
+<price>1000</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763472</categoryId>
 <picture>https://images.prom.ua/6431855227_klaviatura-drotova-aula.jpg</picture>
@@ -9545,7 +9422,7 @@
 </offer>
 <offer id="2468104705" available="true">
 <url>https://tera-flops.com.ua/ua/p2468104705-klaviatura-drotova-aula.html</url>
-<price>1400</price>
+<price>1399</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763472</categoryId>
 <picture>https://images.prom.ua/6447066458_klaviatura-drotova-aula.jpg</picture>
@@ -9575,7 +9452,7 @@
 </offer>
 <offer id="2468104706" available="true">
 <url>https://tera-flops.com.ua/ua/p2468104706-klaviatura-drotova-aula.html</url>
-<price>750</price>
+<price>749</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763472</categoryId>
 <picture>https://images.prom.ua/6447066459_klaviatura-drotova-aula.jpg</picture>
@@ -9605,7 +9482,7 @@
 </offer>
 <offer id="2468104710" available="true">
 <url>https://tera-flops.com.ua/ua/p2468104710-misha-a4tech-fstyler.html</url>
-<price>253</price>
+<price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6447063111_misha-a4tech-fstyler.jpg</picture>
@@ -9633,8 +9510,7 @@
 </offer>
 <offer id="2468104713" available="true">
 <url>https://tera-flops.com.ua/ua/p2468104713-misha-aula-s13.html</url>
-<oldprice>270</oldprice>
-<price>250</price>
+<price>300</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6447067528_misha-aula-s13.jpg</picture>
@@ -9665,8 +9541,7 @@
 </offer>
 <offer id="2468105422" available="true">
 <url>https://tera-flops.com.ua/ua/p2468105422-klaviatura-drotova-aula.html</url>
-<oldprice>999</oldprice>
-<price>950</price>
+<price>1000</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763472</categoryId>
 <picture>https://images.prom.ua/6431857452_klaviatura-drotova-aula.jpg</picture>
@@ -9698,8 +9573,7 @@
 </offer>
 <offer id="2468105426" available="true">
 <url>https://tera-flops.com.ua/ua/p2468105426-misha-aula-f805.html</url>
-<oldprice>320</oldprice>
-<price>289</price>
+<price>400</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6447395686_misha-aula-f805.jpg</picture>
@@ -9729,8 +9603,7 @@
 </offer>
 <offer id="2468105427" available="true">
 <url>https://tera-flops.com.ua/ua/p2468105427-misha-aula-s12.html</url>
-<oldprice>245</oldprice>
-<price>235</price>
+<price>259</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6447061695_misha-aula-s12.jpg</picture>
@@ -9760,8 +9633,7 @@
 </offer>
 <offer id="2468105432" available="true">
 <url>https://tera-flops.com.ua/ua/p2468105432-klaviatura-drotova-aula.html</url>
-<oldprice>1150</oldprice>
-<price>1100</price>
+<price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763472</categoryId>
 <picture>https://images.prom.ua/6447061710_klaviatura-drotova-aula.jpg</picture>
@@ -9776,18 +9648,18 @@
 <param name="Состояние">Новое</param>
 <param name="Тип">Клавиатура</param>
 <param name="Подключение устройства">Проводное</param>
+<param name="Подсветка" unit="">RGB</param>
+<param name="Тип клавиатуры" unit="">Ігрова</param>
+<param name="Вага (г)" unit="">975</param>
+<param name="Розміри" unit="">323x143x43</param>
+<param name="Количество клавиш" unit="">80</param>
+<param name="Підключення" unit="">Дротове</param>
+<param name="Формат" unit="">Ультракомпактна</param>
+<param name="Перемикачі" unit="">KRGD Blue Switch (Clicky)</param>
+<param name="Тип клавиш" unit="">Механічний</param>
+<param name="Регулювання гучності" unit="">колесом</param>
 <param name="Anti-Ghosting" unit="">Да</param>
 <param name="Ігровий режим" unit="">Да</param>
-<param name="Вага (г)" unit="">975</param>
-<param name="Количество клавиш" unit="">80</param>
-<param name="Перемикачі" unit="">KRGD Blue Switch (Clicky)</param>
-<param name="Підключення" unit="">Дротове</param>
-<param name="Подсветка" unit="">RGB</param>
-<param name="Регулювання гучності" unit="">колесом</param>
-<param name="Розміри" unit="">323x143x43</param>
-<param name="Тип клавиатуры" unit="">Ігрова</param>
-<param name="Тип клавиш" unit="">Механічний</param>
-<param name="Формат" unit="">Ультракомпактна</param>
 </offer>
 <offer id="2468105437" available="true">
 <url>https://tera-flops.com.ua/ua/p2468105437-misha-aula-f812.html</url>
@@ -9851,7 +9723,7 @@
 </offer>
 <offer id="2468106241" available="true">
 <url>https://tera-flops.com.ua/ua/p2468106241-mishka-acer-omr031.html</url>
-<price>328</price>
+<price>329</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6467187512_mishka-acer-omr031.jpg</picture>
@@ -9904,7 +9776,7 @@
 <param name="Тип подключения" unit="">Бездротове</param>
 <param name="Тип сенсора" unit="">Оптичний</param>
 </offer>
-<offer id="2474599062" available="true">
+<offer id="2474599062" available="false">
 <url>https://tera-flops.com.ua/ua/p2474599062-misha-bezdrotova-logitech.html</url>
 <price>1659</price>
 <currencyId>UAH</currencyId>
@@ -10072,7 +9944,7 @@
 </offer>
 <offer id="2474600399" available="true">
 <url>https://tera-flops.com.ua/ua/p2474600399-misha-logitech-m235.html</url>
-<price>787</price>
+<price>786</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6456453085_misha-logitech-m235.jpg</picture>
@@ -10188,7 +10060,7 @@
 </offer>
 <offer id="2474600415" available="true">
 <url>https://tera-flops.com.ua/ua/p2474600415-misha-a4tech-bloody.html</url>
-<price>930</price>
+<price>929</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6456455279_misha-a4tech-bloody.jpg</picture>
@@ -10280,8 +10152,7 @@
 </offer>
 <offer id="2508195181" available="true">
 <url>https://tera-flops.com.ua/ua/p2508195181-zovnishnij-akumulyator-umb.html</url>
-<oldprice>2100</oldprice>
-<price>1800</price>
+<price>2100</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522645</categoryId>
 <picture>https://images.prom.ua/6505270674_zovnishnij-akumulyator-umb.jpg</picture>
@@ -10309,6 +10180,37 @@
 <param name="Кількість USB type C" unit="">2</param>
 <param name="Технології швидкої зарядки" unit="">Samsung Adaptive Fast Charging</param>
 <param name="Тип акумуляторів" unit="">Li-Pol</param>
+</offer>
+<offer id="2526116589" available="true">
+<url>https://tera-flops.com.ua/ua/p2526116589-klaviatura-gamepro-mk120.html</url>
+<price>1499</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763472</categoryId>
+<picture>https://images.prom.ua/6528487474_klaviatura-gamepro-mk120.jpg</picture>
+<picture>https://images.prom.ua/6528487475_klaviatura-gamepro-mk120.jpg</picture>
+<picture>https://images.prom.ua/6528487476_klaviatura-gamepro-mk120.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Клавіатура GamePro MK120 Red Switch USB Black (MK120R)</name>
+<vendor>GamePro</vendor>
+<vendorCode>MK120R</vendorCode>
+<param name="Интерфейс подключения">USB</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Клавиатура</param>
+<param name="Подсветка" unit="">RGB</param>
+<param name="Тип клавиатуры" unit="">Ігрова</param>
+<param name="Вага (г)" unit="">680</param>
+<param name="Розміри" unit="">385x135x35</param>
+<param name="Підключення" unit="">Дротове</param>
+<param name="Формат" unit="">Нестандартна</param>
+<param name="Перемикачі" unit="">Outemu Red (Linear)</param>
+<param name="Тип клавиш" unit="">Механічний</param>
+<param name="Регулювання гучності" unit="">через Fn</param>
+<param name="Anti-Ghosting" unit="">Да</param>
+<param name="Колір літер кирилиці" unit="">Білий</param>
+<param name="Ігровий режим" unit="">Да</param>
 </offer>
 <offer id="2441545874" available="true">
 <url>https://tera-flops.com.ua/ua/p2441545874-termoprokladka-fehonda-100x100x175mm.html</url>
