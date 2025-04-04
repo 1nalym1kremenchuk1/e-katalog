@@ -1,4 +1,4 @@
-<yml_catalog date="2025-03-25 14:30">
+<yml_catalog date="2025-04-04 17:03">
 <shop>
 <name>TeraFlops Store</name>
 <company>TeraFlops Store</company>
@@ -16,35 +16,36 @@
 <category id="124619026" parentId="124618909">Ремонт материнських плат</category>
 <category id="135329198" parentId="134490739">SFX 500W</category>
 <category id="135329200" parentId="130691870">GeForce GTX 200-Series</category>
+<category id="135329201" parentId="135329199">Контролери</category>
 <category id="141057510" parentId="140722112">Cooler Master</category>
 <category id="141057511" parentId="130691870">GeForce RTX 5000-Series</category>
 <category id="110907779" parentId="85763431">Підставки для ноутбуків</category>
 <category id="137447017" parentId="137447016">Готові збірки</category>
-<category id="135329201" parentId="135329199">Контролери</category>
-<category id="131923904" parentId="131148189">ATX 400W</category>
 <category id="137447016">Комп'ютери</category>
-<category id="131923905" parentId="131148189">ATX 405-490W</category>
-<category id="131923906" parentId="131148189">ATX 500W</category>
 <category id="131148190" parentId="131148186">Блоки живлення TFX</category>
 <category id="131923903" parentId="131148189">ATX 700-790W</category>
-<category id="132449582" parentId="131148189">ATX 390W і менше</category>
-<category id="132449583" parentId="131148190">TFX 390W і менше</category>
-<category id="134490739" parentId="131148186">Блоки живлення SFX</category>
+<category id="131923904" parentId="131148189">ATX 400W</category>
+<category id="131923905" parentId="131148189">ATX 405-490W</category>
+<category id="131923906" parentId="131148189">ATX 500W</category>
 <category id="131923907" parentId="131148189">ATX 505-590W</category>
 <category id="131923908" parentId="131148189">ATX 600-690W</category>
 <category id="131923909" parentId="131148189">ATX 800-950W</category>
 <category id="131923910" parentId="131148189">ATX 1000-1150W</category>
 <category id="131923911" parentId="131148189">ATX 1200W і більше</category>
-<category id="134490742" parentId="134490739">SFX 700-790W</category>
-<category id="134490743" parentId="134490739">SFX 800-950W</category>
+<category id="132449582" parentId="131148189">ATX 390W і менше</category>
+<category id="132449583" parentId="131148190">TFX 390W і менше</category>
+<category id="134490739" parentId="131148186">Блоки живлення SFX</category>
 <category id="134490740" parentId="134490739">SFX 390W і менше</category>
 <category id="134490741" parentId="134490739">SFX 600-690W</category>
+<category id="134490742" parentId="134490739">SFX 700-790W</category>
+<category id="134490743" parentId="134490739">SFX 800-950W</category>
+<category id="134490744" parentId="134490739">SFX 1000-1150W</category>
 <category id="134490745" parentId="134490739">SFX 1200W і більше</category>
 <category id="136200358" parentId="131148186">Блоки живлення Flex ATX</category>
 <category id="131148186">Блоки живлення</category>
-<category id="134490744" parentId="134490739">SFX 1000-1150W</category>
-<category id="131148187">Системи охолодження</category>
 <category id="132256965" parentId="131148187">Повітряне охолодження</category>
+<category id="131148187">Системи охолодження</category>
+<category id="132693937" parentId="131730126">FPV дрони</category>
 <category id="132693861" parentId="132693858">Відеопередавачі</category>
 <category id="121350875" parentId="85763475">Комплектуючі мережевого обладнання</category>
 <category id="134047383" parentId="134047380">Midi-Tower</category>
@@ -54,64 +55,42 @@
 <category id="135329199" parentId="134047380">Аксесуари для корпусу</category>
 <category id="134047380">Корпуси</category>
 <category id="111153132" parentId="85423690">Робочі станції</category>
-<category id="132693937" parentId="131730126">FPV дрони</category>
 <category id="133500533">Батарейки, акумулятори</category>
 <category id="136600672" parentId="135661374">2011</category>
 <category id="136600673" parentId="135661374">2011v3</category>
-<category id="96633151" parentId="96479117">Материнські плати під 12 і більше відеокарт</category>
 <category id="85423470" parentId="85423690">ІГРОВІ ПК</category>
 <category id="85423602" parentId="85423690">ПК ДЛЯ РОБОТИ</category>
+<category id="96633151" parentId="96479117">Материнські плати під 12 і більше відеокарт</category>
+<category id="132973411" parentId="112486618">Сонячні панелі</category>
 <category id="102528810" parentId="93563174">Кабелі мультимедійні</category>
 <category id="132741360">Повербанки</category>
-<category id="132973411" parentId="112486618">Сонячні панелі</category>
 <category id="85763472" parentId="85763431">Клавіатури</category>
 <category id="85763470" parentId="85763431">Монітори</category>
 <category id="85763471" parentId="85763431">Миші</category>
 <category id="85763473" parentId="85763431">Навушники</category>
 <category id="96634944" parentId="96478524">Контролери та перехідники для майнінгу</category>
 <category id="97643182" parentId="85364265">DDR4</category>
-<category id="130691868" parentId="128988099">Відеокарти</category>
 <category id="132526239">Зарядні станції</category>
-<category id="130691869" parentId="130691868">AMD Radeon</category>
-<category id="130691870" parentId="130691868">Nvidia GeForce</category>
 <category id="133512176" parentId="85423690">Сервери</category>
-<category id="132256966" parentId="131315093">Socket AM3</category>
-<category id="132256967" parentId="131315093">Socket AM3+</category>
 <category id="132256969" parentId="130196684">LGA 1150</category>
-<category id="132256968" parentId="131315093">Socket AM5</category>
-<category id="132256971" parentId="130196684">LGA 1156</category>
 <category id="132256972" parentId="130196684">LGA 1200</category>
-<category id="132256973" parentId="130196684">LGA 2011</category>
-<category id="132256975" parentId="130691869">Radeon RX 5000</category>
-<category id="128988099">Відеокарти та аксесуари</category>
 <category id="132295204" parentId="130691869">Radeon RX 400</category>
-<category id="132295205" parentId="130691869">Radeon RX 500</category>
-<category id="132295206" parentId="130691869">Radeon RX 6000</category>
-<category id="132295207" parentId="130691869">Radeon RX Vega</category>
-<category id="132256970" parentId="130196684">LGA 1155</category>
-<category id="132295209" parentId="130691870">GeForce GTX 1600-Series</category>
-<category id="132295210" parentId="130691870">GeForce GTX 600-Series</category>
-<category id="132295211" parentId="130691870">GeForce GTX 700-Series</category>
-<category id="132295212" parentId="130691870">GeForce GTX 900-Series</category>
-<category id="132295213" parentId="130691870">GeForce RTX 2000-Series</category>
-<category id="132295214" parentId="130691870">GeForce RTX 3000-Series</category>
 <category id="139539018">Офіс</category>
 <category id="139539019" parentId="139539018">Витратні матеріали</category>
-<category id="130196683">Материнські плати</category>
-<category id="132295208" parentId="130691870">GeForce GTX 1000-Series</category>
-<category id="130196684" parentId="130196683">Материнські плати Intel</category>
-<category id="140955433" parentId="133007151">Bluetooth-адаптери</category>
 <category id="130196686" parentId="130196684">LGA 1151v1</category>
 <category id="130196687" parentId="130196684">LGA 1151v2</category>
+<category id="140955433" parentId="133007151">Bluetooth-адаптери</category>
 <category id="136530251" parentId="132693858">Передавачі</category>
+<category id="97643639" parentId="85364276">SSD</category>
 <category id="134240661" parentId="134240658">DDR3</category>
 <category id="134240662" parentId="134240658">DDR4</category>
 <category id="134240663" parentId="134240658">DDR5</category>
 <category id="139200343" parentId="131923916">HDD 2.5"</category>
-<category id="97643639" parentId="85364276">SSD</category>
 <category id="139200344" parentId="131923919">HDD 3.5" 3000</category>
 <category id="139200345" parentId="131923919">HDD 3.5" 4000</category>
 <category id="139200346" parentId="131923919">HDD 3.5" 6000</category>
+<category id="139200347" parentId="131923919">HDD 3.5" 10000</category>
+<category id="139200348" parentId="131923919">HDD 3.5" 12000</category>
 <category id="139200349" parentId="131923919">HDD 3.5" 14000</category>
 <category id="139200350" parentId="139200343">HDD 2.5" 450 і менше</category>
 <category id="139200351" parentId="139200343">HDD 2.5" 500</category>
@@ -140,12 +119,13 @@
 <category id="111635450" parentId="93563174">Кабелі інтернета (патч-корди)</category>
 <category id="116072726" parentId="116597011">Системи охолодження відеокарт</category>
 <category id="97643641" parentId="85364276">SSD M. 2</category>
-<category id="139200347" parentId="131923919">HDD 3.5" 10000</category>
-<category id="139200348" parentId="131923919">HDD 3.5" 12000</category>
 <category id="116325555" parentId="116597011">Вентилятори для відеокарт</category>
 <category id="108121065" parentId="85364265">DDR5</category>
 <category id="131730126">FPV дрони та комплектуючі</category>
 <category id="85423625" parentId="85423690">ПК для Дому/Роботи</category>
+<category id="140708572" parentId="131923919">HDD 3.5" 18000</category>
+<category id="140708573" parentId="131923919">HDD 3.5" 20000 і більше</category>
+<category id="140708574" parentId="137926819">Arctic</category>
 <category id="140708575" parentId="137926819">Gelid</category>
 <category id="140708576" parentId="137926819">EKWB</category>
 <category id="140708577" parentId="137926819">Zezzio</category>
@@ -161,27 +141,21 @@
 <category id="141106627">Мережеве обладнання</category>
 <category id="125067175" parentId="85763431">Ігрові крісла</category>
 <category id="139651237" parentId="135329199">Пилові фільтри</category>
-<category id="140312451" parentId="85763431">Картрідери і USB-хаби</category>
+<category id="140312451">Картрідери і USB-хаби</category>
 <category id="85328850">Комплектуючі для ПК</category>
 <category id="85763431">Комп'ютерна периферія</category>
 <category id="87698682">Послуги</category>
 <category id="89331843">Ноутбуки</category>
 <category id="96478524">Обладнання для майнінг</category>
-<category id="133570186" parentId="133007151">Перехідники, адаптери, кабелі</category>
 <category id="139655964" parentId="133007151">Крісла для геймерів</category>
-<category id="138033489" parentId="133007151">Клавіатури</category>
-<category id="130269255" parentId="130196684">LGA 2011v3</category>
-<category id="140708572" parentId="131923919">HDD 3.5" 18000</category>
-<category id="140708573" parentId="131923919">HDD 3.5" 20000 і більше</category>
-<category id="140708574" parentId="137926819">Arctic</category>
-<category id="130269256" parentId="130196684">LGA 2066</category>
 <category id="99228566" parentId="85364272">Термопасти</category>
-<category id="132948810" parentId="132693858">Ініціатори</category>
 <category id="128410987" parentId="85328986">Підставки для відеокарт</category>
+<category id="132948810" parentId="132693858">Ініціатори</category>
 <category id="128411779" parentId="85364272">Термопрокладки</category>
-<category id="141274785" parentId="85763475">Маршрутизатори та роутери</category>
-<category id="131918707" parentId="131730126">Запчастини до FPV дронів</category>
 <category id="97644266" parentId="85364244">Socket 2011v1</category>
+<category id="141274785" parentId="85763475">Маршрутизатори та роутери</category>
+<category id="131918712" parentId="131918707">Мотори для FPV дронів</category>
+<category id="131918707" parentId="131730126">Запчастини до FPV дронів</category>
 <category id="131918716" parentId="131918707">Приймачі сигналу для FPV дронів</category>
 <category id="131918709" parentId="131918707">Антени для FPV дронів</category>
 <category id="131918710" parentId="131918707">Відеопередавачі</category>
@@ -189,13 +163,12 @@
 <category id="131918713" parentId="131918707">Пропелери для дронів</category>
 <category id="131918714" parentId="131918707">Рами для FPV дронів</category>
 <category id="131918715" parentId="131918707">Політні контролери (стек) для FPV дронів</category>
-<category id="133007151">Периферія</category>
-<category id="133007152" parentId="133007151">Килими для миші та ігрові поверхні</category>
-<category id="131918712" parentId="131918707">Мотори для FPV дронів</category>
-<category id="131923902" parentId="131148186">Блоки живлення для майнінгу</category>
 <category id="131923915" parentId="131923912">SSD внутрішні</category>
 <category id="131923916" parentId="131923913">HDD внутрішні</category>
+<category id="131923902" parentId="131148186">Блоки живлення для майнінгу</category>
 <category id="131923912">SSD накопичувач</category>
+<category id="131923917" parentId="131923915">SSD 2.5"</category>
+<category id="131923918" parentId="131923915">SSD M.2</category>
 <category id="131923920" parentId="131923917">SSD 2.5" 118 і менше</category>
 <category id="131923921" parentId="131923917">SSD 2.5" 120-128</category>
 <category id="131923922" parentId="131923917">SSD 2.5" 240-280</category>
@@ -203,25 +176,26 @@
 <category id="131923924" parentId="131923917">SSD 2.5" 960-1050</category>
 <category id="131923925" parentId="131923918">SSD M.2 240-280</category>
 <category id="131923926" parentId="131923918">SSD M.2 480-525</category>
-<category id="131923917" parentId="131923915">SSD 2.5"</category>
-<category id="131923918" parentId="131923915">SSD M.2</category>
 <category id="131923927" parentId="131923918">SSD M.2 1920-2048</category>
 <category id="131923928" parentId="131923919">HDD 3.5" 1000</category>
 <category id="131923929" parentId="131923919">HDD 3.5" 450 і менше</category>
 <category id="131923930" parentId="131923919">HDD 3.5" 500</category>
 <category id="131923931" parentId="131923919">HDD 3.5" 2000</category>
 <category id="133045617" parentId="112486618">Акумулятори та батарейки</category>
+<category id="133045619" parentId="112486618">Стабілізатори напруги</category>
 <category id="132522645" parentId="112486618">Павербанки</category>
 <category id="140999260" parentId="140722112">Fehonda</category>
-<category id="133045619" parentId="112486618">Стабілізатори напруги</category>
 <category id="112486618">Зарядні пристрої</category>
+<category id="131148189" parentId="131148186">Блоки живлення ATX</category>
 <category id="131271458" parentId="85364272">Охолодження накопичувачів</category>
 <category id="133127021">ДБЖ</category>
-<category id="131148189" parentId="131148186">Блоки живлення ATX</category>
-<category id="131315093" parentId="130196683">Материнські плати AMD</category>
-<category id="131315095" parentId="130196684">LGA 1700</category>
-<category id="131315099" parentId="131315093">Socket AM4</category>
 <category id="137076530" parentId="132693858">Аналізатори спектру</category>
+<category id="130691870" parentId="130691868">Nvidia GeForce</category>
+<category id="132295214" parentId="130691870">GeForce RTX 3000-Series</category>
+<category id="133007152" parentId="133007151">Килими для миші та ігрові поверхні</category>
+<category id="133570186" parentId="133007151">Перехідники, адаптери, кабелі</category>
+<category id="138033489" parentId="133007151">Клавіатури</category>
+<category id="133007151">Периферія</category>
 <category id="133045618" parentId="112486618">Джерела безперебійного живлення</category>
 <category id="97644297" parentId="85364244">Socket AM3+</category>
 <category id="140722112" parentId="131148187">Термопаста</category>
@@ -238,6 +212,7 @@
 <category id="140722123" parentId="140722112">Gembird</category>
 <category id="140722124" parentId="140722112">Prolimatech</category>
 <category id="140722125" parentId="140722112">Titan</category>
+<category id="133294369">Стабілізатори напруги</category>
 <category id="136063147" parentId="135661374">1150</category>
 <category id="136063148" parentId="135661374">1151v2</category>
 <category id="136063149" parentId="135661374">1155</category>
@@ -264,7 +239,6 @@
 <category id="97644301" parentId="85364244">Socket FM2</category>
 <category id="99852172" parentId="85364244">З вбудованим процесором</category>
 <category id="103890620" parentId="85364244">Socket 1700</category>
-<category id="133294369">Стабілізатори напруги</category>
 <category id="109497972" parentId="85364244">Socket TR4/TRX4</category>
 <category id="109532342" parentId="85364244">Socket AM2</category>
 <category id="109532343" parentId="85364244">Socket AM2+</category>
@@ -273,83 +247,98 @@
 <category id="128444432" parentId="85364244">Socket FM2+</category>
 <category id="136501834" parentId="112486618">Батареї для ДБЖ</category>
 <category id="133000691" parentId="132693858">АКБ</category>
-<category id="134121160" parentId="130196684">З інтегрованим процесором Intel</category>
 <category id="134615720" parentId="130691869">Radeon R-Series</category>
-<category id="134615721" parentId="130691869">Radeon RX 7000</category>
-<category id="134615722" parentId="130691870">GeForce RTX 4000-Series</category>
-<category id="134615723" parentId="130691870">Nvidia Quadro</category>
-<category id="134615724" parentId="134615723">Quadro</category>
-<category id="134615725" parentId="134615723">RTX Quadro</category>
-<category id="135492324" parentId="130196684">Аксесуари для материнських плат</category>
-<category id="135086065" parentId="131315093">Socket FM2</category>
-<category id="135086066" parentId="130196684">LGA 775</category>
-<category id="134240666" parentId="134240659">SODIMM DDR5</category>
 <category id="134888222" parentId="133007151">Миші</category>
+<category id="134240666" parentId="134240659">SODIMM DDR5</category>
 <category id="134240667" parentId="134240660">DDR4 ECC REG</category>
-<category id="134240655" parentId="134240653">SSD mSata 240-280</category>
 <category id="134240648" parentId="131923912">SSD зовнішні</category>
 <category id="134240649" parentId="131923917">SSD 2.5" 1920-2048</category>
 <category id="134240650" parentId="131923917">SSD 2.5" 3840-4096</category>
 <category id="134240651" parentId="131923918">SSD M.2 960-1050</category>
 <category id="134240652" parentId="131923918">SSD M.2 3840-4096</category>
 <category id="134240653" parentId="131923915">SSD mSata</category>
-<category id="134240656" parentId="134240653">SSD mSata 480-525</category>
 <category id="134240654">Оперативна пам'ять</category>
+<category id="134240655" parentId="134240653">SSD mSata 240-280</category>
+<category id="134240656" parentId="134240653">SSD mSata 480-525</category>
 <category id="134240657" parentId="134240653">SSD mSata 960-1050</category>
 <category id="134240658" parentId="134240654">Пам'ять для ПК</category>
 <category id="134240659" parentId="134240654">Пам'ять для ноутбуків</category>
 <category id="134240660" parentId="134240654">Серверна пам'ять</category>
+<category id="134240664" parentId="134240659">SODIMM DDR3</category>
+<category id="134240665" parentId="134240659">SODIMM DDR4</category>
 <category id="134241840" parentId="85364265">DDR5 SO-DIMM</category>
 <category id="138885635" parentId="134490739">SFX 505-590W</category>
 <category id="134263332" parentId="132693858">Система скиду боєприпасів</category>
 <category id="134777283" parentId="131923912">SSD серверні</category>
-<category id="134240664" parentId="134240659">SODIMM DDR3</category>
-<category id="134240665" parentId="134240659">SODIMM DDR4</category>
-<category id="134993993" parentId="134490739">SFX 400W</category>
 <category id="134777284" parentId="134777283">2.5"</category>
+<category id="134993993" parentId="134490739">SFX 400W</category>
 <category id="135559948" parentId="134490739">SFX 405-490W</category>
-<category id="134721562" parentId="134721561">Діагональ 23 - 23.8</category>
 <category id="134721561">Монітори</category>
+<category id="134721562" parentId="134721561">Діагональ 23 - 23.8</category>
+<category id="134721563" parentId="134721561">Діагональ 31 - 32</category>
 <category id="138069870" parentId="132693858">Станція керування FPV</category>
 <category id="137157859" parentId="131148187">Вентилятори для корпусів</category>
-<category id="134721563" parentId="134721561">Діагональ 31 - 32</category>
 <category id="134389610" parentId="131923918">SSD M.2 120-128</category>
-<category id="133479176" parentId="112486618">Зарядки для акумуляторних батарейок</category>
-<category id="134870766" parentId="131315093">Socket TRX4</category>
-<category id="134870767" parentId="131315093">Socket TR4</category>
-<category id="134019583" parentId="112486618">Мережеві фільтри</category>
 <category id="137725828" parentId="134240660">DDR5 ECC REG</category>
 <category id="137192291" parentId="131148187">Водяне охолодження</category>
 <category id="134877151" parentId="131315093">Socket FM2+</category>
 <category id="134877152" parentId="131315093">Socket FM1</category>
 <category id="134877153" parentId="134240660">DDR3 ECC REG</category>
+<category id="132256975" parentId="130691869">Radeon RX 5000</category>
+<category id="132295205" parentId="130691869">Radeon RX 500</category>
+<category id="132295206" parentId="130691869">Radeon RX 6000</category>
+<category id="132295207" parentId="130691869">Radeon RX Vega</category>
+<category id="132295208" parentId="130691870">GeForce GTX 1000-Series</category>
+<category id="132295209" parentId="130691870">GeForce GTX 1600-Series</category>
+<category id="132295210" parentId="130691870">GeForce GTX 600-Series</category>
+<category id="132295211" parentId="130691870">GeForce GTX 700-Series</category>
+<category id="132295212" parentId="130691870">GeForce GTX 900-Series</category>
+<category id="132295213" parentId="130691870">GeForce RTX 2000-Series</category>
+<category id="134615721" parentId="130691869">Radeon RX 7000</category>
+<category id="134615722" parentId="130691870">GeForce RTX 4000-Series</category>
+<category id="134615723" parentId="130691870">Nvidia Quadro</category>
+<category id="134615724" parentId="134615723">Quadro</category>
+<category id="134615725" parentId="134615723">RTX Quadro</category>
+<category id="137482523" parentId="130691869">Radeon HD-Series</category>
+<category id="139844022" parentId="139646929">Підставки для відеокарт</category>
+<category id="128988099">Відеокарти та аксесуари</category>
+<category id="130196684" parentId="130196683">Материнські плати Intel</category>
+<category id="130269255" parentId="130196684">LGA 2011v3</category>
+<category id="130269256" parentId="130196684">LGA 2066</category>
+<category id="131315093" parentId="130196683">Материнські плати AMD</category>
+<category id="131315095" parentId="130196684">LGA 1700</category>
+<category id="131315099" parentId="131315093">Socket AM4</category>
+<category id="132256966" parentId="131315093">Socket AM3</category>
+<category id="132256967" parentId="131315093">Socket AM3+</category>
+<category id="132256968" parentId="131315093">Socket AM5</category>
+<category id="132256970" parentId="130196684">LGA 1155</category>
+<category id="132256971" parentId="130196684">LGA 1156</category>
+<category id="132256973" parentId="130196684">LGA 2011</category>
+<category id="134121160" parentId="130196684">З інтегрованим процесором Intel</category>
+<category id="134870766" parentId="131315093">Socket TRX4</category>
+<category id="134870767" parentId="131315093">Socket TR4</category>
+<category id="135086065" parentId="131315093">Socket FM2</category>
+<category id="135086066" parentId="130196684">LGA 775</category>
+<category id="135492324" parentId="130196684">Аксесуари для материнських плат</category>
+<category id="130196683">Материнські плати</category>
 <category id="132522449" parentId="112486618">Портативні зарядні станції</category>
 <category id="135661375" parentId="135661374">1151v1</category>
-<category id="136200359" parentId="136200358">Flex ATX 390W і менше</category>
 <category id="141468278" parentId="130691869">Radeon RX 9000</category>
 <category id="141106628" parentId="85763475">Wi-Fi адаптери</category>
 <category id="141106629" parentId="85763475">Точки доступу</category>
-<category id="85330301" parentId="85328850">Процесори</category>
-<category id="85364282" parentId="85328850">Корпуси</category>
-<category id="97641447" parentId="85330301">LGA 1200</category>
-<category id="131386276" parentId="85330301">Socket AM5</category>
-<category id="97640686" parentId="85330301">LGA 1150</category>
-<category id="97641434" parentId="85330301">LGA 1151v2</category>
-<category id="97641514" parentId="85330301">LGA 2011v3</category>
-<category id="97642378" parentId="85330301">Socket FM2</category>
-<category id="107182575" parentId="85330301">Socket FM2+</category>
-<category id="103891356" parentId="85330301">LGA 1700</category>
-<category id="97641458" parentId="85330301">LGA 2011v1</category>
-<category id="97641530" parentId="85330301">Socket AM3</category>
-<category id="97641533" parentId="85330301">Socket AM3+</category>
-<category id="131386275" parentId="85330301">Socket AM4</category>
+<category id="141738904" parentId="139200343">HDD 2.5" 5000</category>
+<category id="141738905" parentId="140722112">Xilence</category>
 <category id="135772119" parentId="135661374">1200</category>
 <category id="135772120" parentId="135661374">1700</category>
-<category id="132693866" parentId="132693858">Інструменти</category>
+<category id="85364282" parentId="85328850">Корпуси</category>
 <category id="135315535" parentId="131923912">SAS SSD</category>
+<category id="136200359" parentId="136200358">Flex ATX 390W і менше</category>
+<category id="133479176" parentId="112486618">Зарядки для акумуляторних батарейок</category>
+<category id="134019583" parentId="112486618">Мережеві фільтри</category>
+<category id="132693866" parentId="132693858">Інструменти</category>
+<category id="135916900" parentId="132693858">Тепловізори</category>
 <category id="135315536" parentId="134777283">U.2 / U.3</category>
 <category id="135315537" parentId="131923917">SSD 2.5" 5000 і більше</category>
-<category id="135916900" parentId="132693858">Тепловізори</category>
 <category id="132693858">FPV та комплектуючі</category>
 <category id="132693860" parentId="132693858">Стек</category>
 <category id="132693862" parentId="132693858">Камери</category>
@@ -359,49 +348,63 @@
 <category id="132693867" parentId="132693858">Пульти керування</category>
 <category id="134804583" parentId="132693858">Друк</category>
 <category id="132693859" parentId="132693858">Рами</category>
-<category id="132693870" parentId="132693858">Приймачі</category>
+<category id="132693868" parentId="132693858">Окуляри</category>
+<category id="135897181" parentId="132693858">FPV дрони та квадрокоптери</category>
 <category id="137790897" parentId="130196684">LGA 1851</category>
 <category id="138583447" parentId="133007151">Комплект (клавіатура + миша)</category>
 <category id="136950194" parentId="134240653">SSD mSata 120-128</category>
-<category id="132693868" parentId="132693858">Окуляри</category>
-<category id="135897181" parentId="132693858">FPV дрони та квадрокоптери</category>
+<category id="141599950" parentId="131315093">Socket AM2+</category>
+<category id="130691869" parentId="130691868">AMD Radeon</category>
+<category id="130691868" parentId="128988099">Відеокарти</category>
+<category id="138229040" parentId="135661374">1851</category>
 <category id="139044837" parentId="131923919">HDD 3.5" 8000</category>
 <category id="131923919" parentId="131923916">HDD 3.5"</category>
 <category id="131923913">HDD накопичувачі</category>
 <category id="137926819" parentId="131148187">Термопрокладки</category>
 <category id="137926820" parentId="137926819">Fehonda</category>
-<category id="139844022" parentId="139646929">Підставки для відеокарт</category>
-<category id="137482523" parentId="130691869">Radeon HD-Series</category>
 <category id="138230350" parentId="85330301">LGA 1851</category>
 <category id="85364272" parentId="85328850">Кулери і системи охолодження</category>
 <category id="138445498" parentId="133007151">Навушники</category>
-<category id="85364265" parentId="85328850">Оперативна пам'ять</category>
 <category id="109454560" parentId="85330301">LGA 2066</category>
-<category id="138229040" parentId="135661374">1851</category>
+<category id="85364265" parentId="85328850">Оперативна пам'ять</category>
+<category id="85330301" parentId="85328850">Процесори</category>
+<category id="97641447" parentId="85330301">LGA 1200</category>
+<category id="97641458" parentId="85330301">LGA 2011v1</category>
+<category id="131386275" parentId="85330301">Socket AM4</category>
+<category id="97640686" parentId="85330301">LGA 1150</category>
+<category id="97641434" parentId="85330301">LGA 1151v2</category>
+<category id="103891356" parentId="85330301">LGA 1700</category>
+<category id="97641514" parentId="85330301">LGA 2011v3</category>
+<category id="97642378" parentId="85330301">Socket FM2</category>
+<category id="107182575" parentId="85330301">Socket FM2+</category>
+<category id="97641530" parentId="85330301">Socket AM3</category>
+<category id="97641533" parentId="85330301">Socket AM3+</category>
+<category id="131386276" parentId="85330301">Socket AM5</category>
 <category id="135661374" parentId="85330301">Процесори Intel</category>
-<category id="139200342" parentId="131923913">HDD зовнішні</category>
 <category id="140312452" parentId="140312451">USB-хаби</category>
 <category id="140312453" parentId="140312451">Картрідери</category>
+<category id="139200342" parentId="131923913">HDD зовнішні</category>
+<category id="97641453" parentId="85330301">LGA 1356</category>
 <category id="139962433" parentId="85763431">Засоби для чищення техніки</category>
 <category id="139962434" parentId="139962433">Чистячі набори</category>
 <category id="139962435" parentId="139962433">Серветки</category>
-<category id="97641453" parentId="85330301">LGA 1356</category>
+<category id="107166007" parentId="85330301">Socket AM2+</category>
 <category id="85328986" parentId="85328850">Відеокарти</category>
 <category id="140515566" parentId="133007151">Тримач для кабелю</category>
-<category id="107166007" parentId="85330301">Socket AM2+</category>
 <category id="138313212" parentId="132526239">Аксесуари до зарядних станцій</category>
 <category id="85364281" parentId="85328850">Жорсткі диски</category>
-<category id="140508401" parentId="131923919">HDD 3.5" 16000</category>
 <category id="85364275" parentId="85328850">Блоки живлення</category>
+<category id="140508401" parentId="131923919">HDD 3.5" 16000</category>
 <category id="97641455" parentId="85330301">LGA 1366</category>
-<category id="101264478" parentId="85330301">Socket TR4</category>
-<category id="135772118" parentId="85330301">Процесори AMD</category>
+<category id="132693870" parentId="132693858">Приймачі</category>
 <category id="85364276" parentId="85328850">SSD накопичувачі</category>
-<category id="97641444" parentId="85330301">LGA 1156</category>
 <category id="97641439" parentId="85330301">LGA 1155</category>
+<category id="97641444" parentId="85330301">LGA 1156</category>
 <category id="116597011" parentId="85328850">Комплектуючі до відеокарт</category>
 <category id="85364244" parentId="85328850">Материнські плати</category>
 <category id="97640692" parentId="85330301">LGA 1151v1</category>
+<category id="101264478" parentId="85330301">Socket TR4</category>
+<category id="135772118" parentId="85330301">Процесори AMD</category>
 </categories>
 <offers>
 <offer id="2045811636" available="true">
@@ -502,7 +505,7 @@
 </offer>
 <offer id="2257623472" available="true" group_id="797078515">
 <url>https://tera-flops.com.ua/ua/p2257623472-zaryadna-stantsiya-bluetti.html</url>
-<price>27800</price>
+<price>27699</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522449</categoryId>
 <picture>https://images.prom.ua/6528804870_zaryadna-stantsiya-bluetti.jpg</picture>
@@ -537,7 +540,7 @@
 </offer>
 <offer id="2257623473" available="true" group_id="200135144">
 <url>https://tera-flops.com.ua/ua/p2257623473-zaryadna-stantsiya-bluetti.html</url>
-<price>7400</price>
+<price>6599</price>
 <currencyId>UAH</currencyId>
 <categoryId>132522449</categoryId>
 <picture>https://images.prom.ua/5998266670_zaryadna-stantsiya-bluetti.jpg</picture>
@@ -668,6 +671,42 @@
 <param name="Передняя панель" unit="">Сталь</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
+<offer id="2308816828" available="true">
+<url>https://tera-flops.com.ua/ua/p2308816828-korpus-gamemax-mt521.html</url>
+<price>1079</price>
+<currencyId>UAH</currencyId>
+<categoryId>85364282</categoryId>
+<picture>https://images.prom.ua/6175134554_korpus-gamemax-mt521-np.jpg</picture>
+<picture>https://images.prom.ua/6175134556_korpus-gamemax-mt521-np.jpg</picture>
+<picture>https://images.prom.ua/6175134559_korpus-gamemax-mt521-np.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Корпус GAMEMAX MT521-NP Black (MT521-NP)</name>
+<vendor>Gamemax</vendor>
+<vendorCode>MT521-NP</vendorCode>
+<param name="Гарантийный срок" unit="мес">24</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
+<param name="Материал корпуса">Сталь</param>
+<param name="Слоты расширения" unit="шт">7</param>
+<param name="Состояние">Новое</param>
+<param name="Типоразмер">Midi-Tower</param>
+<param name="Форм-фактор">microATX</param>
+<param name="Цвет корпуса">Черный</param>
+<param name="USB 2.0" unit="">2</param>
+<param name="USB 3.2" unit="">1</param>
+<param name="Блок питания" unit="">Нет</param>
+<param name="Вес (кг)" unit="">3,5</param>
+<param name="Выход на наушники" unit="">Є</param>
+<param name="Вхід для мікрофона" unit="">Є</param>
+<param name="Габариты (мм)" unit="">370x180x412</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
+<param name="Матеріал боковини" unit="">Сталь</param>
+<param name="Можливість встановлення довгих відеокарт (мм)" unit="">330</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">1х 120 мм / позаду</param>
+<param name="Назначение" unit="">Офісний</param>
+<param name="Передняя панель" unit="">Гратчаста</param>
+<param name="Расположение" unit="">Верхнє</param>
+</offer>
 <offer id="2308816831" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816831-korpus-fractal-design.html</url>
 <price>5269</price>
@@ -743,83 +782,6 @@
 <param name="Особенности" unit="">Пилові фільтри</param>
 <param name="Передняя панель" unit="">Сталь</param>
 <param name="Расположение" unit="">Нижнє</param>
-</offer>
-<offer id="2308816842" available="true">
-<url>https://tera-flops.com.ua/ua/p2308816842-korpus-gamemax-209.html</url>
-<price>1579</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6539631502_korpus-gamemax-et-209.jpg</picture>
-<picture>https://images.prom.ua/6539631503_korpus-gamemax-et-209.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус GAMEMAX ET-209 450W Black (ET-209-450)</name>
-<vendor>Gamemax</vendor>
-<vendorCode>ET-209-450</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5">3</param>
-<param name="Материал корпуса">Сталь</param>
-<param name="Назначение">Рабочая станция</param>
-<param name="Слоты расширения" unit="шт">7</param>
-<param name="Состояние">Новое</param>
-<param name="Типоразмер">Midi-Tower</param>
-<param name="Форм-фактор">ATX</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="USB 2.0" unit="">2</param>
-<param name="Блок питания" unit="">450W</param>
-<param name="Вес (кг)" unit="">3,45</param>
-<param name="Вбудовані вентилятори/розташування" unit="">1</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="Вхід для мікрофона" unit="">Є</param>
-<param name="Габариты (мм)" unit="">405 x 330 x 175</param>
-<param name="Картрідер" unit="">Немає</param>
-<param name="Кількість 2,5 відсіків" unit="">2</param>
-<param name="Максимальна висота процесорного кулера (мм)" unit="">148</param>
-<param name="Матеріал боковини" unit="">Сталь</param>
-<param name="Можливість встановлення довгих відеокарт (мм)" unit="">230</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">3</param>
-<param name="Особенности" unit="">Пилові фільтри</param>
-<param name="Передняя панель" unit="">Сталь</param>
-<param name="Расположение" unit="">Верхнє</param>
-</offer>
-<offer id="2308816869" available="true">
-<url>https://tera-flops.com.ua/ua/p2308816869-korpus-gamemax-g563.html</url>
-<price>1929</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6175190774_korpus-gamemax-g563.jpg</picture>
-<picture>https://images.prom.ua/6175190777_korpus-gamemax-g563.jpg</picture>
-<picture>https://images.prom.ua/6224399778_korpus-gamemax-g563.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус GAMEMAX G563 Window Black (G563)</name>
-<vendor>Gamemax</vendor>
-<vendorCode>G563</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Количество внутренних отсеков 3,5">2</param>
-<param name="Материал корпуса">Сталь</param>
-<param name="Назначение">Игровой</param>
-<param name="Слоты расширения" unit="шт">7</param>
-<param name="Состояние">Новое</param>
-<param name="Типоразмер">Midi-Tower</param>
-<param name="Форм-фактор">Mini-ITX</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="USB 2.0" unit="">2</param>
-<param name="USB 3.2" unit="">1</param>
-<param name="Блок питания" unit="">Нет</param>
-<param name="Вес (кг)" unit="">4</param>
-<param name="Вбудовані вентилятори/розташування" unit="">3х120мм / на передній панелі, 1х120мм / ззаду</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="Вхід для мікрофона" unit="">Є</param>
-<param name="Габариты (мм)" unit="">418х200х452</param>
-<param name="Кількість 2,5 відсіків" unit="">2</param>
-<param name="Максимальна висота процесорного кулера (мм)" unit="">160</param>
-<param name="Матеріал боковини" unit="">Акрил</param>
-<param name="Можливість встановлення довгих відеокарт (мм)" unit="">360</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">2х120мм / на передній панелі, 1х120мм / ззаду</param>
-<param name="Особенности" unit="">Пилові фільтри</param>
-<param name="Передняя панель" unit="">Акрил</param>
-<param name="Расположение" unit="">Верхнє</param>
 </offer>
 <offer id="2308816872" available="true">
 <url>https://tera-flops.com.ua/ua/p2308816872-korpus-fractal-design.html</url>
@@ -1748,43 +1710,6 @@
 <param name="Передняя панель" unit="">Гратчаста</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
-<offer id="2308817876" available="true">
-<url>https://tera-flops.com.ua/ua/p2308817876-korpus-lian-o11.html</url>
-<price>6499</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6550763844_korpus-lian-li.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус Lian Li PC-O11 Dynamic Air Mini White (G99.O11AMW.00)</name>
-<vendor>Lian Li</vendor>
-<vendorCode>G99.O11AMW.00</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5">6</param>
-<param name="Материал корпуса">Сталь</param>
-<param name="Назначение">Игровой</param>
-<param name="Слоты расширения" unit="шт">7</param>
-<param name="Состояние">Новое</param>
-<param name="Типоразмер">Midi-Tower</param>
-<param name="Цвет корпуса">Белый</param>
-<param name="Форм-фактор">ATX</param>
-<param name="USB 3.2" unit="">2</param>
-<param name="USB Type-C" unit="">1</param>
-<param name="Блок питания" unit="">Без БЖ</param>
-<param name="Вес (кг)" unit="">8,5</param>
-<param name="Вбудовані вентилятори/розташування" unit="">3</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="Вхід для мікрофона" unit="">Є</param>
-<param name="Габариты (мм)" unit="">400 x 288 x 384</param>
-<param name="Картрідер" unit="">Немає</param>
-<param name="Кількість 2,5 відсіків" unit="">4</param>
-<param name="Максимальна висота процесорного кулера (мм)" unit="">170</param>
-<param name="Матеріал боковини" unit="">Загартоване скло</param>
-<param name="Можливість встановлення довгих відеокарт (мм)" unit="">362</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">10</param>
-<param name="Передняя панель" unit="">Гратчаста</param>
-<param name="Расположение" unit="">Нижнє</param>
-</offer>
 <offer id="2308818792" available="true">
 <url>https://tera-flops.com.ua/ua/p2308818792-korpus-vinga-astra.html</url>
 <price>1989</price>
@@ -1861,83 +1786,6 @@
 <param name="Місця під додаткові вентилятори/розташування" unit="">8</param>
 <param name="Особенности" unit="">Загартоване скло</param>
 <param name="Передняя панель" unit="">Гратчаста</param>
-<param name="Расположение" unit="">Нижнє</param>
-</offer>
-<offer id="2308818978" available="true">
-<url>https://tera-flops.com.ua/ua/p2308818978-korpus-fractal-design.html</url>
-<price>8349</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6550761989_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6550761991_korpus-fractal-design.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус Fractal Design Define XL чорний</name>
-<vendor>Fractal Design</vendor>
-<vendorCode>FD-CA-DEF-XL-R2-BL</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5">8</param>
-<param name="Материал корпуса">Сталь</param>
-<param name="Назначение">Игровой</param>
-<param name="Слоты расширения" unit="шт">9</param>
-<param name="Состояние">Новое</param>
-<param name="Типоразмер">Full-Tower</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="Форм-фактор">ATX</param>
-<param name="USB 2.0" unit="">2</param>
-<param name="USB 3.2" unit="">2</param>
-<param name="Блок питания" unit="">Нет</param>
-<param name="Вес (кг)" unit="">16,4</param>
-<param name="Вбудовані вентилятори/розташування" unit="">3</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="Вхід для мікрофона" unit="">Є</param>
-<param name="Габариты (мм)" unit="">560x559x232</param>
-<param name="Картрідер" unit="">Немає</param>
-<param name="Максимальна висота процесорного кулера (мм)" unit="">170</param>
-<param name="Матеріал боковини" unit="">Сталь</param>
-<param name="Можливість встановлення довгих відеокарт (мм)" unit="">480</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">6</param>
-<param name="Особенности" unit="">Пилові фільтри</param>
-<param name="Передняя панель" unit="">Суцільна</param>
-<param name="Расположение" unit="">Нижнє</param>
-</offer>
-<offer id="2308818979" available="true">
-<url>https://tera-flops.com.ua/ua/p2308818979-korpus-fractal-design.html</url>
-<price>3799</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364282</categoryId>
-<picture>https://images.prom.ua/6550761994_korpus-fractal-design.jpg</picture>
-<picture>https://images.prom.ua/6550761995_korpus-fractal-design.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Корпус Fractal Design Focus G чорний</name>
-<vendor>Fractal Design</vendor>
-<vendorCode>FD-CA-FOCUS-BK-W</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Количество внутренних отсеков 3,5">2</param>
-<param name="Материал корпуса">Сталь</param>
-<param name="Назначение">Игровой</param>
-<param name="Слоты расширения" unit="шт">7</param>
-<param name="Состояние">Новое</param>
-<param name="Типоразмер">Midi-Tower</param>
-<param name="Форм-фактор">ATX</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="USB 2.0" unit="">1</param>
-<param name="USB 3.2" unit="">1</param>
-<param name="Блок питания" unit="">Нет</param>
-<param name="Вес (кг)" unit="">4,5</param>
-<param name="Вбудовані вентилятори/розташування" unit="">2</param>
-<param name="Выход на наушники" unit="">Є</param>
-<param name="Вхід для мікрофона" unit="">Є</param>
-<param name="Габариты (мм)" unit="">205x444x464</param>
-<param name="Картрідер" unit="">Немає</param>
-<param name="Кількість 2,5 відсіків" unit="">1</param>
-<param name="Максимальна висота процесорного кулера (мм)" unit="">165</param>
-<param name="Матеріал боковини" unit="">Сталь</param>
-<param name="Можливість встановлення довгих відеокарт (мм)" unit="">380</param>
-<param name="Місця під додаткові вентилятори/розташування" unit="">6</param>
-<param name="Особенности" unit="">Біле підсвічування</param>
-<param name="Передняя панель" unit="">Пластик</param>
 <param name="Расположение" unit="">Нижнє</param>
 </offer>
 <offer id="2308818986" available="true">
@@ -2035,7 +1883,7 @@
 <delivery>true</delivery>
 <name>Корпус Gamemax ST-612-2U3-TYC 400W</name>
 <vendor>Gamemax</vendor>
-<vendorCode>ST-612-2U3-TYC</vendorCode>
+<vendorCode>ST-612-2U3-TYC 400W</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5">2</param>
 <param name="Материал корпуса">Сталь</param>
@@ -2222,7 +2070,7 @@
 </offer>
 <offer id="2349043197" available="true">
 <url>https://tera-flops.com.ua/ua/p2349043197-korpus-vinga-cs302b.html</url>
-<price>1499</price>
+<price>1549</price>
 <currencyId>UAH</currencyId>
 <categoryId>85364282</categoryId>
 <picture>https://images.prom.ua/6539618774_korpus-vinga-cs302b.jpg</picture>
@@ -2296,6 +2144,43 @@
 <param name="Особенности" unit="">Пилові фільтри</param>
 <param name="Передняя панель" unit="">Пластик</param>
 <param name="Расположение" unit="">Нижнє</param>
+</offer>
+<offer id="2349043225" available="true">
+<url>https://tera-flops.com.ua/ua/p2349043225-korpus-vinga-limpid.html</url>
+<price>2089</price>
+<currencyId>UAH</currencyId>
+<categoryId>85364282</categoryId>
+<picture>https://images.prom.ua/6539619595_korpus-vinga-limpid.jpg</picture>
+<picture>https://images.prom.ua/6539619598_korpus-vinga-limpid.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Корпус Vinga Limpid (Limpid)</name>
+<vendor>Vinga</vendor>
+<vendorCode>Limpid</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Материал корпуса">Металл</param>
+<param name="Назначение">Игровой</param>
+<param name="Слоты расширения" unit="шт">7</param>
+<param name="Состояние">Новое</param>
+<param name="Форм-фактор">ATX</param>
+<param name="Цвет корпуса">Черный</param>
+<param name="USB 2.0" unit="">2</param>
+<param name="USB 3.2" unit="">1</param>
+<param name="Блок питания" unit="">Нет</param>
+<param name="Вес (кг)" unit="">7.3</param>
+<param name="Вбудовані вентилятори/розташування" unit="">2</param>
+<param name="Выход на наушники" unit="">Є</param>
+<param name="Вхід для мікрофона" unit="">Є</param>
+<param name="Габариты (мм)" unit="">370x280x460</param>
+<param name="Картрідер" unit="">Немає</param>
+<param name="Максимальна висота процесорного кулера (мм)" unit="">160</param>
+<param name="Матеріал боковини" unit="">Загартоване скло</param>
+<param name="Можливість встановлення довгих відеокарт (мм)" unit="">290</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">3</param>
+<param name="Особенности" unit="">Загартоване скло</param>
+<param name="Передняя панель" unit="">Загартоване скло</param>
+<param name="Расположение" unit="">Нижнє</param>
+<param name="Типоразмер" unit="">Cube</param>
 </offer>
 <offer id="2349043226" available="true">
 <url>https://tera-flops.com.ua/ua/p2349043226-korpus-vinga-apache.html</url>
@@ -2588,7 +2473,7 @@
 </offer>
 <offer id="2386075172" available="true">
 <url>https://tera-flops.com.ua/ua/p2386075172-akumulyator-dlya-dbzh.html</url>
-<price>10000</price>
+<price>8999</price>
 <currencyId>UAH</currencyId>
 <categoryId>136501834</categoryId>
 <picture>https://images.prom.ua/6324569534_akumulyator-dlya-dbzh.jpg</picture>
@@ -2612,7 +2497,7 @@
 </offer>
 <offer id="2386075174" available="true">
 <url>https://tera-flops.com.ua/ua/p2386075174-akumulyator-dlya-dbzh.html</url>
-<price>21000</price>
+<price>18999</price>
 <currencyId>UAH</currencyId>
 <categoryId>136501834</categoryId>
 <picture>https://images.prom.ua/6324569542_akumulyator-dlya-dbzh.jpg</picture>
@@ -2680,7 +2565,7 @@
 <delivery>true</delivery>
 <name>Клавіатура 1stPlayer MK8 Titan Gateron Blue</name>
 <vendor>1stPlayer</vendor>
-<vendorCode>MK8 Titan Gateron</vendorCode>
+<vendorCode>MK8 Titan Gateron Blue</vendorCode>
 <param name="Интерфейс подключения">USB</param>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
@@ -2729,7 +2614,7 @@
 </offer>
 <offer id="2448028253" available="true">
 <url>https://tera-flops.com.ua/ua/p2448028253-misha-bezdrotova-logitech.html</url>
-<price>2599</price>
+<price>3099</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431089021_misha-bezdrotova-logitech.jpg</picture>
@@ -2789,7 +2674,7 @@
 </offer>
 <offer id="2450108644" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108644-misha-bezdrotova-mf218.html</url>
-<price>299</price>
+<price>259</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420661030_misha-bezdrotova-2e.jpg</picture>
@@ -2947,7 +2832,7 @@
 </offer>
 <offer id="2450108662" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108662-misha-bezdrotova-logitech.html</url>
-<price>357</price>
+<price>360</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420660658_misha-bezdrotova-logitech.jpg</picture>
@@ -3004,7 +2889,7 @@
 </offer>
 <offer id="2450108669" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108669-misha-bezdrotova-logitech.html</url>
-<price>899</price>
+<price>1139</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420661033_misha-bezdrotova-logitech.jpg</picture>
@@ -3087,7 +2972,7 @@
 </offer>
 <offer id="2450108675" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108675-misha-bezdrotova-logitech.html</url>
-<price>1788</price>
+<price>1799</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420661072_misha-bezdrotova-logitech.jpg</picture>
@@ -3116,7 +3001,7 @@
 </offer>
 <offer id="2450108678" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108678-misha-bezdrotova-logitech.html</url>
-<price>3499</price>
+<price>4149</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420661073_misha-bezdrotova-logitech.jpg</picture>
@@ -3145,7 +3030,7 @@
 </offer>
 <offer id="2450108679" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108679-misha-bezdrotova-logitech.html</url>
-<price>3699</price>
+<price>5179</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420661074_misha-bezdrotova-logitech.jpg</picture>
@@ -3258,7 +3143,7 @@
 </offer>
 <offer id="2450108683" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108683-misha-bezdrotova-logitech.html</url>
-<price>492</price>
+<price>495</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431090206_misha-bezdrotova-logitech.jpg</picture>
@@ -3314,7 +3199,7 @@
 </offer>
 <offer id="2450108685" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108685-misha-bezdrotova-logitech.html</url>
-<price>970</price>
+<price>976</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420661080_misha-bezdrotova-logitech.jpg</picture>
@@ -3366,35 +3251,9 @@
 <param name="Тип сенсора" unit="">Оптичний</param>
 <param name="Время работы от аккумулятора" unit="">18 міс</param>
 </offer>
-<offer id="2450108687" available="true">
-<url>https://tera-flops.com.ua/ua/p2450108687-misha-bezdrotova-rapoo.html</url>
-<price>399</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763471</categoryId>
-<picture>https://images.prom.ua/6420660655_misha-bezdrotova-rapoo.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Миша бездротова Rapoo M10 Plus Black</name>
-<vendor>Rapoo</vendor>
-<vendorCode>10925</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Цвет">Черный</param>
-<param name="Назначение">Для ноутбука</param>
-<param name="Состояние">Новое</param>
-<param name="Подключение устройства">Беспроводное</param>
-<param name="Тип">Мышь</param>
-<param name="Интерфейс подключения" unit="">USB-A</param>
-<param name="Питание" unit="">1xAA</param>
-<param name="Количество кнопок" unit="">2</param>
-<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1000</param>
-<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">100</param>
-<param name="Тип подключения" unit="">Бездротове</param>
-<param name="Тип сенсора" unit="">Оптичний</param>
-<param name="Время работы от аккумулятора" unit="">9 міс</param>
-</offer>
 <offer id="2450108715" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108715-misha-bezdrotova-mf218.html</url>
-<price>299</price>
+<price>229</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420659588_misha-bezdrotova-2e.jpg</picture>
@@ -3473,36 +3332,6 @@
 <param name="Розміри (мм)" unit="">112х75х43</param>
 <param name="Тип подключения" unit="">Бездротове</param>
 <param name="Тип сенсора" unit="">Оптичний</param>
-</offer>
-<offer id="2450108727" available="true">
-<url>https://tera-flops.com.ua/ua/p2450108727-misha-bezdrotova-rapoo.html</url>
-<price>499</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763471</categoryId>
-<picture>https://images.prom.ua/6431088526_misha-bezdrotova-rapoo.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Миша бездротова Rapoo M50 Plus Silent Black</name>
-<vendor>Rapoo</vendor>
-<vendorCode>12235</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Цвет">Черный</param>
-<param name="Назначение">Для ноутбука</param>
-<param name="Состояние">Новое</param>
-<param name="Подключение устройства">Беспроводное</param>
-<param name="Тип">Мышь</param>
-<param name="Интерфейс подключения" unit="">USB-A</param>
-<param name="Бічні кнопки" unit="">Да</param>
-<param name="Вага (г)" unit="">68</param>
-<param name="Питание" unit="">1xAA</param>
-<param name="Кнопка зміни DPI" unit="">Да</param>
-<param name="Количество кнопок" unit="">5</param>
-<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">3600</param>
-<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">800</param>
-<param name="Розміри (мм)" unit="">121x76x43</param>
-<param name="Тип подключения" unit="">Бездротове</param>
-<param name="Тип сенсора" unit="">Оптичний</param>
-<param name="Время работы от аккумулятора" unit="">12 міс</param>
 </offer>
 <offer id="2450108731" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108731-misha-bezdrotova-logitech.html</url>
@@ -3802,7 +3631,7 @@
 </offer>
 <offer id="2450108750" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108750-misha-bezdrotova-logitech.html</url>
-<price>3699</price>
+<price>5179</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420661044_misha-bezdrotova-logitech.jpg</picture>
@@ -4496,7 +4325,7 @@
 </offer>
 <offer id="2450109225" available="true">
 <url>https://tera-flops.com.ua/ua/p2450109225-misha-bezdrotova-logitech.html</url>
-<price>506</price>
+<price>510</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420659554_misha-bezdrotova-logitech.jpg</picture>
@@ -4524,7 +4353,7 @@
 </offer>
 <offer id="2450109226" available="true">
 <url>https://tera-flops.com.ua/ua/p2450109226-misha-bezdrotova-logitech.html</url>
-<price>492</price>
+<price>495</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420659555_misha-bezdrotova-logitech.jpg</picture>
@@ -4582,7 +4411,7 @@
 </offer>
 <offer id="2450109231" available="true">
 <url>https://tera-flops.com.ua/ua/p2450109231-misha-bezdrotova-a4tech.html</url>
-<price>473</price>
+<price>476</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420659560_misha-bezdrotova-a4tech.jpg</picture>
@@ -4590,7 +4419,7 @@
 <delivery>true</delivery>
 <name>Миша бездротова A4Tech FG30S Grey/Black</name>
 <vendor>A4Tech</vendor>
-<vendorCode>FG30S Grey/Black</vendorCode>
+<vendorCode>FG30S</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Назначение">Для ноутбука</param>
@@ -4698,7 +4527,7 @@
 </offer>
 <offer id="2450109238" available="true">
 <url>https://tera-flops.com.ua/ua/p2450109238-misha-bezdrotova-logitech.html</url>
-<price>596</price>
+<price>600</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420659567_misha-bezdrotova-logitech.jpg</picture>
@@ -4809,7 +4638,7 @@
 </offer>
 <offer id="2450109244" available="true">
 <url>https://tera-flops.com.ua/ua/p2450109244-misha-bezdrotova-logitech.html</url>
-<price>2399</price>
+<price>3099</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420659573_misha-bezdrotova-logitech.jpg</picture>
@@ -4839,7 +4668,7 @@
 </offer>
 <offer id="2450109250" available="true">
 <url>https://tera-flops.com.ua/ua/p2450109250-misha-bezdrotova-logitech.html</url>
-<price>2999</price>
+<price>4149</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420659579_misha-bezdrotova-logitech.jpg</picture>
@@ -5277,7 +5106,7 @@
 </offer>
 <offer id="2456290397" available="true">
 <url>https://tera-flops.com.ua/ua/p2456290397-misha-logitech-b100.html</url>
-<price>256</price>
+<price>257</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431089778_misha-logitech-b100.jpg</picture>
@@ -5303,7 +5132,7 @@
 </offer>
 <offer id="2456290399" available="true">
 <url>https://tera-flops.com.ua/ua/p2456290399-misha-logitech-g102.html</url>
-<price>1199</price>
+<price>1449</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431089786_misha-logitech-g102.jpg</picture>
@@ -5335,7 +5164,7 @@
 </offer>
 <offer id="2456290400" available="true">
 <url>https://tera-flops.com.ua/ua/p2456290400-misha-logitech-g502.html</url>
-<price>2699</price>
+<price>3199</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431089791_misha-logitech-g502.jpg</picture>
@@ -5393,34 +5222,6 @@
 <param name="Тип подключения" unit="">Дротове</param>
 <param name="Тип сенсора" unit="">Оптичний</param>
 </offer>
-<offer id="2456290413" available="true">
-<url>https://tera-flops.com.ua/ua/p2456290413-misha-rapoo-n100.html</url>
-<price>299</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763471</categoryId>
-<picture>https://images.prom.ua/6431089775_misha-rapoo-n100.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Миша Rapoo N100 Black</name>
-<vendor>Rapoo</vendor>
-<vendorCode>18050</vendorCode>
-<param name="Гарантийный срок" unit="мес">24</param>
-<param name="Цвет">Черный</param>
-<param name="Назначение">Для ноутбука</param>
-<param name="Состояние">Новое</param>
-<param name="Тип">Мышь</param>
-<param name="Подключение устройства">Проводное</param>
-<param name="Интерфейс подключения" unit="">USB-A</param>
-<param name="Вага (г)" unit="">79</param>
-<param name="Питание" unit="">USB</param>
-<param name="Конструкция" unit="">Ергономічна</param>
-<param name="Количество кнопок" unit="">2</param>
-<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1600</param>
-<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1000</param>
-<param name="Розміри (мм)" unit="">116х62х35</param>
-<param name="Тип подключения" unit="">Дротове</param>
-<param name="Тип сенсора" unit="">Оптичний</param>
-</offer>
 <offer id="2456290421" available="true">
 <url>https://tera-flops.com.ua/ua/p2456290421-misha-real-207.html</url>
 <price>95</price>
@@ -5459,7 +5260,7 @@
 <delivery>true</delivery>
 <name>Миша REAL-EL RM-208 Black (EL123200030)</name>
 <vendor>Real-el</vendor>
-<vendorCode>EL123200030</vendorCode>
+<vendorCode>00046035</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Назначение">Для ноутбука</param>
@@ -5487,7 +5288,7 @@
 <delivery>true</delivery>
 <name>Миша REAL-EL RM-220 Black (EL123200026)</name>
 <vendor>Real-el</vendor>
-<vendorCode>EL123200026</vendorCode>
+<vendorCode>EL123200030</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
 <param name="Назначение">Для ноутбука</param>
@@ -5620,6 +5421,37 @@
 <param name="Тип подключения" unit="">Дротове</param>
 <param name="Тип сенсора" unit="">Оптичний</param>
 </offer>
+<offer id="2456290428" available="true">
+<url>https://tera-flops.com.ua/ua/p2456290428-misha-real-747.html</url>
+<price>579</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6431090196_misha-real-el-rm-747.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша REAL-EL RM-747 Black (EL123200028)</name>
+<vendor>Real-el</vendor>
+<vendorCode>EL123200028</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Подключение устройства">Беспроводное</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">130</param>
+<param name="Питание" unit="">USB</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">5</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">4 800</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">800</param>
+<param name="Назначение" unit="">Ігрова</param>
+<param name="Підсвічування корпуса" unit="">RGB</param>
+<param name="Розміри (мм)" unit="">132x75x45</param>
+<param name="Тип подключения" unit="">Дротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+</offer>
 <offer id="2456290429" available="true">
 <url>https://tera-flops.com.ua/ua/p2456290429-misha-vertux-katana.html</url>
 <price>699</price>
@@ -5707,32 +5539,6 @@
 <param name="Розміри (мм)" unit="">107x59x27</param>
 <param name="Тип подключения" unit="">Бездротове</param>
 <param name="Тип сенсора" unit="">Оптичний</param>
-</offer>
-<offer id="2456291364" available="true">
-<url>https://tera-flops.com.ua/ua/p2456291364-misha-bezdrotova-rapoo.html</url>
-<price>399</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763471</categoryId>
-<picture>https://images.prom.ua/6431088499_misha-bezdrotova-rapoo.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Миша бездротова Rapoo M10 Plus Blue</name>
-<vendor>Rapoo</vendor>
-<vendorCode>17301</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Цвет">Белый</param>
-<param name="Назначение">Для ноутбука</param>
-<param name="Состояние">Новое</param>
-<param name="Тип">Мышь</param>
-<param name="Подключение устройства">Беспроводное</param>
-<param name="Интерфейс подключения" unit="">USB-A</param>
-<param name="Питание" unit="">1xAA</param>
-<param name="Количество кнопок" unit="">2</param>
-<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1000</param>
-<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">100</param>
-<param name="Тип подключения" unit="">Бездротове</param>
-<param name="Тип сенсора" unit="">Оптичний</param>
-<param name="Время работы от аккумулятора" unit="">12 міс</param>
 </offer>
 <offer id="2456291367" available="true">
 <url>https://tera-flops.com.ua/ua/p2456291367-misha-real-211.html</url>
@@ -5953,7 +5759,7 @@
 </offer>
 <offer id="2456291398" available="true">
 <url>https://tera-flops.com.ua/ua/p2456291398-misha-logitech-g502.html</url>
-<price>2499</price>
+<price>3199</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431089018_misha-logitech-g502.jpg</picture>
@@ -6253,7 +6059,7 @@
 </offer>
 <offer id="2463013628" available="true">
 <url>https://tera-flops.com.ua/ua/p2463013628-misha-bluetooth-logitech.html</url>
-<price>3999</price>
+<price>5179</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6456460740_misha-bluetooth-logitech.jpg</picture>
@@ -6687,7 +6493,7 @@
 </offer>
 <offer id="2465743652" available="true">
 <url>https://tera-flops.com.ua/ua/p2465743652-misha-usb-optical.html</url>
-<price>965</price>
+<price>970</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6456459864_misha-usb-optical.jpg</picture>
@@ -6861,7 +6667,7 @@
 </offer>
 <offer id="2465743665" available="true">
 <url>https://tera-flops.com.ua/ua/p2465743665-kilimok-dlya-mishi.html</url>
-<price>599</price>
+<price>799</price>
 <currencyId>UAH</currencyId>
 <categoryId>109534173</categoryId>
 <picture>https://images.prom.ua/6456460736_kilimok-dlya-mishi.jpg</picture>
@@ -7113,37 +6919,6 @@
 <param name="Тип разъема" unit="">4pin</param>
 <param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
 </offer>
-<offer id="2467045660" available="true">
-<url>https://tera-flops.com.ua/ua/p2467045660-povitryane-oholodzhennya-jiushark.html</url>
-<price>1200</price>
-<currencyId>UAH</currencyId>
-<categoryId>97649259</categoryId>
-<picture>https://images.prom.ua/6544096374_povitryane-oholodzhennya-jiushark.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Повітряне охолодження Jiushark JF200 Mini FRGB Black</name>
-<vendor>Jiushark</vendor>
-<vendorCode>JF200 Mini FRGB Black</vendorCode>
-<param name="Вес" unit="г">866</param>
-<param name="Гарантийный срок" unit="мес">6</param>
-<param name="Диаметр вентилятора" unit="мм">100</param>
-<param name="Количество кулеров">2</param>
-<param name="Максимальная скорость вращения" unit="об/мин">2300</param>
-<param name="Максимальный уровень шума" unit="дБ">30</param>
-<param name="Состояние">Новое</param>
-<param name="Тип подшипника">Гидродинамический</param>
-<param name="Висота кулера, мм" unit="">144</param>
-<param name="Габариты (мм)" unit="">100x154x144</param>
-<param name="Колір підсвітки" unit="">FRGB</param>
-<param name="Мінімальна швидкість обертання, об / хв" unit="">800</param>
-<param name="Напряжение питания" unit="">12</param>
-<param name="Повітряний потік (CFM)" unit="">47.54</param>
-<param name="Разъемы" unit="">LGA 2011v3</param>
-<param name="Регулювання обертів" unit="">PWM</param>
-<param name="Розсіювана потужність, Вт" unit="">250</param>
-<param name="Тип разъема" unit="">4pin</param>
-<param name="Тип системы охлаждения" unit="">Повітряне охолодження</param>
-</offer>
 <offer id="2468104703" available="true">
 <url>https://tera-flops.com.ua/ua/p2468104703-klaviatura-drotova-aula.html</url>
 <price>1199</price>
@@ -7351,36 +7126,6 @@
 <param name="Тип подключения" unit="">Дротове</param>
 <param name="Тип сенсора" unit="">Оптичний</param>
 </offer>
-<offer id="2468105427" available="true">
-<url>https://tera-flops.com.ua/ua/p2468105427-misha-aula-s12.html</url>
-<price>259</price>
-<currencyId>UAH</currencyId>
-<categoryId>85763471</categoryId>
-<picture>https://images.prom.ua/6447061695_misha-aula-s12.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Миша Aula S12 Mountain Black</name>
-<vendor>Aula</vendor>
-<vendorCode>6948391239262</vendorCode>
-<param name="Гарантийный срок" unit="мес">12</param>
-<param name="Цвет">Черный</param>
-<param name="Назначение">Для ноутбука</param>
-<param name="Состояние">Новое</param>
-<param name="Тип">Мышь</param>
-<param name="Интерфейс подключения" unit="">USB-A</param>
-<param name="Бічні кнопки" unit="">Да</param>
-<param name="Вага (г)" unit="">135</param>
-<param name="Питание" unit="">USB</param>
-<param name="Кнопка зміни DPI" unit="">Да</param>
-<param name="Конструкция" unit="">Ергономічна</param>
-<param name="Количество кнопок" unit="">6</param>
-<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">2400</param>
-<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">800</param>
-<param name="Підсвічування корпуса" unit="">Синя</param>
-<param name="Розміри (мм)" unit="">117x77x39</param>
-<param name="Тип подключения" unit="">Дротове</param>
-<param name="Тип сенсора" unit="">Оптичний</param>
-</offer>
 <offer id="2468105432" available="true">
 <url>https://tera-flops.com.ua/ua/p2468105432-klaviatura-drotova-aula.html</url>
 <price>1299</price>
@@ -7471,7 +7216,7 @@
 </offer>
 <offer id="2468106241" available="true">
 <url>https://tera-flops.com.ua/ua/p2468106241-mishka-acer-omr031.html</url>
-<price>325</price>
+<price>326</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6467187512_mishka-acer-omr031.jpg</picture>
@@ -7501,7 +7246,7 @@
 </offer>
 <offer id="2474599061" available="true">
 <url>https://tera-flops.com.ua/ua/p2474599061-misha-bezdrotova-logitech.html</url>
-<price>999</price>
+<price>1249</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6456459815_misha-bezdrotova-logitech.jpg</picture>
@@ -7552,7 +7297,7 @@
 </offer>
 <offer id="2474600396" available="true">
 <url>https://tera-flops.com.ua/ua/p2474600396-misha-logitech-m90.html</url>
-<price>263</price>
+<price>265</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6456453082_misha-logitech-m90.jpg</picture>
@@ -7578,7 +7323,7 @@
 </offer>
 <offer id="2474600397" available="true">
 <url>https://tera-flops.com.ua/ua/p2474600397-misha-logitech-m185.html</url>
-<price>592</price>
+<price>595</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6471959756_misha-logitech-m185.jpg</picture>
@@ -7607,7 +7352,7 @@
 </offer>
 <offer id="2474600398" available="true">
 <url>https://tera-flops.com.ua/ua/p2474600398-misha-bezdrotova-logitech.html</url>
-<price>596</price>
+<price>600</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6456453084_misha-bezdrotova-logitech.jpg</picture>
@@ -7636,7 +7381,7 @@
 </offer>
 <offer id="2474600399" available="true">
 <url>https://tera-flops.com.ua/ua/p2474600399-misha-logitech-m235.html</url>
-<price>781</price>
+<price>786</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6456453085_misha-logitech-m235.jpg</picture>
@@ -7665,7 +7410,7 @@
 </offer>
 <offer id="2474600403" available="true">
 <url>https://tera-flops.com.ua/ua/p2474600403-misha-bezdrotova-logitech.html</url>
-<price>1231</price>
+<price>1239</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6456455250_misha-bezdrotova-logitech.jpg</picture>
@@ -7693,7 +7438,7 @@
 </offer>
 <offer id="2474600409" available="true">
 <url>https://tera-flops.com.ua/ua/p2474600409-misha-bezdrotova-a4tech.html</url>
-<price>459</price>
+<price>462</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6456455263_misha-bezdrotova-a4tech.jpg</picture>
@@ -7724,7 +7469,7 @@
 </offer>
 <offer id="2474600411" available="true">
 <url>https://tera-flops.com.ua/ua/p2474600411-misha-a4tech-fb10c.html</url>
-<price>511</price>
+<price>514</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6467187489_misha-a4tech-fb10c.jpg</picture>
@@ -7752,7 +7497,7 @@
 </offer>
 <offer id="2474600415" available="true">
 <url>https://tera-flops.com.ua/ua/p2474600415-misha-a4tech-bloody.html</url>
-<price>922</price>
+<price>929</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6456455279_misha-a4tech-bloody.jpg</picture>
@@ -7784,7 +7529,7 @@
 </offer>
 <offer id="2474600416" available="true">
 <url>https://tera-flops.com.ua/ua/p2474600416-misha-a4tech-bloody.html</url>
-<price>1088</price>
+<price>1095</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6456455281_misha-a4tech-bloody.jpg</picture>
@@ -7816,7 +7561,7 @@
 </offer>
 <offer id="2483170101" available="true">
 <url>https://tera-flops.com.ua/ua/p2483170101-misha-logitech-b330.html</url>
-<price>1277</price>
+<price>1285</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6471968707_misha-logitech-b330.jpg</picture>
