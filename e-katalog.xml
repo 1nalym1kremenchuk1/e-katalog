@@ -3823,7 +3823,7 @@
 </offer>
 <offer id="2450108765" available="true">
 <url>https://tera-flops.com.ua/ua/p2450108765-misha-bezdrotova-mf2030.html</url>
-<price>299</price>
+<price>240</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6420661061_misha-bezdrotova-2e.jpg</picture>
@@ -4892,7 +4892,7 @@
 </offer>
 <offer id="2456290351" available="true">
 <url>https://tera-flops.com.ua/ua/p2456290351-misha-gaming-hyperspeed.html</url>
-<price>999</price>
+<price>799</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431089782_misha-2e-gaming.jpg</picture>
@@ -4922,7 +4922,7 @@
 </offer>
 <offer id="2456290354" available="true">
 <url>https://tera-flops.com.ua/ua/p2456290354-misha-gaming-mg320.html</url>
-<price>599</price>
+<price>550</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6431090188_misha-2e-gaming.jpg</picture>
@@ -6119,7 +6119,7 @@
 </offer>
 <offer id="2463013635" available="true">
 <url>https://tera-flops.com.ua/ua/p2463013635-misha-bezdrotova-logitech.html</url>
-<price>1349</price>
+<price>1080</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6555999030_misha-bezdrotova-logitech.jpg</picture>
@@ -6921,7 +6921,7 @@
 </offer>
 <offer id="2468104703" available="true">
 <url>https://tera-flops.com.ua/ua/p2468104703-klaviatura-drotova-aula.html</url>
-<price>1199</price>
+<price>1098</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763472</categoryId>
 <picture>https://images.prom.ua/6431855227_klaviatura-drotova-aula.jpg</picture>
@@ -7035,7 +7035,7 @@
 </offer>
 <offer id="2468104713" available="true">
 <url>https://tera-flops.com.ua/ua/p2468104713-misha-aula-s13.html</url>
-<price>299</price>
+<price>270</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6447067528_misha-aula-s13.jpg</picture>
@@ -7066,7 +7066,7 @@
 </offer>
 <offer id="2468105422" available="true">
 <url>https://tera-flops.com.ua/ua/p2468105422-klaviatura-drotova-aula.html</url>
-<price>1199</price>
+<price>1098</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763472</categoryId>
 <picture>https://images.prom.ua/6431857452_klaviatura-drotova-aula.jpg</picture>
@@ -7098,7 +7098,7 @@
 </offer>
 <offer id="2468105426" available="true">
 <url>https://tera-flops.com.ua/ua/p2468105426-misha-aula-f805.html</url>
-<price>399</price>
+<price>320</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6447395686_misha-aula-f805.jpg</picture>
@@ -7156,7 +7156,7 @@
 </offer>
 <offer id="2468105437" available="true">
 <url>https://tera-flops.com.ua/ua/p2468105437-misha-aula-f812.html</url>
-<price>399</price>
+<price>364</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6447061703_misha-aula-f812.jpg</picture>
@@ -7497,7 +7497,7 @@
 </offer>
 <offer id="2474600415" available="true">
 <url>https://tera-flops.com.ua/ua/p2474600415-misha-a4tech-bloody.html</url>
-<price>929</price>
+<price>920</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763471</categoryId>
 <picture>https://images.prom.ua/6456455279_misha-a4tech-bloody.jpg</picture>
@@ -7620,7 +7620,7 @@
 </offer>
 <offer id="2526116589" available="true">
 <url>https://tera-flops.com.ua/ua/p2526116589-klaviatura-gamepro-mk120.html</url>
-<price>1499</price>
+<price>1280</price>
 <currencyId>UAH</currencyId>
 <categoryId>85763472</categoryId>
 <picture>https://images.prom.ua/6528487474_klaviatura-gamepro-mk120.jpg</picture>
@@ -8016,6 +8016,542 @@
 <param name="Состояние">Новое</param>
 <param name="Тип">Термопрокладка</param>
 <param name="Гарантія, міс" unit="">1</param>
+</offer>
+<offer id="2276778919" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778919-kilimok-dlya-mishi.html</url>
+<price>40</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6061511518_kilimok-dlya-mishi.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші Inno3D iChiLL (300mm / 250mm)</name>
+<vendorCode>НФ-00018703</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">24</param>
+</offer>
+<offer id="2276778923" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778923-kilimok-dlya-mishi.html</url>
+<price>830</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6098166644_kilimok-dlya-mishi.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші з підсвіткою RGB Republic of Gamers 900x400mm (ROG-79)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>ROG-79</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Особенности" unit="">RGB підсвічування</param>
+<param name="Розмір, мм" unit="">900x400</param>
+<param name="Цвет" unit="">різнокольоровий</param>
+</offer>
+<offer id="2276778924" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778924-kilimok-dlya-mishi.html</url>
+<price>730</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6098166032_kilimok-dlya-mishi.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші з підсвіткою RGB Republic of Gamers 800x300mm (ROG-101)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>ROG-101</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет">Черный</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Особенности" unit="">RGB підсвічування</param>
+<param name="Розмір, мм" unit="">800x300</param>
+</offer>
+<offer id="2276778926" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778926-kilimok-dlya-mishi.html</url>
+<price>480</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6098163209_kilimok-dlya-mishi.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші PUBG 800x300mm (PUBG-21)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>PUBG-21</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Розмір, мм" unit="">800x300</param>
+<param name="Цвет" unit="">різнокольоровий</param>
+</offer>
+<offer id="2276778929" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778929-kilimok-dlya-mishi.html</url>
+<price>480</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6098159052_kilimok-dlya-mishi.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші PUBG 800x300mm (PUBG-77)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>PUBG-77</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Особенности" unit="">RGB підсвічування</param>
+<param name="Розмір, мм" unit="">800x300</param>
+<param name="Цвет" unit="">різнокольоровий</param>
+</offer>
+<offer id="2276778931" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778931-kilimok-dlya-mishi.html</url>
+<price>730</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6098157203_kilimok-dlya-mishi.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші з підсвіткою RGB League of Legends: Kaisa fan art 800x300mm (Fanhua-10)</name>
+<vendor>Fanhua</vendor>
+<vendorCode>Fanhua-10</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет">Синий</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Особенности" unit="">RGB підсвічування</param>
+<param name="Розмір, мм" unit="">800x300</param>
+</offer>
+<offer id="2276778932" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778932-kilimok-dlya-mishi.html</url>
+<price>260</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6098156355_kilimok-dlya-mishi.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші Cyberpunk: Edgerunners 300x250mm (Edgerunners-08)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>Edgerunners-08</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Розмір, мм" unit="">300x250</param>
+<param name="Цвет" unit="">різнокольоровий</param>
+</offer>
+<offer id="2276778933" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778933-kilimok-dlya-mishi.html</url>
+<price>680</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6098154678_kilimok-dlya-mishi.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші з підсвіткою RGB Apex Legends 800x300mm (APEX-12)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>APEX-12</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Особенности" unit="">RGB підсвічування</param>
+<param name="Розмір, мм" unit="">800x300</param>
+<param name="Цвет" unit="">різнокольоровий</param>
+</offer>
+<offer id="2276778935" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778935-kilimok-dlya-mishi.html</url>
+<price>360</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6098153950_kilimok-dlya-mishi.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші з підсвіткою RGB Hexagon 300x250mm (Hexagon-14)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>Hexagon-14</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет">Черный</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Особенности" unit="">RGB підсвічування</param>
+<param name="Розмір, мм" unit="">300x250</param>
+</offer>
+<offer id="2276778936" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778936-kilimok-dlya-mishi.html</url>
+<price>730</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6098153076_kilimok-dlya-mishi.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші з підсвіткою RGB Hexagon 800x300mm (Hexagon-18)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>Hexagon-18</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет">Черный</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Особенности" unit="">RGB підсвічування</param>
+<param name="Розмір, мм" unit="">800x300</param>
+</offer>
+<offer id="2276778939" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778939-kilimok-dlya-mishi.html</url>
+<price>380</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6098151597_kilimok-dlya-mishi.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші з підсвіткою RGB Cyberpunk 300x250mm (Cyberpunk-151)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>Cyberpunk-151</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Особенности" unit="">RGB підсвічування</param>
+<param name="Розмір, мм" unit="">300x250</param>
+<param name="Цвет" unit="">різнокольоровий</param>
+</offer>
+<offer id="2276778942" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778942-kilimok-dlya-mishi.html</url>
+<price>780</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6098149420_kilimok-dlya-mishi.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші з підсвіткою RGB Genshin Impact 800x300mm (Genshin Impact-98)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>Genshin Impact-98</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет">Зелёный</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Особенности" unit="">RGB підсвічування</param>
+<param name="Розмір, мм" unit="">800x300</param>
+</offer>
+<offer id="2276778945" available="true">
+<url>https://tera-flops.com.ua/ua/p2276778945-kilimok-dlya-mishi.html</url>
+<price>430</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6098148031_kilimok-dlya-mishi.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші з підсвіткою RGB Neko Yu Shizuku 300x250mm (Neko Yu Shizuku-01)</name>
+<vendor>ziasmul</vendor>
+<vendorCode>Neko Yu Shizuku-01</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Особенности" unit="">RGB підсвічування</param>
+<param name="Розмір, мм" unit="">300x250</param>
+<param name="Цвет" unit="">різнокольоровий</param>
+</offer>
+<offer id="2445073693" available="true">
+<url>https://tera-flops.com.ua/ua/p2445073693-klaviatura-gaming-kg315.html</url>
+<price>769</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763472</categoryId>
+<picture>https://images.prom.ua/6412647980_klaviatura-2e-gaming.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Клавіатура 2E Gaming KG315 RGB Ukr Black (2E-KG315UBK)</name>
+<vendor>2E Gaming</vendor>
+<vendorCode>2E-KG315UBK</vendorCode>
+<param name="Интерфейс подключения">USB</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Клавиатура</param>
+<param name="Подключение устройства">Проводное</param>
+<param name="Ігровий режим" unit="">Да</param>
+<param name="Вага (г)" unit="">740</param>
+<param name="Колір літер кирилиці" unit="">Прозорі</param>
+<param name="Підключення" unit="">Дротове</param>
+<param name="Подсветка" unit="">RGB</param>
+<param name="Регулювання гучності" unit="">через Fn</param>
+<param name="Розміри" unit="">445x195x35</param>
+<param name="Тип клавиатуры" unit="">Игровая</param>
+<param name="Тип клавиш" unit="">Мембранний</param>
+<param name="Формат" unit="">Стандартна</param>
+</offer>
+<offer id="2450108755" available="true">
+<url>https://tera-flops.com.ua/ua/p2450108755-misha-bezdrotova-frime.html</url>
+<price>170</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6420661049_misha-bezdrotova-frime.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Frime FWMO-220BDB Black/Dark blue</name>
+<vendor>Frime</vendor>
+<vendorCode>FWMO-220BDB</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Синий</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Вага (г)" unit="">52</param>
+<param name="Питание" unit="">1xAA</param>
+<param name="Количество кнопок" unit="">2</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">1200</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">600</param>
+<param name="Розміри (мм)" unit="">100x60x36</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+</offer>
+<offer id="2457000407" available="true">
+<url>https://tera-flops.com.ua/ua/p2457000407-navushniki-tws-apple.html</url>
+<price>6850</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763473</categoryId>
+<picture>https://images.prom.ua/6432045278_navushniki-tws-apple.jpg</picture>
+<picture>https://images.prom.ua/6432045279_navushniki-tws-apple.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Навушники TWS Apple AirPods 4 with Active Noise Cancellation (MXP93)</name>
+<vendor>Apple</vendor>
+<vendorCode>MXP93</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Белый</param>
+<param name="Состояние">Новое</param>
+<param name="Тип разъема" unit="">Bluetooth</param>
+<param name="Комплектация" unit="">кейс-зарядка</param>
+<param name="Вес" unit="кг">4</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+<param name="Час роботи (музика) (год)" unit="">5</param>
+<param name="Матеріал амбушюр" unit="">Пластик</param>
+<param name="Тип крепежа" unit="">Внутрішньоканальні</param>
+<param name="Микрофон" unit="">вбудований у корпус</param>
+<param name="Источник питания" unit="">Акумулятор</param>
+<param name="Вхід зарядки" unit="">Lightning</param>
+<param name="Тип акустичного оформлення" unit="">Відкриті</param>
+<param name="Шумопоглинання мікрофона" unit="">Активне шумозаглушення (ANC)</param>
+<param name="Тип конструкции" unit="">Вкладиші</param>
+<param name="Тип излучателей" unit="">Динамічні</param>
+<param name="Час роботи (з кейсом) (год)" unit="">30</param>
+</offer>
+<offer id="2468105427" available="true">
+<url>https://tera-flops.com.ua/ua/p2468105427-misha-aula-s12.html</url>
+<price>240</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6447061695_misha-aula-s12.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша Aula S12 Mountain Black</name>
+<vendor>Aula</vendor>
+<vendorCode>6948391239262</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Мышь</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">135</param>
+<param name="Питание" unit="">USB</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">6</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">2400</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">800</param>
+<param name="Підсвічування корпуса" unit="">Синя</param>
+<param name="Розміри (мм)" unit="">117x77x39</param>
+<param name="Тип подключения" unit="">Дротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+</offer>
+<offer id="2477205313" available="true">
+<url>https://tera-flops.com.ua/ua/p2477205313-klaviatura-bezdrotova-gaming.html</url>
+<price>975</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763472</categoryId>
+<picture>https://images.prom.ua/6467188799_klaviatura-bezdrotova-2e.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Клавіатура бездротова 2E GAMING KG360 RGB White (2E-KG360UWT)</name>
+<vendor>2E</vendor>
+<vendorCode>2E-KG360UWT</vendorCode>
+<param name="Интерфейс подключения">USB</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Белый</param>
+<param name="Состояние">Новое</param>
+<param name="Вага (г)" unit="">350</param>
+<param name="Колір літер кирилиці" unit="">Прозорі</param>
+<param name="Количество клавиш" unit="">68</param>
+<param name="Підключення" unit="">Бездротове</param>
+<param name="Подсветка" unit="">RGB</param>
+<param name="Регулювання гучності" unit="">через Fn</param>
+<param name="Розміри" unit="">323x106x35</param>
+<param name="Тип клавиатуры" unit="">Стандартная</param>
+<param name="Тип клавиш" unit="">Мембранний</param>
+<param name="Формат" unit="">Ультракомпактна</param>
+</offer>
+<offer id="2477205316" available="true">
+<url>https://tera-flops.com.ua/ua/p2477205316-komplekt-klaviatura-misha.html</url>
+<price>999</price>
+<currencyId>UAH</currencyId>
+<categoryId>102028853</categoryId>
+<picture>https://images.prom.ua/6467188818_komplekt-klaviatura-.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Комплект (клавіатура + миша) 2E MK430 Gray/Black (2E-MK430WBGR_UA)</name>
+<vendor>2E</vendor>
+<vendorCode>2E-MK430WBGR_UA</vendorCode>
+<param name="Интерфейс подключения">USB</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Вага клавіатури (г)" unit="">369</param>
+<param name="Вага миші (г)" unit="">68</param>
+<param name="Питание" unit="">ААА</param>
+<param name="Цвет корпуса" unit="">Серый</param>
+<param name="Колір символів кирилиці" unit="">Білий</param>
+<param name="Конструкція корпусу миші" unit="">Ергономічна</param>
+<param name="Кількість кнопок миші" unit="">2</param>
+<param name="Радіус дії бездротового з'єднання (м)" unit="">10</param>
+<param name="Роздільна здатність сенсора (dpi)" unit="">1600</param>
+<param name="Розмір клавіатури (мм)" unit="">344x145x24</param>
+<param name="Розмір миші (мм)" unit="">104x65x39</param>
+<param name="Технологія сенсору миші" unit="">Оптична</param>
+<param name="Тип" unit="">Комплект (клавіатура + миша)</param>
+<param name="Тип клавиатуры" unit="">Ультракомпактна</param>
+<param name="Тип клавиш" unit="">Мембранний</param>
+<param name="Тип подключения" unit="">Бездротове</param>
+</offer>
+<offer id="2477205319" available="true">
+<url>https://tera-flops.com.ua/ua/p2477205319-misha-bezdrotova-trust.html</url>
+<price>840</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6467188839_misha-bezdrotova-trust.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша бездротова Trust GXT 923 Ybar Black (24888)</name>
+<vendor>Trust</vendor>
+<vendorCode>24888</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Состояние">Новое</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">96</param>
+<param name="Питание" unit="">Аккумулятор</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">5</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">7200</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">200</param>
+<param name="Настроювані клавіші" unit="">Да</param>
+<param name="Назначение" unit="">Ігрова</param>
+<param name="Підсвічування корпуса" unit="">RGB</param>
+<param name="Розміри (мм)" unit="">68x40x142</param>
+<param name="Тип подключения" unit="">Дротове + бездротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+<param name="Время работы от аккумулятора" unit="">50 годин</param>
+</offer>
+<offer id="2490239758" available="true">
+<url>https://tera-flops.com.ua/ua/p2490239758-klaviatura-bezdrotova-ks280.html</url>
+<price>910</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763472</categoryId>
+<picture>https://images.prom.ua/6479352804_klaviatura-bezdrotova-2e.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Клавіатура бездротова 2E KS280 Black/Gray (2E-KS280WBGR_UA)</name>
+<vendor>2E</vendor>
+<vendorCode>2E-KS280WBGR_UA</vendorCode>
+<param name="Интерфейс подключения">USB</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Серый</param>
+<param name="Состояние">Новое</param>
+<param name="Вага (г)" unit="">970</param>
+<param name="Колір літер кирилиці" unit="">Білий</param>
+<param name="Количество клавиш" unit="">120</param>
+<param name="Підключення" unit="">Бездротове</param>
+<param name="Регулювання гучності" unit="">через Fn</param>
+<param name="Розміри" unit="">417.27x146.82x23.65</param>
+<param name="Тип клавиатуры" unit="">Стандартная</param>
+<param name="Тип клавиш" unit="">Мембранний</param>
+<param name="Формат" unit="">Стандартна</param>
+</offer>
+<offer id="2498423181" available="true">
+<url>https://tera-flops.com.ua/ua/p2498423181-igrova-poverhnya-gaming.html</url>
+<price>599</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6503116256_igrova-poverhnya-2e.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Ігрова поверхня 2E GAMING PRO Speed D05, XL (800x450x3мм), багатокольоровий</name>
+<vendor>2E Gaming</vendor>
+<vendorCode>2E-SPEED-XL-D05-PRO</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">12</param>
+<param name="Материал поверхности" unit="">Поліестер</param>
+<param name="Розмір, мм" unit="">800x450x3</param>
+<param name="Цвет" unit="">різнокольоровий</param>
+</offer>
+<offer id="2523491480" available="true">
+<url>https://tera-flops.com.ua/ua/p2523491480-kilimok-dlya-mishi.html</url>
+<price>165</price>
+<currencyId>UAH</currencyId>
+<categoryId>109534173</categoryId>
+<picture>https://images.prom.ua/6525142973_kilimok-dlya-mishi.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Килимок для миші 2E Shiny M Black (2E-PAD-M-SHINY-BLACK)</name>
+<vendor>2E</vendor>
+<vendorCode>2E-PAD-M-SHINY-BLACK</vendorCode>
+<param name="Материал поверхности">Ткань</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет">Черный</param>
+<param name="Гарантія, міс" unit="">12</param>
+<param name="Розмір, мм" unit="">450x400x2</param>
+</offer>
+<offer id="2526324824" available="true">
+<url>https://tera-flops.com.ua/ua/p2526324824-trimach-kabelyu-gaming.html</url>
+<price>399</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763471</categoryId>
+<picture>https://images.prom.ua/6528804893_trimach-kabelyu-2e.jpg</picture>
+<picture>https://images.prom.ua/6528804895_trimach-kabelyu-2e.jpg</picture>
+<picture>https://images.prom.ua/6528804897_trimach-kabelyu-2e.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Тримач кабелю 2E Gaming Mouse Bungee Scorpio USB Silver (2E-MB001U)</name>
+<vendor>2E Gaming</vendor>
+<vendorCode>2E-MB001U</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Кабель</param>
+<param name="Подсветка" unit="">LED</param>
+<param name="Материал" unit="">Пластик з металевою основою</param>
+<param name="USB 2.0" unit="">3</param>
+<param name="Вага (г)" unit="">173</param>
+<param name="Розміри (мм)" unit="">116x103x21</param>
+<param name="Довжина кабелю (м)" unit="">1.2</param>
+<param name="Підключення" unit="">USB 2.0</param>
+<param name="Дополнительно" unit="">Стильний ігровий дизайн</param>
+<param name="Слот для SD-карт" unit="">1</param>
+<param name="3.5 mm Jack" unit="">2</param>
+</offer>
+<offer id="2571442808" available="true">
+<url>https://tera-flops.com.ua/ua/p2571442808-klaviatura-dlya-noutbuku.html</url>
+<price>900</price>
+<currencyId>UAH</currencyId>
+<categoryId>85763472</categoryId>
+<picture>https://images.prom.ua/6599170964_klaviatura-dlya-noutbuku.jpg</picture>
+<picture>https://images.prom.ua/6599170963_klaviatura-dlya-noutbuku.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Клавіатура для ноутбуку Lenovo ThinkPad L570 (04Y2377)</name>
+<vendor>Lenovo</vendor>
+<vendorCode>04Y2377</vendorCode>
+<param name="Цвет">Черный</param>
+<param name="Состояние">Новое</param>
+<param name="Совместимость с брендом">Lenovo</param>
+<param name="Тип клавиатуры" unit="">Стандартная</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Количество клавиш" unit="">104</param>
+<param name="Підключення" unit="">Дротове</param>
+<param name="Тип клавиш" unit="">Мембранний</param>
 </offer>
 </offers>
 </shop>
