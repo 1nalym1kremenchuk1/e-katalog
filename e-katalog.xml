@@ -434,7 +434,7 @@
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Повітряне охолодження Jiushark JF13K White ARGB (JF13K White ARGB)</name>
-<vendor>Deepcool</vendor>
+<vendor>Jiushark</vendor>
 <vendorCode>JF13K White ARGB</vendorCode>
 <param name="Гарантийный срок" unit="мес">6</param>
 <param name="Диаметр вентилятора" unit="мм">120</param>
