@@ -407,6 +407,349 @@
 <category id="135772118" parentId="85330301">Процесори AMD</category>
 </categories>
 <offers>
+<offer id="2536592390" available="true">
+<url>https://tera-flops.com.ua/ua/p2536592390-zaryadna-stantsiya-ecoflow.html</url>
+<price>6000</price>
+<currencyId>UAH</currencyId>
+<categoryId>132522449</categoryId>
+<picture>https://images.prom.ua/6006740900_zaryadna-stantsiya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/5992698248_zaryadna-stantsiya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/5992698255_zaryadna-stantsiya-ecoflow.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Зарядна станція EcoFlow River 2 300W (RIVER 2) CN</name>
+<vendor>EcoFlow</vendor>
+<vendorCode>RIVER 2</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">LiFePO4</param>
+<param name="Функция ИБП">Да</param>
+<param name="USB A" unit="">2 шт, 5В/2.4А, 12 Вт</param>
+<param name="USB type C" unit="">1 шт, 3 A, 60 Вт</param>
+<param name="Ємність батареї (Вт*год)" unit="">256 Вт*год</param>
+<param name="Вес (кг)" unit="">3.5</param>
+<param name="Вихід DC" unit="">1 шт (12.6 В / 8 А / 100 Вт)</param>
+<param name="Вихід на автомобільний прикурювач" unit="">Да</param>
+<param name="Вхід XT60" unit="">Да</param>
+<param name="Від для сонячних панелей" unit="">Да</param>
+<param name="Габариты (мм)" unit="">142x245x214</param>
+<param name="Дисплей" unit="">Да</param>
+<param name="Кількість розеток (230 В)" unit="">1</param>
+<param name="Номинальная мощность" unit="">300 Вт</param>
+<param name="Підключення дод. батареї" unit="">Да</param>
+<param name="Пиковая мощность" unit="">600 Вт</param>
+<param name="Форма вихідного сигналу" unit="">синусоїда (PSW)</param>
+<param name="Час зарядки (розетка)" unit="">60 хв</param>
+<param name="Час зарядки (сонячна панель)" unit="">180 хв</param>
+</offer>
+<offer id="2451841785" available="true">
+<url>https://tera-flops.com.ua/ua/p2451841785-sumka-chohol-dlya.html</url>
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>138313212</categoryId>
+<picture>https://images.prom.ua/6423902047_sumka-chohol-dlya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/6423902049_sumka-chohol-dlya-ecoflow.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Сумка-чохол для EcoFlow River 2 Pro (EFB-MR620-C-CN)</name>
+<vendor>EcoFlow</vendor>
+<vendorCode>EFB-MR620-C-CN</vendorCode>
+<description>Сумка-чохол для EcoFlow River 2 Pro (EFB-MR620-C-CN)</description>
+<param name="Гарантийный срок" unit="мес">1</param>
+<param name="Цвет">Черный</param>
+<param name="Состояние">Новое</param>
+<param name="Тип" unit="">Сумка</param>
+<param name="Материал" unit="">Полиэстер</param>
+<param name="Габариты (мм)" unit="">420x120x320</param>
+<param name="Дополнительно" unit="">Водонепроникний матеріал</param>
+<param name="Объем (л)" unit="">30</param>
+</offer>
+<offer id="2451841786" available="true">
+<url>https://tera-flops.com.ua/ua/p2451841786-sumka-chohol-dlya.html</url>
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>138313212</categoryId>
+<picture>https://images.prom.ua/6423902051_sumka-chohol-dlya-ecoflow.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Сумка-чохол для EcoFlow DELTA 2 MAX (EFB-DELTA2Max-CN)</name>
+<vendor>EcoFlow</vendor>
+<vendorCode>EFB-DELTA2Max-CN</vendorCode>
+<description>Сумка-чохол для EcoFlow DELTA 2 MAX (EFB-DELTA2Max-CN)</description>
+<param name="Гарантийный срок" unit="мес">1</param>
+<param name="Цвет">Черный</param>
+<param name="Состояние">Новое</param>
+<param name="Тип" unit="">Сумка</param>
+<param name="Материал" unit="">Полиэстер</param>
+<param name="Дополнительно" unit="">Водонепроникний матеріал</param>
+</offer>
+<offer id="2451841787" available="true">
+<url>https://tera-flops.com.ua/ua/p2451841787-sumka-chohol-dlya.html</url>
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>138313212</categoryId>
+<picture>https://images.prom.ua/6423902056_sumka-chohol-dlya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/6528804900_sumka-chohol-dlya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/6423902071_sumka-chohol-dlya-ecoflow.jpg</picture>
+<picture>https://images.prom.ua/6528804902_sumka-chohol-dlya-ecoflow.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Сумка-чохол для EcoFlow DELTA 2 (BMR330)</name>
+<vendor>EcoFlow</vendor>
+<vendorCode>BMR330</vendorCode>
+<description>Сумка-чохол для EcoFlow DELTA 2 (BMR330)</description>
+<param name="Гарантийный срок" unit="мес">1</param>
+<param name="Цвет">Черный</param>
+<param name="Состояние">Новое</param>
+<param name="Тип" unit="">Сумка</param>
+<param name="Материал" unit="">Полиэстер</param>
+<param name="Габариты (мм)" unit="">410x300x220</param>
+<param name="Дополнительно" unit="">Водонепроникний матеріал</param>
+</offer>
+<offer id="1885602288" available="true">
+<url>https://tera-flops.com.ua/ua/p1885602288-pidstavka-dlya-videokarti.html</url>
+<price>400</price>
+<currencyId>UAH</currencyId>
+<categoryId>128410987</categoryId>
+<picture>https://images.prom.ua/6601919034_pidstavka-dlya-videokarti.jpg</picture>
+<picture>https://images.prom.ua/6601919035_pidstavka-dlya-videokarti.jpg</picture>
+<picture>https://images.prom.ua/6601919036_pidstavka-dlya-videokarti.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Підставка для відеокарти CoolMoon GT8 5V ARGB Black (GT8-5V-ARGBB) (TF)</name>
+<vendor>CoolMoon</vendor>
+<vendorCode>GT8-5V-ARGBB</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Подставка</param>
+<param name="Разъемы" unit="">3-pin ARGB</param>
+<param name="Розміри (мм)" unit="">280 x 38 x 11</param>
+<param name="Напруга (В)" unit="">5</param>
+<param name="Тип подсветки" unit="">ARGB</param>
+<param name="Материал изделия" unit="">Пластик</param>
+</offer>
+<offer id="1885637395" available="true">
+<url>https://tera-flops.com.ua/ua/p1885637395-pidstavka-dlya-videokarti.html</url>
+<price>400</price>
+<currencyId>UAH</currencyId>
+<categoryId>128410987</categoryId>
+<picture>https://images.prom.ua/6601919038_pidstavka-dlya-videokarti.jpg</picture>
+<picture>https://images.prom.ua/6601919040_pidstavka-dlya-videokarti.jpg</picture>
+<picture>https://images.prom.ua/6601919041_pidstavka-dlya-videokarti.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Підставка для відеокарти CoolMoon GT8 5V ARGB White (GT8-5V-ARGBW)</name>
+<vendor>CoolMoon</vendor>
+<vendorCode>GT8-5V-ARGBW</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет" unit="">Белый</param>
+<param name="Разъемы" unit="">3-pin ARGB</param>
+<param name="Розміри (мм)" unit="">280 x 38 x 11</param>
+<param name="Напруга (В)" unit="">5</param>
+<param name="Тип подсветки" unit="">ARGB</param>
+<param name="Материал изделия" unit="">Пластик</param>
+</offer>
+<offer id="1885661612" available="true">
+<url>https://tera-flops.com.ua/ua/p1885661612-pidstavka-dlya-videokarti.html</url>
+<price>400</price>
+<currencyId>UAH</currencyId>
+<categoryId>128410987</categoryId>
+<picture>https://images.prom.ua/6601919033_pidstavka-dlya-videokarti.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Підставка для відеокарти CoolMoon CM-GH2 Vertical 5V ARGB White (CM-GH2-5V-ARGBW)</name>
+<vendor>GH</vendor>
+<vendorCode>CM-GH2-5V-ARGBW</vendorCode>
+<param name="Цвет">Белый</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип" unit="">Подставка</param>
+<param name="Разъемы" unit="">4-pin</param>
+<param name="Особенности" unit="">Магнітна основа</param>
+<param name="Розміри (мм)" unit="">175x62x35</param>
+<param name="Напруга (В)" unit="">5</param>
+<param name="Тип подсветки" unit="">ARGB</param>
+<param name="Материал изделия" unit="">Пластик</param>
+</offer>
+<offer id="2502311315" available="true">
+<url>https://tera-flops.com.ua/ua/p2502311315-pidstavka-dlya-videokarti.html</url>
+<price>399</price>
+<currencyId>UAH</currencyId>
+<categoryId>128410987</categoryId>
+<picture>https://images.prom.ua/6497202556_pidstavka-dlya-videokarti.jpg</picture>
+<picture>https://images.prom.ua/6497202558_pidstavka-dlya-videokarti.jpg</picture>
+<picture>https://images.prom.ua/6497202559_pidstavka-dlya-videokarti.jpg</picture>
+<picture>https://images.prom.ua/6497202560_pidstavka-dlya-videokarti.jpg</picture>
+<picture>https://images.prom.ua/6497202561_pidstavka-dlya-videokarti.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Підставка для відеокарти 2E Gaming Heracles ARGB Black (SPRT-VGA)</name>
+<vendor>2E Gaming</vendor>
+<vendorCode>SPRT-VGA</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Разъемы" unit="">3-pin ARGB</param>
+<param name="Особенности" unit="">Магнітна основа</param>
+<param name="Цвет" unit="">Чёрный</param>
+<param name="Вага (г)" unit="">127</param>
+<param name="Розміри (мм)" unit="">180x44x35</param>
+<param name="Напруга (В)" unit="">5</param>
+<param name="Тип подсветки" unit="">ARGB</param>
+<param name="Материал изделия" unit="">Алюминий</param>
+</offer>
+<offer id="2572988642" available="true">
+<url>https://tera-flops.com.ua/ua/p2572988642-pidstavka-dlya-videokarti.html</url>
+<price>400</price>
+<currencyId>UAH</currencyId>
+<categoryId>128410987</categoryId>
+<picture>https://images.prom.ua/6601919047_pidstavka-dlya-videokarti.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Підставка для відеокарти CoolMoon CM-GH2 Vertical 5V ARGB Black (CM-GH2-5V-ARGBB)</name>
+<vendor>CoolMoon</vendor>
+<vendorCode>CM-GH2-5V-ARGBB</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Состояние">Новое</param>
+<param name="Разъемы" unit="">3-pin ARGB</param>
+<param name="Особенности" unit="">Магнітна основа</param>
+<param name="Розміри (мм)" unit="">175x62x35</param>
+<param name="Напруга (В)" unit="">5</param>
+<param name="Тип подсветки" unit="">ARGB</param>
+<param name="Материал изделия" unit="">Пластик</param>
+</offer>
+<offer id="2572988643" available="true">
+<url>https://tera-flops.com.ua/ua/p2572988643-pidstavka-dlya-videokarti.html</url>
+<price>300</price>
+<currencyId>UAH</currencyId>
+<categoryId>128410987</categoryId>
+<picture>https://images.prom.ua/6601919028_pidstavka-dlya-videokarti.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Підставка для відеокарти CoolMoon ROG-28CM Horizontal 5V ARGB Black (ROG-28CM ARGB BLACK)</name>
+<vendor>CoolMoon</vendor>
+<vendorCode>ROG-28CM ARGB BLACK</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Разъемы" unit="">4-pin</param>
+<param name="Цвет" unit="">Чёрный</param>
+<param name="Розміри (мм)" unit="">280 x 55</param>
+<param name="Напруга (В)" unit="">5</param>
+<param name="Тип подсветки" unit="">ARGB</param>
+<param name="Материал изделия" unit="">Пластик</param>
+</offer>
+<offer id="2572988644" available="true">
+<url>https://tera-flops.com.ua/ua/p2572988644-pidstavka-dlya-videokarti.html</url>
+<price>280</price>
+<currencyId>UAH</currencyId>
+<categoryId>128410987</categoryId>
+<picture>https://images.prom.ua/6601919044_pidstavka-dlya-videokarti.jpg</picture>
+<picture>https://images.prom.ua/6601919046_pidstavka-dlya-videokarti.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Підставка для відеокарти CoolMoon GH-195 Black (GH-195 BLACK)</name>
+<vendor>CoolMoon</vendor>
+<vendorCode>GH-195 BLACK</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Подставка</param>
+<param name="Особенности" unit="">Магнітна основа</param>
+<param name="Розміри (мм)" unit="">195x50x24</param>
+<param name="Материал изделия" unit="">Алюминий</param>
+</offer>
+<offer id="2572988645" available="true">
+<url>https://tera-flops.com.ua/ua/p2572988645-pidstavka-dlya-videokarti.html</url>
+<price>280</price>
+<currencyId>UAH</currencyId>
+<categoryId>128410987</categoryId>
+<picture>https://images.prom.ua/6601919025_pidstavka-dlya-videokarti.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Підставка для відеокарти CoolMoon GH-195 Silver (GH-195 SILVER)</name>
+<vendor>CoolMoon</vendor>
+<vendorCode>GH-195 SILVER</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Подставка</param>
+<param name="Особенности" unit="">Магнітна основа</param>
+<param name="Розміри (мм)" unit="">195x50x24</param>
+<param name="Материал изделия" unit="">Алюминий</param>
+</offer>
+<offer id="2572988646" available="true">
+<url>https://tera-flops.com.ua/ua/p2572988646-pidstavka-dlya-videokarti.html</url>
+<price>250</price>
+<currencyId>UAH</currencyId>
+<categoryId>128410987</categoryId>
+<picture>https://images.prom.ua/6601919030_pidstavka-dlya-videokarti.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Підставка для відеокарти CoolMoon GH-50 Black (GH-50 BLACK)</name>
+<vendor>GH</vendor>
+<vendorCode>GH-50 BLACK</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет" unit="">Черный</param>
+<param name="Особенности" unit="">Магнітна основа</param>
+<param name="Розміри (мм)" unit="">28(50)x15</param>
+<param name="Материал изделия" unit="">Алюминий</param>
+</offer>
+<offer id="2572988647" available="true">
+<url>https://tera-flops.com.ua/ua/p2572988647-pidstavka-dlya-videokarti.html</url>
+<price>250</price>
+<currencyId>UAH</currencyId>
+<categoryId>128410987</categoryId>
+<picture>https://images.prom.ua/6601919042_pidstavka-dlya-videokarti.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Підставка для відеокарти CoolMoon GH-50 Silver (GH-50 SILVER)</name>
+<vendor>GH</vendor>
+<vendorCode>GH-50 SILVER</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип">Подставка</param>
+<param name="Особенности" unit="">Магнітна основа</param>
+<param name="Гарантія, міс" unit="">12</param>
+<param name="Розміри (мм)" unit="">28(50)x15</param>
+<param name="Материал изделия" unit="">Алюминий</param>
+</offer>
+<offer id="2572988648" available="true">
+<url>https://tera-flops.com.ua/ua/p2572988648-pidstavka-dlya-videokarti.html</url>
+<price>270</price>
+<currencyId>UAH</currencyId>
+<categoryId>128410987</categoryId>
+<picture>https://images.prom.ua/6601919026_pidstavka-dlya-videokarti.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Підставка для відеокарти CoolMoon GH-80 Silver (GH-80 SILVER)</name>
+<vendor>GH</vendor>
+<vendorCode>GH-80 SILVER</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип">Подставка</param>
+<param name="Особенности" unit="">Магнітна основа</param>
+<param name="Гарантія, міс" unit="">12</param>
+<param name="Розміри (мм)" unit="">50(80)x15</param>
+<param name="Материал изделия" unit="">Алюминий</param>
+</offer>
+<offer id="2572988649" available="true">
+<url>https://tera-flops.com.ua/ua/p2572988649-pidstavka-dlya-videokarti.html</url>
+<price>270</price>
+<currencyId>UAH</currencyId>
+<categoryId>128410987</categoryId>
+<picture>https://images.prom.ua/6601919027_pidstavka-dlya-videokarti.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Підставка для відеокарти CoolMoon GH-80 Black (GH-80 BLACK)</name>
+<vendor>GH</vendor>
+<vendorCode>GH-80 BLACK</vendorCode>
+<param name="Цвет">Черный</param>
+<param name="Состояние">Новое</param>
+<param name="Тип">Подставка</param>
+<param name="Гарантія, міс" unit="">12</param>
+<param name="Розміри (мм)" unit="">50(80)x15</param>
+<param name="Материал изделия" unit="">Алюминий</param>
+</offer>
 <offer id="2045811636" available="true">
 <url>https://tera-flops.com.ua/ua/p2045811636-termopasta-halnziye-810.html</url>
 <price>30</price>
