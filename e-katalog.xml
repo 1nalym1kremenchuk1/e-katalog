@@ -230,6 +230,347 @@
 <category id="142196486" parentId="142179128">Ігрові контролери</category>
 </categories>
 <offers>
+<offer id="2580604631" available="true">
+<url>https://tera-flops.com.ua/ua/p2580604631-korpus-gamdias-talos.html</url>
+<price>3405</price>
+<currencyId>UAH</currencyId>
+<categoryId>142179143</categoryId>
+<picture>https://images.prom.ua/6471965825_korpus-gamdias-talos.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Корпус Gamdias Talos E3 Mesh Elite White (4712960139268)</name>
+<vendor>Gamdias</vendor>
+<vendorCode>4712960139268</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
+<param name="Материал корпуса">Сталь</param>
+<param name="Назначение">Игровой</param>
+<param name="Состояние">Новое</param>
+<param name="Типоразмер">Midi-Tower</param>
+<param name="Цвет корпуса">Белый</param>
+<param name="USB 2.0" unit="">1</param>
+<param name="USB 3.2" unit="">1</param>
+<param name="Блок питания" unit="">Без БЖ</param>
+<param name="Вес (кг)" unit="">7.6</param>
+<param name="Вбудовані вентилятори/розташування" unit="">передня панель / 2 х 140 мм АRGB LED, задня панель / 1 х 120 мм АRGB LED</param>
+<param name="Выход на наушники" unit="">Є</param>
+<param name="Вхід для мікрофона" unit="">Є</param>
+<param name="Габариты (мм)" unit="">480 x 440 x 230</param>
+<param name="Картрідер" unit="">Немає</param>
+<param name="Кількість 2,5 відсіків" unit="">4</param>
+<param name="Максимальна висота процесорного кулера (мм)" unit="">180</param>
+<param name="Матеріал боковини" unit="">Загартоване скло</param>
+<param name="Можливість встановлення довгих відеокарт (мм)" unit="">390</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">передня панель / 3 х 120 мм або 2 х 140 мм, верхня панель / 3 х 120 мм або 2 х 140 мм, задня панель / 1 x 120/140 мм</param>
+<param name="Особенности" unit="">ARGB підсвічування</param>
+<param name="Передняя панель" unit="">Гратчаста</param>
+<param name="Расположение" unit="">Нижнє</param>
+<param name="Слоты расширения" unit="шт.">11</param>
+<param name="Форм-фактор" unit="">E-ATX</param>
+</offer>
+<offer id="2580606121" available="true">
+<url>https://tera-flops.com.ua/ua/p2580606121-korpus-gamdias-atlas.html</url>
+<price>4343</price>
+<currencyId>UAH</currencyId>
+<categoryId>142179143</categoryId>
+<picture>https://images.prom.ua/6528498222_korpus-gamdias-atlas.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Корпус Gamdias Atlas M1 White (4712960139572)</name>
+<vendor>Gamdias</vendor>
+<vendorCode>4712960139572</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Количество внутренних отсеков 3,5">1</param>
+<param name="Материал корпуса">Сталь</param>
+<param name="Назначение">Игровой</param>
+<param name="Слоты расширения" unit="шт">7</param>
+<param name="Состояние">Новое</param>
+<param name="Типоразмер">Midi-Tower</param>
+<param name="Форм-фактор">ATX</param>
+<param name="Цвет корпуса">Белый</param>
+<param name="USB 3.2" unit="">1</param>
+<param name="Блок питания" unit="">Без БЖ</param>
+<param name="Вес (кг)" unit="">7.6</param>
+<param name="Вбудовані вентилятори/розташування" unit="">3</param>
+<param name="Выход на наушники" unit="">Є</param>
+<param name="Вхід для мікрофона" unit="">Є</param>
+<param name="Габариты (мм)" unit="">465x210x420</param>
+<param name="Картрідер" unit="">Немає</param>
+<param name="Кількість 2,5 відсіків" unit="">3</param>
+<param name="Максимальна висота процесорного кулера (мм)" unit="">160</param>
+<param name="Матеріал боковини" unit="">Загартоване скло</param>
+<param name="Можливість встановлення довгих відеокарт (мм)" unit="">410</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">6</param>
+<param name="Особенности" unit="">ARGB підсвічування</param>
+<param name="Передняя панель" unit="">Загартоване скло</param>
+<param name="Расположение" unit="">Нижнє</param>
+</offer>
+<offer id="2580450150" available="true">
+<url>https://tera-flops.com.ua/ua/p2580450150-klaviatura-aula-f3287.html</url>
+<price>1169</price>
+<currencyId>UAH</currencyId>
+<categoryId>142179145</categoryId>
+<picture>https://images.prom.ua/6431855227_klaviatura-aula-f3287.jpg</picture>
+<picture>https://images.prom.ua/6431855234_klaviatura-aula-f3287.jpg</picture>
+<picture>https://images.prom.ua/6431855225_klaviatura-aula-f3287.jpg</picture>
+<picture>https://images.prom.ua/6431855217_klaviatura-aula-f3287.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Клавіатура Aula F3287 Blue Switch White/Grey (6948391240688)</name>
+<vendor>Aula</vendor>
+<vendorCode>6948391240688</vendorCode>
+<param name="Интерфейс подключения">USB</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Серый</param>
+<param name="Состояние">Новое</param>
+<param name="Anti-Ghosting" unit="">Да</param>
+<param name="Ігровий режим" unit="">Да</param>
+<param name="Вага (г)" unit="">670</param>
+<param name="Перемикачі" unit="">KRGD Blue Switch (Clicky)</param>
+<param name="Підключення" unit="">Дротове</param>
+<param name="Подсветка" unit="">Синя</param>
+<param name="Регулювання гучності" unit="">через Fn</param>
+<param name="Розміри" unit="">359x129x37</param>
+<param name="Тип клавиатуры" unit="">Игровая</param>
+<param name="Тип клавиш" unit="">Механічний</param>
+<param name="Формат" unit="">Компактна</param>
+</offer>
+<offer id="2580450187" available="true">
+<url>https://tera-flops.com.ua/ua/p2580450187-klaviatura-aula-s2022.html</url>
+<price>879</price>
+<currencyId>UAH</currencyId>
+<categoryId>142179145</categoryId>
+<picture>https://images.prom.ua/6447066459_klaviatura-aula-s2022.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Клавіатура Aula S2022 KRGD Blue Black (6948391202235)</name>
+<vendor>Aula</vendor>
+<vendorCode>6948391202235</vendorCode>
+<param name="Интерфейс подключения">USB</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Состояние">Новое</param>
+<param name="Anti-Ghosting" unit="">Да</param>
+<param name="Ігровий режим" unit="">Да</param>
+<param name="Вага (г)" unit="">664</param>
+<param name="Количество клавиш" unit="">104</param>
+<param name="Перемикачі" unit="">KRGD Blue Switch</param>
+<param name="Підключення" unit="">Дротове</param>
+<param name="Подсветка" unit="">Різнокольорова</param>
+<param name="Регулювання гучності" unit="">через Fn</param>
+<param name="Розміри" unit="">435x125x40</param>
+<param name="Тип клавиатуры" unit="">Игровая</param>
+<param name="Тип клавиш" unit="">Механічний</param>
+<param name="Формат" unit="">Стандартна</param>
+</offer>
+<offer id="2580450199" available="true">
+<url>https://tera-flops.com.ua/ua/p2580450199-misha-aula-s13.html</url>
+<price>272</price>
+<currencyId>UAH</currencyId>
+<categoryId>142179148</categoryId>
+<picture>https://images.prom.ua/6447067528_misha-aula-s13.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша Aula S13 Gaming Black (6948391213095)</name>
+<vendor>Aula</vendor>
+<vendorCode>6948391213095</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Состояние">Новое</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">110</param>
+<param name="Питание" unit="">USB</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">5</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">3600</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1200</param>
+<param name="Назначение" unit="">Ігрова</param>
+<param name="Підсвічування корпуса" unit="">Різнокольорова</param>
+<param name="Розміри (мм)" unit="">113x65x34</param>
+<param name="Тип подключения" unit="">Дротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+</offer>
+<offer id="2580450239" available="true">
+<url>https://tera-flops.com.ua/ua/p2580450239-klaviatura-aula-f2088.html</url>
+<price>1288</price>
+<currencyId>UAH</currencyId>
+<categoryId>142179145</categoryId>
+<picture>https://images.prom.ua/6412647990_klaviatura-aula-f2088.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Клавіатура Aula F2088 Pro White/Violet (6948391234915)</name>
+<vendor>Aula</vendor>
+<vendorCode>6948391234915</vendorCode>
+<param name="Интерфейс подключения">USB</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Белый</param>
+<param name="Состояние">Новое</param>
+<param name="Anti-Ghosting" unit="">Да</param>
+<param name="Ігровий режим" unit="">Да</param>
+<param name="Вага (г)" unit="">878</param>
+<param name="Количество клавиш" unit="">104</param>
+<param name="Перемикачі" unit="">KRGD Blue Switch (Clicky)</param>
+<param name="Підключення" unit="">Дротове</param>
+<param name="Подсветка" unit="">Синя</param>
+<param name="Регулювання гучності" unit="">колесом</param>
+<param name="Розміри" unit="">444x135x35</param>
+<param name="Тип клавиатуры" unit="">Игровая</param>
+<param name="Тип клавиш" unit="">Механічний</param>
+<param name="Формат" unit="">Стандартна</param>
+</offer>
+<offer id="2580450245" available="true">
+<url>https://tera-flops.com.ua/ua/p2580450245-klaviatura-aula-f3287.html</url>
+<price>1169</price>
+<currencyId>UAH</currencyId>
+<categoryId>142179145</categoryId>
+<picture>https://images.prom.ua/6431857452_klaviatura-aula-f3287.jpg</picture>
+<picture>https://images.prom.ua/6431857440_klaviatura-aula-f3287.jpg</picture>
+<picture>https://images.prom.ua/6431857453_klaviatura-aula-f3287.jpg</picture>
+<picture>https://images.prom.ua/6431857441_klaviatura-aula-f3287.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Клавіатура Aula F3287 Blue Switch Grey/White (6948391240954)</name>
+<vendor>Aula</vendor>
+<vendorCode>6948391240954</vendorCode>
+<param name="Интерфейс подключения">USB</param>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Белый</param>
+<param name="Состояние">Новое</param>
+<param name="Anti-Ghosting" unit="">Да</param>
+<param name="Ігровий режим" unit="">Да</param>
+<param name="Вага (г)" unit="">670</param>
+<param name="Перемикачі" unit="">KRGD Blue Switch (Clicky)</param>
+<param name="Підключення" unit="">Дротове</param>
+<param name="Подсветка" unit="">Синя</param>
+<param name="Регулювання гучності" unit="">через Fn</param>
+<param name="Розміри" unit="">359x129x37</param>
+<param name="Тип клавиатуры" unit="">Игровая</param>
+<param name="Тип клавиш" unit="">Механічний</param>
+<param name="Формат" unit="">Компактна</param>
+</offer>
+<offer id="2580450249" available="true">
+<url>https://tera-flops.com.ua/ua/p2580450249-misha-aula-f812.html</url>
+<price>385</price>
+<currencyId>UAH</currencyId>
+<categoryId>142179148</categoryId>
+<picture>https://images.prom.ua/6447061703_misha-aula-f812.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Миша Aula F812 Black (6948391213132)</name>
+<vendor>Aula</vendor>
+<vendorCode>6948391213132</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Цвет">Черный</param>
+<param name="Назначение">Для ноутбука</param>
+<param name="Состояние">Новое</param>
+<param name="Интерфейс подключения" unit="">USB-A</param>
+<param name="Бічні кнопки" unit="">Да</param>
+<param name="Вага (г)" unit="">143</param>
+<param name="Питание" unit="">USB</param>
+<param name="Кнопка зміни DPI" unit="">Да</param>
+<param name="Конструкция" unit="">Ергономічна</param>
+<param name="Количество кнопок" unit="">6</param>
+<param name="Максимальна роздільна здатність сенсора (DPI)" unit="">7200</param>
+<param name="Мінімальна роздільна здатність сенсора (DPI)" unit="">1200</param>
+<param name="Підсвічування корпуса" unit="">Різнокольорова</param>
+<param name="Розміри (мм)" unit="">125x68x35</param>
+<param name="Тип подключения" unit="">Дротове</param>
+<param name="Тип сенсора" unit="">Оптичний</param>
+</offer>
+<offer id="2580617994" available="true">
+<url>https://tera-flops.com.ua/ua/p2580617994-krislo-igrove-aula.html</url>
+<price>5877</price>
+<currencyId>UAH</currencyId>
+<categoryId>142186572</categoryId>
+<picture>https://images.prom.ua/6490910248_krislo-igrove-aula.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Крісло ігрове Aula F1029 Gaming Chair black (6948391286174)</name>
+<vendor>Aula</vendor>
+<vendorCode>6948391286174</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Вес (кг)" unit="">17</param>
+<param name="Висота сидіння від підлоги (см)" unit="">43 - 50.5</param>
+<param name="Висота спинки (см)" unit="">80</param>
+<param name="Цвет обивки" unit="">Черный</param>
+<param name="Колір основи" unit="">Чорний</param>
+<param name="Максимальне навантаження (кг)" unit="">120</param>
+<param name="Материал колес" unit="">Прогумовані</param>
+<param name="Матеріал оббивки" unit="">Шкірозамінник</param>
+<param name="Материал основы" unit="">Металл</param>
+<param name="Материал подлокотников" unit="">Пластик з м'якими накладками</param>
+<param name="Оснащение" unit="">Підтримка попереку</param>
+<param name="Основа" unit="">Хрестовина з роликами</param>
+<param name="Регулировка" unit="">Регулювання висоти сидіння</param>
+<param name="Регулювання кута нахилу спинки" unit="">180°</param>
+<param name="Розміри сидіння (ШхГ) (см)" unit="">53x52</param>
+<param name="Тип" unit="">Геймерське</param>
+<param name="Ширина спинки у плечах (см)" unit="">56</param>
+</offer>
+<offer id="2580617999" available="true">
+<url>https://tera-flops.com.ua/ua/p2580617999-krislo-igrove-aula.html</url>
+<price>6290</price>
+<currencyId>UAH</currencyId>
+<categoryId>142186572</categoryId>
+<picture>https://images.prom.ua/6490910249_krislo-igrove-aula.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Крісло ігрове Aula F1029 Gaming Chair black/red (6948391286181)</name>
+<vendor>Aula</vendor>
+<vendorCode>6948391286181</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Вес (кг)" unit="">17</param>
+<param name="Висота сидіння від підлоги (см)" unit="">43 - 50.5</param>
+<param name="Висота спинки (см)" unit="">80</param>
+<param name="Цвет обивки" unit="">Красный</param>
+<param name="Колір основи" unit="">Чорний</param>
+<param name="Максимальне навантаження (кг)" unit="">120</param>
+<param name="Материал колес" unit="">Прогумовані</param>
+<param name="Матеріал оббивки" unit="">Шкірозамінник</param>
+<param name="Материал основы" unit="">Металл</param>
+<param name="Материал подлокотников" unit="">Пластик з м'якими накладками</param>
+<param name="Оснащение" unit="">Знімні подушки</param>
+<param name="Основа" unit="">Хрестовина з роликами</param>
+<param name="Регулировка" unit="">Регулювання висоти сидіння</param>
+<param name="Регулювання кута нахилу спинки" unit="">180°</param>
+<param name="Розміри сидіння (ШхГ) (см)" unit="">53x52</param>
+<param name="Тип" unit="">Геймерське</param>
+<param name="Ширина спинки у плечах (см)" unit="">56</param>
+</offer>
+<offer id="2580618000" available="true">
+<url>https://tera-flops.com.ua/ua/p2580618000-krislo-igrove-aula.html</url>
+<price>8325</price>
+<currencyId>UAH</currencyId>
+<categoryId>142186572</categoryId>
+<picture>https://images.prom.ua/6490910250_krislo-igrove-aula.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Крісло ігрове Aula F1031 Gaming Chair black/orange (6948391286211)</name>
+<vendor>Aula</vendor>
+<vendorCode>6948391286211</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Вес (кг)" unit="">20.6</param>
+<param name="Висота сидіння від підлоги (см)" unit="">50 - 57.5</param>
+<param name="Висота спинки (см)" unit="">84</param>
+<param name="Цвет обивки" unit="">Оранжевый</param>
+<param name="Колір основи" unit="">Чорний</param>
+<param name="Максимальне навантаження (кг)" unit="">120</param>
+<param name="Материал колес" unit="">Прогумовані</param>
+<param name="Матеріал оббивки" unit="">Шкірозамінник</param>
+<param name="Материал основы" unit="">Металл</param>
+<param name="Материал подлокотников" unit="">Пластик з м'якими накладками</param>
+<param name="Оснащение" unit="">Знімні подушки</param>
+<param name="Основа" unit="">Хрестовина з роликами</param>
+<param name="Регулировка" unit="">Регулювання висоти сидіння</param>
+<param name="Регулювання кута нахилу спинки" unit="">180°</param>
+<param name="Тип" unit="">Геймерське</param>
+<param name="Ширина спинки у плечах (см)" unit="">56</param>
+</offer>
 <offer id="2580450173" available="true">
 <url>https://tera-flops.com.ua/ua/p2580450173-poverbank-remax-landon.html</url>
 <price>390</price>
