@@ -230,6 +230,922 @@
 <category id="142196486" parentId="142179128">Ігрові контролери</category>
 </categories>
 <offers>
+<offer id="2580603391" available="true">
+<url>https://tera-flops.com.ua/ua/p2580603391-vodyane-oholodzhennya-nzxt.html</url>
+<price>7499</price>
+<currencyId>UAH</currencyId>
+<categoryId>142186574</categoryId>
+<picture>https://images.prom.ua/6471968675_vodyane-oholodzhennya-nzxt.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Водяне охолодження NZXT Kraken 280 AIO Black (RL-KN280-B1)</name>
+<vendor>NZXT</vendor>
+<vendorCode>RL-KN280-B1</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Диаметр вентилятора" unit="мм">140</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">1500</param>
+<param name="Максимальный уровень шума" unit="дБ">33</param>
+<param name="Разъемы">LGA1700</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Висота кулера, мм" unit="">315</param>
+<param name="Габариты (мм)" unit="">315x143x30</param>
+<param name="Материал радиатора" unit="">алюміній + мідна основа</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">500</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Повітряний потік (CFM)" unit="">99.68</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Тип системы охлаждения" unit="">Водяне охолодження</param>
+</offer>
+<offer id="2580603419" available="true">
+<url>https://tera-flops.com.ua/ua/p2580603419-vodyane-oholodzhennya-nzxt.html</url>
+<price>6999</price>
+<currencyId>UAH</currencyId>
+<categoryId>142186574</categoryId>
+<picture>https://images.prom.ua/6471968681_vodyane-oholodzhennya-nzxt.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Водяне охолодження NZXT Kraken 240 AIO Black (RL-KN240-B1)</name>
+<vendor>NZXT</vendor>
+<vendorCode>RL-KN240-B1</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Диаметр вентилятора" unit="мм">120</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">2000</param>
+<param name="Максимальный уровень шума" unit="дБ">31</param>
+<param name="Материал радиатора">Алюминий</param>
+<param name="Разъемы">LGA1700</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Габариты (мм)" unit="">275x123x30</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">500</param>
+<param name="Повітряний потік (CFM)" unit="">78.02</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Тип системы охлаждения" unit="">Водяне охолодження</param>
+</offer>
+<offer id="2580603420" available="true">
+<url>https://tera-flops.com.ua/ua/p2580603420-vodyane-oholodzhennya-nzxt.html</url>
+<price>9890</price>
+<currencyId>UAH</currencyId>
+<categoryId>142186574</categoryId>
+<picture>https://images.prom.ua/6471968682_vodyane-oholodzhennya-nzxt.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Водяне охолодження NZXT Kraken 360 AIO Black (RL-KN360-B1)</name>
+<vendor>NZXT</vendor>
+<vendorCode>RL-KN360-B1</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Диаметр вентилятора" unit="мм">120</param>
+<param name="Количество кулеров">3</param>
+<param name="Максимальная скорость вращения" unit="об/мин">1800</param>
+<param name="Максимальный уровень шума" unit="дБ">31</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Висота кулера, мм" unit="">394</param>
+<param name="Габариты (мм)" unit="">394x121x27</param>
+<param name="Материал радиатора" unit="">алюміній + мідна основа</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">500</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Повітряний потік (CFM)" unit="">78.02</param>
+<param name="Разъемы" unit="">Socket AM5</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Тип системы охлаждения" unit="">Водяне охолодження</param>
+</offer>
+<offer id="2580603421" available="true">
+<url>https://tera-flops.com.ua/ua/p2580603421-vodyane-oholodzhennya-nzxt.html</url>
+<price>10200</price>
+<currencyId>UAH</currencyId>
+<categoryId>142186574</categoryId>
+<picture>https://images.prom.ua/6471968683_vodyane-oholodzhennya-nzxt.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Водяне охолодження NZXT Kraken Elite 280 AIO Black (RL-KN28E-B1)</name>
+<vendor>NZXT</vendor>
+<vendorCode>RL-KN28E-B1</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Диаметр вентилятора" unit="мм">140</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">1500</param>
+<param name="Максимальный уровень шума" unit="дБ">33</param>
+<param name="Разъемы">LGA1700</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Висота кулера, мм" unit="">315</param>
+<param name="Габариты (мм)" unit="">315x143x30</param>
+<param name="Колір підсвітки" unit="">RGB</param>
+<param name="Материал радиатора" unit="">алюміній + мідна основа</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">500</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Повітряний потік (CFM)" unit="">99.68</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Тип системы охлаждения" unit="">Водяне охолодження</param>
+</offer>
+<offer id="2580603422" available="true">
+<url>https://tera-flops.com.ua/ua/p2580603422-vodyane-oholodzhennya-nzxt.html</url>
+<price>14700</price>
+<currencyId>UAH</currencyId>
+<categoryId>142186574</categoryId>
+<picture>https://images.prom.ua/6471968684_vodyane-oholodzhennya-nzxt.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Водяне охолодження NZXT Kraken Elite RGB AIO Black (RL-KR36E-B1)</name>
+<vendor>NZXT</vendor>
+<vendorCode>RL-KR36E-B1</vendorCode>
+<param name="Гарантийный срок" unit="мес">72</param>
+<param name="Диаметр вентилятора" unit="мм">120</param>
+<param name="Количество кулеров">3</param>
+<param name="Максимальная скорость вращения" unit="об/мин">1800</param>
+<param name="Максимальный уровень шума" unit="дБ">34</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Висота кулера, мм" unit="">394</param>
+<param name="Колір підсвітки" unit="">RGB</param>
+<param name="Материал радиатора" unit="">алюміній + мідна основа</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">500</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Повітряний потік (CFM)" unit="">78.86</param>
+<param name="Разъемы" unit="">Socket AM5</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Тип системы охлаждения" unit="">Водяне охолодження</param>
+</offer>
+<offer id="2580603423" available="true">
+<url>https://tera-flops.com.ua/ua/p2580603423-vodyane-oholodzhennya-nzxt.html</url>
+<price>14900</price>
+<currencyId>UAH</currencyId>
+<categoryId>142186574</categoryId>
+<picture>https://images.prom.ua/6471968685_vodyane-oholodzhennya-nzxt.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Водяне охолодження NZXT Kraken Elite RGB AIO White (RL-KR36E-W1)</name>
+<vendor>NZXT</vendor>
+<vendorCode>RL-KR36E-W1</vendorCode>
+<param name="Гарантийный срок" unit="мес">72</param>
+<param name="Диаметр вентилятора" unit="мм">120</param>
+<param name="Количество кулеров">3</param>
+<param name="Максимальная скорость вращения" unit="об/мин">1800</param>
+<param name="Максимальный уровень шума" unit="дБ">34</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Назначение">Для процессора</param>
+<param name="Висота кулера, мм" unit="">120</param>
+<param name="Колір підсвітки" unit="">RGB</param>
+<param name="Материал радиатора" unit="">алюміній + мідна основа</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">500</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Повітряний потік (CFM)" unit="">78.86</param>
+<param name="Разъемы" unit="">Socket AM5</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Тип системы охлаждения" unit="">Водяне охолодження</param>
+</offer>
+<offer id="2580603424" available="true">
+<url>https://tera-flops.com.ua/ua/p2580603424-vodyane-oholodzhennya-nzxt.html</url>
+<price>11700</price>
+<currencyId>UAH</currencyId>
+<categoryId>142186574</categoryId>
+<picture>https://images.prom.ua/6389949733_vodyane-oholodzhennya-nzxt.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Водяне охолодження NZXT Kraken 360 RGB Black (RL-KR360-B1)</name>
+<vendor>NZXT</vendor>
+<vendorCode>RL-KR360-B1</vendorCode>
+<param name="Гарантийный срок" unit="мес">60</param>
+<param name="Диаметр вентилятора" unit="мм">120</param>
+<param name="Количество кулеров">3</param>
+<param name="Максимальная скорость вращения" unit="об/мин">1800</param>
+<param name="Максимальный уровень шума" unit="дБ">34</param>
+<param name="Материал радиатора">Алюминий</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Висота кулера, мм" unit="">394</param>
+<param name="Габариты (мм)" unit="">394x121x27</param>
+<param name="Колір підсвітки" unit="">RGB</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">500</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Повітряний потік (CFM)" unit="">78.86</param>
+<param name="Разъемы" unit="">Socket AM5</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Тип системы охлаждения" unit="">Водяне охолодження</param>
+</offer>
+<offer id="2580603425" available="true">
+<url>https://tera-flops.com.ua/ua/p2580603425-korpus-nzxt-crft.html</url>
+<price>4860</price>
+<currencyId>UAH</currencyId>
+<categoryId>142179143</categoryId>
+<picture>https://images.prom.ua/6471968686_korpus-nzxt-crft.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Корпус NZXT CRFT My Hero Academia - All Might Limited Edition H510i (CA-H510I-MH-AM)</name>
+<vendor>NZXT</vendor>
+<vendorCode>CA-H510I-MH-AM</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Количество внутренних отсеков 3,5">3</param>
+<param name="Материал корпуса">Сталь</param>
+<param name="Назначение">Игровой</param>
+<param name="Слоты расширения" unit="шт">9</param>
+<param name="Состояние">Новое</param>
+<param name="Типоразмер">Midi-Tower</param>
+<param name="Форм-фактор">ATX</param>
+<param name="Цвет корпуса">Синий</param>
+<param name="USB 3.2" unit="">1</param>
+<param name="USB Type-C" unit="">1</param>
+<param name="Блок питания" unit="">Нет</param>
+<param name="Вес (кг)" unit="">6,8</param>
+<param name="Вбудовані вентилятори/розташування" unit="">2</param>
+<param name="Выход на наушники" unit="">Є</param>
+<param name="Вхід для мікрофона" unit="">Є</param>
+<param name="Габариты (мм)" unit="">460x210x428</param>
+<param name="Картрідер" unit="">Немає</param>
+<param name="Кількість 2,5 відсіків" unit="">3</param>
+<param name="Максимальна висота процесорного кулера (мм)" unit="">165</param>
+<param name="Матеріал боковини" unit="">Загартоване скло</param>
+<param name="Можливість встановлення довгих відеокарт (мм)" unit="">381</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">4</param>
+<param name="Особенности" unit="">Пилові фільтри</param>
+<param name="Передняя панель" unit="">Суцільна</param>
+<param name="Расположение" unit="">Нижнє</param>
+</offer>
+<offer id="2580603472" available="true">
+<url>https://tera-flops.com.ua/ua/p2580603472-ventilyator-nzxt-f140.html</url>
+<price>877</price>
+<currencyId>UAH</currencyId>
+<categoryId>142179151</categoryId>
+<picture>https://images.prom.ua/6471968754_ventilyator-nzxt-f140.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Вентилятор NZXT F140 RGB Core Black 140mm (RF-C14SF-B1)</name>
+<vendor>NZXT</vendor>
+<vendorCode>RF-C14SF-B1</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Диаметр вентилятора" unit="мм">140</param>
+<param name="Количество кулеров">1</param>
+<param name="Максимальная скорость вращения" unit="об/мин">1800</param>
+<param name="Максимальный уровень шума" unit="дБ">33</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Габарити,мм" unit="">140 x 140 x 26</param>
+<param name="Колір підсвітки" unit="">RGB</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">500</param>
+<param name="Напруга живлення, В" unit="">12</param>
+<param name="Повітряний потік (CFM)" unit="">89.48</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Разъем" unit="">4pin</param>
+<param name="Тип системы охлаждения" unit="">Вентилятор</param>
+<param name="Час безвідмовної роботи, г" unit="">60000</param>
+</offer>
+<offer id="2580603500" available="true">
+<url>https://tera-flops.com.ua/ua/p2580603500-vodyane-oholodzhennya-nzxt.html</url>
+<price>12340</price>
+<currencyId>UAH</currencyId>
+<categoryId>142186574</categoryId>
+<picture>https://images.prom.ua/6473259346_vodyane-oholodzhennya-nzxt.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Водяне охолодження NZXT Kraken 360 RGB White (RL-KR360-W1)</name>
+<vendor>NZXT</vendor>
+<vendorCode>RL-KR360-W1</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Диаметр вентилятора" unit="мм">120</param>
+<param name="Количество кулеров">3</param>
+<param name="Максимальная скорость вращения" unit="об/мин">1800</param>
+<param name="Максимальный уровень шума" unit="дБ">34</param>
+<param name="Материал радиатора">Алюминий</param>
+<param name="Разъемы">LGA1700</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Висота кулера, мм" unit="">394</param>
+<param name="Колір підсвітки" unit="">RGB</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">500</param>
+<param name="Напряжение питания" unit="">12</param>
+<param name="Повітряний потік (CFM)" unit="">78.86</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Тип системы охлаждения" unit="">Водяне охолодження</param>
+</offer>
+<offer id="2580603586" available="true">
+<url>https://tera-flops.com.ua/ua/p2580603586-ventilyator-nzxt-f140.html</url>
+<price>1405</price>
+<currencyId>UAH</currencyId>
+<categoryId>142179151</categoryId>
+<picture>https://images.prom.ua/6471959891_ventilyator-nzxt-f140.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Вентилятор NZXT F140 RGB DUO White 140mm (RF-D14SF-W1)</name>
+<vendor>NZXT</vendor>
+<vendorCode>RF-D14SF-W1</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Диаметр вентилятора" unit="мм">140</param>
+<param name="Количество кулеров">1</param>
+<param name="Максимальная скорость вращения" unit="об/мин">1800</param>
+<param name="Максимальный уровень шума" unit="дБ">36</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Габарити,мм" unit="">140x140x25</param>
+<param name="Колір підсвітки" unit="">ARGB</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">500</param>
+<param name="Напруга живлення, В" unit="">12</param>
+<param name="Повітряний потік (CFM)" unit="">84.75</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Разъем" unit="">4pin</param>
+<param name="Тип системы охлаждения" unit="">Вентилятор</param>
+<param name="Час безвідмовної роботи, г" unit="">60000</param>
+</offer>
+<offer id="2580604525" available="true">
+<url>https://tera-flops.com.ua/ua/p2580604525-ventilyator-nzxt-f120.html</url>
+<price>980</price>
+<currencyId>UAH</currencyId>
+<categoryId>142179151</categoryId>
+<picture>https://images.prom.ua/6490675216_ventilyator-nzxt-f120.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Вентилятор NZXT F120 RGB Core White 120mm (RF-C12SF-W1)</name>
+<vendor>NZXT</vendor>
+<vendorCode>RF-C12SF-W1</vendorCode>
+<param name="Гарантийный срок" unit="мес">0</param>
+<param name="Диаметр вентилятора" unit="мм">120</param>
+<param name="Количество кулеров">1</param>
+<param name="Максимальная скорость вращения" unit="об/мин">1800</param>
+<param name="Максимальный уровень шума" unit="дБ">34</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Габарити,мм" unit="">120x120x26</param>
+<param name="Колір підсвітки" unit="">ARGB</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">500</param>
+<param name="Напруга живлення, В" unit="">12</param>
+<param name="Повітряний потік (CFM)" unit="">78.86</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Тип системы охлаждения" unit="">Вентилятор</param>
+<param name="Час безвідмовної роботи, г" unit="">60000</param>
+</offer>
+<offer id="2580604527" available="true">
+<url>https://tera-flops.com.ua/ua/p2580604527-ventilyator-nzxt-f120.html</url>
+<price>3990</price>
+<currencyId>UAH</currencyId>
+<categoryId>142179151</categoryId>
+<picture>https://images.prom.ua/6490675232_ventilyator-nzxt-f120.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Вентилятор NZXT F120 RGB Triple Pack White 120mm (RF-R12TF-W1)</name>
+<vendor>NZXT</vendor>
+<vendorCode>RF-R12TF-W1</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Диаметр вентилятора" unit="мм">120</param>
+<param name="Количество кулеров">3</param>
+<param name="Максимальная скорость вращения" unit="об/мин">1800</param>
+<param name="Максимальный уровень шума" unit="дБ">28</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Габарити,мм" unit="">120x120x25</param>
+<param name="Колір підсвітки" unit="">ARGB</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">500</param>
+<param name="Напруга живлення, В" unit="">12</param>
+<param name="Повітряний потік (CFM)" unit="">50.18</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Разъем" unit="">4pin</param>
+<param name="Тип системы охлаждения" unit="">Вентилятор</param>
+<param name="Час безвідмовної роботи, г" unit="">60000</param>
+</offer>
+<offer id="2580604528" available="true">
+<url>https://tera-flops.com.ua/ua/p2580604528-ventilyator-nzxt-f140.html</url>
+<price>3565</price>
+<currencyId>UAH</currencyId>
+<categoryId>142179151</categoryId>
+<picture>https://images.prom.ua/6490675233_ventilyator-nzxt-f140.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Вентилятор NZXT F140 RGB Twin Pack White 140mm (RF-R14DF-W1)</name>
+<vendor>NZXT</vendor>
+<vendorCode>RF-R14DF-W1</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Диаметр вентилятора" unit="мм">140</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">1800</param>
+<param name="Максимальный уровень шума" unit="дБ">33</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Габарити,мм" unit="">140x140x25</param>
+<param name="Колір підсвітки" unit="">RGB</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">500</param>
+<param name="Напруга живлення, В" unit="">12</param>
+<param name="Повітряний потік (CFM)" unit="">89.48</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Разъем" unit="">4pin</param>
+<param name="Тип системы охлаждения" unit="">Вентилятор</param>
+<param name="Час безвідмовної роботи, г" unit="">60000</param>
+</offer>
+<offer id="2580604673" available="true">
+<url>https://tera-flops.com.ua/ua/p2580604673-ventilyator-nzxt-f140.html</url>
+<price>3390</price>
+<currencyId>UAH</currencyId>
+<categoryId>142179151</categoryId>
+<picture>https://images.prom.ua/6502948843_ventilyator-nzxt-f140.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Вентилятор NZXT F140 RGB Twin Pack Black 140mm (RF-R14DF-B1)</name>
+<vendor>NZXT</vendor>
+<vendorCode>RF-R14DF-B1</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Диаметр вентилятора" unit="мм">140</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">1800</param>
+<param name="Максимальный уровень шума" unit="дБ">33</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Габарити,мм" unit="">140x140x25</param>
+<param name="Колір підсвітки" unit="">RGB</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">500</param>
+<param name="Напруга живлення, В" unit="">12</param>
+<param name="Повітряний потік (CFM)" unit="">89.48</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Разъем" unit="">4pin</param>
+<param name="Тип системы охлаждения" unit="">Вентилятор</param>
+<param name="Час безвідмовної роботи, г" unit="">60000</param>
+</offer>
+<offer id="2580604706" available="true">
+<url>https://tera-flops.com.ua/ua/p2580604706-vodyane-oholodzhennya-nzxt.html</url>
+<price>11870</price>
+<currencyId>UAH</currencyId>
+<categoryId>142186574</categoryId>
+<picture>https://images.prom.ua/6490672265_vodyane-oholodzhennya-nzxt.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Водяне охолодження NZXT Kraken Elite 280 RGB White (RL-KR28E-W1)</name>
+<vendor>NZXT</vendor>
+<vendorCode>RL-KR28E-W1</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Диаметр вентилятора" unit="мм">140</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">1500</param>
+<param name="Максимальный уровень шума" unit="дБ">35</param>
+<param name="Материал радиатора">Алюминий</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Габариты (мм)" unit="">315x143x30</param>
+<param name="Колір підсвітки" unit="">ARGB</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">500</param>
+<param name="Повітряний потік (CFM)" unit="">90.79</param>
+<param name="Разъемы" unit="">LGA 1700 / 1851</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Тип системы охлаждения" unit="">Водяне охолодження</param>
+</offer>
+<offer id="2580604707" available="true">
+<url>https://tera-flops.com.ua/ua/p2580604707-vodyane-oholodzhennya-nzxt.html</url>
+<price>9890</price>
+<currencyId>UAH</currencyId>
+<categoryId>142186574</categoryId>
+<picture>https://images.prom.ua/6490672266_vodyane-oholodzhennya-nzxt.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Водяне охолодження NZXT Kraken 280 RGB White (RL-KR280-W1)</name>
+<vendor>NZXT</vendor>
+<vendorCode>RL-KR280-W1</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Диаметр вентилятора" unit="мм">140</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">1500</param>
+<param name="Максимальный уровень шума" unit="дБ">34</param>
+<param name="Материал радиатора">Алюминий</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Габариты (мм)" unit="">315x143x30</param>
+<param name="Колір підсвітки" unit="">ARGB</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">500</param>
+<param name="Повітряний потік (CFM)" unit="">90.79</param>
+<param name="Разъемы" unit="">LGA 1700 / 1851</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Тип разъема" unit="">4pin</param>
+<param name="Тип системы охлаждения" unit="">Водяне охолодження</param>
+</offer>
+<offer id="2580604710" available="true">
+<url>https://tera-flops.com.ua/ua/p2580604710-ventilyator-nzxt-f120.html</url>
+<price>2850</price>
+<currencyId>UAH</currencyId>
+<categoryId>142179151</categoryId>
+<picture>https://images.prom.ua/6490672267_ventilyator-nzxt-f120.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Вентилятор NZXT F120 RGB Core Triple Pack White 120mm (RF-C12TF-W1)</name>
+<vendor>NZXT</vendor>
+<vendorCode>RF-C12TF-W1</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Диаметр вентилятора" unit="мм">120</param>
+<param name="Количество кулеров">3</param>
+<param name="Максимальная скорость вращения" unit="об/мин">1800</param>
+<param name="Максимальный уровень шума" unit="дБ">34</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Габарити,мм" unit="">120x120x26</param>
+<param name="Колір підсвітки" unit="">ARGB</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">500</param>
+<param name="Напруга живлення, В" unit="">12</param>
+<param name="Повітряний потік (CFM)" unit="">78.86</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Разъем" unit="">4pin</param>
+<param name="Тип системы охлаждения" unit="">Вентилятор</param>
+<param name="Час безвідмовної роботи, г" unit="">60000</param>
+</offer>
+<offer id="2580617878" available="true">
+<url>https://tera-flops.com.ua/ua/p2580617878-vodyane-oholodzhennya-nzxt.html</url>
+<price>15555</price>
+<currencyId>UAH</currencyId>
+<categoryId>142186574</categoryId>
+<picture>https://images.prom.ua/6473259351_vodyane-oholodzhennya-nzxt.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Водяне охолодження NZXT Kraken Elite 240 RGB (2024) Black (RL-KR24E-B2)</name>
+<vendor>NZXT</vendor>
+<vendorCode>RL-KR24E-B2</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Диаметр вентилятора" unit="мм">120</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">2400</param>
+<param name="Максимальный уровень шума" unit="дБ">30</param>
+<param name="Материал радиатора">Алюминий</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Габариты (мм)" unit="">281x120x27</param>
+<param name="Колір підсвітки" unit="">ARGB</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">500</param>
+<param name="Повітряний потік (CFM)" unit="">75.12</param>
+<param name="Разъемы" unit="">LGA 1700 / 1851</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Тип разъема" unit="">USB 2.0 (9-pin)</param>
+<param name="Тип системы охлаждения" unit="">Водяне охолодження</param>
+</offer>
+<offer id="2580617879" available="true">
+<url>https://tera-flops.com.ua/ua/p2580617879-vodyane-oholodzhennya-nzxt.html</url>
+<price>16475</price>
+<currencyId>UAH</currencyId>
+<categoryId>142186574</categoryId>
+<picture>https://images.prom.ua/6471959807_vodyane-oholodzhennya-nzxt.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Водяне охолодження NZXT Kraken Elite 280 RGB (2024) Black (RL-KR28E-B2)</name>
+<vendor>NZXT</vendor>
+<vendorCode>RL-KR28E-B2</vendorCode>
+<param name="Гарантийный срок" unit="мес">0</param>
+<param name="Диаметр вентилятора" unit="мм">140</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">2000</param>
+<param name="Максимальный уровень шума" unit="дБ">35</param>
+<param name="Материал радиатора">Алюминий</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Габариты (мм)" unit="">321x137x27</param>
+<param name="Колір підсвітки" unit="">ARGB</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">500</param>
+<param name="Повітряний потік (CFM)" unit="">98.61</param>
+<param name="Разъемы" unit="">LGA 1700 / 1851</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Состояние" unit="">Б/В</param>
+<param name="Тип разъема" unit="">USB 2.0 (9-pin)</param>
+<param name="Тип системы охлаждения" unit="">Водяне охолодження</param>
+</offer>
+<offer id="2580617880" available="true">
+<url>https://tera-flops.com.ua/ua/p2580617880-kilimok-nzxt-mmp400.html</url>
+<price>960</price>
+<currencyId>UAH</currencyId>
+<categoryId>142179146</categoryId>
+<picture>https://images.prom.ua/6447394781_kilimok-nzxt-mmp400.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Килимок NZXT MMP400 Standard Grey</name>
+<vendor>NZXT</vendor>
+<vendorCode>MMP400 Standard</vendorCode>
+<param name="Материал поверхности">Резина</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет">Серый</param>
+<param name="Гарантія, міс" unit="">12</param>
+<param name="Розмір, мм" unit="">410x350x3</param>
+</offer>
+<offer id="2580617881" available="true">
+<url>https://tera-flops.com.ua/ua/p2580617881-korpus-nzxt-flow.html</url>
+<price>4460</price>
+<currencyId>UAH</currencyId>
+<categoryId>142179143</categoryId>
+<picture>https://images.prom.ua/6471959817_korpus-nzxt-h5.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Корпус NZXT H5 Flow White (CC-H52FW-01)</name>
+<vendor>NZXT</vendor>
+<vendorCode>CC-H52FW-01</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Количество внутренних отсеков 3,5">1</param>
+<param name="Материал корпуса">Сталь</param>
+<param name="Назначение">Игровой</param>
+<param name="Слоты расширения" unit="шт">7</param>
+<param name="Состояние">Новое</param>
+<param name="Типоразмер">Midi-Tower</param>
+<param name="Цвет корпуса">Белый</param>
+<param name="Форм-фактор">ATX</param>
+<param name="USB 3.2" unit="">1</param>
+<param name="USB Type-C" unit="">1</param>
+<param name="Блок питания" unit="">Без БЖ</param>
+<param name="Вес (кг)" unit="">7.28</param>
+<param name="Вбудовані вентилятори/розташування" unit="">1</param>
+<param name="Выход на наушники" unit="">Є</param>
+<param name="Вхід для мікрофона" unit="">Є</param>
+<param name="Габариты (мм)" unit="">465x225x430</param>
+<param name="Картрідер" unit="">Немає</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
+<param name="Максимальна висота процесорного кулера (мм)" unit="">170</param>
+<param name="Матеріал боковини" unit="">Загартоване скло</param>
+<param name="Можливість встановлення довгих відеокарт (мм)" unit="">410</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">8</param>
+<param name="Особенности" unit="">Вертикальна установка відеокарти</param>
+<param name="Передняя панель" unit="">Гратчаста</param>
+<param name="Расположение" unit="">Нижнє</param>
+</offer>
+<offer id="2580617886" available="true">
+<url>https://tera-flops.com.ua/ua/p2580617886-korpus-nzxt-flow.html</url>
+<price>6275</price>
+<currencyId>UAH</currencyId>
+<categoryId>142179143</categoryId>
+<picture>https://images.prom.ua/6471959822_korpus-nzxt-h5.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Корпус NZXT H5 Flow RGB White (CC-H52FW-R1)</name>
+<vendor>NZXT</vendor>
+<vendorCode>CC-H52FW-R1</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Количество внутренних отсеков 3,5">1</param>
+<param name="Материал корпуса">Сталь</param>
+<param name="Назначение">Игровой</param>
+<param name="Слоты расширения" unit="шт">7</param>
+<param name="Состояние">Новое</param>
+<param name="Типоразмер">Midi-Tower</param>
+<param name="Цвет корпуса">Белый</param>
+<param name="Форм-фактор">ATX</param>
+<param name="USB 3.2" unit="">1</param>
+<param name="USB Type-C" unit="">1</param>
+<param name="Блок питания" unit="">Без БЖ</param>
+<param name="Вес (кг)" unit="">7.36</param>
+<param name="Вбудовані вентилятори/розташування" unit="">4</param>
+<param name="Выход на наушники" unit="">Є</param>
+<param name="Вхід для мікрофона" unit="">Є</param>
+<param name="Габариты (мм)" unit="">464x227x446</param>
+<param name="Картрідер" unit="">Немає</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
+<param name="Максимальна висота процесорного кулера (мм)" unit="">165</param>
+<param name="Матеріал боковини" unit="">Загартоване скло</param>
+<param name="Можливість встановлення довгих відеокарт (мм)" unit="">365</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">6</param>
+<param name="Особенности" unit="">ARGB підсвічування</param>
+<param name="Передняя панель" unit="">Гратчаста</param>
+<param name="Расположение" unit="">Нижнє</param>
+</offer>
+<offer id="2580617887" available="true">
+<url>https://tera-flops.com.ua/ua/p2580617887-korpus-nzxt-flow.html</url>
+<price>7860</price>
+<currencyId>UAH</currencyId>
+<categoryId>142179143</categoryId>
+<picture>https://images.prom.ua/6471959825_korpus-nzxt-h7.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Корпус NZXT H7 Flow White (CM-H72FW-01)</name>
+<vendor>NZXT</vendor>
+<vendorCode>CM-H72FW-01</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
+<param name="Материал корпуса">Сталь</param>
+<param name="Назначение">Игровой</param>
+<param name="Слоты расширения" unit="шт">7</param>
+<param name="Состояние">Новое</param>
+<param name="Типоразмер">Midi-Tower</param>
+<param name="Цвет корпуса">Белый</param>
+<param name="Блок питания" unit="">Без БЖ</param>
+<param name="Вес (кг)" unit="">11.13</param>
+<param name="Вбудовані вентилятори/розташування" unit="">3</param>
+<param name="Выход на наушники" unit="">Є</param>
+<param name="Вхід для мікрофона" unit="">Є</param>
+<param name="Габариты (мм)" unit="">544x244x468</param>
+<param name="Картрідер" unit="">Немає</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
+<param name="Максимальна висота процесорного кулера (мм)" unit="">185</param>
+<param name="Матеріал боковини" unit="">Загартоване скло</param>
+<param name="Можливість встановлення довгих відеокарт (мм)" unit="">410</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">7</param>
+<param name="Передняя панель" unit="">Гратчаста</param>
+<param name="Расположение" unit="">Нижнє</param>
+<param name="Форм-фактор" unit="">E-ATX</param>
+</offer>
+<offer id="2580617888" available="true">
+<url>https://tera-flops.com.ua/ua/p2580617888-korpus-nzxt-flow.html</url>
+<price>8800</price>
+<currencyId>UAH</currencyId>
+<categoryId>142179143</categoryId>
+<picture>https://images.prom.ua/6471959827_korpus-nzxt-h7.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Корпус NZXT H7 Flow RGB White (CM-H72FW-R1)</name>
+<vendor>NZXT</vendor>
+<vendorCode>CM-H72FW-R1</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Количество внутренних отсеков 3,5">2</param>
+<param name="Материал корпуса">Сталь</param>
+<param name="Назначение">Игровой</param>
+<param name="Слоты расширения" unit="шт">7</param>
+<param name="Состояние">Новое</param>
+<param name="Типоразмер">Midi-Tower</param>
+<param name="Цвет корпуса">Белый</param>
+<param name="USB 3.2" unit="">2</param>
+<param name="USB Type-C" unit="">1</param>
+<param name="Блок питания" unit="">Без БЖ</param>
+<param name="Вес (кг)" unit="">11.13</param>
+<param name="Вбудовані вентилятори/розташування" unit="">3</param>
+<param name="Выход на наушники" unit="">Є</param>
+<param name="Вхід для мікрофона" unit="">Є</param>
+<param name="Габариты (мм)" unit="">544x244x468</param>
+<param name="Картрідер" unit="">Немає</param>
+<param name="Кількість 2,5 відсіків" unit="">2</param>
+<param name="Максимальна висота процесорного кулера (мм)" unit="">185</param>
+<param name="Матеріал боковини" unit="">Загартоване скло</param>
+<param name="Можливість встановлення довгих відеокарт (мм)" unit="">410</param>
+<param name="Місця під додаткові вентилятори/розташування" unit="">10</param>
+<param name="Передняя панель" unit="">Гратчаста</param>
+<param name="Расположение" unit="">Нижнє</param>
+<param name="Форм-фактор" unit="">E-ATX</param>
+</offer>
+<offer id="2580617901" available="true">
+<url>https://tera-flops.com.ua/ua/p2580617901-ventilyator-nzxt-f120.html</url>
+<price>1375</price>
+<currencyId>UAH</currencyId>
+<categoryId>142179151</categoryId>
+<picture>https://images.prom.ua/6471962559_ventilyator-nzxt-f120.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Вентилятор NZXT F120 RGB DUO White 120 mm (RF-D12SF-W1)</name>
+<vendor>NZXT</vendor>
+<vendorCode>RF-D12SF-W1</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Диаметр вентилятора" unit="мм">120</param>
+<param name="Количество кулеров">1</param>
+<param name="Максимальная скорость вращения" unit="об/мин">1800</param>
+<param name="Максимальный уровень шума" unit="дБ">29</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Габарити,мм" unit="">120x120x25</param>
+<param name="Колір підсвітки" unit="">ARGB</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">500</param>
+<param name="Напруга живлення, В" unit="">12</param>
+<param name="Повітряний потік (CFM)" unit="">48.58</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Разъем" unit="">4pin</param>
+<param name="Тип системы охлаждения" unit="">Вентилятор</param>
+<param name="Час безвідмовної роботи, г" unit="">60000</param>
+</offer>
+<offer id="2580617903" available="true">
+<url>https://tera-flops.com.ua/ua/p2580617903-ventilyator-nzxt-f240.html</url>
+<price>2280</price>
+<currencyId>UAH</currencyId>
+<categoryId>142179151</categoryId>
+<picture>https://images.prom.ua/6471962561_ventilyator-nzxt-f240.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Вентилятор NZXT F240 RGB Core White 120mm (RF-U24HF-W1)</name>
+<vendor>NZXT</vendor>
+<vendorCode>RF-U24HF-W1</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Диаметр вентилятора" unit="мм">120</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">2400</param>
+<param name="Максимальный уровень шума" unit="дБ">30</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Габарити,мм" unit="">240x120x26</param>
+<param name="Колір підсвітки" unit="">ARGB</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">500</param>
+<param name="Напруга живлення, В" unit="">12</param>
+<param name="Повітряний потік (CFM)" unit="">75.12</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Разъем" unit="">4pin</param>
+<param name="Тип системы охлаждения" unit="">Вентилятор</param>
+<param name="Час безвідмовної роботи, г" unit="">60000</param>
+</offer>
+<offer id="2580617904" available="true">
+<url>https://tera-flops.com.ua/ua/p2580617904-ventilyator-nzxt-f280.html</url>
+<price>2540</price>
+<currencyId>UAH</currencyId>
+<categoryId>142179151</categoryId>
+<picture>https://images.prom.ua/6471962562_ventilyator-nzxt-f280.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Вентилятор NZXT F280 RGB Core White 140mm (RF-U28HF-W1)</name>
+<vendor>NZXT</vendor>
+<vendorCode>RF-U28HF-W1</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Диаметр вентилятора" unit="мм">140</param>
+<param name="Количество кулеров">2</param>
+<param name="Максимальная скорость вращения" unit="об/мин">2000</param>
+<param name="Максимальный уровень шума" unit="дБ">35</param>
+<param name="Состояние">Новое</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Габарити,мм" unit="">280x140x26</param>
+<param name="Колір підсвітки" unit="">ARGB</param>
+<param name="Мінімальна швидкість обертання, об / хв" unit="">500</param>
+<param name="Напруга живлення, В" unit="">12</param>
+<param name="Повітряний потік (CFM)" unit="">98.61</param>
+<param name="Регулювання обертів" unit="">PWM</param>
+<param name="Разъем" unit="">4pin</param>
+<param name="Тип системы охлаждения" unit="">Вентилятор</param>
+<param name="Час безвідмовної роботи, г" unit="">60000</param>
+</offer>
+<offer id="2580617996" available="true">
+<url>https://tera-flops.com.ua/ua/p2580617996-klaviatura-nzxt-compact.html</url>
+<price>5820</price>
+<currencyId>UAH</currencyId>
+<categoryId>142179145</categoryId>
+<picture>https://images.prom.ua/6447061696_klaviatura-nzxt-compact.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Клавіатура NZXT Compact Gateron Red Switch Black (KB-175US-BR)</name>
+<vendor>NZXT</vendor>
+<vendorCode>KB-175US-BR</vendorCode>
+<param name="Цвет">Черный</param>
+<param name="Состояние">Новое</param>
+<param name="Anti-Ghosting" unit="">Да</param>
+<param name="Ігровий режим" unit="">Да</param>
+<param name="Интерфейс подключения" unit="">USB</param>
+<param name="Вага (г)" unit="">718</param>
+<param name="Гарантія, міс" unit="">12</param>
+<param name="Колір літер кирилиці" unit="">Білий</param>
+<param name="Количество клавиш" unit="">87</param>
+<param name="Перемикачі" unit="">Gateron Red Switch</param>
+<param name="Підключення" unit="">Дротове</param>
+<param name="Подсветка" unit="">RGB</param>
+<param name="Регулювання гучності" unit="">через Fn</param>
+<param name="Розміри" unit="">339x41x124</param>
+<param name="Тип клавиатуры" unit="">Игровая</param>
+<param name="Тип клавиш" unit="">Механічний</param>
+<param name="Формат" unit="">Компактна</param>
+</offer>
+<offer id="2580617997" available="true">
+<url>https://tera-flops.com.ua/ua/p2580617997-klaviatura-nzxt-tkl.html</url>
+<price>6050</price>
+<currencyId>UAH</currencyId>
+<categoryId>142179145</categoryId>
+<picture>https://images.prom.ua/6447061699_klaviatura-nzxt-tkl.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Клавіатура NZXT TKL Gateron Red Switch Black (KB-1TKUS-BR)</name>
+<vendor>NZXT</vendor>
+<vendorCode>KB-1TKUS-BR</vendorCode>
+<param name="Цвет">Черный</param>
+<param name="Состояние">Новое</param>
+<param name="Anti-Ghosting" unit="">Да</param>
+<param name="Ігровий режим" unit="">Да</param>
+<param name="Интерфейс подключения" unit="">USB</param>
+<param name="Вага (г)" unit="">778</param>
+<param name="Встроенная память" unit="">Да</param>
+<param name="Гарантія, міс" unit="">12</param>
+<param name="Колір літер кирилиці" unit="">Білий</param>
+<param name="Количество клавиш" unit="">87</param>
+<param name="Перемикачі" unit="">Gateron Red (Linear)</param>
+<param name="Підключення" unit="">Дротове</param>
+<param name="Подсветка" unit="">RGB</param>
+<param name="Регулювання гучності" unit="">колесом</param>
+<param name="Розміри" unit="">362x128x40</param>
+<param name="Тип клавиатуры" unit="">Игровая</param>
+<param name="Тип клавиш" unit="">Механічний</param>
+<param name="Формат" unit="">Компактна</param>
+</offer>
+<offer id="2580617998" available="true">
+<url>https://tera-flops.com.ua/ua/p2580617998-klaviatura-nzxt-tkl.html</url>
+<price>6050</price>
+<currencyId>UAH</currencyId>
+<categoryId>142179145</categoryId>
+<picture>https://images.prom.ua/6447061701_klaviatura-nzxt-tkl.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Клавіатура NZXT TKL Gateron Red Switch White (KB-1TKUS-WR)</name>
+<vendor>NZXT</vendor>
+<vendorCode>KB-1TKUS-WR</vendorCode>
+<param name="Цвет">Белый</param>
+<param name="Состояние">Новое</param>
+<param name="Anti-Ghosting" unit="">Да</param>
+<param name="Ігровий режим" unit="">Да</param>
+<param name="Интерфейс подключения" unit="">USB</param>
+<param name="Вага (г)" unit="">778</param>
+<param name="Встроенная память" unit="">Да</param>
+<param name="Гарантія, міс" unit="">12</param>
+<param name="Колір літер кирилиці" unit="">Білий</param>
+<param name="Количество клавиш" unit="">87</param>
+<param name="Перемикачі" unit="">Gateron Red (Linear)</param>
+<param name="Підключення" unit="">Дротове</param>
+<param name="Подсветка" unit="">RGB</param>
+<param name="Регулювання гучності" unit="">колесом</param>
+<param name="Розміри" unit="">362x128x40</param>
+<param name="Тип клавиатуры" unit="">Игровая</param>
+<param name="Тип клавиш" unit="">Механічний</param>
+<param name="Формат" unit="">Компактна</param>
+</offer>
 <offer id="2580604631" available="true">
 <url>https://tera-flops.com.ua/ua/p2580604631-korpus-gamdias-talos.html</url>
 <price>3405</price>
