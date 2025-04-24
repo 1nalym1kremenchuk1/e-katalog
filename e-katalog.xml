@@ -3756,7 +3756,7 @@
 <delivery>true</delivery>
 <name>Клавіатура Hator Icefall Mecha Rainbow Origin Red Black (HTK104)</name>
 <vendor>HATOR</vendor>
-<vendorCode>HTK104</vendorCode>
+<vendorCode>HTK104UA</vendorCode>
 <param name="Интерфейс подключения">USB</param>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Цвет">Черный</param>
