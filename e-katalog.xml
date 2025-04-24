@@ -818,7 +818,7 @@
 <delivery>true</delivery>
 <name>Килимок NZXT MMP400 Standard Grey</name>
 <vendor>NZXT</vendor>
-<vendorCode>MMP400 Standard</vendorCode>
+<vendorCode>MM-SMSSP-GR</vendorCode>
 <param name="Материал поверхности">Резина</param>
 <param name="Состояние">Новое</param>
 <param name="Цвет">Серый</param>
@@ -2857,67 +2857,6 @@
 <param name="Тип" unit="">Акумулятор для ДБЖ</param>
 <param name="Тип акумулятору" unit="">LiFePO4</param>
 <param name="Тип клем" unit="">F2</param>
-</offer>
-<offer id="2580450218" available="true">
-<url>https://tera-flops.com.ua/ua/p2580450218-sumka-chohol-dlya.html</url>
-<price>500</price>
-<currencyId>UAH</currencyId>
-<categoryId>142179140</categoryId>
-<picture>https://images.prom.ua/6423902047_sumka-chohol-dlya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6423902049_sumka-chohol-dlya-ecoflow.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Сумка-чохол для EcoFlow River 2 Pro (EFB-MR620-C-CN)</name>
-<vendor>EcoFlow</vendor>
-<vendorCode>EFB-MR620-C-CN</vendorCode>
-<param name="Гарантийный срок" unit="мес">1</param>
-<param name="Состояние">Новое</param>
-<param name="Габариты (мм)" unit="">420x120x320</param>
-<param name="Дополнительно" unit="">Водонепроникний матеріал</param>
-<param name="Цвет" unit="">Чёрный</param>
-<param name="Материал" unit="">Полиэстер</param>
-<param name="Объем (л)" unit="">30</param>
-<param name="Тип" unit="">Сумка</param>
-</offer>
-<offer id="2580450219" available="true">
-<url>https://tera-flops.com.ua/ua/p2580450219-sumka-chohol-dlya.html</url>
-<price>500</price>
-<currencyId>UAH</currencyId>
-<categoryId>142179140</categoryId>
-<picture>https://images.prom.ua/6423902051_sumka-chohol-dlya-ecoflow.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Сумка-чохол для EcoFlow DELTA 2 MAX (EFB-DELTA2Max-CN)</name>
-<vendor>EcoFlow</vendor>
-<vendorCode>EFB-DELTA2Max-CN</vendorCode>
-<param name="Гарантийный срок" unit="мес">1</param>
-<param name="Состояние">Новое</param>
-<param name="Дополнительно" unit="">Водонепроникний матеріал</param>
-<param name="Цвет" unit="">Чёрный</param>
-<param name="Материал" unit="">Полиэстер</param>
-<param name="Тип" unit="">Сумка</param>
-</offer>
-<offer id="2580450220" available="true">
-<url>https://tera-flops.com.ua/ua/p2580450220-sumka-chohol-dlya.html</url>
-<price>500</price>
-<currencyId>UAH</currencyId>
-<categoryId>142179140</categoryId>
-<picture>https://images.prom.ua/6423902056_sumka-chohol-dlya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6528804900_sumka-chohol-dlya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6423902071_sumka-chohol-dlya-ecoflow.jpg</picture>
-<picture>https://images.prom.ua/6528804902_sumka-chohol-dlya-ecoflow.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Сумка-чохол для EcoFlow DELTA 2 (BMR330)</name>
-<vendor>EcoFlow</vendor>
-<vendorCode>BMR330</vendorCode>
-<param name="Гарантийный срок" unit="мес">1</param>
-<param name="Состояние">Новое</param>
-<param name="Габариты (мм)" unit="">410x300x220</param>
-<param name="Дополнительно" unit="">Водонепроникний матеріал</param>
-<param name="Цвет" unit="">Чёрный</param>
-<param name="Материал" unit="">Полиэстер</param>
-<param name="Тип" unit="">Сумка</param>
 </offer>
 <offer id="2580450234" available="true">
 <url>https://tera-flops.com.ua/ua/p2580450234-protsesor-amd-ryzen.html</url>
