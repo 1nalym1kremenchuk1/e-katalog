@@ -924,7 +924,7 @@
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Повітряне охолодження Jiushark JF13K White ARGB</name>
-<vendor>Deepcool</vendor>
+<vendor>Jiushark</vendor>
 <vendorCode>JF13K White ARGB</vendorCode>
 <param name="Количество кулеров">2</param>
 <param name="Диаметр вентилятора" unit="мм">120</param>
@@ -1036,7 +1036,7 @@
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Повітряне охолодження Jiushark JF200 Mini FRGB White</name>
-<vendor>Deepcool</vendor>
+<vendor>Jiushark</vendor>
 <vendorCode>JF200 Mini FRGB White</vendorCode>
 <param name="Количество кулеров">2</param>
 <param name="Диаметр вентилятора" unit="мм">100</param>
@@ -1590,7 +1590,7 @@
 <delivery>true</delivery>
 <name>Корпус 1stPlayer F4-3F2 (AP) Black</name>
 <vendor>1stPlayer</vendor>
-<vendorCode>F4-3F2</vendorCode>
+<vendorCode>F4-3F2 (AP)</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5">1</param>
 <param name="Материал корпуса">Сталь</param>
@@ -2522,7 +2522,7 @@
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Корпус 2E Calleo GB700 ARGB White (2E-GB700W)</name>
-<vendor>Deepcool</vendor>
+<vendor>2E</vendor>
 <vendorCode>2E-GB700W</vendorCode>
 <param name="Гарантийный срок" unit="мес">12</param>
 <param name="Количество внутренних отсеков 3,5">2</param>
